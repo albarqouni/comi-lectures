@@ -1,0 +1,89 @@
+
+.gl[data-v-f4965f14] { display: grid; grid-template-columns: 15.5rem auto 1fr; gap: 0.8rem; align-items: start;
+}
+.steps[data-v-f4965f14] { display: flex; flex-direction: column; gap: 0.2rem;
+}
+.ln[data-v-f4965f14] { display: flex; gap: 0.45rem; align-items: center; padding: 0.18rem 0.5rem; border-radius: 9px; border: 1px solid var(--line); background: var(--card); cursor: pointer; font-size: 0.74rem; color: var(--navy); transition: opacity 0.2s;
+}
+.ln i[data-v-f4965f14] { font: 700 0.66rem 'IBM Plex Mono', monospace; font-style: normal; width: 1.15rem; height: 1.15rem; border-radius: 50%; display: grid; place-items: center; background: #e3ecf8; color: #004e9f; flex: none;
+}
+.ln > div[data-v-f4965f14] { display: flex; flex-direction: column; min-width: 0;
+}
+.ln b[data-v-f4965f14] { font-size: 0.62rem; color: var(--muted); font-weight: 600;
+}
+.ln.on[data-v-f4965f14] { background: var(--gelb); border-color: #f0b400;
+}
+.ln.on i[data-v-f4965f14] { background: var(--navy); color: #fff;
+}
+.ln.fut[data-v-f4965f14] { opacity: 0.2;
+}
+.bt[data-v-f4965f14] { display: flex; gap: 0.3rem;
+}
+.bt button[data-v-f4965f14] { font: 600 0.72rem 'Source Sans 3', sans-serif; padding: 0.2rem 0.7rem; border-radius: 99px; border: none; background: var(--navy); color: #fff; cursor: pointer;
+}
+.bt button.g[data-v-f4965f14] { background: #c9d2dd; color: var(--navy);
+}
+.bt button[data-v-f4965f14]:disabled { opacity: 0.4; cursor: default;
+}
+.grid[data-v-f4965f14] { display: grid; gap: 1px; background: #fff;
+}
+.c[data-v-f4965f14] { height: 1.02rem; display: grid; place-items: center; font: 0.5rem 'IBM Plex Mono', monospace; color: #002e5d; background: #e9eef4; border-radius: 2px;
+}
+.c.out[data-v-f4965f14] { background: #f6f7f9;
+}
+.c.lv[data-v-f4965f14] { font-size: 0.62rem; font-weight: 700;
+}
+.c.lv.l1[data-v-f4965f14] { background: #fde2e4;
+}
+.c.lv.l2[data-v-f4965f14] { background: #fbd0a9;
+}
+.c.lv.l3[data-v-f4965f14] { background: #fff1a8;
+}
+.c.lv.l4[data-v-f4965f14] { background: #c9ecd6;
+}
+.c.lv.l5[data-v-f4965f14] { background: #bcd8f5;
+}
+.c.lv.l6[data-v-f4965f14] { background: #d7c8f5;
+}
+.c.lv.l7[data-v-f4965f14] { background: #f5c8e4;
+}
+.c.lv.l8[data-v-f4965f14] { background: #d9dde3;
+}
+.c.lit[data-v-f4965f14] { outline: 2px solid var(--rubin); outline-offset: -1px; color: var(--rubin-d);
+}
+.gcap[data-v-f4965f14] { grid-column: 1 / -1; font: 0.55rem 'IBM Plex Mono', monospace; color: var(--muted); margin-top: 0.15rem;
+}
+.lv[data-v-f4965f14] { background: #f4f7fb; border: 1px solid var(--line); border-radius: 12px; padding: 0.5rem 0.7rem; display: flex; flex-direction: column; gap: 0.4rem; color: var(--navy);
+}
+.lv p[data-v-f4965f14] { margin: 0; font-size: 0.78rem; line-height: 1.35;
+}
+.lv small[data-v-f4965f14] { font-size: 0.62rem; color: var(--muted);
+}
+.opt[data-v-f4965f14] { display: flex; flex-wrap: wrap; gap: 0.2rem; align-items: center;
+}
+.opt > span[data-v-f4965f14] { font-size: 0.62rem; color: var(--muted); margin-right: 0.2rem;
+}
+.opt button[data-v-f4965f14] { font: 600 0.66rem 'Source Sans 3', sans-serif; padding: 0.1rem 0.45rem; border-radius: 99px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.opt button.on[data-v-f4965f14] { background: var(--navy); color: #fff;
+}
+.mx[data-v-f4965f14] { display: grid; gap: 2px; max-width: 15rem;
+}
+.mx .hd[data-v-f4965f14] { font: 600 0.58rem 'IBM Plex Mono', monospace; color: var(--muted); display: grid; place-items: center;
+}
+.mx .m[data-v-f4965f14] { height: 1.5rem; border: 1px solid var(--line); border-radius: 4px; font: 600 0.64rem 'IBM Plex Mono', monospace; cursor: pointer; padding: 0;
+}
+.mx .m.dg[data-v-f4965f14] { border-color: #f0b400;
+}
+.mx .m.on[data-v-f4965f14] { outline: 2px solid var(--rubin);
+}
+.tb[data-v-f4965f14] { display: flex; flex-direction: column; gap: 0.1rem; background: #fff; border-radius: 8px; padding: 0.3rem 0.45rem;
+}
+.tb .r[data-v-f4965f14] { display: grid; grid-template-columns: 3.4rem repeat(5, 1fr); gap: 0.2rem; font: 0.66rem 'IBM Plex Mono', monospace; text-align: right;
+}
+.tb .r > span[data-v-f4965f14]:first-child { text-align: left;
+}
+.tb .r.h[data-v-f4965f14] { font: 600 0.56rem 'Source Sans 3', sans-serif; color: var(--muted); border-bottom: 1px solid var(--line);
+}
+.tb .r.mn[data-v-f4965f14] { font-weight: 700; border-top: 1px solid var(--navy); background: var(--gelb); border-radius: 4px;
+}

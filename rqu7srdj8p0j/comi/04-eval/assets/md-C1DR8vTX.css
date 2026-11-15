@@ -1,0 +1,17 @@
+
+.l4yd[data-v-941a1db8] { display: grid; grid-template-columns: 1fr 1.05fr 1fr; gap: 0.7rem; align-items: stretch;
+}
+.l4yd .tk-c[data-v-941a1db8] { font-size: 0.84rem; gap: 0.3rem;
+}
+.l4yd svg[data-v-941a1db8] { width: 100%; max-height: 9.6rem;
+}
+.l4yd .tk-bars > div[data-v-941a1db8] { grid-template-columns: 8.6rem 1fr 2.4rem; font-size: 0.78rem;
+}
+.l4pp[data-v-941a1db8] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.3rem;
+}
+.l4pp div[data-v-941a1db8] { background: #fff; border-radius: 8px; padding: 0.25rem 0.5rem; display: flex; flex-direction: column;
+}
+.l4pp span[data-v-941a1db8] { font-size: 0.66rem; color: var(--muted);
+}
+.l4pp b[data-v-941a1db8] { font: 700 1.2rem 'Source Sans 3', sans-serif; color: var(--rubin);
+}

@@ -1,0 +1,13 @@
+
+.l11er[data-v-a9388f50] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.7rem;
+}
+.l11er .tk-c[data-v-a9388f50] { font-size: 0.82rem;
+}
+.l11er q[data-v-a9388f50] { font: italic 0.88rem/1.35 'Source Serif 4', serif; background: #fffdf6; border-left: 3px solid var(--rubin); padding: 0.25rem 0.45rem; border-radius: 4px; display: block;
+}
+.l11vv[data-v-a9388f50] { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.45rem 0.9rem;
+}
+.l11vv .k[data-v-a9388f50] { font: 600 0.6rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--navy); margin-bottom: 0.2rem;
+}
+.l11vv .tk-bars > div[data-v-a9388f50] { grid-template-columns: 11rem 1fr 11rem; font-size: 0.8rem;
+}

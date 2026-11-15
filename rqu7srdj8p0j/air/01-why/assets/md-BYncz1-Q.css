@@ -1,0 +1,8 @@
+.lad[data-v-701750f3] { display: flex; flex-direction: column; gap: 0.25rem;
+}
+.lad div[data-v-701750f3] { display: flex; gap: 0.5rem; align-items: center; background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 0.3rem 0.6rem; font-size: 0.86rem;
+}
+.lad .h[data-v-701750f3] { background: var(--rubin-t);
+}
+.lad i[data-v-701750f3] { font-style: normal; width: 1.4rem; height: 1.4rem; border-radius: 50%; background: var(--rubin); color: #fff; display: grid; place-items: center; font: 700 0.72rem 'Source Sans 3', sans-serif;
+}

@@ -1,0 +1,48 @@
+
+.rc[data-v-0e84c420] { display: grid; grid-template-columns: 15rem 1fr; gap: 0.9rem; align-items: start;
+}
+.ct[data-v-0e84c420] { display: flex; flex-direction: column; gap: 0.4rem; background: var(--card); border: 1px solid var(--line); border-top: 4px solid var(--rubin); border-radius: 12px; padding: 0.5rem 0.7rem; font-size: 0.72rem; color: var(--navy);
+}
+.ct label[data-v-0e84c420] { display: flex; flex-direction: column;
+}
+.ct input[data-v-0e84c420] { accent-color: var(--rubin);
+}
+.vv[data-v-0e84c420] { display: grid; grid-template-columns: 1fr; gap: 0.25rem;
+}
+.vv div[data-v-0e84c420] { background: #f6f3ea; border-radius: 8px; padding: 0.2rem 0.5rem; display: flex; flex-direction: column;
+}
+.vv span[data-v-0e84c420] { font-size: 0.6rem; color: var(--muted);
+}
+.vv b[data-v-0e84c420] { font: 700 1rem 'Source Sans 3', sans-serif;
+}
+.rt[data-v-0e84c420] { display: flex; flex-direction: column; gap: 0.4rem;
+}
+.sv[data-v-0e84c420] { width: 100%; height: auto; max-height: 10.5rem; background: var(--card); border: 1px solid var(--line); border-radius: 10px;
+}
+.cl[data-v-0e84c420] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.4rem;
+}
+.cl > div[data-v-0e84c420] { border-radius: 10px; padding: 0.3rem 0.65rem; display: flex; flex-direction: column; background: #e8edf5; color: var(--navy);
+}
+.cl span[data-v-0e84c420] { font-size: 0.6rem;
+}
+.cl b[data-v-0e84c420] { font: 700 1.4rem 'Source Sans 3', sans-serif;
+}
+.cl small[data-v-0e84c420] { font-size: 0.62rem; color: var(--muted);
+}
+.mn.PR[data-v-0e84c420], .mn.CR[data-v-0e84c420] { background: var(--teal-t);
+}
+.mn.PD[data-v-0e84c420] { background: var(--rubin-t);
+}
+em[data-v-0e84c420] { font-style: normal;
+}
+em.PR[data-v-0e84c420], em.CR[data-v-0e84c420] { color: var(--teal-d);
+}
+em.PD[data-v-0e84c420] { color: var(--rubin-d);
+}
+
+.rz .tk-c[data-v-13833568] { padding: 0.35rem 0.65rem; font-size: 0.76rem; flex-direction: row; align-items: center; gap: 0.5rem;
+}
+.rz .tk-c > .ic[data-v-13833568] { font-size: 1.4rem; flex: none;
+}
+.rz b[data-v-13833568] { color: var(--navy);
+}

@@ -1,0 +1,29 @@
+
+.lnr[data-v-139ae7fc] { display: grid; grid-template-columns: 11rem 1fr; gap: 0.9rem;
+}
+.lnr .hx[data-v-139ae7fc] { display: flex; flex-direction: column; gap: 0.35rem; border-left: 3px solid var(--teal); padding-left: 0.6rem;
+}
+.lnr .hx div[data-v-139ae7fc] { display: flex; flex-direction: column;
+}
+.lnr .hx b[data-v-139ae7fc] { font: 700 0.95rem 'IBM Plex Mono', monospace; color: var(--navy);
+}
+.lnr .hx span[data-v-139ae7fc] { font-size: 0.72rem; color: var(--muted); line-height: 1.25;
+}
+.lnr .hx em[data-v-139ae7fc] { color: var(--rubin); font-style: normal; font-weight: 600;
+}
+.lnr .st[data-v-139ae7fc] { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.4rem;
+}
+.lnr .st > div[data-v-139ae7fc] { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 0.35rem 0.5rem; display: flex; flex-direction: column; gap: 0.1rem; position: relative; font-size: 0.82rem; color: var(--navy);
+}
+.lnr .st i[data-v-139ae7fc] { font-size: 1.1rem; color: #004e9f;
+}
+.lnr .st b[data-v-139ae7fc] { position: absolute; right: 0.5rem; top: 0.3rem; font: 700 0.7rem 'IBM Plex Mono', monospace; color: var(--rubin);
+}
+.lnr .st > div > span[data-v-139ae7fc]:not(.tex) { font-size: 0.7rem; color: var(--muted);
+}
+.lnr .st .me[data-v-139ae7fc] { grid-column: span 3; background: var(--teal-t); border-color: transparent; flex-direction: row; align-items: center; gap: 0.5rem;
+}
+.lnr .st .me > span[data-v-139ae7fc] { color: var(--navy); font-size: 0.74rem;
+}
+.lnr .st .me i[data-v-139ae7fc] { color: var(--teal-d); font-size: 1.4rem;
+}

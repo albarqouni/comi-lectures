@@ -1,0 +1,45 @@
+
+.l5mw[data-v-4921d477] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.8rem;
+}
+.l5mw-c[data-v-4921d477] { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.55rem 0.75rem; display: flex; flex-direction: column; gap: 0.4rem;
+}
+.l5mw-k[data-v-4921d477] { font: 600 0.6rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.l5mw-tg[data-v-4921d477] { display: flex; gap: 0.25rem; flex-wrap: wrap;
+}
+.l5mw-tg button[data-v-4921d477] { font: 600 0.72rem 'Source Sans 3', sans-serif; padding: 0.1rem 0.5rem; border-radius: 99px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.l5mw-tg button.on[data-v-4921d477] { background: var(--rubin); border-color: var(--rubin); color: #fff;
+}
+.l5mw-sl[data-v-4921d477] { display: grid; grid-template-columns: 8.5rem 1fr 2.6rem; gap: 0.4rem; align-items: center; font-size: 0.74rem;
+}
+.l5mw-sl em[data-v-4921d477] { color: var(--muted); font-style: normal; font-size: 0.64rem;
+}
+.l5mw-sl input[data-v-4921d477] { width: 100%; accent-color: var(--rubin);
+}
+.l5mw-sl b[data-v-4921d477] { font: 700 0.85rem 'Source Sans 3', sans-serif; color: var(--navy); text-align: right;
+}
+.l5mw-big[data-v-4921d477] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.4rem;
+}
+.l5mw-big div[data-v-4921d477] { background: var(--rubin-t); border-radius: 8px; padding: 0.3rem 0.5rem; display: flex; flex-direction: column;
+}
+.l5mw-big b[data-v-4921d477] { font: 700 1.6rem/1.05 'Source Sans 3', sans-serif; color: var(--rubin-d);
+}
+.l5mw-big span[data-v-4921d477] { font-size: 0.68rem; color: var(--navy);
+}
+.l5mw-bars[data-v-4921d477] { display: flex; flex-direction: column; gap: 0.3rem;
+}
+.l5mw-bars div[data-v-4921d477] { display: grid; grid-template-columns: 8.5rem 1fr 2.2rem; gap: 0.4rem; align-items: center; font-size: 0.76rem;
+}
+.l5mw-bars i[data-v-4921d477] { display: block; height: 0.95rem; border-radius: 99px; transition: width 0.3s;
+}
+.l5mw-bars i.t[data-v-4921d477] { background: var(--teal);
+}
+.l5mw-bars i.r[data-v-4921d477] { background: var(--rubin);
+}
+.l5mw-bars i.y[data-v-4921d477] { background: #f0b400;
+}
+.l5mw-bars b[data-v-4921d477] { font: 700 0.95rem 'Source Sans 3', sans-serif; color: var(--navy); text-align: right;
+}
+.l5mw-p[data-v-4921d477] { font-size: 0.74rem; line-height: 1.35; margin: 0; color: var(--navy);
+}

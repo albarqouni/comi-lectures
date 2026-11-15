@@ -1,0 +1,13 @@
+
+.sum[data-v-fcd71ecd] { display: flex; flex-direction: column; gap: 0.3rem;
+}
+.sum .hd[data-v-fcd71ecd], .sum .r[data-v-fcd71ecd] { display: grid; grid-template-columns: 5.5rem 1fr 1fr 1.15fr; gap: 0.4rem; align-items: center;
+}
+.sum .hd b[data-v-fcd71ecd] { font: 700 0.75rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: #004e9f; text-align: center; background: #e3ecf8; border-radius: 6px; padding: 0.2rem;
+}
+.sum .r > span[data-v-fcd71ecd] { font: 600 0.6rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.sum .r > div[data-v-fcd71ecd] { background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 0.3rem 0.5rem; font-size: 0.8rem; color: var(--navy); min-height: 2rem; display: flex; align-items: center;
+}
+.sum .r:last-child > div[data-v-fcd71ecd] { background: var(--teal-t); border-color: transparent;
+}

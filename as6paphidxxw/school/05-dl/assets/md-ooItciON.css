@@ -1,0 +1,19 @@
+
+.hi[data-v-6b234d7e] { display: flex; align-items: center; gap: 0.5rem;
+}
+.hi .st[data-v-6b234d7e] { flex: 1; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.7rem; text-align: center; display: flex; flex-direction: column; gap: 0.2rem;
+}
+.hi .st b[data-v-6b234d7e] { font: 700 1.05rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.hi .st span[data-v-6b234d7e] { font-size: 0.86rem;
+}
+.hi .hl[data-v-6b234d7e] { background: var(--navy);
+}
+.hi .hl b[data-v-6b234d7e], .hi .hl span[data-v-6b234d7e] { color: #fff;
+}
+.hi i[data-v-6b234d7e] { font-style: normal; font-size: 1.4rem; color: var(--rubin);
+}
+.rf[data-v-6b234d7e] { background: var(--teal-t); border-radius: 10px; padding: 0.6rem 0.9rem; font-size: 0.95rem; color: var(--navy);
+}
+.rf .k[data-v-6b234d7e] { font: 600 0.6rem 'IBM Plex Mono', monospace; letter-spacing: 0.08em; text-transform: uppercase; color: var(--teal-d);
+}

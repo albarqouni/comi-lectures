@@ -1,0 +1,11 @@
+
+.gl2[data-v-115075c6] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.8rem;
+}
+.gl2 .tk-c[data-v-115075c6] { font-size: 0.82rem; display: flex; flex-direction: column; gap: 0.3rem;
+}
+.ex2[data-v-115075c6] { display: grid; grid-template-columns: 4.2rem 1fr; gap: 0.5rem; align-items: center; background: #fff; border-radius: 8px; padding: 0.25rem 0.5rem;
+}
+.ex2 b[data-v-115075c6] { font: 700 1.35rem/1 'Source Sans 3', sans-serif; color: var(--rubin);
+}
+.ex2 span[data-v-115075c6] { font-size: 0.74rem; line-height: 1.3;
+}

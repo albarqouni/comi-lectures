@@ -1,0 +1,15 @@
+
+.mn[data-v-3f50424f] { display: grid; grid-template-columns: 1fr 1.2fr; gap: 0.8rem;
+}
+.mn .tk-c[data-v-3f50424f] { font-size: 0.9rem;
+}
+.tt[data-v-3f50424f] { border-collapse: separate; border-spacing: 3px;
+}
+.tt th[data-v-3f50424f] { font-size: 0.7rem; color: var(--muted); padding: 0 0.4rem;
+}
+.tt td[data-v-3f50424f] { font: 700 1.6rem 'Source Sans 3', sans-serif; text-align: center; padding: 0.4rem 1rem; background: #f1f3f6; border-radius: 8px; color: var(--navy);
+}
+.tt td.b[data-v-3f50424f] { background: #e3ecf8; color: #004e9f;
+}
+.tt td.c[data-v-3f50424f] { background: var(--rubin-t); color: var(--rubin);
+}

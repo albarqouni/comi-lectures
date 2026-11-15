@@ -1,0 +1,25 @@
+
+.t3rd[data-v-6ef34c69] { display: grid; grid-template-columns: repeat(7, 1fr); gap: 0.35rem;
+}
+.t3rd > div[data-v-6ef34c69] { background: var(--card); border: 1px solid var(--line); border-top: 4px solid var(--rubin); border-radius: 10px; padding: 0.4rem 0.45rem; display: flex; flex-direction: column; gap: 0.2rem;
+}
+.t3rd .ic[data-v-6ef34c69] { font-size: 1.4rem; color: var(--rubin);
+}
+.t3rd b[data-v-6ef34c69] { font: 700 0.8rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.t3rd span[data-v-6ef34c69] { font-size: 0.66rem; color: var(--navy); line-height: 1.32;
+}
+.t3rd em[data-v-6ef34c69] { margin-top: auto; font: italic 0.68rem 'Source Serif 4', serif; color: var(--rubin-d);
+}
+.t3rd code[data-v-6ef34c69] { font: 0.58rem 'IBM Plex Mono', monospace; background: #eef1f5; padding: 0 0.15rem; border-radius: 3px; word-break: break-all;
+}
+.t3rd2[data-v-6ef34c69] { display: grid; grid-template-columns: 1.3fr 1fr; gap: 0.6rem;
+}
+.t3rd2 .tk-c[data-v-6ef34c69] { padding: 0.5rem 0.75rem; font-size: 0.82rem; line-height: 1.38;
+}
+.t3rd2 .tk-c > .ic[data-v-6ef34c69] { font-size: 1.4rem;
+}
+.t3rd2 .k[data-v-6ef34c69] { font-size: 0.92rem;
+}
+.t3rd2 code[data-v-6ef34c69] { font: 0.7rem 'IBM Plex Mono', monospace; background: #eef1f5; padding: 0 0.2rem; border-radius: 3px;
+}

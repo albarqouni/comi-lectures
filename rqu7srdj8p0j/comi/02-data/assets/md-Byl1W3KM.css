@@ -1,0 +1,39 @@
+
+.lb[data-v-599be123] { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.65rem;
+}
+.lb .c[data-v-599be123] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid var(--gelb); border-radius: 12px; padding: 0.5rem 0.7rem; display: flex; flex-direction: column; gap: 0.2rem;
+}
+.lb .im[data-v-599be123] { position: relative; height: 8rem; border-radius: 8px; overflow: hidden; background: #000; display: grid; place-items: center;
+}
+.lb .im img[data-v-599be123] { width: 100%; height: 100%; object-fit: fill; position: absolute; inset: 0;
+}
+.lb .im .ov[data-v-599be123] { image-rendering: pixelated;
+}
+.lb .bx[data-v-599be123] { position: absolute; border: 2px solid var(--gelb); border-radius: 2px;
+}
+.lb .tag[data-v-599be123] { position: absolute; bottom: 0.3rem; left: 0.3rem; background: var(--gelb); color: var(--navy); font: 700 0.66rem 'IBM Plex Mono', monospace; padding: 0.05rem 0.35rem; border-radius: 4px;
+}
+.lb .rep[data-v-599be123] { background: #f6f3ea; place-items: start; padding: 0.4rem 0.5rem;
+}
+.lb .rep p[data-v-599be123] { margin: 0; font: 0.66rem/1.35 'IBM Plex Mono', monospace; color: #333;
+}
+.lb .rep mark[data-v-599be123] { background: #ffe58a;
+}
+.lb .rep .arr[data-v-599be123] { font-size: 0.62rem; color: var(--muted);
+}
+.lb b[data-v-599be123] { display: flex; gap: 0.3rem; align-items: center; font: 700 1rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.lb b i[data-v-599be123] { color: #b88a00;
+}
+.lb span[data-v-599be123] { font-size: 0.8rem;
+}
+.lb i.t[data-v-599be123] { font-size: 0.72rem; color: var(--rubin-d); font-weight: 600;
+}
+.cost[data-v-599be123] { display: flex; gap: 0.5rem; align-items: center; background: var(--teal-t); border-radius: 10px; padding: 0.4rem 0.8rem; font-size: 0.86rem;
+}
+.cost i[data-v-599be123] { font-size: 1.3rem; color: var(--teal-d);
+}
+.cost b[data-v-599be123] { color: var(--navy);
+}
+.lesson[data-v-599be123] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.45rem 0.9rem; font: italic 1rem 'Source Serif 4', serif;
+}

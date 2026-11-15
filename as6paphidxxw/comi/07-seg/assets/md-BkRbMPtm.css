@@ -1,0 +1,23 @@
+
+.de[data-v-ad06cc97] { display: grid; grid-template-columns: 1.4fr 1fr; gap: 0.9rem;
+}
+.de .cd[data-v-ad06cc97] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid #7c5cc4; border-radius: 14px; padding: 0.7rem 0.9rem; display: flex; flex-direction: column; gap: 0.4rem; font-size: 0.9rem;
+}
+.de .k[data-v-ad06cc97] { display: flex; gap: 0.3rem; align-items: center; font: 600 0.6rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--navy);
+}
+.de .k i[data-v-ad06cc97] { color: #7c5cc4; font-size: 1.05rem;
+}
+.de .tk-bars > div[data-v-ad06cc97] { grid-template-columns: 14rem 1fr 4.4rem; font-size: 0.84rem;
+}
+.de .tk-bars i[data-v-ad06cc97] { height: 1.6rem;
+}
+.de .big[data-v-ad06cc97] { font: 700 2rem 'Source Sans 3', sans-serif; color: #7c5cc4;
+}
+.de .sm[data-v-ad06cc97] { font-size: 0.86rem;
+}
+.de b[data-v-ad06cc97] { color: var(--navy);
+}
+.de small[data-v-ad06cc97] { font-size: 0.64rem; color: var(--muted);
+}
+.lesson[data-v-ad06cc97] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.5rem 0.9rem; font: italic 0.98rem 'Source Serif 4', serif;
+}

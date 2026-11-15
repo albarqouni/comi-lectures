@@ -1,0 +1,21 @@
+
+.ob[data-v-4ff9f864] { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.45rem;
+}
+.ob div[data-v-4ff9f864] { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 0.4rem 0.6rem; font-size: 0.78rem; line-height: 1.35; display: flex; flex-direction: column;
+}
+.ob i[data-v-4ff9f864] { font: 600 0.56rem 'IBM Plex Mono', monospace; color: #004e9f; font-style: normal;
+}
+.ob i[data-v-4ff9f864]::before { content: 'Art. ';
+}
+.ob b[data-v-4ff9f864] { color: var(--navy); font-size: 0.86rem;
+}
+.tl[data-v-4ff9f864] { display: grid; grid-template-columns: 1fr 1fr 1.2fr; gap: 0.5rem;
+}
+.tl div[data-v-4ff9f864] { background: #e3ecf8; border-radius: 10px; padding: 0.45rem 0.7rem; font-size: 0.82rem; display: flex; flex-direction: column;
+}
+.tl span[data-v-4ff9f864] { font: 700 1.1rem 'Source Sans 3', sans-serif; color: #004e9f;
+}
+.tl .hl[data-v-4ff9f864] { background: var(--navy); color: #fff;
+}
+.tl .hl span[data-v-4ff9f864] { color: var(--gelb);
+}

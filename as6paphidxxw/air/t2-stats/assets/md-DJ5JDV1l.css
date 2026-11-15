@@ -1,0 +1,17 @@
+
+.fq[data-v-7753f378] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.6rem;
+}
+.fq > div[data-v-7753f378] { background: var(--card); border: 1px solid var(--line); border-top: 4px solid var(--rubin); border-radius: 12px; padding: 0.5rem 0.7rem; display: flex; flex-direction: column; gap: 0.25rem; color: var(--navy);
+}
+.fq i[data-v-7753f378] { font: 700 0.8rem 'IBM Plex Mono', monospace; font-style: normal; width: 1.5rem; height: 1.5rem; border-radius: 50%; display: grid; place-items: center; background: var(--rubin-t); color: var(--rubin-d);
+}
+.fq b[data-v-7753f378] { font-size: 0.95rem;
+}
+.fq span[data-v-7753f378] { font-size: 0.78rem; line-height: 1.35;
+}
+.fq em[data-v-7753f378] { font-style: normal; font-size: 0.62rem; color: #004e9f; margin-top: auto;
+}
+.fq .ok[data-v-7753f378] { background: var(--teal-t); border-top-color: var(--teal);
+}
+.fq .ok i[data-v-7753f378] { background: none; color: var(--teal-d); font-size: 1.4rem; width: auto;
+}

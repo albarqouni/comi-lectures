@@ -1,0 +1,41 @@
+
+.dg[data-v-881b76a0] { display: grid; grid-template-columns: 1fr 15rem; gap: 1rem; align-items: start;
+}
+.lft[data-v-881b76a0] { display: flex; flex-direction: column; gap: 0.4rem;
+}
+.tabs[data-v-881b76a0] { display: flex; gap: 0.25rem;
+}
+.tabs button[data-v-881b76a0] { font: 600 0.72rem 'Source Sans 3', sans-serif; padding: 0.2rem 0.75rem; border-radius: 99px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer; text-transform: capitalize;
+}
+.tabs button.on[data-v-881b76a0] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+.zt[data-v-881b76a0] { font: 600 12px 'Source Sans 3', sans-serif;
+}
+.sv[data-v-881b76a0] { width: 100%; max-height: 13rem; background: var(--card); border: 1px solid var(--line); border-radius: 12px;
+}
+.ex[data-v-881b76a0] { font: italic 0.92rem/1.45 'Source Serif 4', serif; color: var(--ink);
+}
+.ctl[data-v-881b76a0] { display: flex; flex-direction: column; gap: 0.55rem; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.7rem 0.85rem;
+}
+label.ck[data-v-881b76a0] { display: flex; gap: 0.4rem; align-items: center; font-size: 0.8rem; font-weight: 600; color: var(--navy); cursor: pointer;
+}
+.ms[data-v-881b76a0] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.35rem;
+}
+.ms div[data-v-881b76a0] { background: #fff; border: 1px solid var(--line); border-radius: 8px; padding: 0.25rem 0.55rem; display: flex; flex-direction: column;
+}
+.ms span[data-v-881b76a0] { font-size: 0.6rem; color: var(--muted);
+}
+.ms b[data-v-881b76a0] { font: 700 1.5rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.ms b.ok[data-v-881b76a0] { color: var(--teal-d);
+}
+.ms b.bad[data-v-881b76a0] { color: var(--rubin);
+}
+.vd[data-v-881b76a0] { font: 700 1rem 'Source Sans 3', sans-serif; border-radius: 8px; padding: 0.25rem 0.6rem; text-align: center;
+}
+.vd.ok[data-v-881b76a0] { background: var(--teal-t); color: var(--teal-d);
+}
+.vd.bad[data-v-881b76a0] { background: var(--rubin-t); color: var(--rubin);
+}
+.nt[data-v-881b76a0] { font-size: 0.74rem; line-height: 1.45; background: #e3ecf8; border-radius: 8px; padding: 0.35rem 0.55rem; color: var(--navy);
+}

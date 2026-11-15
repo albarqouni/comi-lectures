@@ -1,0 +1,23 @@
+
+.pm[data-v-a7dc6da1] { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;
+}
+.cd[data-v-a7dc6da1] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid var(--teal); border-radius: 14px; padding: 0.8rem 1rem; display: flex; flex-direction: column; gap: 0.6rem;
+}
+.cd.de[data-v-a7dc6da1] { border-top-color: var(--navy);
+}
+.cd .k[data-v-a7dc6da1] { font: 600 0.6rem 'IBM Plex Mono', monospace; letter-spacing: 0.08em; text-transform: uppercase; color: var(--teal-d);
+}
+.cd.de .k[data-v-a7dc6da1] { color: var(--navy);
+}
+.nums[data-v-a7dc6da1] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.6rem;
+}
+.nums div[data-v-a7dc6da1] { font-size: 0.78rem; line-height: 1.35;
+}
+.nums b[data-v-a7dc6da1] { display: block; font: 700 2.1rem/1.05 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.nums i[data-v-a7dc6da1] { color: var(--muted);
+}
+.more[data-v-a7dc6da1] { font-size: 0.8rem; line-height: 1.45; background: var(--teal-t); border-radius: 8px; padding: 0.4rem 0.6rem;
+}
+.cd.de .more[data-v-a7dc6da1] { background: #e8eef6;
+}

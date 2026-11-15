@@ -1,0 +1,41 @@
+
+.grd[data-v-143aa514] { display: grid; grid-template-columns: 1.45fr 1fr; gap: 0.8rem;
+}
+.st[data-v-143aa514] { display: flex; flex-direction: column; gap: 0.25rem;
+}
+svg[data-v-143aa514] { width: 100%;
+}
+.st svg[data-v-143aa514] { height: 15.6rem; background: #fbfbfd; border: 1px solid var(--line); border-radius: 12px;
+}
+.sl[data-v-143aa514] { display: flex; gap: 0.4rem; align-items: center; font-size: 0.66rem; color: var(--muted);
+}
+.sl input[data-v-143aa514] { flex: 1; accent-color: #004e9f;
+}
+.sl b[data-v-143aa514] { font: 600 0.7rem 'IBM Plex Mono', monospace; color: var(--navy);
+}
+.nf[data-v-143aa514] { background: #f4f7fb; border: 1px solid var(--line); border-radius: 12px; padding: 0.5rem 0.7rem; display: flex; flex-direction: column; gap: 0.35rem; color: var(--navy); font-size: 0.78rem;
+}
+.top[data-v-143aa514] { display: flex; gap: 0.6rem;
+}
+.mm[data-v-143aa514] { width: 5.2rem; cursor: crosshair; display: flex; flex-direction: column; align-items: center;
+}
+.mm svg[data-v-143aa514] { height: 5.2rem; background: linear-gradient(135deg, #fff6d0, #6d84a0); border-radius: 6px;
+}
+.mm small[data-v-143aa514] { font-size: 0.5rem; color: var(--muted);
+}
+.rd[data-v-143aa514] { flex: 1; display: flex; flex-direction: column; gap: 0.15rem;
+}
+.t1rw[data-v-143aa514] { display: flex; justify-content: space-between; font-size: 0.72rem; color: var(--muted); border-bottom: 1px dashed var(--line);
+}
+.t1rw b[data-v-143aa514] { font: 600 0.78rem 'IBM Plex Mono', monospace; color: var(--navy);
+}
+.bt[data-v-143aa514] { display: flex; gap: 0.3rem;
+}
+.bt button[data-v-143aa514] { font: 600 0.68rem 'Source Sans 3', sans-serif; padding: 0.2rem 0.6rem; border-radius: 99px; border: none; background: var(--navy); color: #fff; cursor: pointer;
+}
+.bt button.g[data-v-143aa514] { background: #c9d2dd; color: var(--navy);
+}
+.nf small[data-v-143aa514] { font-size: 0.66rem; line-height: 1.3; color: var(--muted);
+}
+.dt[data-v-143aa514] { display: inline-block; width: 0.55rem; height: 0.55rem; border-radius: 50%; background: #2d9d9b; vertical-align: middle;
+}

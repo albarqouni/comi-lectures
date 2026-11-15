@@ -1,0 +1,27 @@
+
+.cp[data-v-d06dd08c] { display: grid; grid-template-columns: 0.9fr 1.3fr; gap: 0.9rem;
+}
+.cp .ex[data-v-d06dd08c] { background: #f4f7fb; border: 1px solid var(--line); border-radius: 12px; padding: 0.55rem 0.7rem; display: flex; flex-direction: column; gap: 0.35rem;
+}
+.cp .h[data-v-d06dd08c] { font: 600 0.58rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: #004e9f;
+}
+.cp .rs[data-v-d06dd08c] { display: flex; flex-direction: column; background: #fff; border-radius: 8px; padding: 0.35rem 0.55rem; color: var(--navy);
+}
+.cp .rs span[data-v-d06dd08c] { font-size: 0.72rem;
+}
+.cp .rs b[data-v-d06dd08c] { font: 700 1.6rem 'Source Sans 3', sans-serif; color: #c2255c;
+}
+.cp .ci[data-v-d06dd08c] { width: 100%; height: auto; background: #fff; border-radius: 8px;
+}
+.cp small[data-v-d06dd08c] { font-size: 0.6rem; color: var(--muted);
+}
+.cp .my[data-v-d06dd08c] { display: flex; flex-direction: column; gap: 0.4rem;
+}
+.cp .m[data-v-d06dd08c] { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 0.35rem 0.6rem; display: grid; grid-template-columns: 1.2rem 1fr; gap: 0.15rem 0.4rem; color: var(--navy);
+}
+.cp .m i[data-v-d06dd08c] { color: #c2255c; font-size: 1.05rem; grid-row: span 2;
+}
+.cp .m span[data-v-d06dd08c] { font: italic 0.86rem 'Source Serif 4', serif;
+}
+.cp .m em[data-v-d06dd08c] { font-style: normal; font-size: 0.72rem; color: var(--teal-d); line-height: 1.3;
+}

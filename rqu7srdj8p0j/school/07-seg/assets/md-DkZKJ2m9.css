@@ -1,0 +1,45 @@
+
+.sg[data-v-093a2143] { display: grid; grid-template-columns: 1.1fr 1fr; gap: 0.8rem;
+}
+.dv[data-v-093a2143] { display: flex; flex-direction: column; gap: 0.25rem;
+}
+.ln[data-v-093a2143] { display: flex; gap: 0.5rem; align-items: center; padding: 0.25rem 0.55rem; border-radius: 9px; border: 1px solid var(--line); background: var(--card); cursor: pointer; font-size: 0.8rem; color: var(--navy);
+}
+.ln i[data-v-093a2143] { font: 700 0.7rem 'IBM Plex Mono', monospace; font-style: normal; width: 1.25rem; height: 1.25rem; border-radius: 50%; display: grid; place-items: center; background: #e3ecf8; color: #004e9f; flex: none;
+}
+.ln > div[data-v-093a2143] { display: flex; flex-direction: column;
+}
+.ln b[data-v-093a2143] { font-size: 0.64rem; color: var(--muted); font-weight: 600;
+}
+.ln.on[data-v-093a2143] { background: var(--gelb); border-color: #f0b400;
+}
+.ln.on i[data-v-093a2143] { background: var(--navy); color: #fff;
+}
+.ln.fut[data-v-093a2143] { opacity: 0.2;
+}
+.bt[data-v-093a2143], .bb[data-v-093a2143] { display: flex; gap: 0.3rem;
+}
+.bt button[data-v-093a2143], .bb button[data-v-093a2143] { font: 600 0.7rem 'Source Sans 3', sans-serif; padding: 0.2rem 0.7rem; border-radius: 99px; border: none; background: var(--navy); color: #fff; cursor: pointer;
+}
+.bt button.g[data-v-093a2143], .bb button.g[data-v-093a2143] { background: #c9d2dd; color: var(--navy);
+}
+.bt button[data-v-093a2143]:disabled { opacity: 0.4;
+}
+.lv[data-v-093a2143] { background: #f4f7fb; border: 1px solid var(--line); border-radius: 12px; padding: 0.5rem 0.7rem; display: flex; flex-direction: column; gap: 0.35rem;
+}
+.top[data-v-093a2143] { display: grid; grid-template-columns: 12.2rem 1fr; gap: 0.5rem; align-items: start;
+}
+.ct[data-v-093a2143] { width: 12.2rem; border-radius: 8px; background: #000;
+}
+.cc[data-v-093a2143] { display: flex; flex-direction: column; gap: 0.2rem; font-size: 0.68rem; color: var(--navy);
+}
+.cc label[data-v-093a2143] { display: flex; flex-direction: column;
+}
+.cc input[data-v-093a2143] { accent-color: #004e9f;
+}
+.pth[data-v-093a2143] { width: 6rem; height: 3.6rem; background: #fff; border: 1px solid var(--line); border-radius: 6px;
+}
+.lv p[data-v-093a2143] { margin: 0; font-size: 0.76rem; color: var(--navy); line-height: 1.35;
+}
+.nb[data-v-093a2143] { display: flex; flex-direction: column; gap: 0.2rem; font-size: 0.9rem; color: var(--navy);
+}

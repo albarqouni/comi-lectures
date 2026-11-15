@@ -1,0 +1,24 @@
+{
+ "tile": [
+  128,
+  128
+ ],
+ "channels": 1,
+ "perClass": 12,
+ "classes": 2,
+ "picked": {
+  "0": 12,
+  "1": 12
+ },
+ "testCounts": {
+  "0": 42,
+  "1": 114
+ },
+ "modality": "Breast ultrasound",
+ "source": "MedMNIST+ v3.0 (breastmnist_128.npz, test split), Zenodo doi:10.5281/zenodo.10519652",
+ "licence": "CC BY 4.0",
+ "classNames": [
+  "malignant",
+  "normal or benign"
+ ]
+}

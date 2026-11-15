@@ -1,0 +1,39 @@
+
+.pp[data-v-ee2135ce] { display: grid; grid-template-columns: 11.6rem 1fr; gap: 0.9rem; align-items: start;
+}
+.lf[data-v-ee2135ce] { display: flex; flex-direction: column; gap: 0.3rem;
+}
+.ct[data-v-ee2135ce] { width: 11.6rem; border-radius: 10px; background: #000; image-rendering: pixelated;
+}
+.lg[data-v-ee2135ce] { display: flex; gap: 0.55rem; font-size: 0.6rem; color: var(--muted);
+}
+.lg i[data-v-ee2135ce] { display: inline-block; width: 0.6rem; height: 0.6rem; border-radius: 2px; margin-right: 0.2rem; vertical-align: -1px;
+}
+.sl[data-v-ee2135ce] { display: flex; flex-direction: column; font-size: 0.68rem; color: var(--navy);
+}
+.sl input[data-v-ee2135ce] { accent-color: var(--navy);
+}
+.rt[data-v-ee2135ce] { display: flex; flex-direction: column; gap: 0.5rem;
+}
+.st[data-v-ee2135ce] { display: flex; flex-direction: column; gap: 0.25rem;
+}
+.st label[data-v-ee2135ce] { display: flex; gap: 0.45rem; align-items: center; background: var(--card); border: 1px solid var(--line); border-radius: 9px; padding: 0.3rem 0.6rem; font-size: 0.8rem; color: var(--navy); cursor: pointer;
+}
+.st label.on[data-v-ee2135ce] { background: var(--teal-t); border-color: var(--teal);
+}
+.st i[data-v-ee2135ce] { font: 700 0.68rem 'IBM Plex Mono', monospace; font-style: normal; width: 1.2rem; height: 1.2rem; border-radius: 50%; background: var(--navy); color: #fff; display: grid; place-items: center; flex: none;
+}
+.st .nm[data-v-ee2135ce] { width: 3rem; font: 0.75rem 'IBM Plex Mono', monospace; border: 1px solid var(--line); border-radius: 4px; padding: 0 0.2rem;
+}
+.cmp[data-v-ee2135ce] { display: flex; flex-direction: column; gap: 0.2rem;
+}
+.cmp > div[data-v-ee2135ce] { display: grid; grid-template-columns: 7rem repeat(4, 1fr); gap: 0.3rem; align-items: center; font-size: 0.8rem; background: #e8edf5; border-radius: 8px; padding: 0.25rem 0.6rem; color: var(--navy);
+}
+.cmp .hd[data-v-ee2135ce] { background: none; font: 600 0.56rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted); padding: 0 0.6rem;
+}
+.cmp b[data-v-ee2135ce] { font: 700 1.05rem 'Source Sans 3', sans-serif;
+}
+.cmp .af[data-v-ee2135ce] { background: var(--teal-t);
+}
+.cmp .af b[data-v-ee2135ce] { color: var(--teal-d);
+}

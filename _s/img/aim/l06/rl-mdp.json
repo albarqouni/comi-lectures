@@ -1,0 +1,19 @@
+{
+  "note": "TEACHING MDP for AiM Lecture 6 (reinforcement learning). All transition probabilities, rewards and the clinician policy are ILLUSTRATIVE, chosen by hand for teaching; they are NOT clinical estimates and come from no dataset. One step = 4 hours (as in Komorowski et al., Nat Med 2018). Terminal rewards +R (discharged alive) / -R (died) mirror that paper's +/-100 at 90 days.",
+  "states": ["stable", "infection", "sepsis", "septic shock", "refractory shock"],
+  "terminals": ["discharged", "died"],
+  "actions": ["wait", "fluids", "fluids + vasopressor"],
+  "transitionFormat": "P[state][action] = [p(better), p(same), p(worse)]; 'better' from stable = discharged, 'worse' from refractory shock = died",
+  "P": [
+    [[0.50, 0.45, 0.05], [0.50, 0.44, 0.06], [0.40, 0.45, 0.15]],
+    [[0.20, 0.50, 0.30], [0.45, 0.45, 0.10], [0.40, 0.45, 0.15]],
+    [[0.05, 0.45, 0.50], [0.35, 0.45, 0.20], [0.40, 0.40, 0.20]],
+    [[0.00, 0.40, 0.60], [0.15, 0.45, 0.40], [0.40, 0.40, 0.20]],
+    [[0.00, 0.30, 0.70], [0.05, 0.45, 0.50], [0.25, 0.45, 0.30]]
+  ],
+  "defaults": { "gamma": 0.9, "R": 100, "costFluids": 2, "costVaso": 6, "start": 2 },
+  "clinicianPolicy": {
+    "note": "Illustrative stochastic 'behaviour' policy used to simulate records: rows = states, columns = actions (wait, fluids, fluids + vasopressor).",
+    "pi": [[0.80, 0.15, 0.05], [0.40, 0.50, 0.10], [0.20, 0.60, 0.20], [0.05, 0.45, 0.50], [0.05, 0.35, 0.60]]
+  }
+}

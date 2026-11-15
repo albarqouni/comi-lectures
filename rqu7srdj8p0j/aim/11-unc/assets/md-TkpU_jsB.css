@@ -1,0 +1,23 @@
+
+.l11wa[data-v-85516a74] { display: flex; flex-direction: column; gap: 0.25rem;
+}
+.l11wa .hdr[data-v-85516a74], .l11wa .rw[data-v-85516a74] { display: grid; grid-template-columns: 11rem 1fr 15rem; gap: 0.6rem; align-items: center;
+}
+.l11wa .hdr span[data-v-85516a74] { font: 600 0.56rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.l11wa .rw[data-v-85516a74] { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 0.3rem 0.6rem; font-size: 0.8rem;
+}
+.l11wa .rw b[data-v-85516a74] { display: flex; gap: 0.35rem; align-items: center; color: var(--navy); font-size: 0.84rem;
+}
+.l11wa .rw b i[data-v-85516a74] { font-size: 1.2rem; color: var(--rubin); flex: none;
+}
+.l11wa .rw em[data-v-85516a74] { font-style: normal; font-weight: 600; background: var(--teal-t); color: var(--teal-d); border-radius: 6px; padding: 0.15rem 0.45rem; font-size: 0.78rem;
+}
+.l11wb[data-v-85516a74] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.6rem;
+}
+.l11wb .tk-note[data-v-85516a74] { font-size: 0.82rem;
+}
+.l11wb .warn[data-v-85516a74] { background: #fdf2c4;
+}
+.l11wb .warn > .ic[data-v-85516a74] { color: #b88a00;
+}

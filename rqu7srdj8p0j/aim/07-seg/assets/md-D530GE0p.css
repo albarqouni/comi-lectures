@@ -1,0 +1,9 @@
+
+.cm[data-v-eaae31b5] { display: grid; grid-template-columns: 1.3fr 1fr; gap: 0.8rem;
+}
+.cm .tk-c[data-v-eaae31b5] { font-size: 0.9rem;
+}
+.cm .big[data-v-eaae31b5] { font: 700 2.4rem/1 'Source Sans 3', sans-serif; color: var(--rubin);
+}
+.cm .tk-bars > div[data-v-eaae31b5] { grid-template-columns: 12rem 1fr 3rem; font-size: 0.82rem;
+}

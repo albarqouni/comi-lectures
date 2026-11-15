@@ -1,0 +1,29 @@
+
+.t3st[data-v-dddc89be] { display: grid; grid-template-columns: 1.35fr 1fr; gap: 0.9rem;
+}
+.t3st .lay[data-v-dddc89be] { display: flex; flex-direction: column; gap: 0.35rem;
+}
+.t3st .lay > div[data-v-dddc89be] { display: flex; gap: 0.35rem;
+}
+.t3st .b[data-v-dddc89be] { flex: 1; display: flex; flex-direction: column; align-items: flex-start; gap: 0.05rem; border-radius: 10px; padding: 0.45rem 0.7rem; font: 700 1rem 'Source Sans 3', sans-serif; color: #fff;
+}
+.t3st .b i[data-v-dddc89be] { font-size: 1.3rem;
+}
+.t3st .b small[data-v-dddc89be] { font: 400 0.68rem 'Source Sans 3', sans-serif; opacity: 0.9;
+}
+.t3st .py[data-v-dddc89be] { background: var(--navy);
+}
+.t3st .np[data-v-dddc89be] { background: #004e9f;
+}
+.t3st .pd[data-v-dddc89be], .t3st .sk[data-v-dddc89be], .t3st .pt[data-v-dddc89be] { background: #2f6db0;
+}
+.t3st .mon[data-v-dddc89be], .t3st .mm[data-v-dddc89be] { background: var(--teal-d);
+}
+.t3st .why[data-v-dddc89be] { display: flex; flex-direction: column; gap: 0.45rem;
+}
+.t3st .why .tk-c[data-v-dddc89be] { padding: 0.45rem 0.75rem; font-size: 0.82rem; line-height: 1.35;
+}
+.t3st .why .tk-c > .ic[data-v-dddc89be] { font-size: 1.4rem;
+}
+.t3st .why .k[data-v-dddc89be] { font-size: 0.92rem;
+}

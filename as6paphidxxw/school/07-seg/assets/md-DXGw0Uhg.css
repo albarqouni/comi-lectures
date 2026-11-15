@@ -1,0 +1,49 @@
+
+.sf[data-v-63c0e4ff] { display: grid; grid-template-columns: 13.6rem 1fr; gap: 0.9rem; align-items: start;
+}
+.lf[data-v-63c0e4ff] { display: flex; flex-direction: column; gap: 0.3rem;
+}
+.ct[data-v-63c0e4ff] { width: 13.6rem; border-radius: 10px; background: #000; cursor: crosshair; touch-action: none;
+}
+.lg[data-v-63c0e4ff] { display: flex; gap: 0.6rem; font-size: 0.6rem; color: var(--muted);
+}
+.lg i[data-v-63c0e4ff] { display: inline-block; width: 0.6rem; height: 0.6rem; border-radius: 2px; margin-right: 0.2rem; vertical-align: -1px;
+}
+.tl[data-v-63c0e4ff], .ps[data-v-63c0e4ff] { display: flex; flex-wrap: wrap; gap: 0.2rem;
+}
+.tl button[data-v-63c0e4ff], .ps button[data-v-63c0e4ff] { font: 600 0.66rem 'Source Sans 3', sans-serif; padding: 0.12rem 0.45rem; border-radius: 99px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer; display: inline-flex; gap: 0.2rem; align-items: center;
+}
+.tl button.on[data-v-63c0e4ff], .ps button.on[data-v-63c0e4ff] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+.rt[data-v-63c0e4ff] { display: flex; flex-direction: column; gap: 0.35rem;
+}
+.rd[data-v-63c0e4ff] { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.3rem;
+}
+.rd div[data-v-63c0e4ff] { background: #e8edf5; border-radius: 8px; padding: 0.2rem 0.5rem; display: flex; flex-direction: column;
+}
+.rd span[data-v-63c0e4ff] { font-size: 0.6rem; color: var(--navy);
+}
+.rd b[data-v-63c0e4ff] { font: 700 1.2rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.rd em[data-v-63c0e4ff] { font: 0.6rem 'Source Sans 3', sans-serif; font-style: normal; margin-left: 0.15rem;
+}
+.rd small[data-v-63c0e4ff] { font: 0.55rem 'IBM Plex Mono', monospace; color: var(--muted);
+}
+.rd .r[data-v-63c0e4ff] { background: var(--rubin-t);
+}
+.rd .r b[data-v-63c0e4ff] { color: var(--rubin-d);
+}
+.rd .t[data-v-63c0e4ff] { background: var(--teal-t);
+}
+.rd .t b[data-v-63c0e4ff] { color: var(--teal-d);
+}
+.rd .v[data-v-63c0e4ff] { background: #f4f1e6;
+}
+.hs[data-v-63c0e4ff] { width: 100%; height: auto; max-height: 6.8rem; background: var(--card); border: 1px solid var(--line); border-radius: 10px;
+}
+.tu[data-v-63c0e4ff] { display: flex; gap: 0.6rem; align-items: center; font-size: 0.72rem; color: var(--navy);
+}
+.tu input[data-v-63c0e4ff] { flex: 1; accent-color: var(--teal-d);
+}
+.tu b[data-v-63c0e4ff] { color: var(--teal-d);
+}

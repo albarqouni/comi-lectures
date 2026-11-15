@@ -1,0 +1,13 @@
+
+.sh .im[data-v-3753532e] { display: flex; gap: 0.4rem; margin-bottom: 0.3rem;
+}
+.sh .im img[data-v-3753532e] { width: 7rem; height: 7rem; object-fit: cover; border-radius: 8px; background: #000;
+}
+.sh[data-v-3753532e] { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;
+}
+.sh .cd[data-v-3753532e] { background: var(--card); border: 1px solid var(--line); border-left: 5px solid var(--rubin); border-radius: 12px; padding: 0.8rem 1rem; font-size: 0.9rem; line-height: 1.5;
+}
+.sh .k[data-v-3753532e] { font: 600 0.6rem 'IBM Plex Mono', monospace; letter-spacing: 0.08em; text-transform: uppercase; color: var(--rubin-d); margin-bottom: 0.3rem;
+}
+.rule[data-v-3753532e] { font: italic 1.25rem 'Source Serif 4', serif; color: var(--navy); text-align: center;
+}

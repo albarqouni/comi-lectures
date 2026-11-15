@@ -1,0 +1,17 @@
+
+.t3mo[data-v-73810eb7] { display: grid; grid-template-columns: 1.85fr 1fr; gap: 0.7rem; align-items: start;
+}
+.t3mo pre[data-v-73810eb7] { font-size: 0.52rem !important;
+}
+.t3mo-f[data-v-73810eb7] { display: flex; flex-direction: column; gap: 0.25rem;
+}
+.t3mo-f div[data-v-73810eb7] { background: #e3ecf8; border-radius: 8px; padding: 0.3rem 0.6rem; display: flex; flex-direction: column;
+}
+.t3mo-f div + div[data-v-73810eb7] { position: relative;
+}
+.t3mo-f b[data-v-73810eb7] { font: 700 0.82rem 'Source Sans 3', sans-serif; color: #004e9f;
+}
+.t3mo-f span[data-v-73810eb7] { font-size: 0.7rem; color: var(--navy);
+}
+.t3mo-f code[data-v-73810eb7] { font: 0.64rem 'IBM Plex Mono', monospace;
+}

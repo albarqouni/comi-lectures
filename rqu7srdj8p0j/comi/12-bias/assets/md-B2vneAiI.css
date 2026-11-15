@@ -1,0 +1,21 @@
+
+.gw[data-v-e04babaa] { display: grid; grid-template-columns: 1.2fr 1fr; gap: 0.9rem;
+}
+.gw .cd[data-v-e04babaa] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid #b88a00; border-radius: 14px; padding: 0.7rem 0.9rem; display: flex; flex-direction: column; gap: 0.45rem; font-size: 0.92rem;
+}
+.gw .k[data-v-e04babaa] { display: flex; gap: 0.3rem; align-items: center; font: 600 0.6rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--navy);
+}
+.gw .k i[data-v-e04babaa] { color: #b88a00; font-size: 1.05rem;
+}
+.gw .tk-bars > div[data-v-e04babaa] { grid-template-columns: 12rem 1fr 3rem; font-size: 0.86rem;
+}
+.gw .tk-bars i[data-v-e04babaa] { height: 1.6rem;
+}
+.gw .big[data-v-e04babaa] { font: 700 2.6rem/1 'Source Sans 3', sans-serif; color: var(--teal-d);
+}
+.gw b[data-v-e04babaa] { color: var(--navy);
+}
+.gw .sm[data-v-e04babaa] { font-size: 0.86rem;
+}
+.lesson[data-v-e04babaa] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.5rem 0.9rem; font: italic 0.98rem 'Source Serif 4', serif;
+}

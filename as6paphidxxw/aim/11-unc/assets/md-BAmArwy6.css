@@ -1,0 +1,7 @@
+
+.acts[data-v-fd14ba15] { display: flex; gap: 0.9rem; margin-top: 1.6rem; flex-wrap: wrap;
+}
+.acts div[data-v-fd14ba15] { font: 1.12rem 'Source Serif 4', serif; color: #fff; display: flex; align-items: center; gap: 0.5rem;
+}
+.acts span[data-v-fd14ba15] { width: 1.8rem; height: 1.8rem; border-radius: 50%; background: var(--gelb); color: var(--navy); display: grid; place-items: center; font: 700 0.95rem 'Source Sans 3', sans-serif;
+}

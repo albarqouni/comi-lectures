@@ -1,0 +1,43 @@
+
+.t3t[data-v-373e4d0a] { display: grid; grid-template-columns: 14rem 1fr; gap: 0.9rem;
+}
+.t3t-l[data-v-373e4d0a] { display: flex; flex-direction: column; gap: 0.35rem;
+}
+.t3t-big[data-v-373e4d0a] { position: relative; width: 14rem; height: 14rem; border-radius: 8px; overflow: hidden; cursor: crosshair;
+}
+.t3t-big canvas[data-v-373e4d0a] { width: 100%; height: 100%; image-rendering: pixelated; display: block;
+}
+.t3t-big .cross[data-v-373e4d0a] { position: absolute; width: 0.55rem; height: 0.55rem; border: 2px solid #f0b400; transform: translate(-50%, -50%); pointer-events: none;
+}
+.t3t-pick[data-v-373e4d0a] { display: flex; flex-wrap: wrap; gap: 0.15rem;
+}
+.t3t-pick button[data-v-373e4d0a] { font: 600 0.56rem 'Source Sans 3', sans-serif; padding: 0.05rem 0.35rem; border-radius: 99px; border: 1.5px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.t3t-pick button.on[data-v-373e4d0a] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+label[data-v-373e4d0a] { display: grid; grid-template-columns: 1.8rem 1fr 3rem; gap: 0.3rem; align-items: center; font-size: 0.66rem; color: var(--navy);
+}
+input[data-v-373e4d0a] { accent-color: var(--teal-d);
+}
+label b[data-v-373e4d0a] { font: 0.62rem 'IBM Plex Mono', monospace;
+}
+.t3t-r[data-v-373e4d0a] { display: flex; flex-direction: column; gap: 0.5rem;
+}
+.t3t-code[data-v-373e4d0a] { background: #1e1e1e; color: #d4d4d4; border-radius: 8px; padding: 0.5rem 0.75rem; font: 0.68rem/1.45 'IBM Plex Mono', monospace; white-space: pre;
+}
+.t3t-code .p[data-v-373e4d0a] { color: #6a9955;
+}
+.t3t-code .c[data-v-373e4d0a] { color: #6a9955;
+}
+.t3t-code .o[data-v-373e4d0a] { color: #b5cea8; margin-bottom: 0.15rem;
+}
+.t3t-ch[data-v-373e4d0a] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.5rem;
+}
+.t3t-ch div[data-v-373e4d0a] { display: flex; flex-direction: column; align-items: center; gap: 0.15rem;
+}
+.t3t-ch canvas[data-v-373e4d0a] { width: 5.6rem; height: 5.6rem; image-rendering: pixelated; border-radius: 6px;
+}
+.t3t-ch span[data-v-373e4d0a] { font: 0.6rem 'IBM Plex Mono', monospace; color: var(--navy); white-space: pre;
+}
+.t3t-ch b[data-v-373e4d0a] { font: 700 0.9rem 'Source Sans 3', sans-serif; color: var(--teal-d);
+}

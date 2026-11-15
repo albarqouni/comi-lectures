@@ -1,0 +1,11 @@
+
+.fu[data-v-428e8ab5] { display: grid; grid-template-columns: repeat(6, 1fr); gap: 0.5rem;
+}
+.fu .tk-c[data-v-428e8ab5] { padding: 0.5rem 0.6rem; font-size: 0.76rem; line-height: 1.38; gap: 0.2rem;
+}
+.fu .L[data-v-428e8ab5] { font: 700 2.6rem/1 'Source Serif 4', serif; color: var(--teal);
+}
+.fu .k[data-v-428e8ab5] { font-size: 0.92rem;
+}
+.fu em[data-v-428e8ab5] { margin-top: auto; font-style: normal; font: 600 0.52rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}

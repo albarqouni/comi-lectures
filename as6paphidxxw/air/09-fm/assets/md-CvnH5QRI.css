@@ -1,0 +1,76 @@
+
+.tile[data-v-8c50eed5] { margin: 0; display: flex; flex-direction: column; gap: 0.15rem; align-items: center;
+}
+.im[data-v-8c50eed5] { border-radius: 6px; background-repeat: no-repeat; background-color: #000; flex: none;
+}
+figcaption[data-v-8c50eed5] { font: 600 0.58rem 'Source Sans 3', sans-serif; color: var(--muted); text-align: center; line-height: 1.2;
+}
+
+.pt[data-v-79109175] { display: flex; flex-direction: column; gap: 0.4rem;
+}
+.tabs[data-v-79109175] { display: flex; gap: 0.3rem;
+}
+.tabs button[data-v-79109175] { font: 600 0.74rem 'Source Sans 3', sans-serif; padding: 0.22rem 0.7rem; border-radius: 99px; border: 1.5px solid var(--line); background: #fff; color: var(--navy); cursor: pointer; display: flex; gap: 0.3rem; align-items: center;
+}
+.tabs button.on[data-v-79109175] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+.mae[data-v-79109175], .con[data-v-79109175] { display: grid; grid-template-columns: 16rem 1fr; gap: 1rem; align-items: start;
+}
+.con[data-v-79109175] { grid-template-columns: 17rem 1fr;
+}
+.cv[data-v-79109175] { width: 16rem; height: 16rem; border-radius: 10px; image-rendering: pixelated; background: #000;
+}
+.side[data-v-79109175] { display: flex; flex-direction: column; gap: 0.4rem;
+}
+.pk[data-v-79109175] { display: flex; gap: 0.3rem;
+}
+.pk button[data-v-79109175] { border: 2px solid transparent; border-radius: 8px; background: none; padding: 0.1rem; cursor: pointer;
+}
+.pk button.on[data-v-79109175] { border-color: var(--navy);
+}
+label[data-v-79109175] { display: flex; flex-direction: column; font-size: 0.78rem; color: var(--navy);
+}
+label input[data-v-79109175] { accent-color: var(--navy);
+}
+.seg[data-v-79109175] { display: flex; gap: 0.2rem;
+}
+.seg button[data-v-79109175] { flex: 1; font: 600 0.68rem 'Source Sans 3', sans-serif; padding: 0.22rem 0.3rem; border-radius: 8px; border: 1.5px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.seg button.on[data-v-79109175] { background: var(--teal-t); border-color: var(--teal);
+}
+.nm[data-v-79109175] { align-self: flex-start; font: 600 0.7rem 'Source Sans 3', sans-serif; padding: 0.2rem 0.7rem; border-radius: 99px; border: 1px solid var(--navy); background: #fff; color: var(--navy); cursor: pointer;
+}
+.msg[data-v-79109175] { display: flex; gap: 0.4rem; align-items: flex-start; font-size: 0.78rem; line-height: 1.42; background: var(--teal-t); border-radius: 8px; padding: 0.4rem 0.6rem; color: var(--navy);
+}
+.msg i[data-v-79109175] { font-size: 1.1rem; flex: none; margin-top: 0.1rem;
+}
+.mx[data-v-79109175] { display: flex; flex-direction: column; gap: 0.25rem;
+}
+.hrow[data-v-79109175], .row[data-v-79109175] { display: grid; grid-template-columns: repeat(5, 3.2rem); gap: 0.25rem; align-items: center;
+}
+.row[data-v-79109175] { cursor: pointer; border-radius: 8px;
+}
+.row.sel[data-v-79109175] { background: #fdf2c4;
+}
+.th[data-v-79109175] { width: 3.2rem; height: 3.2rem; border-radius: 6px; overflow: hidden; display: block; background: none !important;
+}
+.th > i[data-v-79109175] { display: block; width: 100%; height: 100%; background-repeat: no-repeat;
+}
+.row b[data-v-79109175] { height: 3.2rem; border-radius: 6px; display: grid; place-items: center; font: 600 0.62rem 'IBM Plex Mono', monospace; text-transform: uppercase;
+}
+.row b.pos[data-v-79109175] { background: var(--teal); color: #fff;
+}
+.row b.neg[data-v-79109175] { background: var(--rubin-t); color: var(--rubin-d);
+}
+.hd[data-v-79109175] { font: 600 0.58rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.tx[data-v-79109175] { font-size: 0.82rem;
+}
+.bt[data-v-79109175] { display: flex; gap: 0.3rem;
+}
+.bt button[data-v-79109175] { font: 600 0.72rem 'Source Sans 3', sans-serif; padding: 0.22rem 0.75rem; border-radius: 99px; border: 1px solid var(--navy); background: var(--navy); color: #fff; cursor: pointer;
+}
+.bt button.g[data-v-79109175] { background: #fff; color: var(--navy);
+}
+small[data-v-79109175], .ft[data-v-79109175] { font-size: 0.6rem; color: var(--muted);
+}

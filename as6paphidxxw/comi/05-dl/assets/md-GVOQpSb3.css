@@ -1,0 +1,51 @@
+
+.hl[data-v-39fc0f07] { display: grid; grid-template-columns: 13rem 1fr; gap: 0.9rem; align-items: start;
+}
+.ctl[data-v-39fc0f07] { display: flex; flex-direction: column; gap: 0.5rem; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.6rem 0.7rem;
+}
+.tg[data-v-39fc0f07] { display: flex; gap: 0.25rem; flex-wrap: wrap;
+}
+.tg.col[data-v-39fc0f07] { flex-direction: column;
+}
+.tg button[data-v-39fc0f07] { font: 600 0.68rem 'Source Sans 3', sans-serif; padding: 0.18rem 0.55rem; border-radius: 99px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer; text-align: left;
+}
+.tg button.on[data-v-39fc0f07] { background: var(--navy); color: #fff;
+}
+.mt[data-v-39fc0f07] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.3rem;
+}
+.mt div[data-v-39fc0f07] { background: #fdf2c4; border-radius: 8px; padding: 0.25rem 0.5rem; display: flex; flex-direction: column;
+}
+.mt span[data-v-39fc0f07] { font-size: 0.56rem; color: var(--navy);
+}
+.mt b[data-v-39fc0f07] { font: 700 1.5rem 'Source Sans 3', sans-serif; color: #7a5d00;
+}
+.mt.busy[data-v-39fc0f07] { opacity: 0.4;
+}
+.ctl small[data-v-39fc0f07] { font-size: 0.6rem; line-height: 1.35; color: var(--muted);
+}
+.rt[data-v-39fc0f07] { display: flex; flex-direction: column; gap: 0.4rem;
+}
+.k[data-v-39fc0f07] { font: 600 0.56rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.k b[data-v-39fc0f07] { color: var(--navy);
+}
+.k .p[data-v-39fc0f07] { color: var(--rubin);
+}
+.k .n[data-v-39fc0f07] { color: #0f7b6c;
+}
+.strip[data-v-39fc0f07] { display: grid; grid-template-columns: repeat(12, 1fr); gap: 0.2rem;
+}
+.strip.dr[data-v-39fc0f07] { grid-template-columns: repeat(15, 1fr);
+}
+.tl[data-v-39fc0f07] { display: flex; flex-direction: column; gap: 0.08rem; padding: 0.1rem; border-radius: 6px;
+}
+.tl.pos[data-v-39fc0f07] { background: var(--rubin-t); box-shadow: inset 0 -3px 0 var(--rubin);
+}
+.tl.neg[data-v-39fc0f07] { background: var(--teal-t); box-shadow: inset 0 -3px 0 #0f7b6c;
+}
+.tl i[data-v-39fc0f07] { display: block; height: 0.22rem; background: var(--navy); border-radius: 2px;
+}
+.pub[data-v-39fc0f07] { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.4rem 0.7rem;
+}
+.pub .tk-bars > div[data-v-39fc0f07] { grid-template-columns: 11rem 1fr 3rem; font-size: 0.74rem;
+}

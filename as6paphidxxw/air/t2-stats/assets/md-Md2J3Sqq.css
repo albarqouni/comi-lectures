@@ -1,0 +1,43 @@
+
+.ol[data-v-10baf3f7] { display: grid; grid-template-columns: 1.35fr 1fr; gap: 0.9rem;
+}
+.lf[data-v-10baf3f7] { display: flex; flex-direction: column; gap: 0.3rem;
+}
+.pk[data-v-10baf3f7], .zc[data-v-10baf3f7] { display: flex; flex-wrap: wrap; gap: 0.25rem; align-items: center;
+}
+.pk button[data-v-10baf3f7], .zc button[data-v-10baf3f7] { font: 600 0.66rem 'Source Sans 3', sans-serif; padding: 0.15rem 0.55rem; border-radius: 99px; border: 1px solid #c9d2dd; background: #fff; color: var(--navy); cursor: pointer;
+}
+.pk button.on[data-v-10baf3f7], .zc button.on[data-v-10baf3f7] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+.zc span[data-v-10baf3f7] { font-size: 0.62rem; color: var(--muted);
+}
+.bx[data-v-10baf3f7] { width: 100%; height: auto; background: #fbfbfd; border: 1px solid var(--line); border-radius: 10px; display: block;
+}
+.ax[data-v-10baf3f7] { display: flex; justify-content: space-between; font: 0.6rem 'IBM Plex Mono', monospace; color: var(--muted);
+}
+.rt[data-v-10baf3f7] { background: #f4f7fb; border: 1px solid var(--line); border-radius: 12px; padding: 0.55rem 0.7rem; display: flex; flex-direction: column; gap: 0.4rem;
+}
+.rt .k[data-v-10baf3f7] { font: 600 0.6rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: #004e9f;
+}
+.fl[data-v-10baf3f7] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.3rem;
+}
+.fc[data-v-10baf3f7] { display: flex; gap: 0.35rem; align-items: center; background: #fff; border-radius: 8px; padding: 0.2rem 0.3rem;
+}
+.fc > div[data-v-10baf3f7]:last-child { display: flex; flex-direction: column; font-size: 0.62rem; color: var(--navy);
+}
+.fc b[data-v-10baf3f7] { font-size: 0.64rem;
+}
+.t[data-v-10baf3f7] { width: 2.1rem; height: 2.1rem; border: 1.5px solid; border-radius: 4px; background-image: url(/comi-lectures/_s/img/aim/medmnist/blood.png); background-size: 1200% 800%; flex: none;
+}
+.tg[data-v-10baf3f7] { display: flex; gap: 0.2rem;
+}
+.tg i[data-v-10baf3f7] { font: 600 0.52rem 'IBM Plex Mono', monospace; font-style: normal; padding: 0 0.3rem; border-radius: 99px; background: #eef1f4; color: #b0b8c2;
+}
+.tg i.on[data-v-10baf3f7] { background: #004e9f; color: #fff;
+}
+.tg i:last-child.on[data-v-10baf3f7] { background: #c2255c;
+}
+.no[data-v-10baf3f7] { grid-column: 1 / -1; font-size: 0.72rem; color: var(--muted);
+}
+.rt p[data-v-10baf3f7] { margin: 0; font-size: 0.68rem; color: var(--navy); line-height: 1.35;
+}

@@ -1,0 +1,47 @@
+{
+ "n": 2005,
+ "excluded": 0,
+ "categories": [
+  "very light",
+  "light",
+  "intermediate",
+  "tan",
+  "brown",
+  "dark"
+ ],
+ "counts": [
+  1588,
+  218,
+  118,
+  55,
+  17,
+  9
+ ],
+ "samplesPerRow": [
+  8,
+  8,
+  8,
+  8,
+  8,
+  3
+ ],
+ "classCounts": [
+  66,
+  103,
+  220,
+  23,
+  223,
+  1341,
+  29
+ ],
+ "classes": [
+  "actinic keratosis",
+  "basal cell carcinoma",
+  "benign keratosis",
+  "dermatofibroma",
+  "melanoma",
+  "melanocytic nevus",
+  "vascular lesion"
+ ],
+ "method": "ITA = arctan((L*-50)/b*) of the mean CIELAB colour of the outer 6-px frame (skin around the lesion), Chardon 1991 categories. Frame pixels darker than RGB sum 150 (dermoscope vignette) are skipped; images with <20 usable pixels excluded. Rough proxy: lighting and camera affect it. Angle computed with atan2(L*−50, b*) on the 64-px images (reproduced by notebooks/12_bias.ipynb). Caveat: 667 of 2,005 frames have b* ≤ 0 (bluish dermoscope lighting), where ITA is not meaningful — the estimate is crude."
+}

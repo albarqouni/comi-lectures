@@ -1,0 +1,43 @@
+
+.fa[data-v-4244d610] { display: grid; grid-template-columns: 16rem 1fr; gap: 1rem; align-items: start;
+}
+.ctl[data-v-4244d610] { display: flex; flex-direction: column; gap: 0.55rem; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.7rem 0.85rem;
+}
+label[data-v-4244d610] { display: flex; flex-direction: column; gap: 0.1rem; font-size: 0.76rem;
+}
+label b[data-v-4244d610] { color: var(--rubin);
+}
+label em[data-v-4244d610] { font-size: 0.64rem; color: var(--muted);
+}
+input[type=range][data-v-4244d610] { width: 100%; accent-color: var(--navy);
+}
+.bt[data-v-4244d610] { display: flex; gap: 0.25rem; flex-wrap: wrap;
+}
+.bt button[data-v-4244d610] { font: 600 0.68rem 'Source Sans 3', sans-serif; padding: 0.2rem 0.6rem; border-radius: 99px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.bt button.on[data-v-4244d610] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+.nt[data-v-4244d610] { font-size: 0.72rem; line-height: 1.45; background: var(--teal-t); border-radius: 8px; padding: 0.35rem 0.55rem; color: var(--navy);
+}
+.tb[data-v-4244d610] { display: flex; flex-direction: column; gap: 0.35rem;
+}
+.hr[data-v-4244d610], .r[data-v-4244d610] { display: grid; grid-template-columns: 1.6fr 0.8fr 0.8fr 0.9fr; gap: 0.5rem; align-items: center;
+}
+.hr span[data-v-4244d610] { font: 600 0.58rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.r[data-v-4244d610] { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 0.45rem 0.7rem;
+}
+.r span[data-v-4244d610] { font: 700 1.3rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.r span[data-v-4244d610]:first-child { font: 0.86rem 'Source Sans 3', sans-serif; display: flex; flex-direction: column;
+}
+.r small[data-v-4244d610] { font-size: 0.66rem; color: var(--muted);
+}
+.r span.bad[data-v-4244d610] { color: var(--rubin); font-size: 1rem;
+}
+.r span.ok[data-v-4244d610] { color: var(--teal-d); font-size: 1rem;
+}
+.msg[data-v-4244d610] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.5rem 0.85rem; font: 0.92rem 'Source Serif 4', serif; margin-top: 0.2rem;
+}
+.msg b[data-v-4244d610] { color: var(--gelb);
+}

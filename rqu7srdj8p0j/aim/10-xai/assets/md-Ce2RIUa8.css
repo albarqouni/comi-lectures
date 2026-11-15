@@ -1,0 +1,21 @@
+
+.ex[data-v-95110d92] { display: grid; grid-template-columns: 1fr 1.2fr; gap: 0.9rem; align-items: start;
+}
+.ab[data-v-95110d92] { background: #f6f3ea; border-radius: 12px; padding: 0.7rem 0.9rem;
+}
+.ab .k[data-v-95110d92] { font: 600 0.6rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.ab p[data-v-95110d92] { font: 0.98rem/1.5 'Source Serif 4', serif; margin: 0.3rem 0 0;
+}
+.qs[data-v-95110d92] { display: flex; flex-direction: column; gap: 0.4rem;
+}
+.q[data-v-95110d92] { display: flex; gap: 0.5rem; align-items: flex-start; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 0.45rem 0.7rem; font-size: 0.88rem;
+}
+.q i[data-v-95110d92] { color: var(--rubin); font-size: 1.2rem; flex: none;
+}
+.q b[data-v-95110d92] { color: var(--navy);
+}
+.q.ans[data-v-95110d92] { background: var(--teal-t); border-color: transparent;
+}
+.q.ans i[data-v-95110d92] { color: var(--teal-d);
+}

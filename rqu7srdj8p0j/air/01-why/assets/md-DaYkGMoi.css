@@ -1,0 +1,41 @@
+
+.er[data-v-0d8bc537] { display: flex; flex-direction: column; gap: 0.45rem;
+}
+.strip[data-v-0d8bc537] { display: grid; grid-template-columns: repeat(9, 1fr); gap: 0.3rem;
+}
+.fr[data-v-0d8bc537] { position: relative; padding: 0; border: 3px solid transparent; border-radius: 8px; overflow: hidden; cursor: pointer; background: #000; height: 6rem;
+}
+.fr img[data-v-0d8bc537], .fr[data-v-0d8bc537] .im { width: 100% !important; height: 100% !important; object-fit: cover; display: block; opacity: 0.7;
+}
+.fr[data-v-0d8bc537] figure { height: 100%;
+}
+.fr b[data-v-0d8bc537] { position: absolute; left: 0; right: 0; bottom: 0; font: 700 0.66rem 'IBM Plex Mono', monospace; color: #fff; background: var(--c); padding: 0.05rem 0;
+}
+.fr.on[data-v-0d8bc537] { border-color: var(--c);
+}
+.fr.on img[data-v-0d8bc537], .fr.on[data-v-0d8bc537] .im { opacity: 1;
+}
+.dt[data-v-0d8bc537] { display: grid; grid-template-columns: 14.5rem 1fr; min-height: 14.5rem; gap: 0.8rem; background: var(--card); border: 1px solid var(--line); border-left: 6px solid var(--c); border-radius: 12px; padding: 0.55rem 0.8rem;
+}
+.dt > img[data-v-0d8bc537] { width: 14.5rem; height: 14.5rem; object-fit: cover; border-radius: 8px; background: #000;
+}
+.tx[data-v-0d8bc537] { display: flex; flex-direction: column; gap: 0.3rem;
+}
+.hd[data-v-0d8bc537] { font: 700 1.25rem 'Source Sans 3', sans-serif; color: var(--navy); display: flex; gap: 0.5rem; align-items: baseline;
+}
+.hd b[data-v-0d8bc537] { font: 700 1.5rem 'Source Sans 3', sans-serif; color: var(--c);
+}
+p[data-v-0d8bc537] { margin: 0; font-size: 0.95rem; line-height: 1.45;
+}
+.src[data-v-0d8bc537] { font: italic 0.62rem 'Source Serif 4', serif; color: var(--muted);
+}
+.nav[data-v-0d8bc537] { display: flex; gap: 0.4rem; margin-top: auto;
+}
+.nav button[data-v-0d8bc537] { font: 600 0.64rem 'Source Sans 3', sans-serif; padding: 0.12rem 0.6rem; border-radius: 99px; border: 1px solid var(--navy); background: #fff; color: var(--navy); cursor: pointer;
+}
+.nav button[data-v-0d8bc537]:disabled { opacity: 0.35; cursor: default;
+}
+.lg[data-v-0d8bc537] { display: flex; gap: 0.9rem; font-size: 0.62rem; color: var(--muted);
+}
+.lg i[data-v-0d8bc537] { display: inline-block; width: 0.65rem; height: 0.65rem; border-radius: 3px; margin-right: 0.25rem; vertical-align: -0.08rem;
+}

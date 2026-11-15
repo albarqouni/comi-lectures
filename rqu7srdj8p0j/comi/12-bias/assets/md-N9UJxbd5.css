@@ -1,0 +1,7 @@
+
+.fg[data-v-c622dfda] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.45rem;
+}
+.fg .tk-c[data-v-c622dfda] { font-size: 0.72rem; padding: 0.3rem 0.6rem; line-height: 1.3;
+}
+.fg + .tk-note[data-v-c622dfda] { margin-top: 0.4rem; font-size: 0.74rem; padding: 0.3rem 0.7rem;
+}

@@ -1,0 +1,11 @@
+
+.trk[data-v-9cb89cf7] { position: absolute; top: 5.4rem; right: 2.5rem; font: 600 0.56rem 'IBM Plex Mono', monospace; letter-spacing: 0.1em; text-transform: uppercase; padding: 0.15rem 0.55rem; border-radius: 99px; background: var(--rubin-t); color: var(--rubin-d);
+}
+.mq[data-v-9cb89cf7] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.5rem 0.9rem;
+}
+.mq div[data-v-9cb89cf7] { display: flex; gap: 0.6rem; align-items: center; font-size: 0.95rem; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 0.5rem 0.75rem;
+}
+.mq i[data-v-9cb89cf7] { font-style: normal; width: 1.6rem; height: 1.6rem; flex: none; border-radius: 50%; background: var(--rubin); color: #fff; display: grid; place-items: center; font: 700 0.8rem 'Source Sans 3', sans-serif;
+}
+.mq b[data-v-9cb89cf7] { color: var(--navy);
+}

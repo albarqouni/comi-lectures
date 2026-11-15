@@ -1,0 +1,45 @@
+
+.fl[data-v-0faf6865] { display: grid; grid-template-columns: 16rem 1fr; gap: 1rem; align-items: start;
+}
+.ctl[data-v-0faf6865] { display: flex; flex-direction: column; gap: 0.5rem; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.7rem 0.85rem;
+}
+label[data-v-0faf6865] { display: flex; flex-direction: column; gap: 0.1rem; font-size: 0.76rem;
+}
+label b[data-v-0faf6865] { color: var(--navy);
+}
+input[type=range][data-v-0faf6865] { width: 100%; accent-color: var(--navy);
+}
+.ms[data-v-0faf6865] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.35rem;
+}
+.ms div[data-v-0faf6865] { background: #fff; border: 1px solid var(--line); border-radius: 8px; padding: 0.2rem 0.5rem; display: flex; flex-direction: column;
+}
+.ms .hl[data-v-0faf6865] { background: var(--teal-t); border-color: transparent;
+}
+.ms span[data-v-0faf6865] { font-size: 0.58rem; color: var(--muted);
+}
+.ms b[data-v-0faf6865] { font: 700 1.15rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.ms b.bad[data-v-0faf6865] { color: var(--rubin);
+}
+.nt[data-v-0faf6865] { font-size: 0.74rem; line-height: 1.45; background: #e3ecf8; border-radius: 8px; padding: 0.35rem 0.55rem; color: var(--navy);
+}
+.tb[data-v-0faf6865] { display: flex; flex-direction: column; gap: 0.3rem;
+}
+.hr[data-v-0faf6865], .r[data-v-0faf6865] { display: grid; grid-template-columns: 1.6fr 1fr 1fr 1fr; gap: 0.5rem; align-items: center;
+}
+.hr span[data-v-0faf6865] { font: 600 0.56rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.r[data-v-0faf6865] { background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 0.35rem 0.7rem;
+}
+.r span[data-v-0faf6865] { font: 700 1.1rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.r span[data-v-0faf6865]:first-child { font: 0.86rem 'Source Sans 3', sans-serif;
+}
+.r b[data-v-0faf6865] { color: var(--navy);
+}
+.r span.up[data-v-0faf6865] { color: var(--teal-d);
+}
+.r span.g[data-v-0faf6865] { color: var(--muted);
+}
+.srv[data-v-0faf6865] { font-size: 0.72rem; color: var(--muted); text-align: center; margin-top: 0.2rem;
+}

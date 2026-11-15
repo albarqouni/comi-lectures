@@ -1,0 +1,39 @@
+
+.un[data-v-39bd3ab1] { display: grid; grid-template-columns: 1fr 17rem; gap: 1.2rem; align-items: start;
+}
+.hd[data-v-39bd3ab1] { font: 600 0.56rem 'IBM Plex Mono', monospace; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); margin-bottom: 0.25rem; grid-column: 1 / -1;
+}
+.enc[data-v-39bd3ab1] { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.5rem 0.8rem;
+}
+.lv[data-v-39bd3ab1] { display: flex; flex-direction: column; gap: 0.15rem; cursor: pointer;
+}
+.lv canvas[data-v-39bd3ab1] { width: 100%; height: auto; image-rendering: pixelated; border-radius: 6px; display: block;
+}
+.lv span[data-v-39bd3ab1] { font-size: 0.7rem; color: var(--navy);
+}
+.lv.on span[data-v-39bd3ab1] { font-weight: 700;
+}
+.sk[data-v-39bd3ab1] { font: 600 0.54rem 'IBM Plex Mono', monospace; color: var(--teal-d); font-style: normal;
+}
+.sk.off[data-v-39bd3ab1] { color: var(--rubin);
+}
+.how[data-v-39bd3ab1] { grid-column: 1 / -1; font-size: 0.8rem; line-height: 1.45; background: var(--card); border: 1px solid var(--line); border-left: 4px solid var(--teal); border-radius: 10px; padding: 0.5rem 0.75rem; margin-top: 0.3rem;
+}
+.how b[data-v-39bd3ab1] { color: var(--navy);
+}
+.dec[data-v-39bd3ab1] { display: flex; flex-direction: column; gap: 0.4rem;
+}
+.dec canvas[data-v-39bd3ab1] { width: 100%; height: auto; image-rendering: pixelated; border-radius: 8px; display: block;
+}
+.ctl[data-v-39bd3ab1] { display: flex; align-items: center; gap: 1rem;
+}
+.ctl button[data-v-39bd3ab1] { white-space: nowrap; font: 600 0.74rem 'Source Sans 3', sans-serif; padding: 0.3rem 0.9rem; border-radius: 99px; border: 1.5px solid var(--navy); background: #fff; color: var(--navy); cursor: pointer;
+}
+.ctl button.on[data-v-39bd3ab1] { background: var(--teal); border-color: var(--teal); color: #fff;
+}
+.d[data-v-39bd3ab1] { font-size: 0.74rem; color: var(--muted);
+}
+.d b[data-v-39bd3ab1] { font: 700 1.3rem 'Source Sans 3', sans-serif; color: var(--rubin);
+}
+.note[data-v-39bd3ab1] { font-size: 0.78rem; background: var(--teal-t); border-radius: 8px; padding: 0.35rem 0.6rem; color: var(--navy);
+}

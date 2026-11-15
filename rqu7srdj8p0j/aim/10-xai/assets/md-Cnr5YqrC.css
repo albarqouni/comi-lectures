@@ -1,0 +1,19 @@
+
+.l10av[data-v-69ab7967] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.8rem;
+}
+.l10av .col[data-v-69ab7967] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid var(--rubin); border-radius: 12px; padding: 0.5rem 0.7rem; display: flex; flex-direction: column; gap: 0.35rem;
+}
+.l10av .hd[data-v-69ab7967] { display: flex; gap: 0.4rem; align-items: baseline;
+}
+.l10av .hd i[data-v-69ab7967] { font-size: 1.3rem; color: var(--rubin); align-self: center;
+}
+.l10av .hd b[data-v-69ab7967] { font: 700 1rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.l10av .hd small[data-v-69ab7967] { font-size: 0.66rem; color: var(--muted);
+}
+.l10av .q[data-v-69ab7967] { display: flex; gap: 0.5rem; align-items: flex-start; font-size: 0.84rem; line-height: 1.35;
+}
+.l10av .q > i[data-v-69ab7967] { font-style: normal; flex: none; width: 1.4rem; height: 1.4rem; border-radius: 50%; background: var(--rubin); color: #fff; display: grid; place-items: center; font: 700 0.72rem 'Source Sans 3', sans-serif;
+}
+.l10av .q b[data-v-69ab7967] { color: var(--navy);
+}

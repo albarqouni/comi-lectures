@@ -1,0 +1,48 @@
+
+.ci[data-v-5e631a9f] { display: grid; grid-template-columns: 1.1fr 1fr; gap: 1rem; align-items: start;
+}
+.rank[data-v-5e631a9f] { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.55rem 0.8rem;
+}
+.hd[data-v-5e631a9f] { font: 600 0.56rem 'IBM Plex Mono', monospace; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); margin-bottom: 0.3rem;
+}
+.lst[data-v-5e631a9f] { display: flex; flex-direction: column; gap: 0.2rem;
+}
+.p[data-v-5e631a9f] { display: grid; grid-template-columns: 1.6rem 1fr auto; gap: 0.4rem; align-items: center; background: #fff; border: 1px solid var(--line); border-radius: 6px; padding: 0.15rem 0.5rem; cursor: pointer; font-size: 0.78rem;
+}
+.p b[data-v-5e631a9f] { font: 700 0.9rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.p i[data-v-5e631a9f] { font-style: normal; color: var(--teal-d);
+}
+.p i.ev[data-v-5e631a9f] { color: var(--rubin);
+}
+.mv-move[data-v-5e631a9f] { transition: transform 0.4s;
+}
+.side[data-v-5e631a9f] { display: flex; flex-direction: column; gap: 0.55rem; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.7rem 0.85rem;
+}
+label[data-v-5e631a9f] { display: flex; flex-direction: column; gap: 0.1rem; font-size: 0.76rem;
+}
+label b[data-v-5e631a9f] { color: var(--navy);
+}
+input[type=range][data-v-5e631a9f] { width: 100%; accent-color: var(--navy);
+}
+.btns[data-v-5e631a9f] { display: flex; gap: 0.3rem;
+}
+.btns button[data-v-5e631a9f] { font: 600 0.7rem 'Source Sans 3', sans-serif; padding: 0.22rem 0.75rem; border-radius: 99px; border: 1px solid var(--navy); background: var(--navy); color: #fff; cursor: pointer;
+}
+.btns .ghost[data-v-5e631a9f] { background: #fff; color: var(--navy);
+}
+.big[data-v-5e631a9f] { display: flex; flex-direction: column;
+}
+.big span[data-v-5e631a9f] { font-size: 0.7rem; color: var(--muted);
+}
+.big b[data-v-5e631a9f] { font: 700 2.4rem 'Source Sans 3', sans-serif; color: var(--rubin); line-height: 1;
+}
+.big i[data-v-5e631a9f] { font-size: 0.64rem; color: var(--muted); font-style: normal;
+}
+.pr[data-v-5e631a9f] { font-size: 0.78rem; color: var(--navy);
+}
+.note[data-v-5e631a9f] { font: italic 0.62rem/1.35 'Source Serif 4', serif; color: var(--muted);
+}
+
+.lesson[data-v-61b24aea] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.5rem 0.9rem; font: 0.92rem 'Source Serif 4', serif; display: flex; gap: 0.5rem; align-items: center;
+}

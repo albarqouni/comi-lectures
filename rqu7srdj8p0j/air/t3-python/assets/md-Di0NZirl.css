@@ -1,0 +1,11 @@
+
+.t3pv[data-v-42f18d74] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.55rem;
+}
+.t3pv .tk-c[data-v-42f18d74] { padding: 0.5rem 0.75rem; font-size: 0.8rem; line-height: 1.38;
+}
+.t3pv .tk-c > .ic[data-v-42f18d74] { font-size: 1.4rem;
+}
+.t3pv .k[data-v-42f18d74] { font-size: 0.92rem;
+}
+.t3pv code[data-v-42f18d74] { font: 0.7rem 'IBM Plex Mono', monospace; background: #eef1f5; padding: 0 0.2rem; border-radius: 3px;
+}

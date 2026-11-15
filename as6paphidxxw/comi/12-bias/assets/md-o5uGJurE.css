@@ -1,0 +1,23 @@
+
+.dd[data-v-d2b3ba19] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.8rem;
+}
+.dd .tk-c[data-v-d2b3ba19] { font-size: 0.84rem; display: flex; flex-direction: column; gap: 0.35rem;
+}
+.dd .th4[data-v-d2b3ba19] { display: flex; gap: 0.35rem;
+}
+.dd .tk-bars > div[data-v-d2b3ba19] { grid-template-columns: 9rem 1fr 3.4rem; font-size: 0.8rem;
+}
+.dd b[data-v-d2b3ba19] { color: var(--navy);
+}
+.dd .auc[data-v-d2b3ba19] { display: grid; grid-template-columns: 1.6fr 1fr 1fr; gap: 0.4rem; align-items: center; background: #fff; border-radius: 8px; padding: 0.3rem 0.5rem;
+}
+.dd .auc span[data-v-d2b3ba19] { font-size: 0.72rem; color: var(--muted);
+}
+.dd .auc div[data-v-d2b3ba19] { display: flex; flex-direction: column;
+}
+.dd .auc b[data-v-d2b3ba19] { font: 700 1.5rem/1 'Source Sans 3', sans-serif;
+}
+.dd .auc b.r[data-v-d2b3ba19] { color: var(--rubin);
+}
+.dd .auc em[data-v-d2b3ba19] { font-style: normal; font-size: 0.66rem; color: var(--muted);
+}

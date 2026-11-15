@@ -1,0 +1,11 @@
+
+.mc[data-v-14f67c9d] { display: grid; grid-template-columns: 1.5fr 1fr; gap: 0.8rem; align-items: start;
+}
+.bugs[data-v-14f67c9d] { display: flex; flex-direction: column; gap: 0.45rem;
+}
+.bugs .tk-c[data-v-14f67c9d] { font-size: 0.82rem; padding: 0.45rem 0.7rem; gap: 0.1rem;
+}
+.bugs .ic[data-v-14f67c9d] { font-size: 1.3rem !important;
+}
+.bugs .k[data-v-14f67c9d] { font-size: 0.92rem;
+}

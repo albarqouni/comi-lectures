@@ -1,0 +1,21 @@
+
+.m4hp[data-v-c5afa4d2] { display: grid; grid-template-columns: repeat(5, 1fr); gap: 0.55rem;
+}
+.m4hp .c[data-v-c5afa4d2] { position: relative; background: var(--card); border: 1px solid var(--line); border-top: 4px solid #004e9f; border-radius: 12px; padding: 0.45rem 0.55rem; display: flex; flex-direction: column; gap: 0.3rem;
+}
+.m4hp .c > i[data-v-c5afa4d2] { position: absolute; top: 0.35rem; left: 0.35rem; z-index: 2; font-style: normal; width: 1.5rem; height: 1.5rem; border-radius: 50%; background: var(--gelb); color: var(--navy); display: grid; place-items: center; font: 700 0.8rem 'Source Sans 3', sans-serif;
+}
+.m4hp .c img[data-v-c5afa4d2], .m4hp .c[data-v-c5afa4d2] .im { width: 100% !important; height: 8rem !important; object-fit: cover; border-radius: 8px; background: #000; display: block;
+}
+.m4hp .c b[data-v-c5afa4d2] { font: 700 0.92rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.m4hp .c span[data-v-c5afa4d2] { font-size: 0.78rem; line-height: 1.4;
+}
+.lesson[data-v-c5afa4d2] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.5rem 0.9rem; font: 0.95rem 'Source Serif 4', serif; display: flex; gap: 0.6rem; align-items: center;
+}
+.lesson b[data-v-c5afa4d2] { color: var(--gelb);
+}
+.lesson > i[data-v-c5afa4d2] { color: var(--gelb); font-size: 1.3rem;
+}
+.m4hp .c em[data-v-c5afa4d2] { margin-top: auto; font: 600 0.52rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--teal-d); font-style: normal;
+}

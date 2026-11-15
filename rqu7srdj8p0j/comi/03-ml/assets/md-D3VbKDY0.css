@@ -1,0 +1,17 @@
+
+.frd[data-v-3d4ad72f] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.55rem;
+}
+.frd .fc[data-v-3d4ad72f] { background: var(--card); border: 1px solid var(--line); border-top: 4px solid var(--teal); border-radius: 12px; padding: 0.45rem 0.65rem; display: flex; flex-direction: column; gap: 0.15rem;
+}
+.frd .tp[data-v-3d4ad72f] { display: flex; align-items: center; gap: 0.35rem; font: 600 0.55rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--teal-d);
+}
+.frd .tp i[data-v-3d4ad72f] { font-size: 1.15rem;
+}
+.frd a[data-v-3d4ad72f] { font: 700 0.9rem/1.2 'Source Sans 3', sans-serif; color: var(--navy); text-decoration: underline; text-decoration-color: var(--teal); text-underline-offset: 2px;
+}
+.frd small[data-v-3d4ad72f] { font-size: 0.62rem; color: var(--muted); line-height: 1.3;
+}
+.frd .wy[data-v-3d4ad72f] { font-size: 0.72rem; color: var(--navy); line-height: 1.32;
+}
+.frd .our[data-v-3d4ad72f] { margin-top: auto; font-size: 0.6rem; color: #004e9f; display: flex; gap: 0.25rem; align-items: center;
+}

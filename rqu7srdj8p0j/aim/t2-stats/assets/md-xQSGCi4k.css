@@ -1,0 +1,41 @@
+
+.mh[data-v-3524fdf9] { display: grid; grid-template-columns: 19rem 1fr; gap: 0.9rem; align-items: start;
+}
+.sc[data-v-3524fdf9] { width: 19rem; height: 19rem; background: #fbfbfd; border: 1px solid var(--line); border-radius: 10px; display: block;
+}
+.rt[data-v-3524fdf9] { display: flex; flex-direction: column; gap: 0.35rem; font-size: 0.95rem; color: var(--navy);
+}
+.pk[data-v-3524fdf9] { display: flex; flex-wrap: wrap; gap: 0.25rem; align-items: center;
+}
+.pk button[data-v-3524fdf9] { font: 600 0.64rem 'Source Sans 3', sans-serif; padding: 0.12rem 0.5rem; border-radius: 99px; border: 1px solid #c9d2dd; background: #fff; color: var(--navy); cursor: pointer;
+}
+.pk button.on[data-v-3524fdf9] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+.pk span[data-v-3524fdf9] { font: 0.64rem 'IBM Plex Mono', monospace; color: var(--muted); margin-left: 0.3rem;
+}
+.cd[data-v-3524fdf9] { display: flex; gap: 0.5rem; align-items: center;
+}
+.t[data-v-3524fdf9] { width: 2.6rem; height: 2.6rem; border: 2px solid; border-radius: 5px; background-image: url(/comi-lectures/_s/img/aim/medmnist/blood.png); background-size: 1200% 800%; flex: none;
+}
+.nm[data-v-3524fdf9] { display: flex; flex-direction: column;
+}
+.nm b[data-v-3524fdf9] { font-size: 0.82rem;
+}
+.nm span[data-v-3524fdf9] { font-size: 0.64rem; color: var(--muted);
+}
+.nums[data-v-3524fdf9] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.35rem;
+}
+.nums > div[data-v-3524fdf9] { background: #f4f7fb; border: 1px solid var(--line); border-radius: 8px; padding: 0.25rem 0.45rem; display: flex; flex-direction: column;
+}
+.nums span[data-v-3524fdf9] { font-size: 0.56rem; color: var(--muted); text-transform: uppercase; font-weight: 600;
+}
+.nums b[data-v-3524fdf9] { font: 700 1.25rem 'Source Sans 3', sans-serif; color: #004e9f;
+}
+.nums small[data-v-3524fdf9] { font-size: 0.56rem; color: var(--muted);
+}
+.nums .hot[data-v-3524fdf9] { background: #fde8ef; border-color: #f3b6c9;
+}
+.nums .hot b[data-v-3524fdf9] { color: #c2255c;
+}
+.rt p[data-v-3524fdf9] { margin: 0; font-size: 0.7rem; line-height: 1.35;
+}

@@ -1,0 +1,23 @@
+
+.t3wl[data-v-5734df08] { display: flex; flex-direction: column; gap: 0.25rem;
+}
+.t3wl .t3rw[data-v-5734df08] { display: grid; grid-template-columns: 15rem 7.5rem 1fr; gap: 0.6rem; align-items: center; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 0.25rem 0.6rem;
+}
+.t3wl .task[data-v-5734df08] { display: flex; gap: 0.4rem; align-items: center; font-size: 0.8rem; color: var(--navy);
+}
+.t3wl .task i[data-v-5734df08] { font-size: 1.15rem; color: var(--teal-d);
+}
+.t3wl .lib[data-v-5734df08] { font: 700 0.8rem 'Source Sans 3', sans-serif; color: #fff; border-radius: 99px; padding: 0.1rem 0.6rem; text-align: center;
+}
+.t3wl .np[data-v-5734df08] { background: #004e9f;
+}
+.t3wl .pd[data-v-5734df08], .t3wl .sk[data-v-5734df08], .t3wl .pt[data-v-5734df08] { background: #2f6db0;
+}
+.t3wl .mon[data-v-5734df08], .t3wl .mm[data-v-5734df08] { background: var(--teal-d);
+}
+.t3wl .pl2[data-v-5734df08] { background: var(--navy);
+}
+.t3wl .t3ex[data-v-5734df08] { font-size: 0.72rem; color: var(--muted);
+}
+.t3wl .cd[data-v-5734df08], .t3wl ~ .tk-note .cd[data-v-5734df08] { font: 0.66rem 'IBM Plex Mono', monospace; background: #eef1f5; padding: 0 0.2rem; border-radius: 3px; color: var(--navy);
+}

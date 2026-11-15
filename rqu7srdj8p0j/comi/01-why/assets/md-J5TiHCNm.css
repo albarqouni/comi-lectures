@@ -1,0 +1,48 @@
+
+.ho[data-v-481c21d2] { display: flex; flex-direction: column; gap: 0.45rem;
+}
+.sl input[data-v-481c21d2] { width: 100%; accent-color: var(--rubin); margin: 0;
+}
+.lb[data-v-481c21d2] { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.35rem;
+}
+.lb button[data-v-481c21d2] { font: 600 0.85rem 'Source Sans 3', sans-serif; padding: 0.45rem; border-radius: 8px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer; display: flex; gap: 0.3rem; align-items: center; justify-content: center;
+}
+.lb button.on[data-v-481c21d2] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+.dt[data-v-481c21d2] { display: grid; grid-template-columns: 1fr 1.2fr; gap: 0.6rem;
+}
+.who[data-v-481c21d2] { display: flex; flex-direction: column; gap: 0.5rem;
+}
+.r[data-v-481c21d2] { display: flex; gap: 0.45rem; align-items: flex-start; border-radius: 10px; padding: 0.6rem 0.7rem; font-size: 0.92rem; line-height: 1.4;
+}
+.r > i[data-v-481c21d2] { font-size: 1.7rem; flex: none;
+}
+.r span[data-v-481c21d2] { display: flex; flex-direction: column;
+}
+.r b[data-v-481c21d2] { font: 600 0.56rem 'IBM Plex Mono', monospace; text-transform: uppercase; letter-spacing: 0.05em;
+}
+.r.ai[data-v-481c21d2] { background: #e3ecf8;
+}
+.r.ai > i[data-v-481c21d2], .r.ai b[data-v-481c21d2] { color: #004e9f;
+}
+.r.hu[data-v-481c21d2] { background: var(--teal-t);
+}
+.r.hu > i[data-v-481c21d2], .r.hu b[data-v-481c21d2] { color: var(--teal-d);
+}
+.r.cd[data-v-481c21d2] { background: #fff8db;
+}
+.r.cd > i[data-v-481c21d2], .r.cd b[data-v-481c21d2] { color: #8a6d00;
+}
+.ex[data-v-481c21d2] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid var(--rubin); border-radius: 12px; padding: 0.7rem 0.9rem; min-height: 15rem; display: flex; flex-direction: column; gap: 0.3rem;
+}
+.n[data-v-481c21d2] { font: 700 2.1rem/1.1 'Source Sans 3', sans-serif; color: var(--rubin);
+}
+p[data-v-481c21d2] { margin: 0; font-size: 0.95rem; line-height: 1.5;
+}
+.src[data-v-481c21d2] { margin-top: auto; font: italic 0.62rem 'Source Serif 4', serif; color: var(--muted);
+}
+
+.lesson[data-v-5bd96e3d] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.5rem 0.9rem; font: 0.95rem 'Source Serif 4', serif; display: flex; gap: 0.6rem; align-items: center;
+}
+.lesson b[data-v-5bd96e3d] { color: var(--gelb);
+}

@@ -1,0 +1,11 @@
+
+.trk[data-v-4bdd56e5] { position: absolute; top: 5.4rem; right: 2.5rem; font: 600 0.56rem 'IBM Plex Mono', monospace; letter-spacing: 0.1em; text-transform: uppercase; padding: 0.15rem 0.55rem; border-radius: 99px;
+}
+.trk.cs[data-v-4bdd56e5] { background: #e3ecf8; color: #004e9f;
+}
+.six[data-v-4bdd56e5] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.7rem;
+}
+.six div[data-v-4bdd56e5] { background: var(--card); border: 1px solid var(--line); border-left: 4px solid #004e9f; border-radius: 10px; padding: 0.65rem 0.85rem; font-size: 0.84rem; line-height: 1.4;
+}
+.six b[data-v-4bdd56e5] { display: block; font: 700 1rem 'Source Sans 3', sans-serif; color: var(--navy); margin-bottom: 0.2rem;
+}

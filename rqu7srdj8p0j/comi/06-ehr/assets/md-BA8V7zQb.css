@@ -1,0 +1,13 @@
+
+.tte[data-v-3b2df08f] { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;
+}
+.tte .cd[data-v-3b2df08f] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid var(--navy); border-radius: 14px; padding: 0.8rem 1rem; font-size: 0.98rem; line-height: 1.5;
+}
+.tte .cd.red[data-v-3b2df08f] { border-top-color: var(--rubin);
+}
+.tte .k[data-v-3b2df08f] { font: 700 1.1rem 'Source Sans 3', sans-serif; color: var(--navy); margin-bottom: 0.3rem;
+}
+.tte b[data-v-3b2df08f] { color: var(--navy);
+}
+.lesson[data-v-3b2df08f] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.55rem 0.9rem; font: 1rem 'Source Serif 4', serif; display: flex; gap: 0.6rem; align-items: center;
+}

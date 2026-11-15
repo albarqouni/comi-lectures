@@ -1,0 +1,39 @@
+
+.cn[data-v-715533c0] { display: grid; grid-template-columns: 1.4fr 1fr; gap: 0.9rem;
+}
+.lf[data-v-715533c0] { display: flex; flex-direction: column; gap: 0.35rem;
+}
+.tb[data-v-715533c0] { display: flex; gap: 0.3rem;
+}
+.tb button[data-v-715533c0] { display: flex; gap: 0.3rem; align-items: center; font: 600 0.74rem 'Source Sans 3', sans-serif; padding: 0.2rem 0.7rem; border-radius: 99px; border: 1px solid #c9d2dd; background: #fff; color: var(--navy); cursor: pointer;
+}
+.tb button.on[data-v-715533c0] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+.q[data-v-715533c0] { font: italic 0.85rem 'Source Serif 4', serif; color: var(--navy);
+}
+.pl svg[data-v-715533c0] { width: 100%; height: 10rem; background: #fbfbfd; border: 1px solid var(--line); border-radius: 8px; display: block;
+}
+.xl[data-v-715533c0] { display: flex;
+}
+.xl span[data-v-715533c0] { text-align: center; font: 0.54rem 'IBM Plex Mono', monospace; color: var(--muted);
+}
+.sl[data-v-715533c0] { display: flex; gap: 0.8rem;
+}
+.sl label[data-v-715533c0] { display: flex; flex-direction: column; flex: 1; font: 600 0.66rem 'IBM Plex Mono', monospace; color: var(--navy);
+}
+.sl input[data-v-715533c0] { width: 100%; accent-color: #004e9f;
+}
+.rt[data-v-715533c0] { background: #f4f7fb; border: 1px solid var(--line); border-radius: 12px; padding: 0.55rem 0.8rem; display: flex; flex-direction: column; gap: 0.35rem; color: var(--navy); font-size: 0.85rem;
+}
+.rt .k[data-v-715533c0] { font: 600 0.6rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: #004e9f;
+}
+.nm[data-v-715533c0] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.3rem;
+}
+.nm > div[data-v-715533c0] { background: #fff; border-radius: 8px; padding: 0.2rem 0.4rem; display: flex; flex-direction: column;
+}
+.nm span[data-v-715533c0] { font-size: 0.56rem; color: var(--muted); text-transform: uppercase; font-weight: 600;
+}
+.nm b[data-v-715533c0] { font: 700 1.1rem 'Source Sans 3', sans-serif; color: #004e9f;
+}
+.rt p[data-v-715533c0] { margin: 0; font-size: 0.7rem; line-height: 1.35;
+}

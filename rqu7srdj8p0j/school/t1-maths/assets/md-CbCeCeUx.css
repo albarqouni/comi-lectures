@@ -1,0 +1,11 @@
+
+.t1c[data-v-39be73ab] { display: grid; grid-template-columns: 1.45fr 1fr; gap: 0.8rem; align-items: start;
+}
+.t1c pre[data-v-39be73ab] { font-size: 0.6rem !important;
+}
+.t1cr[data-v-39be73ab] { display: flex; flex-direction: column; gap: 0.45rem;
+}
+.t1cr .tk-c[data-v-39be73ab] { font-size: 0.74rem; padding: 0.45rem 0.6rem;
+}
+.t1cr code[data-v-39be73ab] { font-size: 0.7rem;
+}

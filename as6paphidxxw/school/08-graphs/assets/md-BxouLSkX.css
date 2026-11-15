@@ -1,0 +1,9 @@
+
+.rp7[data-v-ce01d65c] { display: grid; grid-template-columns: 1.5fr 1fr; gap: 0.8rem; align-items: start;
+}
+.rp7 .tk-list > div[data-v-ce01d65c] { font-size: 0.84rem; padding: 0.28rem 0.6rem;
+}
+.rp7 b[data-v-ce01d65c] { color: var(--navy);
+}
+.rp7 .tk-c[data-v-ce01d65c] { font-size: 0.86rem; display: flex; flex-direction: column; gap: 0.35rem;
+}

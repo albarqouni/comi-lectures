@@ -1,0 +1,17 @@
+
+.gl[data-v-304156f7] { display: grid; grid-template-columns: 1fr 1.5fr; gap: 0.9rem;
+}
+.gl .cd[data-v-304156f7] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid #b88a00; border-radius: 14px; padding: 0.7rem 0.9rem; display: flex; flex-direction: column; gap: 0.35rem; font-size: 0.9rem;
+}
+.gl .k[data-v-304156f7] { display: flex; gap: 0.3rem; align-items: center; font: 600 0.62rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--navy);
+}
+.gl .k i[data-v-304156f7] { color: #b88a00; font-size: 1.05rem;
+}
+.gl .big[data-v-304156f7] { font: 700 2.6rem/1 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.gl .tk-bars > div[data-v-304156f7] { grid-template-columns: 11rem 1fr 3.6rem; font-size: 0.84rem;
+}
+.gl small[data-v-304156f7] { font-size: 0.74rem; color: var(--muted);
+}
+.lesson[data-v-304156f7] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.5rem 0.9rem; font: italic 0.98rem 'Source Serif 4', serif;
+}

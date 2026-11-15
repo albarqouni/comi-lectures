@@ -1,0 +1,51 @@
+
+.kl[data-v-b206a5fb] { display: grid; grid-template-columns: 1.45fr 1fr; gap: 0.9rem;
+}
+.lf[data-v-b206a5fb] { display: flex; flex-direction: column; gap: 0.3rem;
+}
+.ch[data-v-b206a5fb] { display: flex; flex-wrap: wrap; gap: 0.2rem; align-items: center;
+}
+.ch button[data-v-b206a5fb] { font: 600 0.6rem 'Source Sans 3', sans-serif; padding: 0.1rem 0.45rem; border-radius: 99px; border: 1px solid #c9d2dd; background: #fff; color: var(--navy); cursor: pointer;
+}
+.ch button.on[data-v-b206a5fb] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+.ch .pp[data-v-b206a5fb], .ch .qq[data-v-b206a5fb] { font: 700 0.75rem 'IBM Plex Mono', monospace; width: 1.1rem;
+}
+.pp[data-v-b206a5fb], .c1[data-v-b206a5fb] { color: #004e9f;
+}
+.qq[data-v-b206a5fb], .c2[data-v-b206a5fb] { color: #f08c00;
+}
+.bars[data-v-b206a5fb] { display: grid; grid-template-columns: repeat(8, 1fr); gap: 0.35rem; background: #fbfbfd; border: 1px solid var(--line); border-radius: 10px; padding: 0.4rem;
+}
+.cl[data-v-b206a5fb] { display: flex; flex-direction: column; gap: 0.2rem; align-items: stretch;
+}
+.cl span[data-v-b206a5fb] { font-size: 0.54rem; text-align: center; line-height: 1.1; font-weight: 600; height: 1.3rem;
+}
+.pair[data-v-b206a5fb] { height: 8.5rem; display: flex; gap: 2px; align-items: flex-end; border-bottom: 1px solid #9aa5b1;
+}
+.pair i[data-v-b206a5fb] { flex: 1; border-radius: 2px 2px 0 0; transition: height 0.2s;
+}
+.pb[data-v-b206a5fb] { background: #004e9f;
+}
+.qb[data-v-b206a5fb] { background: #f08c00;
+}
+.tm[data-v-b206a5fb] { height: 0.5rem; background: #eef1f4; border-radius: 2px; overflow: hidden;
+}
+.tm i[data-v-b206a5fb] { display: block; height: 100%;
+}
+.cap[data-v-b206a5fb] { font-size: 0.6rem; color: var(--muted);
+}
+.rt[data-v-b206a5fb] { background: #f4f7fb; border: 1px solid var(--line); border-radius: 12px; padding: 0.55rem 0.75rem; display: flex; flex-direction: column; gap: 0.4rem; color: var(--navy); font-size: 0.85rem;
+}
+.nm[data-v-b206a5fb] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.3rem;
+}
+.nm > div[data-v-b206a5fb] { background: #fff; border-radius: 8px; padding: 0.2rem 0.45rem; display: flex; flex-direction: column;
+}
+.nm span[data-v-b206a5fb] { font-size: 0.58rem; color: var(--muted); font-weight: 600;
+}
+.nm b[data-v-b206a5fb] { font: 700 1.2rem 'Source Sans 3', sans-serif; color: #c2255c;
+}
+.nm b.g[data-v-b206a5fb] { color: #004e9f; font-size: 1rem;
+}
+.rt p[data-v-b206a5fb] { margin: 0; font-size: 0.68rem; line-height: 1.35;
+}

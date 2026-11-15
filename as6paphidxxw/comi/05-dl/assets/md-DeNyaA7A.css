@@ -1,0 +1,11 @@
+
+.qw[data-v-58c58aad] { display: grid; grid-template-columns: 1.4fr 1fr; gap: 0.8rem;
+}
+.qw .tk-c[data-v-58c58aad] { font-size: 0.88rem;
+}
+.wm[data-v-58c58aad] { border-collapse: separate; border-spacing: 2px;
+}
+.wm td[data-v-58c58aad] { width: 2.6rem; height: 1.6rem; text-align: center; font: 0.7rem 'IBM Plex Mono', monospace; border-radius: 4px;
+}
+.wm tr:first-child td[data-v-58c58aad] { height: 0;
+}

@@ -1,0 +1,45 @@
+
+.ag[data-v-3650acb8] { display: grid; grid-template-columns: 1fr 15rem; gap: 1rem; align-items: start;
+}
+.loop[data-v-3650acb8] { display: flex; flex-direction: column; gap: 0.3rem; min-height: 16rem; max-height: 21rem; overflow: hidden;
+}
+.st[data-v-3650acb8] { display: grid; grid-template-columns: 6rem 1fr; gap: 0.5rem; align-items: center; background: var(--card); border: 1px solid var(--line); border-left: 4px solid var(--navy); border-radius: 8px; padding: 0.3rem 0.6rem; animation: in-3650acb8 0.35s ease;
+}
+@keyframes in-3650acb8 {
+from { opacity: 0; transform: translateY(6px)
+}
+to { opacity: 1; transform: none
+}
+}
+.st span[data-v-3650acb8] { font: 600 0.62rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.st p[data-v-3650acb8] { margin: 0; font-size: 0.8rem; line-height: 1.35;
+}
+.st.tool p[data-v-3650acb8] { font-family: 'IBM Plex Mono', monospace; font-size: 0.72rem; color: var(--navy);
+}
+.st.tool[data-v-3650acb8] { border-left-color: #7b8ba3;
+}
+.st.obs[data-v-3650acb8] { border-left-color: var(--teal);
+}
+.st.human[data-v-3650acb8] { border-left-color: var(--gelb); background: #fff8e0;
+}
+.st.answer[data-v-3650acb8] { border-left-color: var(--teal-d); background: var(--teal-t); font-weight: 600;
+}
+.st.bad[data-v-3650acb8] { border-left-color: var(--rubin); background: var(--rubin-t);
+}
+.st.bad p[data-v-3650acb8] { color: var(--rubin-d);
+}
+.hint[data-v-3650acb8] { color: var(--muted); font-style: italic; font-size: 0.9rem; padding: 1rem;
+}
+.ctl[data-v-3650acb8] { display: flex; flex-direction: column; gap: 0.55rem; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.7rem 0.85rem;
+}
+.bt[data-v-3650acb8] { display: flex; flex-wrap: wrap; gap: 0.25rem;
+}
+.bt button[data-v-3650acb8] { font: 600 0.68rem 'Source Sans 3', sans-serif; padding: 0.2rem 0.65rem; border-radius: 99px; border: 1px solid var(--navy); background: var(--navy); color: #fff; cursor: pointer;
+}
+.bt button.g[data-v-3650acb8] { background: #fff; color: var(--navy);
+}
+label[data-v-3650acb8] { display: flex; gap: 0.35rem; align-items: center; font-size: 0.76rem; cursor: pointer;
+}
+.nt[data-v-3650acb8] { font-size: 0.76rem; line-height: 1.45; background: #e3ecf8; border-radius: 8px; padding: 0.4rem 0.6rem; color: var(--navy);
+}

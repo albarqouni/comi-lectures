@@ -1,0 +1,47 @@
+
+.sy[data-v-bf030cf2] { display: grid; grid-template-columns: 18.5rem 1fr; gap: 0.9rem;
+}
+.pl[data-v-bf030cf2] { border: 1px solid var(--line); border-radius: 10px; overflow: hidden; height: 18.5rem;
+}
+.pl svg[data-v-bf030cf2] { width: 100%; height: 100%; display: block;
+}
+.sd[data-v-bf030cf2] { display: flex; flex-direction: column; gap: 0.4rem;
+}
+.k[data-v-bf030cf2] { font: 600 0.58rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: #004e9f;
+}
+.bt[data-v-bf030cf2] { display: flex; gap: 0.25rem; flex-wrap: wrap;
+}
+.bt button[data-v-bf030cf2] { font: 600 0.66rem 'Source Sans 3', sans-serif; padding: 0.12rem 0.5rem; border-radius: 99px; border: 1.5px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.bt button.on[data-v-bf030cf2] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+.cs[data-v-bf030cf2] { border-radius: 9px; padding: 0.3rem 0.6rem; display: flex; align-items: center; gap: 0.6rem; font-size: 0.78rem; color: var(--navy);
+}
+.cs b[data-v-bf030cf2] { font: 700 0.8rem 'IBM Plex Mono', monospace;
+}
+.cs.u[data-v-bf030cf2] { background: #e3ecf8;
+}
+.cs.e[data-v-bf030cf2] { background: var(--teal-t);
+}
+.cs.o[data-v-bf030cf2] { background: var(--gelb);
+}
+.rd[data-v-bf030cf2] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.25rem;
+}
+.rd > div[data-v-bf030cf2] { background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 0.2rem 0.45rem; display: flex; flex-direction: column;
+}
+.rd span[data-v-bf030cf2] { font: 600 0.52rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.rd b[data-v-bf030cf2] { font: 600 0.8rem 'IBM Plex Mono', monospace; color: var(--navy);
+}
+.ls[data-v-bf030cf2] { display: flex; flex-direction: column; gap: 0.15rem; font-size: 0.74rem; color: var(--navy);
+}
+.ls > div[data-v-bf030cf2] { display: flex; align-items: center; gap: 0.4rem;
+}
+.ls i[data-v-bf030cf2] { width: 0.6rem; height: 0.6rem; border-radius: 50%; flex: none;
+}
+.ls em[data-v-bf030cf2] { font-size: 0.6rem; color: var(--muted); font-style: normal;
+}
+.ls .more[data-v-bf030cf2] { font-size: 0.64rem; color: var(--muted);
+}
+small[data-v-bf030cf2] { font-size: 0.6rem; color: var(--muted);
+}

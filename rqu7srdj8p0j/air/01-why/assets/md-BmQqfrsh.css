@@ -1,0 +1,27 @@
+
+.m4rr[data-v-57045ba7] { display: grid; grid-template-columns: 1.1fr 1fr; gap: 0.9rem;
+}
+.m4rr .q[data-v-57045ba7] { background: var(--navy); color: #fff; border-radius: 14px; padding: 0.7rem 0.9rem; display: flex; flex-direction: column; gap: 0.4rem;
+}
+.m4rr .q .k[data-v-57045ba7] { color: var(--gelb);
+}
+.m4rr .k[data-v-57045ba7] { font: 600 0.6rem 'IBM Plex Mono', monospace; text-transform: uppercase; letter-spacing: 0.06em; color: var(--navy); display: flex; gap: 0.3rem; align-items: center;
+}
+.m4rr blockquote[data-v-57045ba7] { margin: 0; font: italic 1.3rem/1.4 'Source Serif 4', serif; border: none; padding: 0;
+}
+.m4rr .q small[data-v-57045ba7] { color: #cfe0f0; font-size: 0.72rem; line-height: 1.35;
+}
+.m4rr .wh[data-v-57045ba7] { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 0.7rem 0.9rem; display: flex; flex-direction: column; gap: 0.45rem;
+}
+.m4rr .wh small[data-v-57045ba7] { font-size: 0.88rem; line-height: 1.5;
+}
+.m4rr .wh .tk-bars > div[data-v-57045ba7] { grid-template-columns: 13rem 1fr 3.4rem;
+}
+.m4lq[data-v-57045ba7] { display: flex; gap: 0.6rem; align-items: center; background: var(--gelb); color: var(--navy); border-radius: 12px; padding: 0.5rem 0.9rem;
+}
+.m4lq > i[data-v-57045ba7] { font-size: 1.6rem; flex: none;
+}
+.m4lq span[data-v-57045ba7] { font: 700 1.15rem 'Source Serif 4', serif;
+}
+.m4lq em[data-v-57045ba7] { margin-left: auto; font-size: 0.7rem;
+}

@@ -1,0 +1,21 @@
+
+.tw[data-v-38fcfdf9] { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.65rem;
+}
+.tw .c[data-v-38fcfdf9] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid var(--teal); border-radius: 12px; padding: 0.6rem 0.75rem; display: flex; flex-direction: column; gap: 0.25rem;
+}
+.tw .c[data-v-38fcfdf9] { min-height: 15rem;
+}
+.tw .c > i[data-v-38fcfdf9] { font-size: 1.7rem; color: var(--teal-d);
+}
+.tw b[data-v-38fcfdf9] { font: 700 1.05rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.tw span[data-v-38fcfdf9] { font-size: 0.82rem;
+}
+.tw small[data-v-38fcfdf9] { font-size: 0.68rem; color: var(--muted); margin-top: auto;
+}
+.ex[data-v-38fcfdf9] { display: flex; gap: 0.4rem; align-items: center; background: #f6f8fb; border-radius: 8px; padding: 0.3rem;
+}
+.ex em[data-v-38fcfdf9] { font: 0.72rem 'IBM Plex Mono', monospace; color: var(--rubin-d); font-style: normal;
+}
+.lesson[data-v-38fcfdf9] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.5rem 0.9rem; font: italic 1rem 'Source Serif 4', serif;
+}

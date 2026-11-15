@@ -1,0 +1,35 @@
+
+.cp[data-v-3abed3cf] { display: grid; grid-template-columns: 1.2fr 1fr; gap: 0.9rem; align-items: start;
+}
+.gr[data-v-3abed3cf] { display: grid; grid-template-columns: repeat(12, 1fr); gap: 4px; padding: 0.4rem; background: #fbfbfd; border: 1px solid var(--line); border-radius: 10px;
+}
+.t[data-v-3abed3cf] { aspect-ratio: 1; border-radius: 4px; background-image: url(/comi-lectures/_s/img/aim/medmnist/blood.png); background-size: 1200% 800%; opacity: 0.28; filter: grayscale(0.8); transition: all 0.2s;
+}
+.t.b[data-v-3abed3cf] { opacity: 1; filter: none; transform: translateY(-1px); box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+}
+.t.a[data-v-3abed3cf] { outline: 2.5px solid; outline-offset: 1px;
+}
+.rt[data-v-3abed3cf] { display: flex; flex-direction: column; gap: 0.35rem; color: var(--navy); font-size: 0.85rem;
+}
+.ch[data-v-3abed3cf] { display: flex; gap: 0.35rem; align-items: center; font-size: 0.74rem;
+}
+.ch select[data-v-3abed3cf] { font: 600 0.72rem 'Source Sans 3', sans-serif; border: 1px solid #c9d2dd; border-radius: 6px; padding: 0.1rem 0.3rem; color: var(--navy); background: #fff;
+}
+.sl[data-v-3abed3cf] { display: flex; flex-direction: column; font: 600 0.62rem 'IBM Plex Mono', monospace;
+}
+.sl input[data-v-3abed3cf] { accent-color: #004e9f;
+}
+.vs[data-v-3abed3cf] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.3rem;
+}
+.vs > div[data-v-3abed3cf] { background: #f4f7fb; border-radius: 8px; padding: 0.25rem 0.45rem; display: flex; flex-direction: column;
+}
+.vs .w[data-v-3abed3cf] { grid-column: span 2;
+}
+.vs .hl[data-v-3abed3cf], .vs .hl2[data-v-3abed3cf] { grid-column: span 2; background: #fff8db; border: 1px solid #f0d36b;
+}
+.vs .hl2[data-v-3abed3cf] { background: #e3ecf8; border-color: #b9cde8;
+}
+.vs span[data-v-3abed3cf]:not(.tex) { font-size: 0.58rem; color: var(--muted); font-weight: 600;
+}
+.rt p[data-v-3abed3cf] { margin: 0; font-size: 0.68rem; line-height: 1.35;
+}

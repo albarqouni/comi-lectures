@@ -1,0 +1,9 @@
+
+.dd[data-v-07615a9a] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.8rem;
+}
+.dd .cd[data-v-07615a9a] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid #004e9f; border-radius: 12px; padding: 0.75rem 0.9rem; font-size: 0.9rem; line-height: 1.5;
+}
+.dd .k[data-v-07615a9a] { font: 700 1.02rem 'Source Sans 3', sans-serif; color: var(--navy); margin-bottom: 0.3rem;
+}
+.dd b[data-v-07615a9a] { color: var(--navy);
+}

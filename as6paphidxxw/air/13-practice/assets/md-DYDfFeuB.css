@@ -1,0 +1,51 @@
+
+.rc[data-v-a4534583] { display: grid; grid-template-columns: 14rem 1fr; gap: 1rem; align-items: start;
+}
+.pl[data-v-a4534583] { display: flex; flex-direction: column; gap: 0.3rem;
+}
+.pl button[data-v-a4534583] { font: 600 0.78rem 'Source Sans 3', sans-serif; padding: 0.35rem 0.7rem; border-radius: 10px; border: 1px solid var(--line); background: var(--card); color: var(--navy); cursor: pointer; text-align: left;
+}
+.pl button.on[data-v-a4534583] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+.qs[data-v-a4534583] { display: flex; flex-direction: column; gap: 0.45rem;
+}
+.pd[data-v-a4534583] { font-size: 0.92rem; background: #e3ecf8; border-radius: 10px; padding: 0.45rem 0.75rem;
+}
+.pd b[data-v-a4534583] { color: var(--navy);
+}
+.q[data-v-a4534583] { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 0.45rem 0.7rem; display: flex; flex-direction: column; gap: 0.3rem; animation: in-a4534583 0.3s ease;
+}
+@keyframes in-a4534583 {
+from { opacity: 0; transform: translateY(5px)
+}
+to { opacity: 1
+}
+}
+.q span[data-v-a4534583] { font-size: 0.84rem; color: var(--ink);
+}
+.q div[data-v-a4534583] { display: flex; gap: 0.3rem; flex-wrap: wrap;
+}
+.q button[data-v-a4534583] { font: 600 0.7rem 'Source Sans 3', sans-serif; padding: 0.2rem 0.7rem; border-radius: 99px; border: 1px solid var(--navy); background: #fff; color: var(--navy); cursor: pointer;
+}
+.q button.on[data-v-a4534583] { background: var(--navy); color: #fff;
+}
+.res[data-v-a4534583] { display: grid; grid-template-columns: 1fr 1.4fr; gap: 0.5rem; animation: in-a4534583 0.3s ease;
+}
+.res .c[data-v-a4534583] { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 0.45rem 0.75rem; display: flex; flex-direction: column;
+}
+.res .c.hr[data-v-a4534583] { background: var(--rubin-t); border-color: transparent;
+}
+.res .c.hr b[data-v-a4534583] { color: var(--rubin);
+}
+.res span[data-v-a4534583] { font: 600 0.56rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.res b[data-v-a4534583] { font: 700 1.3rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.res i[data-v-a4534583] { font-size: 0.7rem; color: var(--muted); font-style: normal;
+}
+.v[data-v-a4534583] { grid-column: 1 / -1; font: 600 0.82rem 'Source Sans 3', sans-serif; border-radius: 8px; padding: 0.3rem 0.6rem;
+}
+.v.ok[data-v-a4534583] { background: var(--teal-t); color: var(--teal-d);
+}
+.v.no[data-v-a4534583] { background: #fff4d6; color: #8a6400;
+}

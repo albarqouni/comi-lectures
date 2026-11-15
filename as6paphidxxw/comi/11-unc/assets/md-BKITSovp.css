@@ -1,0 +1,7 @@
+
+.l11td[data-v-510db06f] { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.4rem;
+}
+.l11td > div[data-v-510db06f] { background: var(--gelb); border-radius: 8px; padding: 0.25rem 0.5rem; display: flex; flex-direction: column; font-size: 0.78rem; color: var(--navy);
+}
+.l11td > div > span[data-v-510db06f]:not(.tex) { font: 600 0.54rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: #6b5800;
+}

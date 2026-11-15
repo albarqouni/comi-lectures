@@ -1,0 +1,57 @@
+
+.fp[data-v-df2054bc] { min-height: 17.5rem; display: grid; grid-template-columns: 4.6rem 1.15fr 1fr; gap: 0.6rem; align-items: stretch;
+}
+.yrs[data-v-df2054bc] { display: flex; flex-direction: column; gap: 0.25rem;
+}
+.yrs button[data-v-df2054bc] { display: flex; flex-direction: column; align-items: flex-start; padding: 0.2rem 0.4rem; border-radius: 8px; border: 1px solid var(--line); background: #fff; cursor: pointer; color: var(--navy);
+}
+.yrs button b[data-v-df2054bc] { font: 700 0.85rem 'Source Sans 3', sans-serif;
+}
+.yrs button span[data-v-df2054bc] { font-size: 0.56rem; color: var(--muted);
+}
+.yrs button.on[data-v-df2054bc] { background: var(--navy); border-color: var(--navy);
+}
+.yrs button.on b[data-v-df2054bc], .yrs button.on span[data-v-df2054bc] { color: #fff;
+}
+.pg[data-v-df2054bc] { background: #f7f1e3; border: 1px solid #d8ccb0; box-shadow: 3px 3px 0 #e6dcc4; padding: 0.7rem 1rem; display: flex; flex-direction: column; align-items: center; text-align: center; gap: 0.3rem; font-family: 'Source Serif 4', serif; color: #2a2418; position: relative;
+}
+.mast[data-v-df2054bc] { font: 700 1.2rem 'Source Serif 4', serif; letter-spacing: 0.18em; border-bottom: 3px double #2a2418; padding-bottom: 0.15rem; width: 100%;
+}
+.iss[data-v-df2054bc] { font: italic 0.62rem 'Source Serif 4', serif; color: #5b5240; border-bottom: 1px solid #2a2418; width: 100%; padding-bottom: 0.2rem;
+}
+.ti[data-v-df2054bc] { font: 700 1.05rem/1.25 'Source Serif 4', serif; text-transform: uppercase; letter-spacing: 0.03em; margin-top: 0.3rem;
+}
+.su[data-v-df2054bc] { font: italic 0.82rem/1.3 'Source Serif 4', serif;
+}
+.au[data-v-df2054bc] { font: 0.74rem 'Source Serif 4', serif; font-variant: small-caps; letter-spacing: 0.04em;
+}
+.cols[data-v-df2054bc] { width: 100%; display: flex; flex-direction: column; gap: 0.22rem; margin-top: 0.3rem; align-items: flex-start; columns: 2;
+}
+.cols i[data-v-df2054bc] { display: block; height: 0.18rem; background: #cfc3a6; border-radius: 1px;
+}
+.rec[data-v-df2054bc] { position: absolute; right: 0.4rem; bottom: 0.25rem; font: 0.5rem 'IBM Plex Mono', monospace; color: #9a8c6c;
+}
+.sd[data-v-df2054bc] { display: flex; flex-direction: column; gap: 0.4rem;
+}
+.cr[data-v-df2054bc] { display: flex; gap: 0.35rem; align-items: center; background: var(--gelb); color: var(--navy); border-radius: 8px; padding: 0.25rem 0.5rem; font: 600 0.74rem 'Source Sans 3', sans-serif;
+}
+.cr i[data-v-df2054bc] { font-size: 1.1rem;
+}
+p[data-v-df2054bc] { margin: 0; font-size: 0.8rem; line-height: 1.45;
+}
+a[data-v-df2054bc] { font: 0.62rem 'IBM Plex Mono', monospace; color: var(--teal-d); word-break: break-all;
+}
+.ph[data-v-df2054bc] { margin-top: auto; border: 2px dashed var(--line); border-radius: 10px; padding: 0.4rem 0.55rem; display: flex; gap: 0.4rem; align-items: flex-start; font-size: 0.66rem; color: var(--muted); line-height: 1.35;
+}
+.ph > i[data-v-df2054bc] { font-size: 1.6rem; flex: none;
+}
+.ph span[data-v-df2054bc] { display: flex; flex-direction: column;
+}
+.ph b[data-v-df2054bc] { color: var(--navy);
+}
+.pg.real[data-v-df2054bc] { height: 17.5rem; overflow: hidden; padding: 0.3rem; display: flex; align-items: center; justify-content: center; background: #fff;
+}
+.pg.real img[data-v-df2054bc] { width: 100%; height: 100%; object-fit: contain; object-position: top; border-radius: 4px;
+}
+.ph.real[data-v-df2054bc] { border-style: solid; border-color: var(--teal-t); background: var(--teal-t);
+}

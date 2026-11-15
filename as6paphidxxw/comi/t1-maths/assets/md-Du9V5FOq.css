@@ -1,0 +1,61 @@
+
+.ch[data-v-ee85926f] { display: flex; flex-direction: column; gap: 0.6rem;
+}
+.row[data-v-ee85926f] { display: flex; align-items: center; gap: 0.3rem;
+}
+.jb[data-v-ee85926f] { flex: 1; background: #fff; border: 1.5px solid var(--line); border-radius: 10px; padding: 0.3rem 0.4rem; display: flex; flex-direction: column; align-items: center; cursor: pointer; opacity: 0.45;
+}
+.jb b[data-v-ee85926f] { font-size: 0.7rem; color: var(--navy); white-space: nowrap;
+}
+.jb span[data-v-ee85926f] { font: 600 0.66rem 'IBM Plex Mono', monospace; color: #004e9f;
+}
+.jb.on[data-v-ee85926f] { opacity: 1; background: #e3ecf8;
+}
+.jb.nw[data-v-ee85926f] { background: var(--gelb); border-color: #f0b400;
+}
+.jb.res[data-v-ee85926f] { flex: 0.7;
+}
+.jb.res.on[data-v-ee85926f] { background: #e6f4f3; border-color: #2d9d9b;
+}
+.op[data-v-ee85926f] { font: 300 1.3rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.bot[data-v-ee85926f] { display: grid; grid-template-columns: 1.2fr 1fr; gap: 0.8rem;
+}
+.lv[data-v-ee85926f] { background: #f4f7fb; border: 1px solid var(--line); border-radius: 12px; padding: 0.5rem 0.7rem; display: flex; flex-direction: column; gap: 0.4rem; color: var(--navy);
+}
+.lv .k[data-v-ee85926f] { font: 600 0.58rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: #004e9f; display: flex; flex-wrap: wrap; gap: 0.3rem;
+}
+.cl[data-v-ee85926f] { margin-left: auto; text-transform: none; font-family: 'Source Sans 3', sans-serif; color: var(--muted);
+}
+.cl button[data-v-ee85926f] { background: none; border: none; cursor: pointer; font-size: 0.62rem; margin-left: 0.25rem; padding: 0;
+}
+.vec[data-v-ee85926f], .chk[data-v-ee85926f] { background: #fff; border: 1px solid var(--line); border-radius: 8px; padding: 0.3rem 0.5rem; display: flex; flex-direction: column; gap: 0.15rem;
+}
+.vec span[data-v-ee85926f], .chk span[data-v-ee85926f] { font: 600 0.52rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.vec div[data-v-ee85926f], .chk div[data-v-ee85926f] { display: flex; flex-wrap: wrap; gap: 0.25rem;
+}
+.vec b[data-v-ee85926f], .chk b[data-v-ee85926f] { font: 600 0.66rem 'IBM Plex Mono', monospace; background: #e3ecf8; border-radius: 4px; padding: 0 0.25rem;
+}
+.chk b[data-v-ee85926f] { background: #e6f4f3;
+}
+.chk small[data-v-ee85926f] { color: var(--teal-d); font-size: 0.62rem;
+}
+.bt[data-v-ee85926f] { display: flex; gap: 0.3rem;
+}
+.bt button[data-v-ee85926f] { font: 600 0.7rem 'Source Sans 3', sans-serif; padding: 0.2rem 0.7rem; border-radius: 99px; border: none; background: var(--navy); color: #fff; cursor: pointer;
+}
+.bt button.g[data-v-ee85926f] { background: #c9d2dd; color: var(--navy);
+}
+.bt button[data-v-ee85926f]:disabled { opacity: 0.4;
+}
+.lv small[data-v-ee85926f], .nf small[data-v-ee85926f] { font-size: 0.66rem; line-height: 1.3; color: var(--muted);
+}
+.nf[data-v-ee85926f] { background: #f4f7fb; border: 1px solid var(--line); border-radius: 12px; padding: 0.5rem 0.7rem; display: flex; flex-direction: column; gap: 0.4rem; color: var(--navy); font-size: 0.78rem;
+}
+.cst[data-v-ee85926f] { display: flex; flex-direction: column; gap: 0.2rem;
+}
+.cst > div[data-v-ee85926f] { display: flex; justify-content: space-between; align-items: baseline; background: #fff; border-radius: 7px; padding: 0.15rem 0.5rem; font-size: 0.7rem;
+}
+.cst b[data-v-ee85926f] { font: 700 1rem 'IBM Plex Mono', monospace; color: #004e9f;
+}

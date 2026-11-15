@@ -1,0 +1,37 @@
+
+.tl[data-v-875232b4] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.7rem;
+}
+.tl div[data-v-875232b4] { display: grid; grid-template-columns: 2.2rem 1fr; column-gap: 0.4rem; background: #fff; border: 1px solid var(--line); border-radius: 10px; padding: 0.45rem 0.7rem;
+}
+.tl i[data-v-875232b4] { grid-row: span 3; font-size: 1.8rem; color: var(--teal-d); align-self: center;
+}
+.tl b[data-v-875232b4] { color: var(--navy); font-size: 0.95rem;
+}
+.tl span[data-v-875232b4] { font-size: 0.78rem;
+}
+.tl em[data-v-875232b4] { font-size: 0.66rem; color: var(--muted);
+}
+.dc[data-v-875232b4] { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;
+}
+.dc .cd[data-v-875232b4] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid var(--navy); border-radius: 14px; padding: 0.7rem 1rem; font-size: 0.9rem; line-height: 1.5;
+}
+.dc .k[data-v-875232b4] { display: flex; gap: 0.35rem; align-items: center; font: 600 0.6rem 'IBM Plex Mono', monospace; letter-spacing: 0.08em; text-transform: uppercase; color: var(--teal-d); margin-bottom: 0.3rem;
+}
+.dc .k i[data-v-875232b4] { font-size: 1.15rem;
+}
+.dc b[data-v-875232b4] { font-size: 1.25rem; color: var(--navy);
+}
+.ds[data-v-875232b4] { display: grid; grid-template-columns: 5.6rem repeat(4, 1fr); grid-template-rows: auto 1fr; gap: 0.3rem 0.7rem; background: var(--teal-t); border-radius: 12px; padding: 0.5rem 0.8rem; align-items: start;
+}
+.ds .tile[data-v-875232b4] { grid-row: span 2;
+}
+.ds .k[data-v-875232b4] { grid-column: 2 / 6; display: flex; gap: 0.35rem; align-items: center; font: 600 0.6rem 'IBM Plex Mono', monospace; letter-spacing: 0.06em; text-transform: uppercase; color: var(--teal-d);
+}
+.ds .k i[data-v-875232b4] { font-size: 1.1rem;
+}
+.ds .q[data-v-875232b4] { display: flex; flex-direction: column; font-size: 0.78rem; line-height: 1.35; background: #fff; border-radius: 8px; padding: 0.35rem 0.5rem; height: 100%;
+}
+.ds .q b[data-v-875232b4] { color: var(--navy); font-size: 0.85rem;
+}
+.ds .q.miss b[data-v-875232b4] { color: var(--rubin);
+}

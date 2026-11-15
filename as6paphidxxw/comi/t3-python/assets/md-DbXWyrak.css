@@ -1,0 +1,15 @@
+
+.t3mp[data-v-8d114498] { display: grid; grid-template-columns: 1.45fr 1fr; gap: 0.7rem; align-items: start;
+}
+.t3mp pre[data-v-8d114498] { font-size: 0.6rem !important;
+}
+.t3mp .cl[data-v-8d114498] { display: flex; flex-direction: column; gap: 0.4rem;
+}
+.t3mp .tk-c[data-v-8d114498] { padding: 0.42rem 0.68rem; font-size: 0.78rem; line-height: 1.36;
+}
+.t3mp .tk-c > .ic[data-v-8d114498] { font-size: 1.25rem;
+}
+.t3mp .k[data-v-8d114498] { font-size: 0.88rem;
+}
+.t3mp code[data-v-8d114498] { font: 0.64rem 'IBM Plex Mono', monospace; background: #eef1f5; padding: 0 0.2rem; border-radius: 3px;
+}

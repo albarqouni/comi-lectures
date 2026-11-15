@@ -1,0 +1,34 @@
+
+.gf[data-v-4a50fbeb] { display: grid; grid-template-columns: 1.25fr 1fr; gap: 0.8rem;
+}
+.im svg[data-v-4a50fbeb] { width: 100%; height: 13.4rem; border-radius: 10px; border: 1px solid var(--line); background: #fff; display: block;
+}
+.im .seg[data-v-4a50fbeb] { margin-top: 0.3rem;
+}
+.rt[data-v-4a50fbeb] { display: flex; flex-direction: column; gap: 0.3rem; font-size: 0.76rem; color: var(--navy);
+}
+.k[data-v-4a50fbeb] { font: 600 0.56rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.spc[data-v-4a50fbeb] { width: 100%; height: 4.6rem; background: #fff; border: 1px solid var(--line); border-radius: 6px;
+}
+.seg[data-v-4a50fbeb] { display: flex; gap: 0.25rem;
+}
+.seg button[data-v-4a50fbeb] { flex: 1; font: 600 0.68rem 'Source Sans 3', sans-serif; padding: 0.15rem; border-radius: 99px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.seg button.on[data-v-4a50fbeb] { background: var(--navy); color: #fff;
+}
+label[data-v-4a50fbeb] { display: flex; flex-direction: column;
+}
+label input[data-v-4a50fbeb] { accent-color: var(--teal-d);
+}
+.rd[data-v-4a50fbeb] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.3rem;
+}
+.rd div[data-v-4a50fbeb] { background: #f4f7fb; border-radius: 8px; padding: 0.2rem 0.45rem; display: flex; flex-direction: column;
+}
+.rd b[data-v-4a50fbeb] { font: 700 1.05rem/1.15 'Source Sans 3', sans-serif;
+}
+.rd span[data-v-4a50fbeb] { font-size: 0.62rem; color: var(--muted);
+}
+
+.gft .tk-c[data-v-3dda3942] { font-size: 0.78rem; padding: 0.35rem 0.6rem; display: flex; flex-direction: column;
+}

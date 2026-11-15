@@ -1,0 +1,53 @@
+
+.by[data-v-5e49af4d] { display: grid; grid-template-columns: 15rem 1fr; gap: 1rem; align-items: start;
+}
+.ctl[data-v-5e49af4d] { display: flex; flex-direction: column; gap: 0.4rem; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.6rem 0.8rem;
+}
+.hd[data-v-5e49af4d] { font: 600 0.54rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+label[data-v-5e49af4d] { display: flex; flex-direction: column; font-size: 0.74rem;
+}
+label b[data-v-5e49af4d] { color: var(--rubin);
+}
+input[type=range][data-v-5e49af4d] { width: 100%; accent-color: var(--navy);
+}
+.ctl button[data-v-5e49af4d] { font: 600 0.66rem 'Source Sans 3', sans-serif; padding: 0.2rem 0.55rem; border-radius: 99px; border: 1px solid var(--navy); background: #fff; color: var(--navy); cursor: pointer;
+}
+.out[data-v-5e49af4d] { display: flex; flex-direction: column; gap: 0.35rem; color: var(--navy);
+}
+.gs[data-v-5e49af4d] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.7rem;
+}
+.g[data-v-5e49af4d] { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.5rem 0.7rem; display: flex; flex-direction: column; gap: 0.35rem;
+}
+.k[data-v-5e49af4d] { font: 600 0.6rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--navy);
+}
+.dots[data-v-5e49af4d] { display: grid; grid-template-columns: repeat(20, 1fr); gap: 2px;
+}
+.dots i[data-v-5e49af4d], .lg i[data-v-5e49af4d] { display: block; aspect-ratio: 1; border-radius: 50%;
+}
+.tp[data-v-5e49af4d] { background: var(--teal-d);
+}
+.fn[data-v-5e49af4d] { background: var(--rubin);
+}
+.fp[data-v-5e49af4d] { background: var(--gelb);
+}
+.tn[data-v-5e49af4d] { background: #dfe4ea;
+}
+.pv[data-v-5e49af4d] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.4rem;
+}
+.pv div[data-v-5e49af4d] { display: flex; align-items: baseline; gap: 0.4rem;
+}
+.pv span[data-v-5e49af4d] { font: 600 0.6rem 'IBM Plex Mono', monospace; color: var(--muted);
+}
+.pv b[data-v-5e49af4d] { font: 700 1.6rem/1 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.lg[data-v-5e49af4d] { display: flex; gap: 0.9rem; font-size: 0.7rem; color: var(--muted);
+}
+.lg span[data-v-5e49af4d] { display: flex; align-items: center; gap: 0.25rem;
+}
+.lg i[data-v-5e49af4d] { width: 0.65rem;
+}
+.msg[data-v-5e49af4d] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.45rem 0.8rem; font: 0.86rem 'Source Serif 4', serif;
+}
+.msg b[data-v-5e49af4d] { color: var(--gelb);
+}

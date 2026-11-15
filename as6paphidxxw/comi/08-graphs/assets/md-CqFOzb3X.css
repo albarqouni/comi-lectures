@@ -1,0 +1,21 @@
+
+.fm[data-v-2369d108] { display: grid; grid-template-columns: 1.15fr 0.85fr 1fr 0.95fr; gap: 0.6rem;
+}
+.fm .tk-c[data-v-2369d108] { font-size: 0.78rem; display: flex; flex-direction: column; gap: 0.3rem;
+}
+.fm b[data-v-2369d108] { color: var(--navy);
+}
+.fm small[data-v-2369d108] { font-size: 0.66rem; color: var(--muted); margin-top: auto;
+}
+.fm .tk-bars > div[data-v-2369d108] { grid-template-columns: 6.5rem 1fr 3.2rem; font-size: 0.74rem;
+}
+.fm .tk-bars i[data-v-2369d108] { height: 0.9rem;
+}
+.kg[data-v-2369d108] { display: flex; flex-direction: column; gap: 0.25rem;
+}
+.kg div[data-v-2369d108] { display: flex; flex-direction: column;
+}
+.kg b[data-v-2369d108] { font: 700 1.4rem/1 'Source Sans 3', sans-serif; color: var(--rubin);
+}
+.kg span[data-v-2369d108] { font-size: 0.7rem; color: var(--muted);
+}

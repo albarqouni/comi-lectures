@@ -1,0 +1,29 @@
+
+.t3st[data-v-994e9f33] { display: grid; grid-template-columns: 1.35fr 1fr; gap: 0.9rem;
+}
+.t3st .lay[data-v-994e9f33] { display: flex; flex-direction: column; gap: 0.35rem;
+}
+.t3st .lay > div[data-v-994e9f33] { display: flex; gap: 0.35rem;
+}
+.t3st .b[data-v-994e9f33] { flex: 1; display: flex; flex-direction: column; align-items: flex-start; gap: 0.05rem; border-radius: 10px; padding: 0.45rem 0.7rem; font: 700 1rem 'Source Sans 3', sans-serif; color: #fff;
+}
+.t3st .b i[data-v-994e9f33] { font-size: 1.3rem;
+}
+.t3st .b small[data-v-994e9f33] { font: 400 0.68rem 'Source Sans 3', sans-serif; opacity: 0.9;
+}
+.t3st .py[data-v-994e9f33] { background: var(--navy);
+}
+.t3st .np[data-v-994e9f33] { background: #004e9f;
+}
+.t3st .pd[data-v-994e9f33], .t3st .sk[data-v-994e9f33], .t3st .pt[data-v-994e9f33] { background: #2f6db0;
+}
+.t3st .mon[data-v-994e9f33], .t3st .mm[data-v-994e9f33] { background: var(--teal-d);
+}
+.t3st .why[data-v-994e9f33] { display: flex; flex-direction: column; gap: 0.45rem;
+}
+.t3st .why .tk-c[data-v-994e9f33] { padding: 0.45rem 0.75rem; font-size: 0.82rem; line-height: 1.35;
+}
+.t3st .why .tk-c > .ic[data-v-994e9f33] { font-size: 1.4rem;
+}
+.t3st .why .k[data-v-994e9f33] { font-size: 0.92rem;
+}

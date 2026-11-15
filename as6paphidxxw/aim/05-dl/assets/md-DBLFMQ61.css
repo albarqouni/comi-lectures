@@ -1,0 +1,41 @@
+
+.l5mc[data-v-a9f5262a] { display: grid; grid-template-columns: 1.6fr 1fr; gap: 0.75rem; align-items: start;
+}
+.l5mc-list[data-v-a9f5262a] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.3rem;
+}
+.l5mc-it[data-v-a9f5262a] { display: grid; grid-template-columns: 2.4rem 1fr 1.9rem; gap: 0.35rem; align-items: center; text-align: left; background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 0.25rem 0.45rem; cursor: pointer; font-family: 'Source Sans 3', sans-serif;
+}
+.l5mc-it em[data-v-a9f5262a] { font: 600 0.6rem 'IBM Plex Mono', monospace; font-style: normal; color: var(--muted);
+}
+.l5mc-it b[data-v-a9f5262a] { display: block; font-size: 0.74rem; color: var(--navy); line-height: 1.2;
+}
+.l5mc-it small[data-v-a9f5262a] { display: block; font-size: 0.64rem; color: var(--muted); line-height: 1.2;
+}
+.l5mc-it i[data-v-a9f5262a] { font: 700 0.7rem 'Source Sans 3', sans-serif; font-style: normal; text-align: center; border-radius: 99px; padding: 0.08rem 0; background: #e8edf3; color: var(--navy);
+}
+.l5mc-it.s1[data-v-a9f5262a] { background: var(--teal-t); border-color: transparent;
+}
+.l5mc-it.s1 i[data-v-a9f5262a] { background: var(--teal); color: #fff;
+}
+.l5mc-it.s2[data-v-a9f5262a] { background: var(--rubin-t); border-color: transparent;
+}
+.l5mc-it.s2 i[data-v-a9f5262a] { background: var(--rubin); color: #fff;
+}
+.l5mc-side[data-v-a9f5262a] { display: flex; flex-direction: column; gap: 0.4rem;
+}
+.l5mc-btn[data-v-a9f5262a] { display: flex; gap: 0.3rem; flex-wrap: wrap;
+}
+.l5mc-btn button[data-v-a9f5262a] { font: 600 0.7rem 'Source Sans 3', sans-serif; padding: 0.15rem 0.55rem; border-radius: 99px; border: 1px solid var(--navy); background: #fff; color: var(--navy); cursor: pointer;
+}
+.l5mc-btn button[data-v-a9f5262a]:first-child { background: var(--navy); color: #fff;
+}
+.l5mc-sum[data-v-a9f5262a] { display: flex; flex-direction: column; background: var(--rubin-t); border-radius: 8px; padding: 0.3rem 0.55rem;
+}
+.l5mc-sum b[data-v-a9f5262a] { font: 700 1.5rem/1.05 'Source Sans 3', sans-serif; color: var(--rubin-d);
+}
+.l5mc-sum span[data-v-a9f5262a] { font-size: 0.72rem; color: var(--navy);
+}
+.l5mc-open[data-v-a9f5262a] { display: flex; flex-direction: column; gap: 0.2rem;
+}
+.l5mc-open span[data-v-a9f5262a] { font-size: 0.68rem; color: var(--navy); border-left: 3px solid var(--rubin); padding-left: 0.4rem; line-height: 1.25;
+}

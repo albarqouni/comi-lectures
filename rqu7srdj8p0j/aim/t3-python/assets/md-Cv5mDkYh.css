@@ -1,0 +1,15 @@
+
+.t3py[data-v-92ce9a33] { display: grid; grid-template-columns: 1.75fr 1fr; gap: 0.8rem; align-items: start;
+}
+.t3py pre[data-v-92ce9a33] { font-size: 0.6rem !important;
+}
+.t3py .cl[data-v-92ce9a33] { display: flex; flex-direction: column; gap: 0.45rem;
+}
+.t3py .tk-c[data-v-92ce9a33] { padding: 0.45rem 0.7rem; font-size: 0.8rem; line-height: 1.35;
+}
+.t3py .tk-c > .ic[data-v-92ce9a33] { font-size: 1.3rem;
+}
+.t3py .k[data-v-92ce9a33] { font-size: 0.9rem;
+}
+.t3py code[data-v-92ce9a33] { font: 0.72rem 'IBM Plex Mono', monospace; background: #eef1f5; padding: 0 0.2rem; border-radius: 3px;
+}

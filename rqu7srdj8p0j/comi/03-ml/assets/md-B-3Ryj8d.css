@@ -1,0 +1,25 @@
+
+.sl[data-v-bf051dca] { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;
+}
+.sl .cd[data-v-bf051dca] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid var(--navy); border-radius: 14px; padding: 0.7rem 1rem; display: flex; flex-direction: column; gap: 0.35rem;
+}
+.sl .k[data-v-bf051dca] { display: flex; gap: 0.3rem; align-items: center; font: 600 0.6rem 'IBM Plex Mono', monospace; letter-spacing: 0.08em; text-transform: uppercase; color: var(--teal-d);
+}
+.sl .k i[data-v-bf051dca] { font-size: 1.1rem;
+}
+.sl b[data-v-bf051dca] { font: 600 1.2rem 'Source Serif 4', serif; color: var(--navy);
+}
+.sl span[data-v-bf051dca] { font-size: 0.86rem;
+}
+.sl > div > i[data-v-bf051dca] { font-size: 0.78rem; color: var(--muted);
+}
+.tl6[data-v-bf051dca] { display: flex; gap: 0.4rem;
+}
+.gauge[data-v-bf051dca] { position: relative; height: 4.4rem; background: #eef1f5; border-radius: 10px; overflow: hidden;
+}
+.gauge span[data-v-bf051dca] { position: absolute; left: 0; top: 0; bottom: 0; background: #004e9f;
+}
+.gauge em[data-v-bf051dca] { position: absolute; left: 54%; top: 1.1rem; font: 700 1.5rem 'Source Sans 3', sans-serif; color: var(--navy); font-style: normal;
+}
+.eq[data-v-bf051dca] { display: flex; justify-content: space-around; font: 1.05rem 'Source Serif 4', serif; color: var(--navy); background: var(--teal-t); border-radius: 10px; padding: 0.6rem;
+}

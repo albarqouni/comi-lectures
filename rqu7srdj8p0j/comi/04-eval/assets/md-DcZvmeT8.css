@@ -1,0 +1,21 @@
+
+.pv[data-v-06c8719e] { display: grid; grid-template-columns: 1.2fr 1fr; gap: 1rem;
+}
+.pv .cd[data-v-06c8719e] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid var(--teal); border-radius: 14px; padding: 0.8rem 1rem; font-size: 0.92rem; line-height: 1.5;
+}
+.pv .k[data-v-06c8719e] { font: 600 0.6rem 'IBM Plex Mono', monospace; letter-spacing: 0.08em; text-transform: uppercase; color: var(--teal-d); margin-bottom: 0.3rem;
+}
+.pv b[data-v-06c8719e] { color: var(--navy);
+}
+.eq[data-v-06c8719e] { font: 0.9rem 'Source Serif 4', serif; color: var(--navy); margin-bottom: 0.5rem;
+}
+.ex[data-v-06c8719e] { display: flex; justify-content: space-between; align-items: baseline; border-top: 1px solid var(--line); padding: 0.25rem 0;
+}
+.ex span[data-v-06c8719e] { color: var(--muted);
+}
+.ex b[data-v-06c8719e] { font: 700 1.4rem 'Source Sans 3', sans-serif; color: var(--rubin);
+}
+.pv i[data-v-06c8719e] { font-size: 0.72rem; color: var(--muted);
+}
+.lesson[data-v-06c8719e] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.55rem 0.9rem; font: 1rem 'Source Serif 4', serif; display: flex; gap: 0.6rem; align-items: center;
+}

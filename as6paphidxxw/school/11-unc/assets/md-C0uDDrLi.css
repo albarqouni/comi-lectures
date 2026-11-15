@@ -1,0 +1,19 @@
+
+.sn[data-v-20a6e82d] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.7rem;
+}
+.sn .cd[data-v-20a6e82d] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid var(--rubin); border-radius: 14px; padding: 0.65rem 0.8rem; display: flex; flex-direction: column; gap: 0.4rem;
+}
+.sn .k[data-v-20a6e82d] { display: flex; gap: 0.3rem; align-items: center; font: 600 0.6rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--navy);
+}
+.sn .k i[data-v-20a6e82d] { color: var(--rubin); font-size: 1.05rem;
+}
+.sn .tk-bars > div[data-v-20a6e82d] { grid-template-columns: 1fr; gap: 0.1rem; font-size: 0.78rem;
+}
+.sn .tk-bars i[data-v-20a6e82d] { height: 1rem;
+}
+.sn .tk-bars b[data-v-20a6e82d] { text-align: left; font-size: 0.9rem;
+}
+.sn .sm[data-v-20a6e82d] { font-size: 0.8rem; line-height: 1.4;
+}
+.sn small[data-v-20a6e82d] { font-size: 0.62rem; color: var(--muted); margin-top: auto;
+}

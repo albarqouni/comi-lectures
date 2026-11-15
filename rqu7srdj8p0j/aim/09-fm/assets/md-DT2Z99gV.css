@@ -1,0 +1,15 @@
+
+.fmw2[data-v-1dfca1ac] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.7rem;
+}
+.fmw2 .tk-c[data-v-1dfca1ac] { font-size: 0.82rem; min-height: 9.4rem;
+}
+.fmw2 .n[data-v-1dfca1ac] { font: 700 2rem/1 'Source Sans 3', sans-serif; color: var(--rubin-d);
+}
+.fmw3[data-v-1dfca1ac] { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.5rem;
+}
+.fmw3 > div[data-v-1dfca1ac] { display: flex; gap: 0.4rem; align-items: center; background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 0.3rem 0.55rem; font-size: 0.76rem;
+}
+.fmw3 i[data-v-1dfca1ac] { color: var(--rubin); font-size: 1.15rem; flex: none;
+}
+.fmw3 b[data-v-1dfca1ac] { color: var(--navy);
+}

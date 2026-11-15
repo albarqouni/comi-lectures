@@ -1,0 +1,63 @@
+
+.fb[data-v-a9830df2] { display: flex; flex-direction: column; gap: 0.55rem;
+}
+.row[data-v-a9830df2] { display: flex; gap: 0.45rem; align-items: center;
+}
+figure[data-v-a9830df2] { margin: 0; display: flex; flex-direction: column; gap: 0.2rem;
+}
+canvas[data-v-a9830df2] { width: 10.2rem; height: 10.2rem; border-radius: 8px; background: #000; image-rendering: auto;
+}
+canvas.sg[data-v-a9830df2] { width: 8.6rem;
+}
+figcaption[data-v-a9830df2] { font-size: 0.66rem; display: flex; gap: 0.25rem; align-items: center; flex-wrap: wrap; color: var(--muted); max-width: 10.2rem;
+}
+figcaption i[data-v-a9830df2] { color: var(--teal-d);
+}
+figcaption b[data-v-a9830df2] { color: var(--navy); font-size: 0.78rem;
+}
+figcaption em[data-v-a9830df2] { font: 0.6rem 'IBM Plex Mono', monospace; font-style: normal; margin-left: auto; color: var(--rubin-d);
+}
+.ar[data-v-a9830df2] { display: flex; flex-direction: column; align-items: center; color: var(--teal-d); font-size: 1.2rem;
+}
+.ar small[data-v-a9830df2] { font: 0.52rem 'IBM Plex Mono', monospace; color: var(--muted); white-space: nowrap;
+}
+.side[data-v-a9830df2] { flex: 1; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.5rem 0.65rem; display: flex; flex-direction: column; gap: 0.28rem; align-self: stretch;
+}
+.k[data-v-a9830df2] { font: 600 0.55rem 'IBM Plex Mono', monospace; letter-spacing: 0.06em; text-transform: uppercase; color: var(--teal-d);
+}
+.bt3[data-v-a9830df2] { display: flex; flex-direction: column; gap: 0.2rem;
+}
+.bt4[data-v-a9830df2] { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.2rem;
+}
+button[data-v-a9830df2] { font: 600 0.7rem 'Source Sans 3', sans-serif; padding: 0.2rem 0.4rem; border-radius: 6px; border: 1px solid var(--line); background: #fff; cursor: pointer; color: var(--navy); display: flex; gap: 0.3rem; align-items: center; justify-content: center;
+}
+.bt3 button[data-v-a9830df2] { justify-content: flex-start;
+}
+button i[data-v-a9830df2] { color: var(--teal-d);
+}
+button.on[data-v-a9830df2] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+button.on i[data-v-a9830df2] { color: var(--gelb);
+}
+button.pl[data-v-a9830df2] { background: var(--rubin); color: #fff; border-color: var(--rubin); margin-top: auto;
+}
+button.pl i[data-v-a9830df2] { color: #fff;
+}
+button[data-v-a9830df2]:disabled { opacity: 0.5; cursor: default;
+}
+input[type=range][data-v-a9830df2] { width: 100%; accent-color: var(--teal-d);
+}
+.low[data-v-a9830df2] { display: grid; grid-template-columns: 1.15fr 1.25fr 0.8fr; gap: 0.55rem; align-items: stretch;
+}
+.ex[data-v-a9830df2], .emi[data-v-a9830df2] { display: flex; gap: 0.4rem; align-items: flex-start; font-size: 0.74rem; line-height: 1.38; background: var(--teal-t); border-radius: 10px; padding: 0.4rem 0.55rem;
+}
+.ex i[data-v-a9830df2], .emi i[data-v-a9830df2] { color: var(--teal-d); flex: none; font-size: 1rem; margin-top: 0.05rem;
+}
+.ex b[data-v-a9830df2], .emi b[data-v-a9830df2] { color: var(--navy);
+}
+.emi[data-v-a9830df2] { background: var(--rubin-t);
+}
+.emi i[data-v-a9830df2] { color: var(--rubin);
+}
+.tx[data-v-a9830df2] { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 0.1rem 0.4rem; font-size: 0.66rem; display: flex; flex-direction: column; justify-content: center;
+}

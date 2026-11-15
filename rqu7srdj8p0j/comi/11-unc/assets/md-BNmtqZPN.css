@@ -1,0 +1,43 @@
+
+.l9c[data-v-d2eda168] { display: grid; grid-template-columns: 16rem 1fr; gap: 1rem; align-items: start;
+}
+.ch[data-v-d2eda168] { width: 100%;
+}
+.ctl[data-v-d2eda168] { display: flex; flex-direction: column; gap: 0.45rem; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.6rem 0.8rem;
+}
+label[data-v-d2eda168] { display: flex; flex-direction: column; gap: 0.1rem; font-size: 0.76rem;
+}
+label b[data-v-d2eda168] { color: var(--navy);
+}
+input[type=range][data-v-d2eda168] { width: 100%; accent-color: var(--navy);
+}
+.bt[data-v-d2eda168] { display: flex; gap: 0.35rem;
+}
+button[data-v-d2eda168] { font: 600 0.7rem 'Source Sans 3', sans-serif; padding: 0.22rem 0.75rem; border-radius: 99px; border: 1.5px solid var(--teal); background: var(--teal); color: #fff; cursor: pointer;
+}
+button.g[data-v-d2eda168] { background: #fff; color: var(--navy); border-color: var(--line);
+}
+.ms[data-v-d2eda168] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.35rem;
+}
+.ms div[data-v-d2eda168] { background: #fff; border: 1px solid var(--line); border-radius: 8px; padding: 0.2rem 0.55rem; display: flex; flex-direction: column;
+}
+.ms span[data-v-d2eda168] { font-size: 0.6rem; color: var(--muted);
+}
+.ms b[data-v-d2eda168] { font: 700 1.2rem 'Source Sans 3', sans-serif; color: var(--teal-d);
+}
+.ms b.bad[data-v-d2eda168] { color: var(--rubin);
+}
+.wr[data-v-d2eda168] { display: flex; flex-direction: column; gap: 0.25rem;
+}
+.wr > span[data-v-d2eda168] { font: 600 0.58rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.ws[data-v-d2eda168] { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.35rem;
+}
+.w[data-v-d2eda168] { display: flex; flex-direction: column; align-items: center; gap: 0.05rem;
+}
+.w i[data-v-d2eda168] { width: 2.9rem; height: 2.9rem; border-radius: 6px; background-repeat: no-repeat; border: 2px solid var(--rubin);
+}
+.w em[data-v-d2eda168] { font-size: 0.56rem; font-style: normal; color: var(--muted); white-space: nowrap;
+}
+.w b[data-v-d2eda168] { font: 700 0.8rem 'Source Sans 3', sans-serif; color: var(--rubin-d);
+}

@@ -1,0 +1,45 @@
+
+.mo[data-v-23796ca5] { display: grid; grid-template-columns: 1.55fr 1fr; gap: 0.9rem;
+}
+.lf[data-v-23796ca5] { position: relative; display: flex; flex-direction: column; gap: 0.3rem;
+}
+.pk[data-v-23796ca5] { display: flex; flex-wrap: wrap; gap: 0.25rem;
+}
+.pk button[data-v-23796ca5], .bt button[data-v-23796ca5] { font: 600 0.66rem 'Source Sans 3', sans-serif; padding: 0.15rem 0.55rem; border-radius: 99px; border: 1px solid #c9d2dd; background: #fff; color: var(--navy); cursor: pointer;
+}
+.pk button.on[data-v-23796ca5] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+.sw[data-v-23796ca5] { width: 100%; height: 12.5rem; background: #fbfbfd; border: 1px solid var(--line); border-radius: 10px;
+}
+.plt[data-v-23796ca5] { position: relative;
+}
+.sw[data-v-23796ca5] { display: block;
+}
+.dl[data-v-23796ca5] { position: absolute; inset: 0; pointer-events: none;
+}
+.dt[data-v-23796ca5] { position: absolute; width: 0.55rem; height: 0.55rem; margin: -0.27rem 0 0 -0.27rem; border-radius: 50%; border: 1.5px solid; pointer-events: auto; cursor: pointer;
+}
+.dt.off[data-v-23796ca5] { opacity: 0.6;
+}
+.ax[data-v-23796ca5] { display: flex; justify-content: space-between; font: 0.62rem 'IBM Plex Mono', monospace; color: var(--muted);
+}
+.bt[data-v-23796ca5] { display: flex; gap: 0.3rem; align-items: center; flex-wrap: wrap;
+}
+.bt button[data-v-23796ca5] { background: var(--navy); color: #fff; border: none;
+}
+.bt button.g[data-v-23796ca5] { background: #c9d2dd; color: var(--navy);
+}
+.lg[data-v-23796ca5] { font-size: 0.6rem; color: var(--muted); display: flex; gap: 0.25rem; align-items: center;
+}
+.lg i[data-v-23796ca5] { width: 0.6rem; height: 0.6rem; border-radius: 2px; display: inline-block;
+}
+.rt[data-v-23796ca5] { background: #f4f7fb; border: 1px solid var(--line); border-radius: 12px; padding: 0.6rem 0.8rem; display: flex; flex-direction: column; gap: 0.4rem;
+}
+.rt .k[data-v-23796ca5] { font: 600 0.6rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: #004e9f;
+}
+.fx[data-v-23796ca5] { display: flex; flex-direction: column; background: #fff; border-radius: 8px; padding: 0.25rem 0.5rem; font-size: 0.9rem; color: var(--navy);
+}
+.fx .l[data-v-23796ca5] { font-size: 0.6rem; color: var(--muted); font-weight: 600;
+}
+.rt p[data-v-23796ca5] { margin: 0; font-size: 0.72rem; color: var(--navy); line-height: 1.35;
+}

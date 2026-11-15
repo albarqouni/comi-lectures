@@ -1,0 +1,50 @@
+
+.sa[data-v-674bb3f7] { display: grid; grid-template-columns: 1.55fr 1fr; grid-template-rows: auto 1fr; gap: 0.5rem 0.8rem;
+}
+.ctl[data-v-674bb3f7] { grid-column: 1 / -1; display: flex; gap: 0.35rem;
+}
+.ctl button[data-v-674bb3f7] { display: inline-flex; gap: 0.3rem; align-items: center; font: 600 0.72rem 'Source Sans 3', sans-serif; padding: 0.22rem 0.7rem; border-radius: 99px; border: 1px solid var(--navy); background: #fff; color: var(--navy); cursor: pointer;
+}
+.ctl button.on[data-v-674bb3f7] { background: var(--navy); color: #fff;
+}
+.ctl button.bad[data-v-674bb3f7] { background: var(--rubin); border-color: var(--rubin);
+}
+.ctl button[data-v-674bb3f7]:disabled { opacity: 0.4; cursor: default;
+}
+.rows[data-v-674bb3f7] { display: flex; flex-direction: column; gap: 0.35rem;
+}
+.r[data-v-674bb3f7] { display: grid; grid-template-columns: 5.2rem 1fr 1fr; gap: 0.5rem; align-items: center; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 0.35rem 0.6rem; transition: opacity 0.3s;
+}
+.r.off[data-v-674bb3f7] { opacity: 0.3;
+}
+.hn[data-v-674bb3f7] { display: flex; gap: 0.3rem; align-items: center; font-size: 0.8rem; color: var(--navy);
+}
+.hn i[data-v-674bb3f7] { color: var(--teal-d); font-size: 1.1rem;
+}
+.v[data-v-674bb3f7] { display: flex; flex-direction: column; gap: 0.05rem;
+}
+.v span[data-v-674bb3f7] { font-size: 0.56rem; color: var(--muted);
+}
+code[data-v-674bb3f7] { font: 0.74rem 'IBM Plex Mono', monospace; background: #f2f5f9; border-radius: 5px; padding: 0.12rem 0.35rem; white-space: pre; color: var(--navy);
+}
+code.mk[data-v-674bb3f7] { background: var(--gelb-t); color: var(--gelb-d);
+}
+.v.tr code[data-v-674bb3f7] { background: var(--teal-t); color: var(--teal-d);
+}
+.srv[data-v-674bb3f7] { background: #e3ecf8; border-radius: 12px; padding: 0.5rem 0.7rem; display: flex; flex-direction: column; gap: 0.4rem;
+}
+.vd[data-v-674bb3f7] { font: 600 0.72rem/1.35 'Source Sans 3', sans-serif; border-radius: 8px; padding: 0.3rem 0.5rem;
+}
+.vd.ok[data-v-674bb3f7] { background: var(--teal-t); color: var(--teal-d);
+}
+.vd.no[data-v-674bb3f7] { background: var(--rubin-t); color: var(--rubin-d);
+}
+
+.sg[data-v-9aadabb5] { display: grid; grid-template-columns: 1.3fr 1fr; gap: 0.7rem;
+}
+.sg .tk-c[data-v-9aadabb5] { font-size: 0.82rem; padding: 0.45rem 0.8rem;
+}
+.sg .tk-c > .ic[data-v-9aadabb5] { font-size: 1.4rem;
+}
+.sg .k[data-v-9aadabb5] { font-size: 0.92rem;
+}

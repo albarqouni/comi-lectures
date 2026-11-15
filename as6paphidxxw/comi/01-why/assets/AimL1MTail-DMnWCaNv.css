@@ -1,0 +1,41 @@
+
+.tl[data-v-04ae5281] { display: grid; grid-template-columns: 1.5fr 1fr; gap: 0.7rem;
+}
+.bx[data-v-04ae5281] { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.5rem 0.7rem; display: flex; flex-direction: column; gap: 0.35rem;
+}
+.tg[data-v-04ae5281] { display: flex; gap: 0.25rem; flex-wrap: wrap;
+}
+.tg button[data-v-04ae5281] { font: 600 0.6rem 'Source Sans 3', sans-serif; padding: 0.1rem 0.5rem; border-radius: 99px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.tg button.on[data-v-04ae5281] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+.tg .lg[data-v-04ae5281] { margin-left: auto;
+}
+.tg .lg.on[data-v-04ae5281] { background: var(--teal); border-color: var(--teal);
+}
+.bars[data-v-04ae5281] { display: flex; flex-direction: column; gap: 0.18rem;
+}
+.row[data-v-04ae5281] { display: grid; grid-template-columns: 9rem 1fr 2.6rem auto; gap: 0.4rem; align-items: center; font-size: 0.72rem;
+}
+.row i[data-v-04ae5281] { display: block; height: 0.75rem; border-radius: 4px; background: #9aa5b4; min-width: 2px;
+}
+.row i.h[data-v-04ae5281] { background: var(--navy);
+}
+.row i.t[data-v-04ae5281] { background: var(--rubin);
+}
+.row b[data-v-04ae5281] { font: 700 0.74rem 'Source Sans 3', sans-serif; color: var(--navy); text-align: right;
+}
+.row em[data-v-04ae5281] { font: 0.58rem 'IBM Plex Mono', monospace; color: var(--teal-d); font-style: normal;
+}
+small[data-v-04ae5281] { font: italic 0.6rem 'Source Serif 4', serif; color: var(--muted);
+}
+.sd[data-v-04ae5281] { display: flex; flex-direction: column; gap: 0.45rem;
+}
+.tiles[data-v-04ae5281] { display: flex; gap: 0.6rem;
+}
+.kv[data-v-04ae5281] { display: flex; flex-direction: column; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 0.35rem 0.6rem; font-size: 0.72rem; line-height: 1.35;
+}
+.kv b[data-v-04ae5281] { font: 700 1.5rem/1.1 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.kv b.r[data-v-04ae5281] { color: var(--rubin);
+}

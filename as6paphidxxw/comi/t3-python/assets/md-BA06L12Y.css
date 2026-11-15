@@ -1,0 +1,40 @@
+
+.t3p[data-v-43109d6c] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.7rem;
+}
+.t3p-p[data-v-43109d6c] { display: flex; flex-direction: column; gap: 0.3rem;
+}
+.cd[data-v-43109d6c] { background: #1e1e1e; color: #d4d4d4; border-radius: 8px; padding: 0.35rem 0.55rem; font: 0.6rem/1.5 'IBM Plex Mono', monospace; white-space: nowrap;
+}
+.cd b[data-v-43109d6c] { color: #b5cea8; font-weight: 400;
+}
+.fig[data-v-43109d6c] { position: relative; height: 11.5rem; background: #fff; border: 1px solid #c9d2dd; border-radius: 4px;
+}
+.fig svg[data-v-43109d6c] { position: absolute; left: 6%; right: 4%; top: 4%; bottom: 12%; width: 90%; height: 84%; border-left: 1px solid #333; border-bottom: 1px solid #333;
+}
+.fig.im[data-v-43109d6c] { background: #fff; display: grid; place-items: center;
+}
+.fig.im canvas[data-v-43109d6c] { height: 100%; max-width: 100%; object-fit: contain; image-rendering: pixelated;
+}
+.fig span[data-v-43109d6c] { position: absolute; font: 0.52rem 'IBM Plex Mono', monospace; color: #333;
+}
+.fig .xa[data-v-43109d6c] { left: 6%; bottom: 0.15rem;
+}
+.fig .xb[data-v-43109d6c] { right: 4%; bottom: 0.15rem;
+}
+.fig .ya[data-v-43109d6c] { left: 7.5%; top: 0.2rem;
+}
+.fig .yn[data-v-43109d6c] { left: 9%; top: 0.3rem; color: var(--muted);
+}
+small[data-v-43109d6c] { font-size: 0.62rem; color: var(--muted);
+}
+label[data-v-43109d6c] { display: grid; grid-template-columns: 0.8rem 1fr 1.6rem; gap: 0.3rem; align-items: center; font-size: 0.66rem; color: var(--navy);
+}
+input[data-v-43109d6c] { accent-color: var(--teal-d);
+}
+label b[data-v-43109d6c] { font: 0.62rem 'IBM Plex Mono', monospace;
+}
+
+.t3pl[data-v-b879a944] { font-size: 0.74rem; color: var(--navy); background: var(--teal-t); border-radius: 8px; padding: 0.35rem 0.7rem;
+}
+.t3pl code[data-v-b879a944] { font: 0.68rem 'IBM Plex Mono', monospace;
+}

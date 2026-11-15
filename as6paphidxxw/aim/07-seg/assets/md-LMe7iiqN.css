@@ -1,0 +1,11 @@
+
+.ua[data-v-a1554c4a] { display: grid; grid-template-columns: 1.7fr 1fr; gap: 1rem; align-items: center;
+}
+.usv[data-v-a1554c4a] { width: 100%; height: auto;
+}
+.pts[data-v-a1554c4a] { display: flex; flex-direction: column; gap: 0.5rem;
+}
+.pts div[data-v-a1554c4a] { background: var(--card); border: 1px solid var(--line); border-left: 4px solid var(--teal); border-radius: 10px; padding: 0.45rem 0.7rem; font-size: 0.86rem;
+}
+.pts b[data-v-a1554c4a] { color: var(--navy); display: block;
+}

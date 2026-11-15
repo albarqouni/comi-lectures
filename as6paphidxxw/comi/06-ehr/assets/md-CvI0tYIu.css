@@ -1,0 +1,15 @@
+
+.l6pg-rr[data-v-98dd1b47] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.5rem 0.8rem;
+}
+.l6pg-rr .cd[data-v-98dd1b47] { display: grid; grid-template-columns: 1.8rem 1fr; gap: 0.5rem; align-items: start; background: var(--card); border: 1px solid var(--line); border-left: 4px solid var(--gelb); border-radius: 10px; padding: 0.45rem 0.7rem; text-decoration: none; color: var(--ink);
+}
+.l6pg-rr .cd[data-v-98dd1b47]:hover { background: #fffbea;
+}
+.l6pg-rr .cd > i[data-v-98dd1b47] { font-size: 1.5rem; color: var(--teal-d);
+}
+.l6pg-rr .cd > div[data-v-98dd1b47] { display: flex; flex-direction: column; gap: 0.05rem; font-size: 0.76rem; line-height: 1.35;
+}
+.l6pg-rr b[data-v-98dd1b47] { color: var(--navy); font-size: 0.9rem;
+}
+.l6pg-rr .m[data-v-98dd1b47] { font: 600 0.56rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}

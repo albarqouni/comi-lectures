@@ -1,0 +1,29 @@
+
+.sq[data-v-2c62496b] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.9rem;
+}
+.sq .cd[data-v-2c62496b] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid var(--navy); border-radius: 14px; padding: 0.7rem 0.9rem; display: flex; flex-direction: column; gap: 0.35rem; font-size: 0.9rem;
+}
+.sq .k[data-v-2c62496b] { display: flex; gap: 0.3rem; align-items: center; font: 600 0.6rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--navy);
+}
+.sq .k i[data-v-2c62496b] { color: var(--teal-d); font-size: 1.05rem;
+}
+.sq .big[data-v-2c62496b] { font: 700 2rem/1 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.sq b[data-v-2c62496b] { color: var(--navy);
+}
+.ps[data-v-2c62496b] { display: flex; gap: 0.5rem; align-items: baseline; background: var(--teal-t); border-radius: 8px; padding: 0.3rem 0.6rem;
+}
+.ps b[data-v-2c62496b] { font: 700 1.5rem 'Source Sans 3', sans-serif; color: var(--teal-d);
+}
+.ps span[data-v-2c62496b] { font-size: 0.8rem;
+}
+.ps.r[data-v-2c62496b] { background: var(--rubin-t);
+}
+.ps.r b[data-v-2c62496b] { color: var(--rubin);
+}
+.sq small[data-v-2c62496b] { font-size: 0.66rem; color: var(--muted);
+}
+.lesson[data-v-2c62496b] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.5rem 0.9rem; font: italic 0.98rem 'Source Serif 4', serif;
+}
+.lesson b[data-v-2c62496b] { color: var(--gelb);
+}

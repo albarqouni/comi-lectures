@@ -1,0 +1,15 @@
+
+.ix[data-v-4db2bde2] { display: grid; grid-template-columns: 1.2fr 1fr 1fr; gap: 0.75rem;
+}
+.ix .tk-c[data-v-4db2bde2] { font-size: 0.84rem; display: flex; flex-direction: column; gap: 0.35rem;
+}
+.ix .tk-bars > div[data-v-4db2bde2] { grid-template-columns: 8.5rem 1fr 3.2rem; font-size: 0.8rem;
+}
+.ix b[data-v-4db2bde2] { color: var(--navy);
+}
+.ix .cnt[data-v-4db2bde2] { display: flex; gap: 0.5rem; align-items: center;
+}
+.ix .cnt b[data-v-4db2bde2] { font: 700 1.8rem/1 'Source Sans 3', sans-serif; color: var(--rubin); min-width: 2.6rem;
+}
+.ix .cnt span[data-v-4db2bde2] { font-size: 0.78rem;
+}

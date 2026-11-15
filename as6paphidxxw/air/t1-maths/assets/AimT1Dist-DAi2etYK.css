@@ -1,0 +1,55 @@
+
+.ds[data-v-306f7a0c] { display: grid; grid-template-columns: 17.5rem 1fr; gap: 0.8rem;
+}
+.pl1[data-v-306f7a0c] { position: relative; padding: 0 0 1rem 1.1rem;
+}
+svg[data-v-306f7a0c] { width: 16rem; height: 16rem; background: #fbfbfd; border: 1px solid var(--line); border-radius: 12px;
+}
+.ax[data-v-306f7a0c] { position: absolute; font-size: 0.58rem; color: var(--muted);
+}
+.ax b[data-v-306f7a0c] { font-weight: 600; color: var(--navy);
+}
+.ax.x[data-v-306f7a0c] { left: 1.1rem; width: 16rem; bottom: 0; display: flex; justify-content: space-around;
+}
+.ax.x b[data-v-306f7a0c] { position: absolute; right: 0.3rem; top: -1.25rem;
+}
+.ax.y[data-v-306f7a0c] { left: 0; top: 0; height: 16rem; writing-mode: vertical-rl; transform: rotate(180deg); text-align: center;
+}
+.nf[data-v-306f7a0c] { background: #f4f7fb; border: 1px solid var(--line); border-radius: 12px; padding: 0.55rem 0.75rem; display: flex; flex-direction: column; gap: 0.4rem; color: var(--navy); font-size: 0.82rem;
+}
+.mt[data-v-306f7a0c] { display: flex; flex-wrap: wrap; gap: 0.2rem;
+}
+.mt button[data-v-306f7a0c] { font: 600 0.64rem 'Source Sans 3', sans-serif; padding: 0.1rem 0.5rem; border-radius: 99px; border: 1.5px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.mt button.on[data-v-306f7a0c] { background: var(--navy); color: #fff;
+}
+.mt button[data-v-306f7a0c]:disabled { opacity: 0.35; cursor: default;
+}
+.pr[data-v-306f7a0c] { display: flex; gap: 0.5rem; align-items: center;
+}
+.pr > div[data-v-306f7a0c] { display: flex; flex-direction: column; align-items: center; gap: 0.1rem;
+}
+.pr span[data-v-306f7a0c] { font: 600 0.5rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.pr b[data-v-306f7a0c] { font-size: 0.66rem;
+}
+.pr > i[data-v-306f7a0c] { font-size: 1.1rem; color: var(--muted);
+}
+.dd[data-v-306f7a0c] { margin-left: auto; background: var(--gelb); border-radius: 8px; padding: 0.2rem 0.5rem;
+}
+.dd b[data-v-306f7a0c] { font: 700 1.2rem 'Source Sans 3', sans-serif !important; color: var(--navy);
+}
+.nf small[data-v-306f7a0c] { font-size: 0.68rem; line-height: 1.3; color: var(--muted);
+}
+.fv[data-v-306f7a0c] { display: flex; gap: 0.3rem; align-items: center; flex-wrap: wrap; border-top: 1px dashed var(--line); padding-top: 0.3rem;
+}
+.fv > span[data-v-306f7a0c] { font: 600 0.5rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted); width: 100%;
+}
+.fv > div[data-v-306f7a0c] { display: flex; flex-direction: column; align-items: center; gap: 0.05rem; padding: 0.1rem 0.25rem; border-radius: 6px;
+}
+.fv > div.on[data-v-306f7a0c] { background: #fff; outline: 1.5px solid #f0b400;
+}
+.fv i[data-v-306f7a0c] { font: 600 0.5rem 'IBM Plex Mono', monospace; font-style: normal; color: var(--muted);
+}
+.fv b[data-v-306f7a0c] { font-size: 0.56rem;
+}

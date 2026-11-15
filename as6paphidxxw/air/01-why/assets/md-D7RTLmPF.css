@@ -1,0 +1,13 @@
+
+.acts[data-v-37619996] { display: flex; gap: 0.8rem; margin-top: 1.6rem; flex-wrap: wrap;
+}
+.acts div[data-v-37619996] { font: 1.15rem 'Source Serif 4', serif; color: #fff; display: flex; align-items: center; gap: 0.5rem;
+}
+.acts span[data-v-37619996] { width: 1.8rem; height: 1.8rem; border-radius: 50%; background: var(--gelb); color: var(--navy); display: grid; place-items: center; font: 700 0.95rem 'Source Sans 3', sans-serif;
+}
+.pat[data-v-37619996] { margin-top: 2rem; max-width: 40rem; padding-left: 0.9rem; border-left: 3px solid var(--teal); font: italic 1rem/1.45 'Source Serif 4', serif; color: #e8eef6;
+}
+.pat b[data-v-37619996] { color: #fff; font-style: normal;
+}
+.pat i[data-v-37619996] { color: #9fb3cc;
+}

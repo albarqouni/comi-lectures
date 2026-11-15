@@ -1,0 +1,45 @@
+
+.stp[data-v-c324a059] { display: grid; grid-template-columns: 1.5fr 1fr; gap: 0.8rem;
+}
+.st[data-v-c324a059] { display: flex; flex-direction: column; gap: 0.3rem;
+}
+svg[data-v-c324a059] { width: 100%; height: 15rem; background: #fbfbfd; border: 1px solid var(--line); border-radius: 12px;
+}
+.ct[data-v-c324a059] { display: flex; gap: 0.4rem; align-items: center;
+}
+.ct label[data-v-c324a059] { flex: 1; display: flex; gap: 0.4rem; align-items: center; font-size: 0.68rem; color: var(--muted);
+}
+.ct input[data-v-c324a059] { flex: 1; accent-color: #c2255c;
+}
+.ct b[data-v-c324a059] { font: 600 0.72rem 'IBM Plex Mono', monospace; color: var(--navy);
+}
+.ct button[data-v-c324a059] { font: 600 0.68rem 'Source Sans 3', sans-serif; padding: 0.2rem 0.65rem; border-radius: 99px; border: none; background: var(--navy); color: #fff; cursor: pointer;
+}
+.ct button.g[data-v-c324a059] { background: #c9d2dd; color: var(--navy);
+}
+.nf[data-v-c324a059] { background: #f4f7fb; border: 1px solid var(--line); border-radius: 12px; padding: 0.55rem 0.75rem; display: flex; flex-direction: column; gap: 0.32rem; color: var(--navy); font-size: 0.8rem;
+}
+.nf .k[data-v-c324a059] { font: 600 0.6rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: #004e9f;
+}
+.ln[data-v-c324a059] { display: flex; gap: 0.45rem; align-items: center; padding: 0.12rem 0.4rem; border-radius: 7px;
+}
+.ln i[data-v-c324a059] { font: 700 0.62rem 'IBM Plex Mono', monospace; font-style: normal; width: 1.2rem; height: 1.2rem; border-radius: 50%; display: grid; place-items: center; background: #e3ecf8; color: #004e9f;
+}
+.ln.on[data-v-c324a059] { background: var(--gelb);
+}
+.nx[data-v-c324a059] { background: #fff; border: 1px solid var(--line); border-radius: 8px; padding: 0.25rem 0.5rem; display: flex; flex-direction: column;
+}
+.nx b[data-v-c324a059] { font: 600 0.52rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.vd[data-v-c324a059] { background: #e6f4f3; border-radius: 8px; padding: 0.2rem 0.55rem; display: flex; gap: 0.5rem; align-items: baseline;
+}
+.vd b[data-v-c324a059] { color: var(--teal-d);
+}
+.vd span[data-v-c324a059] { font-size: 0.66rem; color: var(--muted);
+}
+.vd.bad[data-v-c324a059] { background: #fbe9ef;
+}
+.vd.bad b[data-v-c324a059] { color: #c2255c;
+}
+.nf small[data-v-c324a059] { font-size: 0.66rem; line-height: 1.3; color: var(--muted);
+}

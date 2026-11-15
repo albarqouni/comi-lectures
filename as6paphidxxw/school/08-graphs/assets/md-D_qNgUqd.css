@@ -1,0 +1,9 @@
+
+.trk[data-v-0663c6d6] { position: absolute; top: 5.4rem; right: 2.5rem; font: 600 0.56rem 'IBM Plex Mono', monospace; letter-spacing: 0.1em; text-transform: uppercase; padding: 0.15rem 0.55rem; border-radius: 99px; background: #e3ecf8; color: #004e9f;
+}
+.nt[data-v-0663c6d6] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.4rem 0.7rem;
+}
+.nt .tk-c[data-v-0663c6d6] { font-size: 0.8rem; display: flex; flex-direction: column; gap: 0.15rem; padding: 0.35rem 0.7rem;
+}
+.nt .tk-c > span[data-v-0663c6d6]:not(.tex) { color: var(--muted);
+}

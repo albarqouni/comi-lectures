@@ -1,0 +1,17 @@
+
+.hn[data-v-4f3f5387] { display: grid; grid-template-columns: 1.3fr 1fr; gap: 0.8rem;
+}
+.hn .tk-c[data-v-4f3f5387] { font-size: 0.9rem;
+}
+.rng[data-v-4f3f5387] { position: relative; height: 3rem; background: #f1f3f6; border-radius: 8px; margin: 0.5rem 0;
+}
+.rng i[data-v-4f3f5387] { position: absolute; top: 0.9rem; height: 1.2rem; background: var(--rubin); opacity: 0.4; border-radius: 99px;
+}
+.rng em[data-v-4f3f5387] { position: absolute; top: 0.2rem; font: 600 0.7rem 'IBM Plex Mono', monospace; font-style: normal; color: var(--navy);
+}
+.rng .lo[data-v-4f3f5387], .rng .hi[data-v-4f3f5387] { position: absolute; bottom: 0.1rem; font-size: 0.66rem; color: var(--muted);
+}
+.rng .lo[data-v-4f3f5387] { left: 2%;
+}
+.rng .hi[data-v-4f3f5387] { right: 2%;
+}

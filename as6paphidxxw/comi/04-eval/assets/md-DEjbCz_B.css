@@ -1,0 +1,29 @@
+
+.pfe[data-v-05d2b228] { display: grid; grid-template-columns: 11rem 1fr; gap: 0.9rem;
+}
+.pfe .hx[data-v-05d2b228] { display: flex; flex-direction: column; gap: 0.32rem; border-left: 3px solid var(--teal); padding-left: 0.6rem;
+}
+.pfe .hx div[data-v-05d2b228] { display: flex; flex-direction: column;
+}
+.pfe .hx b[data-v-05d2b228] { font: 700 0.92rem 'IBM Plex Mono', monospace; color: var(--navy);
+}
+.pfe .hx span[data-v-05d2b228] { font-size: 0.7rem; color: var(--muted); line-height: 1.25;
+}
+.pfe .hx em[data-v-05d2b228] { color: var(--rubin); font-style: normal; font-weight: 600;
+}
+.pfe .st[data-v-05d2b228] { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.4rem;
+}
+.pfe .st > div[data-v-05d2b228] { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 0.35rem 0.5rem; display: flex; flex-direction: column; gap: 0.1rem; position: relative; font-size: 0.82rem; color: var(--navy);
+}
+.pfe .st i[data-v-05d2b228] { font-size: 1.1rem; color: #004e9f;
+}
+.pfe .st b[data-v-05d2b228] { position: absolute; right: 0.5rem; top: 0.3rem; font: 700 0.7rem 'IBM Plex Mono', monospace; color: var(--rubin);
+}
+.pfe .st > div > span[data-v-05d2b228]:not(.tex) { font-size: 0.7rem; color: var(--muted);
+}
+.pfe .st .me[data-v-05d2b228] { grid-column: span 3; background: var(--teal-t); border-color: transparent; flex-direction: row; align-items: center; gap: 0.4rem;
+}
+.pfe .st .me > span[data-v-05d2b228] { color: var(--navy); font-size: 0.72rem;
+}
+.pfe .st .me i[data-v-05d2b228] { color: var(--teal-d);
+}

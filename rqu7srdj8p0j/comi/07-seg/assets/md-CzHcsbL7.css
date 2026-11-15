@@ -1,0 +1,13 @@
+
+.rgo[data-v-54a5e3d7] { display: grid; grid-template-columns: 1fr 1.25fr; gap: 0.8rem; align-items: start;
+}
+.rgo .lf[data-v-54a5e3d7] { display: flex; flex-direction: column; gap: 0.3rem;
+}
+.rgo .tx[data-v-54a5e3d7] { background: #fff6dc; border-radius: 10px; padding: 0.1rem 0.5rem; color: var(--navy); font-size: 0.86rem;
+}
+.rgo .tk-c[data-v-54a5e3d7] { padding: 0.3rem 0.6rem; font-size: 0.76rem;
+}
+.rgo b[data-v-54a5e3d7] { color: #004e9f;
+}
+.rgo pre[data-v-54a5e3d7] { font-size: 0.6rem !important; line-height: 1.35 !important;
+}

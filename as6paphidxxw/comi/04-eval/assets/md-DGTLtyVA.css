@@ -1,0 +1,7 @@
+
+.rp2[data-v-74f7a95b] { display: flex; flex-direction: column; gap: 0.5rem;
+}
+.rp2 div[data-v-74f7a95b] { background: var(--card); border: 1px solid var(--line); border-left: 4px solid var(--gelb); border-radius: 10px; padding: 0.5rem 0.8rem; font-size: 0.86rem; line-height: 1.4;
+}
+.rp2 b[data-v-74f7a95b] { color: var(--navy);
+}

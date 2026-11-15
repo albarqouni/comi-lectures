@@ -1,0 +1,11 @@
+
+.th[data-v-f86ce8a4] { display: flex; flex-direction: column; gap: 0.6rem;
+}
+.th .m[data-v-f86ce8a4] { display: flex; gap: 0.8rem; align-items: center; font: 1.2rem/1.35 'Source Serif 4', serif; color: var(--ink);
+}
+.th i[data-v-f86ce8a4] { font-style: normal; width: 2rem; height: 2rem; flex: none; border-radius: 50%; background: var(--navy); color: var(--gelb); display: grid; place-items: center; font: 700 1rem 'Source Sans 3', sans-serif;
+}
+.th b[data-v-f86ce8a4] { color: var(--navy);
+}
+.kws[data-v-f86ce8a4] { display: flex; gap: 0.5rem; flex-wrap: wrap; font-size: 1.15rem;
+}

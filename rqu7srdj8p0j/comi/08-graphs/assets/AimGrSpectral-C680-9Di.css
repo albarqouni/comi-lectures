@@ -1,0 +1,49 @@
+
+.sp[data-v-c8dd5ace] { display: grid; grid-template-columns: 1.3fr 1fr; gap: 0.8rem;
+}
+.pl svg[data-v-c8dd5ace] { width: 100%; height: 15rem; background: #fff; border: 1px solid var(--line); border-radius: 10px;
+}
+.lg[data-v-c8dd5ace] { display: flex; flex-wrap: wrap; gap: 0.15rem 0.6rem; font-size: 0.62rem; color: var(--muted); margin-top: 0.2rem;
+}
+.lg span[data-v-c8dd5ace] { display: flex; align-items: center; gap: 0.2rem;
+}
+.lg i[data-v-c8dd5ace] { width: 0.55rem; height: 0.55rem; border-radius: 50%;
+}
+.rt[data-v-c8dd5ace] { display: flex; flex-direction: column; gap: 0.35rem; font-size: 0.78rem; color: var(--navy);
+}
+label[data-v-c8dd5ace] { display: flex; flex-direction: column;
+}
+label input[data-v-c8dd5ace] { accent-color: var(--teal-d);
+}
+.k[data-v-c8dd5ace] { font: 600 0.58rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.ev[data-v-c8dd5ace] { width: 100%; height: 3.6rem; background: #fff; border: 1px solid var(--line); border-radius: 6px;
+}
+.seg[data-v-c8dd5ace] { display: flex; gap: 0.25rem;
+}
+.seg button[data-v-c8dd5ace] { flex: 1; font: 600 0.7rem 'Source Sans 3', sans-serif; padding: 0.15rem; border-radius: 99px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.seg button.on[data-v-c8dd5ace] { background: var(--navy); color: #fff;
+}
+p[data-v-c8dd5ace] { margin: 0; font-size: 0.72rem; line-height: 1.35;
+}
+p b[data-v-c8dd5ace] { color: var(--rubin);
+}
+.nm[data-v-c8dd5ace] { background: var(--teal-t); border-radius: 8px; padding: 0.25rem 0.5rem; display: flex; flex-direction: column;
+}
+.nm b[data-v-c8dd5ace] { font: 700 1.1rem 'Source Sans 3', sans-serif;
+}
+.nm span[data-v-c8dd5ace] { font-size: 0.66rem; color: var(--muted);
+}
+.cmp[data-v-c8dd5ace] { display: flex; flex-direction: column; gap: 0.15rem;
+}
+.cmp > div[data-v-c8dd5ace] { display: grid; grid-template-columns: 1fr 3.4rem 3rem; gap: 0.3rem; align-items: center;
+}
+.cmp .h b[data-v-c8dd5ace] { font: 600 0.58rem 'IBM Plex Mono', monospace; color: var(--muted); text-transform: uppercase;
+}
+.cmp .r[data-v-c8dd5ace] { background: #f4f7fb; border-radius: 6px; padding: 0.15rem 0.4rem; font-size: 0.74rem;
+}
+.cmp .r b[data-v-c8dd5ace] { font: 700 0.95rem 'Source Sans 3', sans-serif;
+}
+.cmp .r.on[data-v-c8dd5ace] { background: var(--gelb);
+}

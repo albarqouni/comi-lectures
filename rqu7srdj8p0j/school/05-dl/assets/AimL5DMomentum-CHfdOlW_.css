@@ -1,0 +1,95 @@
+
+.mo[data-v-48c9edc1] { font-family: 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.plg[data-v-48c9edc1] { display: grid; grid-template-columns: 19rem 1fr; gap: 1rem;
+}
+.fig[data-v-48c9edc1] { position: relative; width: 19rem; height: 19rem; border: 1px solid var(--line); border-radius: 10px; overflow: hidden;
+}
+.fig svg[data-v-48c9edc1] { width: 100%; height: 100%; cursor: crosshair;
+}
+.ax[data-v-48c9edc1] { position: absolute; font: 600 0.52rem 'IBM Plex Mono', monospace; background: rgba(255, 255, 255, 0.75); padding: 0 0.2rem;
+}
+.ax.x[data-v-48c9edc1] { right: 0.3rem; bottom: 1.1rem;
+}
+.ax.y[data-v-48c9edc1] { left: 0.3rem; top: 0.2rem;
+}
+.hint[data-v-48c9edc1] { position: absolute; left: 0.3rem; bottom: 0.15rem; font: 0.5rem 'IBM Plex Mono', monospace; color: var(--muted);
+}
+.sd[data-v-48c9edc1] { display: flex; flex-direction: column; gap: 0.4rem; min-width: 0;
+}
+.row[data-v-48c9edc1] { display: flex; align-items: center; gap: 0.5rem;
+}
+.lb[data-v-48c9edc1] { font-size: 0.7rem; width: 8.2rem; flex: none;
+}
+.row input[type='range'][data-v-48c9edc1] { flex: 1;
+}
+.tg[data-v-48c9edc1] { display: flex; gap: 0.25rem; flex-wrap: wrap;
+}
+.tg button[data-v-48c9edc1] { font: 600 0.64rem 'Source Sans 3', sans-serif; padding: 0.12rem 0.55rem; border-radius: 99px; border: 1.5px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.tg button.on[data-v-48c9edc1] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+.st[data-v-48c9edc1] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.3rem;
+}
+.st > div[data-v-48c9edc1] { background: #e3ecf8; border-radius: 8px; padding: 0.2rem 0.5rem; display: flex; flex-direction: column;
+}
+.st .g[data-v-48c9edc1] { background: #dbe7f5; border-left: 4px solid #004e9f;
+}
+.st .m[data-v-48c9edc1] { background: var(--rubin-t); border-left: 4px solid #c2255c;
+}
+.st span[data-v-48c9edc1] { font-size: 0.56rem; text-transform: uppercase; font-family: 'IBM Plex Mono', monospace;
+}
+.st b[data-v-48c9edc1] { font: 700 1.25rem 'Source Sans 3', sans-serif;
+}
+.st small[data-v-48c9edc1] { font-size: 0.58rem; color: var(--muted);
+}
+.cv[data-v-48c9edc1] { position: relative;
+}
+.cv svg[data-v-48c9edc1] { width: 100%; height: 6.3rem; background: #fff; border: 1px solid var(--line); border-radius: 8px;
+}
+.cv .t[data-v-48c9edc1] { position: absolute; right: 0.4rem; bottom: 1.2rem; font: 0.52rem 'IBM Plex Mono', monospace; color: var(--muted);
+}
+.cv .l[data-v-48c9edc1] { font-size: 0.6rem; color: var(--muted); display: flex; gap: 0.3rem; align-items: center;
+}
+.cv .l i[data-v-48c9edc1] { display: inline-block; width: 0.9rem; height: 0.18rem;
+}
+.cv .l i.g[data-v-48c9edc1] { background: #004e9f;
+}
+.cv .l i.m[data-v-48c9edc1] { background: #c2255c; margin-left: 0.4rem;
+}
+.sp[data-v-48c9edc1] { display: grid; grid-template-columns: 1.3fr 1fr; gap: 0.9rem;
+}
+.dv[data-v-48c9edc1] { display: flex; flex-direction: column; gap: 0.2rem;
+}
+.ln[data-v-48c9edc1] { display: flex; gap: 0.5rem; align-items: center; padding: 0.15rem 0.6rem; border-radius: 9px; border: 1px solid var(--line); background: var(--card); cursor: pointer; transition: opacity 0.2s; font-size: 0.78rem;
+}
+.ln i[data-v-48c9edc1] { font: 700 0.66rem 'IBM Plex Mono', monospace; font-style: normal; width: 1.2rem; height: 1.2rem; border-radius: 50%; display: grid; place-items: center; background: #e3ecf8; color: #004e9f; flex: none;
+}
+.ln > div[data-v-48c9edc1] { display: flex; flex-direction: column;
+}
+.ln b[data-v-48c9edc1] { font-size: 0.6rem; color: var(--muted); font-weight: 600;
+}
+.ln.on[data-v-48c9edc1] { background: var(--gelb); border-color: #f0b400;
+}
+.ln.on i[data-v-48c9edc1] { background: var(--navy); color: #fff;
+}
+.ln.fut[data-v-48c9edc1] { opacity: 0.18;
+}
+.bt2[data-v-48c9edc1] { display: flex; gap: 0.3rem;
+}
+.bt2 button[data-v-48c9edc1] { font: 600 0.7rem 'Source Sans 3', sans-serif; padding: 0.2rem 0.7rem; border-radius: 99px; border: none; background: var(--navy); color: #fff; cursor: pointer;
+}
+.bt2 button.g[data-v-48c9edc1] { background: #c9d2dd; color: var(--navy);
+}
+.bt2 button[data-v-48c9edc1]:disabled { opacity: 0.4; cursor: default;
+}
+.lv[data-v-48c9edc1] { background: #f4f7fb; border: 1px solid var(--line); border-radius: 12px; padding: 0.55rem 0.75rem; display: flex; flex-direction: column; gap: 0.45rem;
+}
+.lv .k[data-v-48c9edc1] { font: 600 0.6rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: #004e9f;
+}
+.lv p[data-v-48c9edc1] { margin: 0; font-size: 0.78rem; line-height: 1.35;
+}
+.big[data-v-48c9edc1] { display: flex; flex-direction: column; gap: 0.35rem; font-size: 0.9rem;
+}
+small[data-v-48c9edc1] { font-size: 0.64rem; color: var(--muted); line-height: 1.35;
+}

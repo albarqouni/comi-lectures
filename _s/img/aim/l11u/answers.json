@@ -1,0 +1,59 @@
+{
+  "source": "ILLUSTRATIVE, written by the course team for AimL11FSem — not outputs of a real model. Each question has 10 sampled answers; 'm' is the meaning cluster as a bidirectional-entailment (NLI) check would judge it; 'implies' lists clusters that an answer entails one way only. 'verbal' = the confidence the model might state in words; 'tokenP' = probability of the single greedy answer string. Method: Farquhar S, et al. Nature 2024;630:625-30 (discrete semantic entropy).",
+  "questions": [
+    {
+      "id": "fact", "label": "A textbook fact",
+      "q": "What is the most common bacterial cause of community-acquired pneumonia?",
+      "verbal": 0.95, "tokenP": 0.31, "truth": "S. pneumoniae",
+      "meanings": ["Streptococcus pneumoniae", "Mycoplasma pneumoniae"],
+      "answers": [
+        { "t": "Streptococcus pneumoniae.", "m": 0 },
+        { "t": "S. pneumoniae (pneumococcus).", "m": 0 },
+        { "t": "Pneumococcus.", "m": 0 },
+        { "t": "Streptococcus pneumoniae.", "m": 0 },
+        { "t": "The most common cause is Streptococcus pneumoniae.", "m": 0 },
+        { "t": "Pneumococcus.", "m": 0 },
+        { "t": "Streptococcus pneumoniae, the pneumococcus.", "m": 0 },
+        { "t": "Mycoplasma pneumoniae.", "m": 1 },
+        { "t": "Streptococcus pneumoniae.", "m": 0 },
+        { "t": "S. pneumoniae (pneumococcus).", "m": 0 }
+      ]
+    },
+    {
+      "id": "dose", "label": "Not in the record",
+      "q": "Which amoxicillin dose did Jonas's GP prescribe last week?",
+      "verbal": 0.90, "tokenP": 0.18, "truth": "not documented (the question cannot be answered from the record)",
+      "meanings": ["500 mg three times daily", "250 mg three times daily", "45 mg/kg/day in two doses", "90 mg/kg/day", "40 mg/kg/day in three doses", "no prescription documented", "250 mg twice daily", "1 g twice daily"],
+      "answers": [
+        { "t": "500 mg three times daily.", "m": 0 },
+        { "t": "250 mg three times daily.", "m": 1 },
+        { "t": "45 mg/kg per day, split into two doses.", "m": 2 },
+        { "t": "500 mg every 8 hours.", "m": 0 },
+        { "t": "90 mg/kg per day.", "m": 3 },
+        { "t": "40 mg/kg/day in three doses.", "m": 4 },
+        { "t": "No prescription is documented.", "m": 5 },
+        { "t": "500 mg three times daily.", "m": 0 },
+        { "t": "250 mg twice daily.", "m": 6 },
+        { "t": "1 g twice daily.", "m": 7 }
+      ]
+    },
+    {
+      "id": "vlm", "label": "A VLM reads the X-ray",
+      "q": "Is there a pleural effusion on this chest X-ray?",
+      "verbal": 0.95, "tokenP": 0.42, "truth": "to be decided by the radiologist",
+      "meanings": ["no pleural effusion", "costophrenic angles clear", "small right pleural effusion", "cannot be assessed"],
+      "answers": [
+        { "t": "No pleural effusion.", "m": 0 },
+        { "t": "No effusion is seen.", "m": 0 },
+        { "t": "Small right pleural effusion.", "m": 2 },
+        { "t": "No pleural effusion.", "m": 0 },
+        { "t": "The costophrenic angles are clear.", "m": 1, "implies": [0] },
+        { "t": "There is a small effusion on the right.", "m": 2 },
+        { "t": "No pleural effusion.", "m": 0 },
+        { "t": "Small right pleural effusion.", "m": 2 },
+        { "t": "Cannot be assessed on this image.", "m": 3 },
+        { "t": "No effusion is seen.", "m": 0 }
+      ]
+    }
+  ]
+}

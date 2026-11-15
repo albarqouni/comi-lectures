@@ -1,0 +1,13 @@
+
+.pv[data-v-272e0376] { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;
+}
+.pv .st[data-v-272e0376] { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 0.9rem 1rem; display: flex; flex-direction: column; gap: 0.3rem;
+}
+.pv .st b[data-v-272e0376] { font: 700 2.8rem/1 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.pv .st span[data-v-272e0376] { font-size: 0.92rem; line-height: 1.45;
+}
+.pv .st.red[data-v-272e0376] { background: var(--rubin-t); border-color: transparent;
+}
+.pv .st.red b[data-v-272e0376] { color: var(--rubin);
+}

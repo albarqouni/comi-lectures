@@ -1,0 +1,41 @@
+
+.fu[data-v-6f124b76] { display: grid; grid-template-columns: 1.7fr 1fr; gap: 0.8rem;
+}
+.lf[data-v-6f124b76] { display: flex; flex-direction: column; gap: 0.35rem;
+}
+.tb[data-v-6f124b76] { display: flex; gap: 0.3rem;
+}
+.tb button[data-v-6f124b76] { font: 600 0.72rem 'Source Sans 3', sans-serif; padding: 0.2rem 0.7rem; border-radius: 99px; border: 1px solid var(--line); background: var(--card); color: var(--navy); cursor: pointer;
+}
+.tb button.on[data-v-6f124b76] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+.sv[data-v-6f124b76] { width: 100%; height: 12.2rem; background: var(--card); border: 1px solid var(--line); border-radius: 10px;
+}
+.ms[data-v-6f124b76] { display: flex; gap: 0.4rem; align-items: flex-start; background: var(--teal-t); border-radius: 8px; padding: 0.35rem 0.6rem; font-size: 0.78rem; line-height: 1.35; color: var(--navy); min-height: 2.9rem;
+}
+.ms i[data-v-6f124b76] { color: var(--teal-d); font-size: 1rem; flex: none; margin-top: 0.1rem;
+}
+.ms.bad[data-v-6f124b76] { background: var(--rubin-t);
+}
+.ms.bad i[data-v-6f124b76] { color: var(--rubin);
+}
+.rt[data-v-6f124b76] { background: #f4f7fb; border: 1px solid var(--line); border-radius: 12px; padding: 0.6rem 0.8rem; display: flex; flex-direction: column; gap: 0.35rem;
+}
+.rt .k[data-v-6f124b76] { font: 700 1rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.pr[data-v-6f124b76] { display: flex; justify-content: space-between; align-items: center; gap: 0.4rem; border-top: 1px solid #e3e8ef; padding-top: 0.3rem; font-size: 0.8rem; color: var(--navy);
+}
+.pr i[data-v-6f124b76] { font-size: 1.25rem; flex: none;
+}
+.pr .y[data-v-6f124b76] { color: var(--teal-d);
+}
+.pr .n[data-v-6f124b76] { color: var(--rubin);
+}
+.pr .m[data-v-6f124b76] { color: var(--muted);
+}
+.nt[data-v-6f124b76] { display: flex; gap: 0.35rem; align-items: flex-start; background: #fff; border-radius: 8px; padding: 0.3rem 0.5rem; font-size: 0.74rem; line-height: 1.35;
+}
+.nt i[data-v-6f124b76] { color: #004e9f; flex: none; margin-top: 0.1rem;
+}
+.rt small[data-v-6f124b76] { font-size: 0.6rem; color: var(--muted); margin-top: auto;
+}

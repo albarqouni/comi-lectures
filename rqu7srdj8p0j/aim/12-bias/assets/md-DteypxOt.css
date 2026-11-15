@@ -1,0 +1,19 @@
+
+.sr[data-v-3374d8ea] { display: grid; grid-template-columns: 1fr 1.15fr; gap: 0.8rem;
+}
+.sr .tk-c[data-v-3374d8ea] { font-size: 0.82rem; display: flex; flex-direction: column; gap: 0.35rem;
+}
+.sr b[data-v-3374d8ea] { color: var(--navy);
+}
+.ch2[data-v-3374d8ea] { display: flex; flex-direction: column; gap: 0.2rem;
+}
+.ch2 span[data-v-3374d8ea] { font-size: 0.74rem; background: var(--rubin-t); border-radius: 6px; padding: 0.2rem 0.45rem;
+}
+.st[data-v-3374d8ea] { border-collapse: collapse; font-size: 0.72rem;
+}
+.st th[data-v-3374d8ea] { font: 600 0.54rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted); text-align: left; padding: 0.15rem 0.3rem;
+}
+.st td[data-v-3374d8ea] { border-top: 1px solid #eef1f5; padding: 0.22rem 0.3rem; color: var(--navy);
+}
+.st td[data-v-3374d8ea]:not(:first-child) { color: #b0b8c4;
+}

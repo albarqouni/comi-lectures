@@ -1,0 +1,15 @@
+
+.cb[data-v-8d8b85d5] { display: grid; grid-template-columns: 1.2fr 1fr; gap: 0.8rem; align-items: center;
+}
+.cb .tk-c[data-v-8d8b85d5] { font-size: 0.88rem;
+}
+.flow3[data-v-8d8b85d5] { display: flex; align-items: center; gap: 0.4rem;
+}
+.flow3 .b[data-v-8d8b85d5] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.8rem 0.7rem; font: 600 0.9rem 'Source Sans 3', sans-serif; text-align: center;
+}
+.flow3 .c[data-v-8d8b85d5] { background: var(--teal-d); flex: 1;
+}
+.flow3 small[data-v-8d8b85d5] { font-weight: 400; font-size: 0.66rem;
+}
+.flow3 i[data-v-8d8b85d5] { color: var(--rubin); font-size: 1.3rem;
+}

@@ -1,0 +1,25 @@
+
+.go[data-v-9a296e16] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.8rem;
+}
+.go .cd[data-v-9a296e16] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid var(--navy); border-radius: 12px; padding: 0.75rem 0.9rem; font-size: 0.88rem; line-height: 1.45; display: flex; flex-direction: column; gap: 0.35rem;
+}
+.go .k[data-v-9a296e16] { font: 600 0.6rem 'IBM Plex Mono', monospace; letter-spacing: 0.08em; text-transform: uppercase; color: var(--teal-d);
+}
+.go b[data-v-9a296e16] { color: var(--navy);
+}
+.folds[data-v-9a296e16] { display: flex; flex-direction: column; gap: 0.15rem;
+}
+.fold[data-v-9a296e16] { display: flex; gap: 0.15rem;
+}
+.fold i[data-v-9a296e16] { flex: 1; height: 0.55rem; background: var(--navy); border-radius: 2px;
+}
+.fold i.v[data-v-9a296e16] { background: var(--gelb);
+}
+.vq[data-v-9a296e16] { display: flex; gap: 0.5rem; align-items: center; background: var(--teal-t); border-radius: 10px; padding: 0.5rem 0.8rem; font-size: 0.9rem;
+}
+.vq i[data-v-9a296e16] { font-size: 1.4rem; color: var(--teal-d);
+}
+.vq b[data-v-9a296e16] { color: var(--navy);
+}
+.vq em[data-v-9a296e16] { margin-left: auto; font-size: 0.66rem; color: var(--muted); white-space: nowrap;
+}

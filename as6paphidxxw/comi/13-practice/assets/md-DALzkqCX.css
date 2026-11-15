@@ -1,0 +1,15 @@
+
+.pt6[data-v-0894295f] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.55rem 0.7rem;
+}
+.pt6 .tk-c[data-v-0894295f] { padding: 0.5rem 0.75rem; gap: 0.15rem;
+}
+.pt6 .tk-c > .ic[data-v-0894295f] { font-size: 1.4rem;
+}
+.pt6 .k[data-v-0894295f] { font-size: 0.95rem;
+}
+.pt6 p[data-v-0894295f] { margin: 0; font-size: 0.76rem; line-height: 1.35;
+}
+.pt6 p b[data-v-0894295f] { font: 600 0.56rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--teal-d); margin-right: 0.25rem;
+}
+.pt6 .med p b[data-v-0894295f] { color: var(--rubin-d);
+}

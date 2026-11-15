@@ -1,0 +1,13 @@
+
+.ag[data-v-11e746b0] { display: grid; grid-template-columns: 1fr 1.2fr; gap: 0.8rem;
+}
+.ag .tk-c[data-v-11e746b0] { font-size: 0.86rem;
+}
+.ag .tk-bars > div[data-v-11e746b0] { grid-template-columns: 13rem 1fr 6rem; font-size: 0.78rem;
+}
+.lp[data-v-11e746b0] { display: flex; gap: 0.3rem; align-items: center; flex-wrap: wrap;
+}
+.lp span[data-v-11e746b0] { background: #e3ecf8; color: #004e9f; border-radius: 6px; padding: 0.2rem 0.45rem; font: 600 0.74rem 'Source Sans 3', sans-serif;
+}
+.lp i[data-v-11e746b0] { color: var(--muted);
+}

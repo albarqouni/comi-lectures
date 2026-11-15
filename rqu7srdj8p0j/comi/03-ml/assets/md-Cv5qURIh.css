@@ -1,0 +1,53 @@
+
+.lnm[data-v-c9eda859] { display: grid; grid-template-columns: 1.3fr 1fr; gap: 0.9rem;
+}
+.pl[data-v-c9eda859] { position: relative; background: #fbfbfd; border: 1px solid var(--line); border-radius: 10px; height: 18.4rem;
+}
+.pl svg[data-v-c9eda859] { width: 100%; height: 100%; display: block;
+}
+.pl span[data-v-c9eda859] { position: absolute; font: 600 0.56rem 'IBM Plex Mono', monospace; color: var(--muted);
+}
+.t1[data-v-c9eda859] { left: 7%; top: 4%; color: #004e9f !important;
+}
+.t2[data-v-c9eda859] { top: 4%; color: #004e9f !important;
+}
+.t3[data-v-c9eda859] { right: 2%;
+}
+.xl[data-v-c9eda859] { right: 2%; bottom: 0.2rem;
+}
+.yl[data-v-c9eda859] { left: 7%; bottom: 0.2rem;
+}
+.sd[data-v-c9eda859] { display: flex; flex-direction: column; gap: 0.4rem;
+}
+label[data-v-c9eda859] { display: grid; grid-template-columns: 6rem 1fr 2rem; align-items: center; gap: 0.3rem; font-size: 0.72rem; color: var(--navy);
+}
+label b[data-v-c9eda859] { font: 700 0.8rem 'IBM Plex Mono', monospace; text-align: right;
+}
+label input[data-v-c9eda859] { width: 100%; accent-color: #f0b400;
+}
+.bt[data-v-c9eda859] { display: flex; gap: 0.25rem; flex-wrap: wrap;
+}
+.bt button[data-v-c9eda859] { font: 600 0.64rem 'Source Sans 3', sans-serif; padding: 0.12rem 0.5rem; border-radius: 99px; border: 1.5px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.bt button.on[data-v-c9eda859] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+.cs[data-v-c9eda859] { border-radius: 9px; padding: 0.3rem 0.6rem; display: flex; align-items: center; gap: 0.6rem; font-size: 0.78rem; color: var(--navy);
+}
+.cs b[data-v-c9eda859] { font: 700 0.8rem 'IBM Plex Mono', monospace;
+}
+.cs.u[data-v-c9eda859] { background: #e3ecf8;
+}
+.cs.o[data-v-c9eda859] { background: var(--gelb);
+}
+.rd[data-v-c9eda859] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.25rem;
+}
+.rd > div[data-v-c9eda859] { background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 0.2rem 0.45rem; display: flex; flex-direction: column;
+}
+.rd span[data-v-c9eda859] { font: 600 0.52rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.rd b[data-v-c9eda859] { font: 600 0.8rem 'IBM Plex Mono', monospace; color: var(--navy);
+}
+.rd .h[data-v-c9eda859] { background: var(--gelb); border-color: #f0b400;
+}
+small[data-v-c9eda859] { font-size: 0.6rem; color: var(--muted); line-height: 1.35;
+}

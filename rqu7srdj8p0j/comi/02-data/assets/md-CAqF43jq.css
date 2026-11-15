@@ -1,0 +1,48 @@
+
+.lk[data-v-8c5b8155] { display: grid; grid-template-columns: 16rem 1fr; gap: 1.1rem; align-items: start;
+}
+.ctl[data-v-8c5b8155] { display: flex; flex-direction: column; gap: 0.55rem; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.7rem 0.85rem;
+}
+label[data-v-8c5b8155] { display: flex; flex-direction: column; gap: 0.15rem; font-size: 0.74rem;
+}
+label b[data-v-8c5b8155] { color: var(--navy);
+}
+input[type=range][data-v-8c5b8155] { width: 100%; accent-color: var(--navy);
+}
+.cohort[data-v-8c5b8155] { font-size: 0.7rem; color: var(--ink); border-top: 1px solid var(--line); padding-top: 0.4rem;
+}
+.cohort b[data-v-8c5b8155] { color: var(--navy);
+}
+.note[data-v-8c5b8155] { font: italic 0.6rem/1.35 'Source Serif 4', serif; color: var(--muted);
+}
+.out[data-v-8c5b8155] { display: flex; flex-direction: column; gap: 0.55rem; position: relative;
+}
+.bar[data-v-8c5b8155] { display: grid; grid-template-columns: 8rem 1fr; gap: 0.6rem; align-items: center;
+}
+.nm[data-v-8c5b8155] { font-size: 0.86rem; color: var(--navy);
+}
+.tr[data-v-8c5b8155] { position: relative; height: 2rem; background: #eef1f5; border-radius: 6px; overflow: hidden;
+}
+.tr i[data-v-8c5b8155] { position: absolute; left: 0; top: 0; bottom: 0; transition: width 0.4s;
+}
+.tr i.bad[data-v-8c5b8155] { background: var(--rubin);
+}
+.tr i.good[data-v-8c5b8155] { background: var(--teal);
+}
+.tr em[data-v-8c5b8155] { position: absolute; left: 0.6rem; top: 0; font: 700 1rem/2rem 'Source Sans 3', sans-serif; color: #fff; font-style: normal;
+}
+.ch[data-v-8c5b8155] { margin-left: 8.6rem; position: relative; height: 0.9rem; border-left: 2px dashed var(--muted); width: 50%;
+}
+.ch span[data-v-8c5b8155] { position: absolute; right: -0.2rem; top: 0; transform: translateX(100%); font: 0.56rem 'IBM Plex Mono', monospace; color: var(--muted);
+}
+.ch[data-v-8c5b8155] { border-left: none; border-right: 2px dashed var(--muted);
+}
+.msg[data-v-8c5b8155] { border-radius: 10px; padding: 0.55rem 0.85rem; font-size: 0.86rem; line-height: 1.45; background: var(--teal-t); color: var(--teal-d);
+}
+.msg.warn[data-v-8c5b8155] { background: var(--rubin-t); color: var(--rubin-d);
+}
+.msg b[data-v-8c5b8155] { color: inherit;
+}
+
+.lesson[data-v-8a3e490a] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.55rem 0.9rem; font: 1rem 'Source Serif 4', serif; display: flex; gap: 0.6rem; align-items: center;
+}

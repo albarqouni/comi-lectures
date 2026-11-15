@@ -1,0 +1,36 @@
+
+.afc[data-v-ffe4e7b1] { display: flex; flex-direction: column; gap: 0.25rem; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.45rem 0.7rem; color: var(--navy);
+}
+.afc-h[data-v-ffe4e7b1] { font: 600 0.5rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.afc[data-v-ffe4e7b1] .tex.d { font-size: 0.7rem;
+}
+.afc-s[data-v-ffe4e7b1] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.15rem 0.7rem;
+}
+.afc-s label[data-v-ffe4e7b1] { display: flex; flex-direction: column; font-size: 0.64rem; color: var(--muted);
+}
+.afc-s label b[data-v-ffe4e7b1] { color: var(--navy);
+}
+.afc-s input[data-v-ffe4e7b1] { accent-color: #004e9f;
+}
+.afc-b[data-v-ffe4e7b1] { display: grid; grid-template-columns: 3.6rem 1fr 3rem; gap: 0.4rem; align-items: center; font-size: 0.72rem;
+}
+.afc-b i[data-v-ffe4e7b1] { display: block; height: 0.95rem; border-radius: 5px; background: #004e9f; transition: width 0.3s;
+}
+.afc-b.r i[data-v-ffe4e7b1] { background: var(--rubin);
+}
+.afc-b b[data-v-ffe4e7b1] { font: 700 0.9rem 'Source Sans 3', sans-serif; text-align: right;
+}
+.afc-m[data-v-ffe4e7b1] { font-size: 0.64rem; line-height: 1.35; background: #fff8e0; color: #6b4e00; border-radius: 7px; padding: 0.2rem 0.45rem;
+}
+
+.trk[data-v-717cdea0] { position: absolute; top: 5.4rem; right: 2.5rem; font: 600 0.56rem 'IBM Plex Mono', monospace; letter-spacing: 0.1em; text-transform: uppercase; padding: 0.15rem 0.55rem; border-radius: 99px; background: #e3ecf8; color: #004e9f;
+}
+.f12fc[data-v-717cdea0] { display: grid; grid-template-columns: 1.1fr 1fr; gap: 0.8rem; align-items: start;
+}
+.f12fc-dv[data-v-717cdea0] { display: flex; flex-direction: column; gap: 0.5rem; font: 0.92rem 'Source Serif 4', serif; color: var(--navy);
+}
+.f12fc-r[data-v-717cdea0] { background: var(--card); border: 1px solid var(--line); border-left: 4px solid #004e9f; border-radius: 8px; padding: 0.3rem 0.55rem;
+}
+.f12fc-dv span[data-v-717cdea0]:not(.tex) { font: 0.76rem 'Source Sans 3', sans-serif; color: var(--muted);
+}

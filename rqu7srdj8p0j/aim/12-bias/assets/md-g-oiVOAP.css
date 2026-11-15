@@ -1,0 +1,13 @@
+
+.ud[data-v-26c9ca75] { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;
+}
+.ud .cd[data-v-26c9ca75] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid var(--navy); border-radius: 14px; padding: 0.8rem 1rem; font-size: 0.95rem; line-height: 1.5;
+}
+.ud .cd.red[data-v-26c9ca75] { border-top-color: var(--rubin); background: var(--rubin-t);
+}
+.ud .k[data-v-26c9ca75] { font: 700 1.05rem 'Source Sans 3', sans-serif; color: var(--navy); margin-bottom: 0.3rem;
+}
+.ud b[data-v-26c9ca75] { color: var(--navy);
+}
+.rule[data-v-26c9ca75] { background: var(--teal-t); border-radius: 10px; padding: 0.55rem 0.9rem; font-size: 1rem; color: var(--navy);
+}

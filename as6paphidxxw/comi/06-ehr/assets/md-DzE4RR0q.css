@@ -1,0 +1,44 @@
+
+.l6nz[data-v-73847e10] { display: grid; grid-template-columns: 1.35fr 1fr; gap: 0.8rem; align-items: start;
+}
+.lf[data-v-73847e10] { display: flex; flex-direction: column; gap: 0.3rem;
+}
+.who[data-v-73847e10] { display: flex; gap: 0.25rem;
+}
+.who button[data-v-73847e10] { font: 600 0.7rem 'Source Sans 3', sans-serif; padding: 0.15rem 0.6rem; border-radius: 99px; border: 1px solid var(--line); background: var(--card); color: var(--navy); cursor: pointer;
+}
+.who button.on[data-v-73847e10] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+.lf label[data-v-73847e10] { display: grid; grid-template-columns: 10.5rem 1fr 3.6rem; gap: 0.4rem; align-items: center; font-size: 0.76rem; color: var(--navy);
+}
+.lf input[data-v-73847e10] { accent-color: var(--teal-d);
+}
+.lf label b[data-v-73847e10] { font: 700 0.86rem 'Source Sans 3', sans-serif; text-align: right;
+}
+.st[data-v-73847e10] { width: 100%; height: 4.4rem;
+}
+.lf small[data-v-73847e10] { font-size: 0.6rem; color: var(--muted);
+}
+.rt[data-v-73847e10] { display: flex; flex-direction: column; gap: 0.3rem;
+}
+.big[data-v-73847e10] { background: var(--rubin-t); border-radius: 10px; padding: 0.35rem 0.7rem; display: flex; flex-direction: column;
+}
+.big span[data-v-73847e10] { font: 600 0.56rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--rubin-d);
+}
+.big b[data-v-73847e10] { font: 700 2rem/1.05 'Source Sans 3', sans-serif; color: var(--rubin);
+}
+.big small[data-v-73847e10] { font-size: 0.7rem; color: var(--navy);
+}
+.kv[data-v-73847e10] { display: flex; justify-content: space-between; align-items: baseline; gap: 0.4rem; background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 0.15rem 0.5rem;
+}
+.kv span[data-v-73847e10] { font-size: 0.7rem; color: var(--navy);
+}
+.kv b[data-v-73847e10] { font: 700 0.95rem 'Source Sans 3', sans-serif; color: var(--navy); white-space: nowrap;
+}
+
+.l6pg-c .tk-c[data-v-8ac17dc9] { font-size: 0.74rem; line-height: 1.35; flex-direction: row; align-items: center; gap: 0.5rem; padding: 0.35rem 0.6rem;
+}
+.l6pg-c .tk-c .ic[data-v-8ac17dc9] { font-size: 1.4rem; flex: none;
+}
+.l6pg-c b[data-v-8ac17dc9] { color: var(--navy);
+}

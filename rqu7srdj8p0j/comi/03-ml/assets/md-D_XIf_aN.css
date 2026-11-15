@@ -1,0 +1,47 @@
+
+.em[data-v-22c25536] { display: grid; grid-template-columns: 18.4rem 1fr; gap: 0.9rem;
+}
+.pl[data-v-22c25536] { background: #fbfbfd; border: 1px solid var(--line); border-radius: 10px; height: 18.4rem; overflow: hidden;
+}
+.pl svg[data-v-22c25536] { width: 100%; height: 100%; display: block;
+}
+.sd[data-v-22c25536] { display: flex; flex-direction: column; gap: 0.32rem;
+}
+.bt[data-v-22c25536] { display: flex; gap: 0.25rem; flex-wrap: wrap; align-items: center;
+}
+.bt button[data-v-22c25536] { font: 600 0.6rem 'Source Sans 3', sans-serif; padding: 0.1rem 0.45rem; border-radius: 99px; border: 1.5px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.bt button.on[data-v-22c25536] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+.bt button[data-v-22c25536]:disabled { opacity: 0.35; cursor: default;
+}
+.bt button.e[data-v-22c25536] { background: #0b2a4a; color: #fff; border-color: #0b2a4a; font-size: 0.7rem;
+}
+.bt button.m[data-v-22c25536] { background: #2d9d9b; color: #fff; border-color: #2d9d9b; font-size: 0.7rem;
+}
+.kl[data-v-22c25536] { font: 700 0.66rem 'IBM Plex Mono', monospace; color: var(--navy);
+}
+.fx[data-v-22c25536] { background: var(--gelb); border-radius: 8px; padding: 0.15rem 0.5rem; font-size: 0.8rem; color: var(--navy); align-self: flex-start;
+}
+.ll svg[data-v-22c25536] { width: 100%; height: 2.6rem; background: #fff; border: 1px solid var(--line); border-radius: 6px; display: block;
+}
+.ll span[data-v-22c25536] { font-size: 0.56rem; color: var(--muted);
+}
+.pis[data-v-22c25536] { display: flex; gap: 0.6rem; flex-wrap: wrap; font-size: 0.72rem; color: var(--navy);
+}
+.pis > div[data-v-22c25536] { display: flex; align-items: center; gap: 0.25rem;
+}
+.pis i[data-v-22c25536] { width: 0.6rem; height: 0.6rem; border-radius: 50%;
+}
+.qc[data-v-22c25536] { display: flex; gap: 0.45rem; align-items: center; font-size: 0.66rem;
+}
+.qc > i[data-v-22c25536] { width: 2.6rem; height: 2.6rem; border-radius: 6px; background-repeat: no-repeat; flex: none;
+}
+.qc > div[data-v-22c25536] { flex: 1; display: flex; flex-direction: column; gap: 0.15rem;
+}
+.gb[data-v-22c25536] { display: flex; height: 0.9rem; border-radius: 4px; overflow: hidden;
+}
+.gb span[data-v-22c25536] { color: #fff; font: 600 0.52rem 'IBM Plex Mono', monospace; display: grid; place-items: center;
+}
+small[data-v-22c25536] { font-size: 0.58rem; color: var(--muted);
+}

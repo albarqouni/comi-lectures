@@ -1,0 +1,36 @@
+
+.sa[data-v-c553ab55] { display: grid; grid-template-columns: 1fr 1.25fr; gap: 0.9rem;
+}
+.main[data-v-c553ab55] { display: flex; flex-direction: column; gap: 0.3rem;
+}
+.main > img[data-v-c553ab55] { width: 100%; height: 10rem; object-fit: cover; border-radius: 10px;
+}
+.pk[data-v-c553ab55] { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.3rem;
+}
+.pk button[data-v-c553ab55] { padding: 0; border: 2px solid transparent; border-radius: 6px; overflow: hidden; cursor: pointer; background: none; height: 2.4rem;
+}
+.pk button.on[data-v-c553ab55] { border-color: var(--rubin);
+}
+.pk img[data-v-c553ab55] { width: 100%; height: 100%; object-fit: cover; display: block;
+}
+label[data-v-c553ab55] { display: grid; grid-template-columns: 5.5rem 1fr 3rem; align-items: center; font-size: 0.74rem; color: var(--navy);
+}
+label em[data-v-c553ab55] { font: 0.68rem 'IBM Plex Mono', monospace; font-style: normal; text-align: right;
+}
+input[data-v-c553ab55] { width: 100%; accent-color: var(--rubin);
+}
+.aug[data-v-c553ab55] { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.5rem 0.7rem; display: flex; flex-direction: column; gap: 0.4rem;
+}
+.k[data-v-c553ab55] { font: 600 0.58rem 'IBM Plex Mono', monospace; letter-spacing: 0.06em; text-transform: uppercase; color: var(--teal-d); display: flex; gap: 0.3rem; align-items: center;
+}
+.g[data-v-c553ab55] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.35rem;
+}
+.g img[data-v-c553ab55] { width: 100%; height: 5.6rem; object-fit: cover; border-radius: 6px;
+}
+.go[data-v-c553ab55] { align-self: flex-start; display: flex; gap: 0.3rem; align-items: center; font: 600 0.74rem 'Source Sans 3', sans-serif; padding: 0.25rem 0.7rem; border-radius: 99px; border: none; background: var(--navy); color: #fff; cursor: pointer;
+}
+
+.sb > div[data-v-0b77167e] { grid-template-columns: 11rem 1fr 0; background: #e3ecf8; border-radius: 10px; padding: 0.35rem 0.6rem; font-size: 0.82rem;
+}
+.sb .msg[data-v-0b77167e] { line-height: 1.35;
+}

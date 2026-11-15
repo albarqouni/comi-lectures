@@ -1,0 +1,48 @@
+
+.l1[data-v-b3d79e9e] { display: grid; grid-template-columns: 1fr 1.55fr; gap: 0.8rem; align-items: start;
+}
+.pn[data-v-b3d79e9e] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid #b88a00; border-radius: 12px; padding: 0.55rem 0.7rem; display: flex; flex-direction: column; gap: 0.45rem;
+}
+.pn.lr[data-v-b3d79e9e] { border-top-color: var(--navy);
+}
+.k[data-v-b3d79e9e] { display: flex; align-items: center; gap: 0.3rem; font: 700 0.85rem 'Source Sans 3', sans-serif; color: var(--navy); flex-wrap: wrap;
+}
+.k > i[data-v-b3d79e9e] { color: #b88a00;
+}
+.lr .k > i[data-v-b3d79e9e] { color: var(--navy);
+}
+.tg[data-v-b3d79e9e] { margin-left: auto; display: flex; gap: 0.2rem;
+}
+.tg button[data-v-b3d79e9e] { font: 600 0.6rem 'Source Sans 3', sans-serif; padding: 0.1rem 0.45rem; border-radius: 99px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.tg button.on[data-v-b3d79e9e] { background: var(--navy); color: #fff;
+}
+.fl[data-v-b3d79e9e] { display: grid; grid-template-columns: repeat(8, 1fr); gap: 0.3rem;
+}
+.fl.d[data-v-b3d79e9e] { grid-template-columns: repeat(5, 1fr);
+}
+.fl.busy[data-v-b3d79e9e] { opacity: 0.35;
+}
+.f[data-v-b3d79e9e] { display: grid; grid-template-columns: repeat(8, 1fr); aspect-ratio: 1; border-radius: 3px; position: relative; border: 1px solid var(--line);
+}
+.f i[data-v-b3d79e9e] { display: block;
+}
+.f b[data-v-b3d79e9e] { position: absolute; bottom: -1.05rem; left: 0; right: 0; text-align: center; font: 0.5rem 'IBM Plex Mono', monospace; color: var(--muted);
+}
+.lr .fl[data-v-b3d79e9e] { row-gap: 1.15rem; margin-bottom: 0.9rem;
+}
+small[data-v-b3d79e9e] { font-size: 0.64rem; line-height: 1.35; color: var(--muted);
+}
+
+.l15[data-v-60d9e162] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.6rem;
+}
+.l15 > div[data-v-60d9e162] { display: flex; gap: 0.5rem; align-items: center; border-radius: 10px; padding: 0.4rem 0.65rem; font-size: 0.74rem; line-height: 1.35;
+}
+.l15 .ph[data-v-60d9e162] { border: 2px dashed var(--line); background: #f6f8fb;
+}
+.l15 .c[data-v-60d9e162] { background: var(--teal-t);
+}
+.l15 i[data-v-60d9e162] { font-size: 1.6rem; color: var(--navy); flex: none;
+}
+.l15 b[data-v-60d9e162] { color: var(--navy);
+}

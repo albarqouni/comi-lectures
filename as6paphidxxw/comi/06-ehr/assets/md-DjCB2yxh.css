@@ -1,0 +1,37 @@
+
+.tl0[data-v-a52af23a] { display: flex; align-items: center; height: 2.4rem; border-radius: 10px; overflow: hidden; font: 600 0.8rem 'Source Sans 3', sans-serif;
+}
+.tl0 .past[data-v-a52af23a] { flex: 3; background: var(--teal-t); color: var(--teal-d); height: 100%; display: grid; place-items: center;
+}
+.tl0 .t[data-v-a52af23a] { background: var(--navy); color: #fff; height: 100%; display: grid; place-items: center; padding: 0 0.8rem;
+}
+.tl0 .fut[data-v-a52af23a] { flex: 2; background: var(--rubin-t); color: var(--rubin-d); height: 100%; display: grid; place-items: center;
+}
+.f6ru[data-v-a52af23a] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.7rem; margin-top: 0.7rem;
+}
+.f6ru-c[data-v-a52af23a] { display: flex; flex-direction: column; gap: 0.35rem;
+}
+.f6ru-r[data-v-a52af23a] { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 0.5rem 0.75rem; font-size: 0.86rem; line-height: 1.4;
+}
+.f6ru-r b[data-v-a52af23a] { display: block; color: var(--navy); font-size: 0.98rem;
+}
+.f6ru-e[data-v-a52af23a] { flex: 1; background: #fff; border: 1px dashed var(--line); border-radius: 10px; padding: 0.35rem 0.6rem; display: flex; flex-direction: column; gap: 0.2rem;
+}
+.f6ru-e > span[data-v-a52af23a] { font: 600 0.5rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.f6ru-e svg[data-v-a52af23a] { width: 100%; height: 3.6rem;
+}
+.f6ru-e small[data-v-a52af23a] { font-size: 0.6rem; line-height: 1.3; color: var(--muted);
+}
+.f6ru-chips[data-v-a52af23a] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.25rem;
+}
+.f6ru-chips em[data-v-a52af23a] { font-style: normal; font: 600 0.7rem 'Source Sans 3', sans-serif; color: var(--rubin-d); background: var(--rubin-t); border-radius: 6px; padding: 0.2rem 0.35rem; display: flex; align-items: center; gap: 0.25rem;
+}
+.f6ru-b[data-v-a52af23a] { gap: 0.2rem;
+}
+.f6ru-b > div[data-v-a52af23a] { grid-template-columns: 6.4rem 1fr 2.2rem; font-size: 0.66rem; gap: 0.3rem;
+}
+.f6ru-b i[data-v-a52af23a] { height: 0.75rem;
+}
+.f6ru-b b[data-v-a52af23a] { font-size: 0.8rem;
+}

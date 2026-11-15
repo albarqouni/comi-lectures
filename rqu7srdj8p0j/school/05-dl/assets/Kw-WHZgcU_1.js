@@ -1,0 +1,1 @@
+import{H as e,T as t,b as n,z as r}from"./modules/shiki-1PEJxoSm.js";import{Z as i,ut as a}from"./index-CQ5lt4Hs.js";var o={class:`kw`},s=a(t({__name:`Kw`,setup(t){let{$slidev:a,$nav:s,$clicksContext:c,$clicks:l,$page:u,$renderContext:d,$frontmatter:f}=i();return(t,i)=>(r(),n(`span`,o,[e(t.$slots,`default`,{},void 0,!0)]))}}),[[`__scopeId`,`data-v-858eba27`]]);export{s as t};

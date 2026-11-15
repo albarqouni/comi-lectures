@@ -1,0 +1,31 @@
+
+.at[data-v-9ee3a725] { display: grid; grid-template-columns: 1fr 1.05fr; gap: 0.8rem;
+}
+.im svg[data-v-9ee3a725] { width: 100%; height: 12.5rem; border-radius: 10px; border: 1px solid var(--line); background: #fff; display: block;
+}
+.im small[data-v-9ee3a725] { font-size: 0.62rem; color: var(--muted);
+}
+.mx[data-v-9ee3a725] { display: flex; flex-direction: column; gap: 0.35rem; font-size: 0.74rem; color: var(--navy);
+}
+.seg[data-v-9ee3a725] { display: flex; gap: 0.25rem;
+}
+.seg button[data-v-9ee3a725] { flex: 1; font: 600 0.68rem 'Source Sans 3', sans-serif; padding: 0.18rem; border-radius: 99px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.seg button.on[data-v-9ee3a725] { background: var(--navy); color: #fff;
+}
+.grid[data-v-9ee3a725] { display: flex; flex-direction: column; gap: 1px; align-self: center;
+}
+.row[data-v-9ee3a725] { display: grid; grid-template-columns: repeat(12, 0.82rem); gap: 1px; cursor: pointer;
+}
+.row i[data-v-9ee3a725] { height: 0.82rem; display: block;
+}
+.row.on[data-v-9ee3a725] { outline: 1.5px solid #f0b400;
+}
+label[data-v-9ee3a725] { display: flex; flex-direction: column;
+}
+label input[data-v-9ee3a725] { accent-color: var(--rubin);
+}
+.rd[data-v-9ee3a725] { background: #f4f7fb; border-radius: 8px; padding: 0.3rem 0.5rem; font-size: 0.7rem;
+}
+.rd b[data-v-9ee3a725] { color: var(--rubin); font-size: 0.95rem;
+}

@@ -1,0 +1,11 @@
+
+.ts[data-v-a7b3c91e] { display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr); gap: 0.8rem; align-items: start;
+}
+.ts .tk-c[data-v-a7b3c91e] { font-size: 0.88rem; min-width: 0;
+}
+.ts[data-v-a7b3c91e] > * { min-width: 0;
+}
+.ts[data-v-a7b3c91e] pre { white-space: pre-wrap !important; font-size: 0.62rem !important;
+}
+.ts[data-v-a7b3c91e] code { white-space: pre-wrap !important;
+}

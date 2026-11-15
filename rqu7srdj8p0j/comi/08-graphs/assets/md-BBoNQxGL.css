@@ -1,0 +1,21 @@
+
+.gn[data-v-5b48cad9] { display: grid; grid-template-columns: 1fr 1.15fr; gap: 0.8rem;
+}
+.gn .tk-c[data-v-5b48cad9] { font-size: 0.82rem; display: flex; flex-direction: column; gap: 0.3rem;
+}
+.gn b[data-v-5b48cad9] { color: #004e9f;
+}
+.cases[data-v-5b48cad9] { display: flex; flex-direction: column; gap: 0.4rem;
+}
+.ms2[data-v-5b48cad9] { display: flex; gap: 0.6rem; align-items: center;
+}
+.ms2 span[data-v-5b48cad9] { display: flex; gap: 0.2rem; background: #fff; border-radius: 6px; padding: 0.2rem 0.35rem;
+}
+.ms2 i[data-v-5b48cad9] { width: 0.8rem; height: 0.8rem; border-radius: 50%;
+}
+.ms2 i.b[data-v-5b48cad9] { background: #07529a;
+}
+.ms2 i.r[data-v-5b48cad9] { background: #c2255c;
+}
+.cases small[data-v-5b48cad9] { font-size: 0.68rem; color: var(--muted);
+}

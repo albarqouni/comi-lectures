@@ -1,0 +1,11 @@
+
+.l8ifu[data-v-2edd6399] { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.5rem;
+}
+.l8ifu div[data-v-2edd6399] { background: var(--card); border: 1px solid var(--line); border-left: 4px solid #6b4fa0; border-radius: 10px; padding: 0.45rem 0.6rem; display: flex; flex-direction: column; gap: 0.15rem; font-size: 0.74rem; line-height: 1.35;
+}
+.l8ifu i[data-v-2edd6399] { font-size: 1.2rem; color: #6b4fa0;
+}
+.l8ifu b[data-v-2edd6399] { font: 700 0.8rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.l8ifu span[data-v-2edd6399] { color: var(--ink);
+}

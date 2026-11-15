@@ -1,0 +1,47 @@
+
+.xo[data-v-730ac93d] { display: flex; gap: 0.8rem; align-items: flex-start;
+}
+.pn[data-v-730ac93d] { display: flex; flex-direction: column; gap: 0.2rem; width: 16.5rem; flex: none;
+}
+.hd[data-v-730ac93d] { font: 600 0.58rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: #004e9f;
+}
+.pl svg[data-v-730ac93d] { width: 16.5rem; height: 16.5rem; border: 1px solid var(--line); border-radius: 10px;
+}
+.lg[data-v-730ac93d] { display: flex; flex-direction: column; gap: 0.1rem; font-size: 0.62rem; color: var(--muted);
+}
+.lg i[data-v-730ac93d] { display: inline-block; width: 0.8rem; height: 0.2rem; margin-right: 0.3rem; vertical-align: middle;
+}
+.sd[data-v-730ac93d] { flex: 1; display: flex; flex-direction: column; gap: 0.45rem; min-width: 0;
+}
+.tg[data-v-730ac93d] { display: flex; gap: 0.3rem; flex-wrap: wrap;
+}
+.tg button[data-v-730ac93d] { font: 600 0.66rem 'Source Sans 3', sans-serif; padding: 0.15rem 0.6rem; border-radius: 99px; border: 1.5px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.tg button.on[data-v-730ac93d] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+label[data-v-730ac93d] { display: grid; grid-template-columns: 1.6rem 1fr 2.2rem; gap: 0.4rem; align-items: center; font-size: 0.8rem; color: var(--navy);
+}
+input[data-v-730ac93d] { accent-color: var(--rubin);
+}
+label b[data-v-730ac93d] { font: 0.72rem 'IBM Plex Mono', monospace; text-align: right;
+}
+.eq[data-v-730ac93d] { font-size: 0.8rem; color: var(--navy); background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 0.25rem 0.5rem;
+}
+.trc[data-v-730ac93d] { display: flex; flex-direction: column; gap: 0.15rem;
+}
+.trc div[data-v-730ac93d] { display: flex; justify-content: space-between; background: #f4f7fb; border-radius: 6px; padding: 0.15rem 0.5rem; font-size: 0.76rem; color: var(--navy);
+}
+.trc b[data-v-730ac93d] { font-family: 'IBM Plex Mono', monospace;
+}
+small[data-v-730ac93d] { font-size: 0.68rem; color: var(--muted); line-height: 1.35;
+}
+small b[data-v-730ac93d] { color: var(--rubin);
+}
+.sc[data-v-730ac93d] { background: #e3ecf8; border-radius: 8px; padding: 0.2rem 0.6rem; display: flex; justify-content: space-between; align-items: center;
+}
+.sc.ok[data-v-730ac93d] { background: var(--gelb);
+}
+.sc span[data-v-730ac93d] { font-size: 0.66rem; color: var(--navy);
+}
+.sc b[data-v-730ac93d] { font: 700 1.3rem 'Source Sans 3', sans-serif; color: var(--navy);
+}

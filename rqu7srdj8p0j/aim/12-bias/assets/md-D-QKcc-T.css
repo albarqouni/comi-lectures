@@ -1,0 +1,21 @@
+
+.wg[data-v-ce4f4adc] { display: grid; grid-template-columns: 1.15fr 1fr; gap: 0.8rem;
+}
+.wg .tk-c[data-v-ce4f4adc] { font-size: 0.84rem;
+}
+.wg .tk-bars > div[data-v-ce4f4adc] { grid-template-columns: 8rem 1fr 3.2rem; font-size: 0.86rem;
+}
+.wg .tk-bars i[data-v-ce4f4adc] { height: 1.5rem;
+}
+.wc[data-v-ce4f4adc] { display: flex; flex-direction: column; gap: 0.6rem;
+}
+.cmp2[data-v-ce4f4adc] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.5rem;
+}
+.cmp2 div[data-v-ce4f4adc] { display: flex; flex-direction: column;
+}
+.cmp2 b[data-v-ce4f4adc] { font: 700 2rem/1 'Source Sans 3', sans-serif; color: var(--rubin);
+}
+.cmp2 b.g[data-v-ce4f4adc] { color: var(--navy);
+}
+.cmp2 span[data-v-ce4f4adc] { font-size: 0.74rem; color: var(--muted);
+}

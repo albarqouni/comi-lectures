@@ -1,0 +1,41 @@
+
+.dd[data-v-b496d106] { display: grid; grid-template-columns: 1fr 1.7fr; gap: 1rem;
+}
+.vo[data-v-b496d106] { display: flex; flex-direction: column; gap: 0.6rem;
+}
+.st[data-v-b496d106] { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 0.7rem 1rem; display: flex; flex-direction: column; gap: 0.2rem;
+}
+.st i[data-v-b496d106] { font-size: 1.4rem; color: var(--navy);
+}
+.st b[data-v-b496d106] { font: 700 2.2rem/1 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.st span[data-v-b496d106] { font-size: 0.86rem; line-height: 1.4;
+}
+.st.red[data-v-b496d106] { background: var(--rubin-t); border-color: transparent;
+}
+.st.red b[data-v-b496d106], .st.red i[data-v-b496d106] { color: var(--rubin);
+}
+.dose[data-v-b496d106] { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 0.7rem 1rem; display: flex; flex-direction: column; gap: 0.42rem;
+}
+.dose .k[data-v-b496d106] { font: 600 0.6rem 'IBM Plex Mono', monospace; letter-spacing: 0.08em; text-transform: uppercase; color: var(--teal-d);
+}
+.dose .r[data-v-b496d106] { display: grid; grid-template-columns: 11.5rem 1fr 4.6rem; column-gap: 0.5rem; align-items: center;
+}
+.dose .n[data-v-b496d106] { display: flex; gap: 0.35rem; align-items: center; font-size: 0.85rem; font-weight: 600; color: var(--navy);
+}
+.dose .n i[data-v-b496d106] { color: var(--teal-d); font-size: 1.05rem;
+}
+.dose .bar[data-v-b496d106] { height: 0.85rem; background: #eef1f5; border-radius: 99px; overflow: hidden;
+}
+.dose .bar span[data-v-b496d106] { display: block; height: 100%; background: linear-gradient(90deg, #f0b400, var(--rubin)); border-radius: 99px;
+}
+.dose .r b[data-v-b496d106] { font: 700 0.9rem 'IBM Plex Mono', monospace; color: var(--rubin-d); text-align: right;
+}
+.dose .r em[data-v-b496d106] { grid-column: 2 / 4; font-size: 0.66rem; color: var(--muted); font-style: normal; margin-top: -0.15rem;
+}
+.de[data-v-b496d106] { display: flex; gap: 0.4rem; align-items: flex-start; font-size: 0.78rem; line-height: 1.4; background: var(--teal-t); border-radius: 8px; padding: 0.35rem 0.55rem; margin-top: 0.1rem;
+}
+.de i[data-v-b496d106] { color: var(--teal-d); flex: none; margin-top: 0.15rem;
+}
+.lesson[data-v-b496d106] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.5rem 0.9rem; font: italic 1rem 'Source Serif 4', serif;
+}

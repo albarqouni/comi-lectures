@@ -1,0 +1,113 @@
+
+.ru[data-v-2afd09e4] { display: flex; flex-direction: column; gap: 0.5rem;
+}
+.bar[data-v-2afd09e4] { display: grid; grid-template-columns: repeat(7, 1fr); gap: 0.25rem;
+}
+.bar button[data-v-2afd09e4] { display: flex; flex-direction: column; align-items: center; gap: 0.05rem; padding: 0.3rem 0.2rem; border-radius: 10px; border: 1.5px solid var(--line); background: var(--card); color: var(--muted); cursor: pointer;
+}
+.bar button i[data-v-2afd09e4] { font-size: 1.25rem;
+}
+.bar button span[data-v-2afd09e4] { font: 600 0.66rem 'Source Sans 3', sans-serif;
+}
+.bar button.done[data-v-2afd09e4] { color: var(--teal-d); border-color: var(--teal-t); background: var(--teal-t);
+}
+.bar button.on[data-v-2afd09e4] { color: #fff; background: #6b4fa0; border-color: #6b4fa0;
+}
+.stage[data-v-2afd09e4] { display: grid; grid-template-columns: 1.2fr 1fr; gap: 1rem; align-items: start; min-height: 19.5rem;
+}
+.tl[data-v-2afd09e4] { display: block; aspect-ratio: 1; border-radius: 10px; background-repeat: no-repeat; background-color: #000;
+}
+.vis[data-v-2afd09e4] { display: flex; justify-content: center;
+}
+.vis.two[data-v-2afd09e4] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.6rem;
+}
+.vis figure[data-v-2afd09e4] { margin: 0; position: relative;
+}
+figcaption[data-v-2afd09e4] { font: 600 0.66rem 'Source Sans 3', sans-serif; color: var(--navy); margin-top: 0.2rem;
+}
+.hm .ov[data-v-2afd09e4] { position: absolute; left: 0; right: 0; top: 0; aspect-ratio: 1; border-radius: 10px; background: radial-gradient(circle at 58% 46%, rgba(255,40,0,0.75) 0%, rgba(255,200,0,0.55) 22%, rgba(0,120,255,0.15) 45%, transparent 60%); mix-blend-mode: screen;
+}
+.txt h3[data-v-2afd09e4] { font: 600 1.25rem 'Source Serif 4', serif; color: var(--navy); margin: 0 0 0.35rem;
+}
+.txt p[data-v-2afd09e4] { font-size: 0.9rem; line-height: 1.45; margin: 0 0 0.45rem;
+}
+.fact[data-v-2afd09e4] { display: flex; gap: 0.45rem; align-items: flex-start; font-size: 0.84rem; line-height: 1.4; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 0.4rem 0.6rem; margin-bottom: 0.35rem;
+}
+.fact i[data-v-2afd09e4] { color: #6b4fa0; font-size: 1.1rem; flex: none; margin-top: 0.05rem;
+}
+.fact.go[data-v-2afd09e4] { background: var(--teal-t); border-color: transparent;
+}
+.note[data-v-2afd09e4] { font-size: 0.64rem; color: var(--muted);
+}
+.abc[data-v-2afd09e4] { display: flex; flex-direction: column; gap: 0.4rem; width: 100%;
+}
+.abc .r[data-v-2afd09e4] { display: grid; grid-template-columns: 2.6rem 1fr; gap: 0.6rem; align-items: center; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 0.45rem 0.7rem;
+}
+.abc b[data-v-2afd09e4] { font: 700 1.8rem 'Source Sans 3', sans-serif; color: #6b4fa0; text-align: center;
+}
+.abc em[data-v-2afd09e4] { font-style: normal; font-weight: 700; color: var(--navy);
+}
+.abc span[data-v-2afd09e4] { font-size: 0.9rem;
+}
+.gg[data-v-2afd09e4] { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.4rem;
+}
+.cell[data-v-2afd09e4] { padding: 0.25rem; border: 2px solid var(--line); border-radius: 10px; background: #fff; display: flex; flex-direction: column; align-items: center; gap: 0.2rem; cursor: default;
+}
+.cell .tl[data-v-2afd09e4] { width: 100%;
+}
+.cell.ok[data-v-2afd09e4] { border-color: var(--teal); background: var(--teal-t);
+}
+.cell.bad[data-v-2afd09e4] { border-color: var(--rubin); background: var(--rubin-t);
+}
+.ch[data-v-2afd09e4] { display: flex; gap: 0.2rem;
+}
+.ch span[data-v-2afd09e4] { font: 600 0.6rem 'Source Sans 3', sans-serif; padding: 0.08rem 0.4rem; border-radius: 99px; border: 1px solid var(--line); cursor: pointer; color: var(--navy);
+}
+.ch span.on[data-v-2afd09e4] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+.cell small[data-v-2afd09e4] { font-size: 0.58rem; color: var(--muted);
+}
+.res[data-v-2afd09e4] { display: flex; flex-direction: column; background: var(--teal-t); border-radius: 10px; padding: 0.5rem 0.7rem; margin-bottom: 0.35rem;
+}
+.res b[data-v-2afd09e4] { font: 700 2rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.res span[data-v-2afd09e4] { font-size: 0.84rem;
+}
+.pen[data-v-2afd09e4], .law[data-v-2afd09e4] { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.8rem 1rem; width: 100%; display: flex; flex-direction: column; gap: 0.55rem;
+}
+.pen .h[data-v-2afd09e4] { font: 600 0.62rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: #6b4fa0;
+}
+.br[data-v-2afd09e4] { display: grid; grid-template-columns: 1fr; gap: 0.15rem; font-size: 0.82rem;
+}
+.br div[data-v-2afd09e4] { height: 1.2rem; background: #f1f3f6; border-radius: 99px; overflow: hidden;
+}
+.br i[data-v-2afd09e4] { display: block; height: 100%;
+}
+.br i.t[data-v-2afd09e4] { background: var(--teal);
+}
+.br i.r[data-v-2afd09e4] { background: var(--rubin);
+}
+.br b[data-v-2afd09e4] { color: var(--navy);
+}
+.pen small[data-v-2afd09e4], .law small[data-v-2afd09e4] { font-size: 0.64rem; color: var(--muted);
+}
+.law .r[data-v-2afd09e4] { display: grid; grid-template-columns: 6.5rem 1fr; gap: 0.5rem; border-top: 1px solid #eef1f5; padding-top: 0.35rem; font-size: 0.84rem;
+}
+.law b[data-v-2afd09e4] { color: #6b4fa0;
+}
+.law .no b[data-v-2afd09e4] { color: var(--rubin);
+}
+.vis.q3[data-v-2afd09e4] { display: flex; align-items: center; gap: 0.6rem;
+}
+.q3 .tl[data-v-2afd09e4] { width: 10rem; flex: none;
+}
+.ar[data-v-2afd09e4] { font-size: 1.5rem; color: #6b4fa0;
+}
+.q3 .v[data-v-2afd09e4] { display: flex; flex-direction: column; gap: 0.3rem; font: 0.78rem 'IBM Plex Mono', monospace; background: #0d1420; color: #fff; border-radius: 8px; padding: 0.6rem 0.7rem;
+}
+.nav[data-v-2afd09e4] { display: flex; justify-content: space-between; align-items: center; font-size: 0.74rem; color: var(--muted);
+}
+.nav button[data-v-2afd09e4] { font: 600 0.74rem 'Source Sans 3', sans-serif; padding: 0.2rem 0.7rem; border-radius: 99px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.nav button[data-v-2afd09e4]:disabled { opacity: 0.4;
+}

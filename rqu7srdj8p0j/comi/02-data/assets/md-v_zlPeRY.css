@@ -1,0 +1,51 @@
+
+.dc[data-v-4f8ed654] { display: grid; grid-template-columns: 1fr 12.5rem; gap: 0.9rem; align-items: start;
+}
+.hdr[data-v-4f8ed654] { background: #0f1e37; border-radius: 10px; padding: 0.35rem 0.4rem; font: 0.62rem 'IBM Plex Mono', monospace;
+}
+.row[data-v-4f8ed654] { display: grid; grid-template-columns: 6.2rem 11rem 1fr 6.5rem; gap: 0.4rem; padding: 0.12rem 0.35rem; border-radius: 4px; color: #cfe0f0; cursor: pointer; align-items: center;
+}
+.row[data-v-4f8ed654]:hover { background: rgba(255,255,255,0.06);
+}
+.row.th[data-v-4f8ed654] { color: #7f98b8; cursor: default; text-transform: uppercase; letter-spacing: 0.06em; font-size: 0.5rem;
+}
+.row.sel[data-v-4f8ed654] { outline: 1px solid var(--gelb);
+}
+.tg[data-v-4f8ed654] { color: #7f98b8;
+}
+.vl[data-v-4f8ed654] { color: #fff;
+}
+.row.r-direct .nm[data-v-4f8ed654] { color: #ff8a92;
+}
+.row.r-quasi .nm[data-v-4f8ed654] { color: #fcd34d;
+}
+.row.r-tech .nm[data-v-4f8ed654] { color: #7ee0dc;
+}
+.row.ok .cl i[data-v-4f8ed654] { box-shadow: 0 0 0 2px #fff;
+}
+.cl i[data-v-4f8ed654], .lg i[data-v-4f8ed654] { font-style: normal; font: 600 0.52rem 'Source Sans 3', sans-serif; padding: 0.05rem 0.4rem; border-radius: 99px; text-transform: uppercase; letter-spacing: 0.04em;
+}
+.b-direct[data-v-4f8ed654] { background: var(--rubin); color: #fff;
+}
+.b-quasi[data-v-4f8ed654] { background: var(--gelb); color: var(--navy);
+}
+.b-tech[data-v-4f8ed654] { background: var(--teal); color: #fff;
+}
+.b-none[data-v-4f8ed654] { background: rgba(255,255,255,0.08); color: #7f98b8;
+}
+.side[data-v-4f8ed654] { display: flex; flex-direction: column; gap: 0.5rem;
+}
+.lg[data-v-4f8ed654] { display: flex; flex-direction: column; gap: 0.25rem; align-items: flex-start;
+}
+.go[data-v-4f8ed654] { font: 600 0.74rem 'Source Sans 3', sans-serif; padding: 0.3rem 0.9rem; border-radius: 99px; border: none; background: var(--navy); color: #fff; cursor: pointer; align-self: flex-start;
+}
+.sc[data-v-4f8ed654] { font-size: 0.74rem;
+}
+.sc b[data-v-4f8ed654] { font-size: 1.2rem; color: var(--navy);
+}
+.why[data-v-4f8ed654] { background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 0.4rem 0.6rem; font-size: 0.72rem; line-height: 1.4;
+}
+.why b[data-v-4f8ed654] { display: block; color: var(--navy);
+}
+.note[data-v-4f8ed654] { font: italic 0.62rem/1.4 'Source Serif 4', serif; color: var(--muted);
+}

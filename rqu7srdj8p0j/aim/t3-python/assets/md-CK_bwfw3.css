@@ -1,0 +1,15 @@
+
+.t3ct[data-v-c0d8e4c6] { display: grid; grid-template-columns: 1.45fr 1fr; gap: 0.8rem; align-items: start;
+}
+.t3ct pre[data-v-c0d8e4c6] { font-size: 0.66rem !important;
+}
+.nums4[data-v-c0d8e4c6] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.45rem;
+}
+.nums4 div[data-v-c0d8e4c6] { background: var(--teal-t); border-radius: 10px; padding: 0.45rem 0.6rem; display: flex; flex-direction: column; gap: 0.1rem;
+}
+.nums4 b[data-v-c0d8e4c6] { font: 700 1.05rem 'IBM Plex Mono', monospace; color: var(--navy);
+}
+.nums4 span[data-v-c0d8e4c6] { font-size: 0.68rem; color: var(--teal-d); line-height: 1.3;
+}
+.t3ct ~ .tk-note code[data-v-c0d8e4c6] { font: 0.8rem 'IBM Plex Mono', monospace;
+}

@@ -1,0 +1,34 @@
+
+.cl[data-v-a29f3729] { display: grid; grid-template-columns: 14rem 1fr; gap: 1rem; align-items: start;
+}
+.ks[data-v-a29f3729] { display: flex; flex-direction: column; gap: 0.55rem; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.7rem 0.85rem;
+}
+.pre[data-v-a29f3729] { display: flex; flex-wrap: wrap; gap: 0.25rem;
+}
+.pre button[data-v-a29f3729] { font: 600 0.62rem 'Source Sans 3', sans-serif; padding: 0.15rem 0.55rem; border-radius: 99px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.pre button.on[data-v-a29f3729] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+.cgrid[data-v-a29f3729] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.25rem;
+}
+.cgrid input[data-v-a29f3729] { width: 100%; font: 700 0.95rem 'IBM Plex Mono', monospace; text-align: center; border: 1.5px solid var(--navy); border-radius: 6px; padding: 0.3rem 0; color: var(--navy);
+}
+.rl[data-v-a29f3729] { font-size: 0.72rem; display: flex; gap: 0.3rem; align-items: center;
+}
+.note[data-v-a29f3729] { font: italic 0.66rem/1.4 'Source Serif 4', serif; color: var(--muted);
+}
+.pipe[data-v-a29f3729] { display: flex; align-items: center; gap: 0.5rem; background: #0f1e37; border-radius: 12px; padding: 0.6rem;
+}
+figure[data-v-a29f3729] { margin: 0; flex: 1; display: flex; flex-direction: column; align-items: center; gap: 0.25rem;
+}
+figure.sm[data-v-a29f3729] { flex: 0.6;
+}
+canvas[data-v-a29f3729] { width: 100%; height: auto; image-rendering: pixelated; border-radius: 4px;
+}
+figcaption[data-v-a29f3729] { font: 600 0.54rem 'IBM Plex Mono', monospace; color: #9fb3cc; text-transform: uppercase; letter-spacing: 0.06em;
+}
+.op[data-v-a29f3729] { font: 600 0.7rem 'IBM Plex Mono', monospace; color: var(--gelb); white-space: nowrap;
+}
+
+.lesson[data-v-e27b539a] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.5rem 0.9rem; font: 0.95rem 'Source Serif 4', serif; display: flex; gap: 0.5rem; align-items: center;
+}

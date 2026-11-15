@@ -1,0 +1,7 @@
+
+.fl4[data-v-939fc991] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.6rem;
+}
+.fl4 .tk-c[data-v-939fc991] { font-size: 0.8rem; display: flex; flex-direction: column; gap: 0.3rem; padding: 0.5rem 0.75rem;
+}
+.fl4 .tk-c > span[data-v-939fc991]:not(.tex) { color: var(--muted);
+}

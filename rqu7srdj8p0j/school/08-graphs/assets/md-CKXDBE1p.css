@@ -1,0 +1,7 @@
+
+.rp[data-v-a87f62df] { display: flex; flex-direction: column; gap: 0.5rem;
+}
+.rp div[data-v-a87f62df] { background: var(--card); border: 1px solid var(--line); border-left: 4px solid var(--gelb); border-radius: 10px; padding: 0.5rem 0.8rem; font-size: 0.86rem; line-height: 1.4;
+}
+.rp b[data-v-a87f62df] { color: var(--navy);
+}

@@ -1,0 +1,11 @@
+
+.db[data-v-6cc39ff8] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.8rem;
+}
+.db .tk-c[data-v-6cc39ff8] { font-size: 0.86rem;
+}
+.vars[data-v-6cc39ff8] { display: flex; flex-wrap: wrap; gap: 0.25rem;
+}
+.vars span[data-v-6cc39ff8] { font-size: 0.7rem; background: var(--rubin-t); color: var(--rubin-d); border-radius: 99px; padding: 0.05rem 0.45rem;
+}
+.db .tk-bars > div[data-v-6cc39ff8] { grid-template-columns: 9.5rem 1fr 3rem; font-size: 0.8rem;
+}

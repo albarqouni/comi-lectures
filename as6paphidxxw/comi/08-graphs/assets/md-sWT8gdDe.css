@@ -1,0 +1,17 @@
+
+.p3[data-v-dbf6072e] { display: grid; grid-template-columns: 1fr 1fr 0.9fr; gap: 0.7rem;
+}
+.p3 .tk-c[data-v-dbf6072e] { font-size: 0.82rem; display: flex; flex-direction: column; gap: 0.3rem;
+}
+.p3 .nn[data-v-dbf6072e] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.4rem;
+}
+.p3 .nn div[data-v-dbf6072e] { display: flex; flex-direction: column;
+}
+.p3 .nn b[data-v-dbf6072e] { font: 700 1.8rem/1 'Source Sans 3', sans-serif; color: var(--rubin);
+}
+.p3 .nn b.g[data-v-dbf6072e] { color: var(--muted);
+}
+.p3 .nn span[data-v-dbf6072e] { font-size: 0.7rem; color: var(--muted);
+}
+.p3 small[data-v-dbf6072e] { font-size: 0.72rem; color: var(--muted);
+}

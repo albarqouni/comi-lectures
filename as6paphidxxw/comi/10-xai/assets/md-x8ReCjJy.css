@@ -1,0 +1,17 @@
+
+.l8ru[data-v-5bdff8ac] { display: grid; grid-template-columns: 10rem 1fr; gap: 1rem; align-items: start;
+}
+.l8ru .pic[data-v-5bdff8ac] { display: flex; flex-direction: column; gap: 0.4rem;
+}
+.l8ru .ai[data-v-5bdff8ac] { background: var(--rubin-t); border-radius: 10px; padding: 0.35rem 0.6rem; display: flex; flex-direction: column;
+}
+.l8ru .ai span[data-v-5bdff8ac] { font: 600 0.56rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.l8ru .ai b[data-v-5bdff8ac] { font: 700 1.1rem 'Source Sans 3', sans-serif; color: var(--rubin);
+}
+.l8ru .ai small[data-v-5bdff8ac] { font-size: 0.6rem; color: var(--muted);
+}
+.l8ru .tk-list > div[data-v-5bdff8ac] { font-size: 0.86rem;
+}
+.lesson[data-v-5bdff8ac] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.5rem 0.9rem; font: italic 0.98rem 'Source Serif 4', serif;
+}

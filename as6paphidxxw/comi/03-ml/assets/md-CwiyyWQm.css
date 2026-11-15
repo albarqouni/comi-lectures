@@ -1,0 +1,25 @@
+
+.dt[data-v-3cb2b20c] { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.7rem;
+}
+.dt .c[data-v-3cb2b20c] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid var(--teal); border-radius: 12px; padding: 0.7rem 0.85rem; display: flex; flex-direction: column; gap: 0.25rem; font-size: 0.86rem;
+}
+.dt .k[data-v-3cb2b20c] { font: 700 1.05rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.dt span[data-v-3cb2b20c] { color: var(--ink); font-weight: 600;
+}
+.dt i[data-v-3cb2b20c] { font-size: 0.74rem; color: var(--muted);
+}
+.enc[data-v-3cb2b20c] { display: grid; grid-template-columns: auto 1fr; grid-template-rows: auto 1fr; gap: 0.2rem 1rem; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.6rem 0.9rem;
+}
+.enc .k[data-v-3cb2b20c] { grid-column: 1 / 3; font: 600 0.6rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--teal-d);
+}
+.enc table[data-v-3cb2b20c] { border-collapse: collapse; font-size: 0.82rem;
+}
+.enc th[data-v-3cb2b20c] { font-size: 0.66rem; color: var(--muted); text-align: left; padding: 0.1rem 0.6rem;
+}
+.enc td[data-v-3cb2b20c] { padding: 0.12rem 0.6rem;
+}
+.enc .bad[data-v-3cb2b20c] { color: var(--rubin); font-weight: 700;
+}
+.enc p[data-v-3cb2b20c] { margin: 0; font-size: 0.88rem; line-height: 1.45; align-self: center;
+}

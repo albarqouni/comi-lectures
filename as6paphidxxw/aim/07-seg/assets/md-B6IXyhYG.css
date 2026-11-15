@@ -1,0 +1,47 @@
+
+.ap[data-v-6a2db1ed] { display: grid; grid-template-columns: 1.25fr 1fr; gap: 0.8rem; align-items: start;
+}
+.ab[data-v-6a2db1ed] { background: #f6f3ea; border-radius: 12px; padding: 0.55rem 0.8rem; display: flex; flex-direction: column; gap: 0.4rem;
+}
+.ab .k[data-v-6a2db1ed] { font: 600 0.58rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted); display: flex; gap: 0.3rem; align-items: center;
+}
+.ab p[data-v-6a2db1ed] { margin: 0; font: 0.86rem/1.55 'Source Serif 4', serif; color: var(--ink, #1d2633);
+}
+.sg[data-v-6a2db1ed] { cursor: pointer; border-radius: 3px; transition: background 0.15s;
+}
+.sg[data-v-6a2db1ed]:hover { background: #fff3c4;
+}
+.sg.hit[data-v-6a2db1ed] { background: var(--rubin-t); color: var(--rubin-d); text-decoration: underline wavy var(--rubin);
+}
+.sc[data-v-6a2db1ed] { display: flex; gap: 0.5rem; align-items: baseline;
+}
+.sc b[data-v-6a2db1ed] { font: 700 1.3rem 'Source Sans 3', sans-serif; color: var(--rubin);
+}
+.sc span[data-v-6a2db1ed] { font-size: 0.74rem; color: var(--muted);
+}
+.sc button[data-v-6a2db1ed] { margin-left: auto; font: 600 0.64rem 'Source Sans 3', sans-serif; padding: 0.12rem 0.5rem; border-radius: 99px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.fl[data-v-6a2db1ed] { display: flex; flex-direction: column; gap: 0.45rem;
+}
+.ch[data-v-6a2db1ed] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.25rem;
+}
+.ch button[data-v-6a2db1ed] { display: flex; gap: 0.3rem; align-items: center; text-align: left; font: 600 0.7rem 'Source Sans 3', sans-serif; padding: 0.25rem 0.5rem; border-radius: 8px; border: 1px solid var(--line); background: var(--card); color: var(--muted); cursor: pointer;
+}
+.ch button[data-v-6a2db1ed]:disabled { cursor: default;
+}
+.ch button.on[data-v-6a2db1ed] { color: var(--navy);
+}
+.ch button.on i[data-v-6a2db1ed] { color: var(--rubin);
+}
+.ch button.cur[data-v-6a2db1ed] { border-color: var(--rubin); background: #fff6f6;
+}
+.dt[data-v-6a2db1ed] { background: var(--card); border: 1px solid var(--line); border-left: 4px solid var(--rubin); border-radius: 10px; padding: 0.5rem 0.75rem; display: flex; flex-direction: column; gap: 0.25rem; min-height: 6.5rem; font-size: 0.8rem; line-height: 1.4; color: var(--navy);
+}
+.dt b[data-v-6a2db1ed] { font-size: 0.86rem;
+}
+.dt small[data-v-6a2db1ed] { font-size: 0.62rem; color: var(--muted);
+}
+.dt .ms[data-v-6a2db1ed] { color: var(--teal-d);
+}
+.dt .hn[data-v-6a2db1ed] { color: var(--muted); font-style: italic;
+}

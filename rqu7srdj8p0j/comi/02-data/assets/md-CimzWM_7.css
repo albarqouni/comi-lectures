@@ -1,0 +1,47 @@
+
+.md[data-v-83b0f254] { display: flex; flex-direction: column; gap: 0.55rem;
+}
+.tabs[data-v-83b0f254] { display: grid; grid-template-columns: repeat(7, 1fr); gap: 0.3rem;
+}
+.tabs button[data-v-83b0f254] { font: 600 0.74rem 'Source Sans 3', sans-serif; padding: 0.4rem 0.2rem; border-radius: 10px; border: 1.5px solid var(--c); background: #fff; color: var(--c); cursor: pointer;
+}
+.tabs button.on[data-v-83b0f254] { background: var(--c); color: #fff;
+}
+.body[data-v-83b0f254] { display: grid; grid-template-columns: 31rem 1fr; gap: 0.9rem; align-items: start;
+}
+.pics[data-v-83b0f254] { display: flex; gap: 0.45rem; justify-content: center; align-items: flex-start; min-height: 11.6rem; background: #0d1420; border-radius: 12px; padding: 0.5rem; border-bottom: 4px solid var(--c);
+}
+.pics[data-v-83b0f254] figcaption, .pics figcaption[data-v-83b0f254] { color: #cfd8e3;
+}
+.pics figure[data-v-83b0f254] { margin: 0; display: flex; flex-direction: column; align-items: center; gap: 0.15rem;
+}
+.pics canvas[data-v-83b0f254] { height: 10.4rem; width: auto; border-radius: 6px; display: block;
+}
+.pics canvas.cor[data-v-83b0f254] { transform: scaleY(1);
+}
+figcaption[data-v-83b0f254] { font: 600 0.58rem 'Source Sans 3', sans-serif;
+}
+.hist[data-v-83b0f254] { width: 9.4rem; height: 10rem; object-fit: cover; border-radius: 6px; display: block;
+}
+.mri[data-v-83b0f254] { width: 9.4rem; height: 10rem; border-radius: 6px; background: url(/comi-lectures/_s/img/aim/commons/mri-sequences.jpg) no-repeat; background-size: 400% 200%;
+}
+.pet[data-v-83b0f254] { height: 10.4rem; width: auto; border-radius: 6px; display: block;
+}
+.petnote[data-v-83b0f254] { color: #cfd8e3; font-size: 0.72rem; line-height: 1.4; max-width: 12rem; align-self: center;
+}
+.none[data-v-83b0f254] { color: #9aa5b4; font: italic 0.85rem 'Source Serif 4', serif; align-self: center;
+}
+.card[data-v-83b0f254] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid var(--c); border-radius: 12px; padding: 0.6rem 0.9rem; display: flex; flex-direction: column; gap: 0.4rem;
+}
+.r[data-v-83b0f254] { display: grid; grid-template-columns: 7.5rem 1fr; gap: 0.5rem; font-size: 0.86rem; line-height: 1.38;
+}
+.r span[data-v-83b0f254] { font: 600 0.58rem 'IBM Plex Mono', monospace; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); padding-top: 0.2rem;
+}
+.r b[data-v-83b0f254] { color: var(--navy);
+}
+.r.ml[data-v-83b0f254] { background: var(--rubin-t); border-radius: 8px; padding: 0.3rem 0.5rem;
+}
+.r.ml span[data-v-83b0f254] { color: var(--rubin-d);
+}
+.src[data-v-83b0f254] { font-size: 0.55rem; color: var(--muted);
+}

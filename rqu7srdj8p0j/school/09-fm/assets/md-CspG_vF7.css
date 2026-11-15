@@ -1,0 +1,23 @@
+
+.fmw[data-v-8de8c9e8] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.8rem;
+}
+.fmw .tk-c[data-v-8de8c9e8] { font-size: 0.84rem; min-height: 11.5rem;
+}
+.fmw .n[data-v-8de8c9e8] { font: 700 2.4rem/1 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.fmq[data-v-8de8c9e8] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.8rem;
+}
+.fmq > div[data-v-8de8c9e8] { display: flex; gap: 0.5rem; align-items: flex-start; border-radius: 10px; padding: 0.5rem 0.8rem; font-size: 0.84rem; line-height: 1.4;
+}
+.fmq i[data-v-8de8c9e8] { font-size: 1.3rem; flex: none;
+}
+.fmq .df[data-v-8de8c9e8] { background: var(--navy); color: #fff; font-family: 'Source Serif 4', serif; font-style: italic;
+}
+.fmq .df i[data-v-8de8c9e8] { color: var(--gelb);
+}
+.fmq .rk[data-v-8de8c9e8] { background: var(--rubin-t); color: var(--navy);
+}
+.fmq .rk i[data-v-8de8c9e8] { color: var(--rubin);
+}
+.fmq .rk b[data-v-8de8c9e8] { color: var(--rubin-d);
+}

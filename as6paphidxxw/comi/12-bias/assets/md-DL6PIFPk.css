@@ -1,0 +1,51 @@
+
+.gv[data-v-8a2ac1fb] { display: grid; grid-template-columns: 1.3fr 1fr; gap: 0.8rem;
+}
+.dv[data-v-8a2ac1fb] { display: flex; flex-direction: column; gap: 0.22rem;
+}
+.ln[data-v-8a2ac1fb] { display: flex; gap: 0.45rem; align-items: center; padding: 0.18rem 0.5rem; border-radius: 9px; border: 1px solid var(--line); background: var(--card); cursor: pointer; font-size: 0.74rem; color: var(--navy); transition: opacity 0.2s;
+}
+.ln i[data-v-8a2ac1fb] { font: 700 0.66rem 'IBM Plex Mono', monospace; font-style: normal; width: 1.2rem; height: 1.2rem; border-radius: 50%; display: grid; place-items: center; background: #e3ecf8; color: #004e9f; flex: none;
+}
+.ln > div[data-v-8a2ac1fb] { display: flex; flex-direction: column;
+}
+.ln b[data-v-8a2ac1fb] { font-size: 0.6rem; color: var(--muted); font-weight: 600;
+}
+.ln.on[data-v-8a2ac1fb] { background: var(--gelb); border-color: #f0b400;
+}
+.ln.on i[data-v-8a2ac1fb] { background: var(--navy); color: #fff;
+}
+.ln.fut[data-v-8a2ac1fb] { opacity: 0.18;
+}
+.bt[data-v-8a2ac1fb] { display: flex; gap: 0.3rem;
+}
+.bt button[data-v-8a2ac1fb] { font: 600 0.7rem 'Source Sans 3', sans-serif; padding: 0.2rem 0.7rem; border-radius: 99px; border: none; background: var(--navy); color: #fff; cursor: pointer;
+}
+.bt button.g[data-v-8a2ac1fb] { background: #c9d2dd; color: var(--navy);
+}
+.bt button[data-v-8a2ac1fb]:disabled { opacity: 0.4; cursor: default;
+}
+.lv[data-v-8a2ac1fb] { background: #f4f7fb; border: 1px solid var(--line); border-radius: 12px; padding: 0.5rem 0.7rem; display: flex; flex-direction: column; gap: 0.3rem;
+}
+.lv .k[data-v-8a2ac1fb] { font: 600 0.58rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: #004e9f;
+}
+.lv p[data-v-8a2ac1fb] { margin: 0; font-size: 0.74rem; color: var(--navy); line-height: 1.3;
+}
+.ct[data-v-8a2ac1fb] { display: flex; gap: 0.3rem; align-items: center; font-size: 0.66rem; color: var(--navy);
+}
+.ct label[data-v-8a2ac1fb] { display: flex; flex-direction: column; flex: 1;
+}
+.ct input[data-v-8a2ac1fb] { accent-color: var(--teal-d);
+}
+.ct button[data-v-8a2ac1fb] { font: 600 0.6rem 'Source Sans 3', sans-serif; padding: 0.2rem 0.4rem; border-radius: 6px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.ct button.on[data-v-8a2ac1fb] { background: var(--navy); color: #fff;
+}
+svg[data-v-8a2ac1fb] { width: 100%; height: 7.6rem; background: #fff; border: 1px solid var(--line); border-radius: 8px;
+}
+.rd[data-v-8a2ac1fb] { display: flex; flex-direction: column; gap: 0.15rem; font-size: 0.66rem; color: var(--navy); line-height: 1.3;
+}
+.rd b[data-v-8a2ac1fb] { font-family: 'Source Sans 3', sans-serif;
+}
+.rd .w[data-v-8a2ac1fb] { color: var(--rubin);
+}

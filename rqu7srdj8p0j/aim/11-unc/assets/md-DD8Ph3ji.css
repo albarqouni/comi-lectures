@@ -1,0 +1,29 @@
+
+.wr[data-v-4d02fde1] { display: grid; grid-template-columns: 1.5fr 1fr; gap: 0.8rem; align-items: start;
+}
+.wr .tk-c[data-v-4d02fde1] { font-size: 0.9rem;
+}
+.flow4[data-v-4d02fde1] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.45rem;
+}
+.flow4 .b[data-v-4d02fde1] { border-radius: 10px; padding: 0.55rem 0.7rem; display: flex; flex-direction: column; gap: 0.15rem; font-size: 0.82rem;
+}
+.flow4 i[data-v-4d02fde1] { font-size: 1.3rem;
+}
+.flow4 b[data-v-4d02fde1] { font-size: 0.92rem;
+}
+.flow4 .a[data-v-4d02fde1] { background: var(--teal-t);
+}
+.flow4 .a i[data-v-4d02fde1] { color: var(--teal-d);
+}
+.flow4 .c[data-v-4d02fde1] { background: #fdf2c4;
+}
+.flow4 .c i[data-v-4d02fde1] { color: #b88a00;
+}
+.flow4 .r[data-v-4d02fde1] { background: var(--rubin-t);
+}
+.flow4 .r i[data-v-4d02fde1] { color: var(--rubin);
+}
+.flow4 .o[data-v-4d02fde1] { background: #e3ecf8;
+}
+.flow4 .o i[data-v-4d02fde1] { color: #004e9f;
+}

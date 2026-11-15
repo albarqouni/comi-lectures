@@ -1,0 +1,41 @@
+
+.pj[data-v-44ce922d] { display: grid; grid-template-columns: 1.3fr 1fr; gap: 0.9rem;
+}
+.pl[data-v-44ce922d] { background: #fbfbfd; border: 1px solid var(--line); border-radius: 10px; padding: 0.2rem; position: relative;
+}
+.pl svg[data-v-44ce922d] { width: 100%; height: 17.4rem; display: block;
+}
+.az[data-v-44ce922d] { display: flex; gap: 0.4rem; align-items: center; font-size: 0.62rem; color: var(--muted); padding: 0 0.4rem;
+}
+.az input[data-v-44ce922d] { flex: 1; accent-color: #004e9f;
+}
+.sd[data-v-44ce922d] { display: flex; flex-direction: column; gap: 0.4rem;
+}
+.bt[data-v-44ce922d] { display: flex; gap: 0.25rem; flex-wrap: wrap;
+}
+.bt button[data-v-44ce922d] { font: 600 0.66rem 'Source Sans 3', sans-serif; padding: 0.12rem 0.55rem; border-radius: 99px; border: 1.5px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.bt button.on[data-v-44ce922d] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+.bt button.go[data-v-44ce922d] { background: #c2255c; color: #fff; border-color: #c2255c;
+}
+.cl[data-v-44ce922d] { display: flex; gap: 0.6rem; font: 600 0.64rem 'Source Sans 3', sans-serif;
+}
+label[data-v-44ce922d] { display: grid; grid-template-columns: 4.2rem 1fr 3.2rem; align-items: center; gap: 0.3rem; font-size: 0.7rem; color: var(--navy);
+}
+label b[data-v-44ce922d] { font: 600 0.68rem 'IBM Plex Mono', monospace; text-align: right;
+}
+label input[data-v-44ce922d] { width: 100%; accent-color: #f0b400;
+}
+.rd[data-v-44ce922d] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.25rem;
+}
+.rd > div[data-v-44ce922d] { background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 0.2rem 0.45rem; display: flex; flex-direction: column;
+}
+.rd span[data-v-44ce922d] { font: 600 0.52rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.rd b[data-v-44ce922d] { font: 600 0.78rem 'IBM Plex Mono', monospace; color: var(--navy);
+}
+.rd .ok[data-v-44ce922d] { background: var(--teal-t); border-color: transparent;
+}
+.nt[data-v-44ce922d] { background: var(--gelb); border-radius: 8px; padding: 0.25rem 0.5rem; font-size: 0.66rem; color: var(--navy);
+}

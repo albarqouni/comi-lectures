@@ -1,0 +1,23 @@
+
+.pm[data-v-93dd90c7] { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;
+}
+.cd[data-v-93dd90c7] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid var(--teal); border-radius: 14px; padding: 0.8rem 1rem; display: flex; flex-direction: column; gap: 0.6rem;
+}
+.cd.de[data-v-93dd90c7] { border-top-color: var(--navy);
+}
+.cd .k[data-v-93dd90c7] { font: 600 0.6rem 'IBM Plex Mono', monospace; letter-spacing: 0.08em; text-transform: uppercase; color: var(--teal-d);
+}
+.cd.de .k[data-v-93dd90c7] { color: var(--navy);
+}
+.nums[data-v-93dd90c7] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.6rem;
+}
+.nums div[data-v-93dd90c7] { font-size: 0.78rem; line-height: 1.35;
+}
+.nums b[data-v-93dd90c7] { display: block; font: 700 2.1rem/1.05 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.nums i[data-v-93dd90c7] { color: var(--muted);
+}
+.more[data-v-93dd90c7] { font-size: 0.8rem; line-height: 1.45; background: var(--teal-t); border-radius: 8px; padding: 0.4rem 0.6rem;
+}
+.cd.de .more[data-v-93dd90c7] { background: #e8eef6;
+}

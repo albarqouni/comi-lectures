@@ -1,0 +1,13 @@
+
+.ew[data-v-325c5a6f] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.8rem;
+}
+.ew .st[data-v-325c5a6f] { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 0.85rem 1rem; display: flex; flex-direction: column; gap: 0.3rem;
+}
+.ew .st b[data-v-325c5a6f] { font: 700 2.3rem/1 'Source Sans 3', sans-serif; color: var(--teal-d);
+}
+.ew .st span[data-v-325c5a6f] { font-size: 0.88rem; line-height: 1.45;
+}
+.ew .st.red[data-v-325c5a6f] { background: var(--rubin-t); border-color: transparent;
+}
+.ew .st.red b[data-v-325c5a6f] { color: var(--rubin);
+}

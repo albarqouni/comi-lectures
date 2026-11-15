@@ -1,0 +1,29 @@
+
+.dr[data-v-47774f20] { display: grid; grid-template-columns: repeat(5, 1fr); gap: 0.5rem;
+}
+.dr .c[data-v-47774f20] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid var(--teal); border-radius: 12px; padding: 0.45rem 0.55rem; display: flex; flex-direction: column; gap: 0.2rem;
+}
+.dr .c.ref[data-v-47774f20] { border-top-color: var(--rubin);
+}
+.ims[data-v-47774f20] { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 0.15rem;
+}
+.ims i[data-v-47774f20] { aspect-ratio: 1; border-radius: 50%; background: url(/comi-lectures/_s/img/aim/medmnist/fundus.png) no-repeat; background-size: 1200% 500%; background-color: #000;
+}
+.dr b[data-v-47774f20] { font: 700 0.92rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.dr span[data-v-47774f20] { font-size: 0.74rem; line-height: 1.3;
+}
+.dr em[data-v-47774f20] { font: 600 0.68rem 'IBM Plex Mono', monospace; font-style: normal; color: var(--teal-d); margin-top: auto;
+}
+.dr .ref em[data-v-47774f20] { color: var(--rubin-d);
+}
+.ib[data-v-47774f20] { display: flex; gap: 0.6rem; align-items: flex-end; background: var(--teal-t); border-radius: 10px; padding: 0.4rem 0.8rem; font-size: 0.8rem;
+}
+.ib .b[data-v-47774f20] { display: flex; flex-direction: column; align-items: center; gap: 0.1rem;
+}
+.ib .b i[data-v-47774f20] { width: 1.6rem; background: var(--navy); border-radius: 3px 3px 0 0;
+}
+.ib small[data-v-47774f20] { font-size: 0.6rem; color: var(--navy);
+}
+.ib p[data-v-47774f20] { margin: 0 0 0 0.6rem; font-size: 0.84rem;
+}

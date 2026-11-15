@@ -1,0 +1,43 @@
+
+.gt[data-v-456dea7f] { display: grid; grid-template-columns: 1fr 1fr 0.8fr; gap: 0.6rem; align-items: start;
+}
+.pn[data-v-456dea7f] { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.35rem 0.5rem; display: flex; flex-direction: column; gap: 0.2rem;
+}
+.hd[data-v-456dea7f] { display: flex; justify-content: space-between; align-items: baseline;
+}
+.hd b[data-v-456dea7f] { font: 700 0.95rem 'Source Sans 3', sans-serif; color: #004e9f;
+}
+.hd span[data-v-456dea7f] { font: 0.58rem 'IBM Plex Mono', monospace; color: var(--muted);
+}
+.pn svg[data-v-456dea7f] { width: 100%; height: 9.4rem; display: block;
+}
+.fx[data-v-456dea7f] { background: #fff8db; border: 1px solid #f0d77a; border-radius: 8px; padding: 0.05rem 0.3rem; font-size: 0.64rem; text-align: center;
+}
+.kv[data-v-456dea7f] { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.2rem;
+}
+.kv div[data-v-456dea7f] { background: #f4f7fb; border-radius: 6px; padding: 0.1rem 0.25rem; display: flex; flex-direction: column;
+}
+.kv b[data-v-456dea7f] { font: 700 0.82rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.kv span[data-v-456dea7f] { font-size: 0.5rem; line-height: 1.15; color: var(--muted);
+}
+.sd[data-v-456dea7f] { display: flex; flex-direction: column; gap: 0.4rem; background: #f4f7fb; border: 1px solid var(--line); border-radius: 12px; padding: 0.5rem 0.65rem;
+}
+.bt[data-v-456dea7f] { display: flex; flex-direction: column; gap: 0.3rem;
+}
+.bt button[data-v-456dea7f] { font: 600 0.68rem 'Source Sans 3', sans-serif; padding: 0.18rem 0.6rem; border-radius: 99px; border: 1px solid var(--navy); background: var(--navy); color: #fff; cursor: pointer;
+}
+.bt button.g[data-v-456dea7f] { background: #fff; color: var(--navy); border-color: var(--line);
+}
+.st[data-v-456dea7f] { font: 0.6rem 'IBM Plex Mono', monospace; color: var(--muted);
+}
+.sl[data-v-456dea7f] { display: flex; flex-direction: column; font: 600 0.58rem 'IBM Plex Mono', monospace; color: #004e9f;
+}
+.sl input[data-v-456dea7f] { width: 100%; accent-color: var(--navy);
+}
+.nt[data-v-456dea7f] { display: flex; flex-direction: column; gap: 0.25rem; font-size: 0.66rem; line-height: 1.3; color: var(--navy);
+}
+.nt > b[data-v-456dea7f] { font: 600 0.56rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.nt i[data-v-456dea7f] { font-style: normal; font-weight: 700; color: #004e9f; margin-right: 0.2rem;
+}

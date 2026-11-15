@@ -1,0 +1,44 @@
+
+.l5mr[data-v-f16d96df] { display: grid; grid-template-columns: 1.15fr 1fr; gap: 0.8rem; align-items: start;
+}
+.l5mr-ims[data-v-f16d96df] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.5rem;
+}
+.l5mr-ims figure[data-v-f16d96df] { margin: 0; display: flex; flex-direction: column; gap: 0.2rem;
+}
+.l5mr-ims canvas[data-v-f16d96df] { width: 100%; aspect-ratio: 1; border-radius: 8px; background: #000; image-rendering: pixelated;
+}
+.l5mr-ims figcaption[data-v-f16d96df] { font: 600 0.6rem 'IBM Plex Mono', monospace; color: var(--muted); text-align: center;
+}
+.l5mr-side[data-v-f16d96df] { display: flex; flex-direction: column; gap: 0.4rem;
+}
+.l5mr-row[data-v-f16d96df] { display: flex; align-items: center; gap: 0.5rem;
+}
+.l5mr-lb[data-v-f16d96df] { font: 600 0.6rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted); width: 5.2rem; flex: none;
+}
+.l5mr-tg[data-v-f16d96df] { display: flex; gap: 0.25rem; flex-wrap: wrap;
+}
+.l5mr-tg button[data-v-f16d96df] { font: 600 0.75rem 'Source Sans 3', sans-serif; padding: 0.12rem 0.5rem; border-radius: 99px; border: 1px solid var(--line); background: var(--card); color: var(--navy); cursor: pointer;
+}
+.l5mr-tg button.on[data-v-f16d96df] { background: var(--rubin); border-color: var(--rubin); color: #fff;
+}
+.l5mr-read[data-v-f16d96df] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.4rem;
+}
+.l5mr-read div[data-v-f16d96df] { background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 0.3rem 0.5rem; display: flex; flex-direction: column;
+}
+.l5mr-read b[data-v-f16d96df] { font: 700 1.3rem/1.1 'Source Sans 3', sans-serif; color: var(--rubin);
+}
+.l5mr-read span[data-v-f16d96df] { font-size: 0.68rem; color: var(--muted);
+}
+.l5mr-note[data-v-f16d96df] { font-size: 0.78rem; line-height: 1.35; margin: 0; background: var(--rubin-t); border-radius: 8px; padding: 0.35rem 0.55rem; color: var(--navy);
+}
+
+.l5mv[data-v-380bab69] { display: grid; grid-template-columns: 2.1fr 0.9fr; gap: 0.8rem; align-items: start;
+}
+.l5mv .tk-c[data-v-380bab69] { font-size: 0.82rem; display: flex; flex-direction: column; gap: 0.35rem;
+}
+.l5mv b[data-v-380bab69] { color: var(--rubin-d);
+}
+.l5mv .tk-bars > div[data-v-380bab69] { grid-template-columns: 6.8rem 1fr 2.4rem; font-size: 0.72rem;
+}
+.l5mv small[data-v-380bab69] { font-size: 0.66rem; color: var(--muted);
+}

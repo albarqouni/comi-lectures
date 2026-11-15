@@ -1,0 +1,15 @@
+
+.ti[data-v-09415557] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.8rem;
+}
+.ti .tk-c[data-v-09415557] { font-size: 0.82rem; display: flex; flex-direction: column; gap: 0.3rem;
+}
+.ti b[data-v-09415557] { color: var(--rubin);
+}
+.ti small[data-v-09415557] { font-size: 0.68rem; color: var(--muted);
+}
+.ti .mini2[data-v-09415557] { width: 100%; height: 5.4rem; background: #fff; border-radius: 8px;
+}
+.tq .tk-c[data-v-09415557] { font-size: 0.8rem; padding: 0.4rem 0.7rem;
+}
+.tq b[data-v-09415557] { color: var(--navy);
+}

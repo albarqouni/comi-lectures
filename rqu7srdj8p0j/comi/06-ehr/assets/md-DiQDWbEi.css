@@ -1,0 +1,11 @@
+
+.cx[data-v-3ea0e3e5] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.8rem;
+}
+.cx .cd[data-v-3ea0e3e5] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid var(--navy); border-radius: 12px; padding: 0.75rem 0.9rem; font-size: 0.9rem; line-height: 1.5;
+}
+.cx .hl[data-v-3ea0e3e5] { background: var(--teal-t); border-top-color: var(--teal);
+}
+.cx .k[data-v-3ea0e3e5] { font: 700 1.05rem 'Source Sans 3', sans-serif; color: var(--navy); margin-bottom: 0.3rem;
+}
+.cx b[data-v-3ea0e3e5] { color: var(--navy);
+}

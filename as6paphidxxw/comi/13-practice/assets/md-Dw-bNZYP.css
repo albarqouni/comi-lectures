@@ -1,0 +1,7 @@
+
+.tw[data-v-930c8623] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.4rem 0.7rem;
+}
+.tw div[data-v-930c8623] { display: flex; gap: 0.5rem; align-items: center; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 0.4rem 0.65rem; font: 0.88rem/1.35 'Source Serif 4', serif; color: var(--ink);
+}
+.tw i[data-v-930c8623] { font-style: normal; width: 1.5rem; height: 1.5rem; flex: none; border-radius: 50%; background: var(--navy); color: var(--gelb); display: grid; place-items: center; font: 700 0.72rem 'Source Sans 3', sans-serif;
+}

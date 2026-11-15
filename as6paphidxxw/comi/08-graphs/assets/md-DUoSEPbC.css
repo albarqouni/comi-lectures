@@ -1,0 +1,45 @@
+
+.sc[data-v-f937a915] { display: grid; grid-template-columns: 1.45fr 1fr; gap: 0.8rem;
+}
+.dv[data-v-f937a915] { display: flex; flex-direction: column; gap: 0.22rem;
+}
+.ln[data-v-f937a915] { display: flex; gap: 0.45rem; align-items: center; padding: 0.2rem 0.5rem; border-radius: 9px; border: 1px solid var(--line); background: var(--card); cursor: pointer; font-size: 0.76rem; color: var(--navy); transition: opacity 0.2s;
+}
+.ln i[data-v-f937a915] { font: 700 0.68rem 'IBM Plex Mono', monospace; font-style: normal; width: 1.2rem; height: 1.2rem; border-radius: 50%; display: grid; place-items: center; background: #e3ecf8; color: #004e9f; flex: none;
+}
+.ln > div[data-v-f937a915] { display: flex; flex-direction: column;
+}
+.ln b[data-v-f937a915] { font-size: 0.6rem; color: var(--muted); font-weight: 600;
+}
+.ln.on[data-v-f937a915] { background: var(--gelb); border-color: #f0b400;
+}
+.ln.on i[data-v-f937a915] { background: var(--navy); color: #fff;
+}
+.ln.fut[data-v-f937a915] { opacity: 0.18;
+}
+.bt[data-v-f937a915] { display: flex; gap: 0.3rem;
+}
+.bt button[data-v-f937a915] { font: 600 0.72rem 'Source Sans 3', sans-serif; padding: 0.2rem 0.7rem; border-radius: 99px; border: none; background: var(--navy); color: #fff; cursor: pointer;
+}
+.bt button.g[data-v-f937a915] { background: #c9d2dd; color: var(--navy);
+}
+.bt button[data-v-f937a915]:disabled { opacity: 0.4;
+}
+.lv[data-v-f937a915] { background: #f4f7fb; border: 1px solid var(--line); border-radius: 12px; padding: 0.55rem 0.75rem; display: flex; flex-direction: column; gap: 0.4rem; color: var(--navy);
+}
+.lv .k[data-v-f937a915] { font: 600 0.6rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: #004e9f;
+}
+.lv p[data-v-f937a915] { margin: 0; font-size: 0.76rem; line-height: 1.38;
+}
+.big[data-v-f937a915] { display: flex; flex-direction: column; gap: 0.25rem; font-size: 0.98rem;
+}
+small[data-v-f937a915] { font-size: 0.64rem; color: var(--muted); line-height: 1.35;
+}
+.nz[data-v-f937a915] { display: flex; flex-direction: column; gap: 0.15rem;
+}
+.nz > div[data-v-f937a915] { display: grid; grid-template-columns: 2.6rem 1fr 2.4rem; gap: 0.3rem; align-items: center; font-size: 0.72rem;
+}
+.nz i[data-v-f937a915] { height: 0.75rem; background: var(--teal); border-radius: 3px;
+}
+.nz b[data-v-f937a915] { text-align: right;
+}

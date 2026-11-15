@@ -1,0 +1,47 @@
+
+.rc[data-v-5dae1320] { display: grid; grid-template-columns: 15rem 1fr; gap: 0.9rem; align-items: start;
+}
+.ct[data-v-5dae1320] { display: flex; flex-direction: column; gap: 0.35rem; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.5rem 0.7rem; font-size: 0.72rem; color: var(--navy);
+}
+.ct label[data-v-5dae1320] { display: flex; flex-direction: column;
+}
+.ct input[data-v-5dae1320] { accent-color: #004e9f;
+}
+.g[data-v-5dae1320] { display: flex; gap: 0.2rem; align-items: center; flex-wrap: wrap;
+}
+.g span[data-v-5dae1320] { color: var(--muted); margin-right: 0.15rem;
+}
+.g button[data-v-5dae1320] { font: 600 0.66rem 'Source Sans 3', sans-serif; padding: 0.1rem 0.45rem; border-radius: 99px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.g button.on[data-v-5dae1320] { background: #004e9f; color: #fff; border-color: #004e9f;
+}
+.out[data-v-5dae1320] { display: flex; flex-direction: column; gap: 0.45rem;
+}
+.tb[data-v-5dae1320] { display: flex; flex-direction: column; gap: 0.12rem;
+}
+.tb > div[data-v-5dae1320] { display: grid; grid-template-columns: 5.5rem 5rem 4.5rem 1fr; gap: 0.4rem; font: 0.74rem 'IBM Plex Mono', monospace; color: var(--navy); background: #f4f7fb; border-radius: 6px; padding: 0.14rem 0.5rem;
+}
+.tb .hd[data-v-5dae1320] { background: none; font: 600 0.54rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.tb .bn[data-v-5dae1320] { background: #e3ecf8; font-weight: 600;
+}
+.tb .bad[data-v-5dae1320] { color: var(--rubin-d);
+}
+.sm[data-v-5dae1320] { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.35rem;
+}
+.sm div[data-v-5dae1320] { background: #e8edf5; border-radius: 8px; padding: 0.25rem 0.5rem; display: flex; flex-direction: column;
+}
+.sm span[data-v-5dae1320] { font-size: 0.6rem; color: var(--navy);
+}
+.sm b[data-v-5dae1320] { font: 700 1.1rem 'Source Sans 3', sans-serif; color: #004e9f;
+}
+.sm small[data-v-5dae1320] { font-size: 0.56rem; color: var(--muted);
+}
+.sm .ok[data-v-5dae1320] { background: var(--teal-t);
+}
+.sm .ok b[data-v-5dae1320] { color: var(--teal-d);
+}
+.sm .no[data-v-5dae1320] { background: var(--rubin-t);
+}
+.sm .no b[data-v-5dae1320] { color: var(--rubin-d);
+}

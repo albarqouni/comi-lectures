@@ -1,0 +1,11 @@
+
+.l10cot[data-v-bee50007] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.7rem;
+}
+.l10cot .tk-c[data-v-bee50007] { font-size: 0.82rem; gap: 0.3rem;
+}
+.l10cot small[data-v-bee50007] { font-size: 0.6rem; color: var(--muted); margin-top: auto;
+}
+.l10cot .tk-bars > div[data-v-bee50007] { grid-template-columns: 8.4rem 1fr 3.6rem; font-size: 0.7rem;
+}
+.lesson b[data-v-bee50007] { color: var(--gelb);
+}

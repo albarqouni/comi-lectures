@@ -1,0 +1,45 @@
+
+.t3sh[data-v-77048cd6] { display: grid; grid-template-columns: 13.5rem 1fr 15rem; gap: 0.8rem; height: 19rem;
+}
+.t3sh-ops[data-v-77048cd6] { display: flex; flex-direction: column; gap: 0.2rem;
+}
+.t3sh-ops button[data-v-77048cd6] { text-align: left; font: 0.66rem 'IBM Plex Mono', monospace; padding: 0.18rem 0.5rem; border-radius: 6px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.t3sh-ops button.on[data-v-77048cd6] { background: #1e1e1e; color: #dcdcaa; border-color: #1e1e1e;
+}
+.t3sh-ops label[data-v-77048cd6] { display: grid; grid-template-columns: 3.4rem 1fr 1.6rem; gap: 0.3rem; align-items: center; font-size: 0.66rem; color: var(--navy); margin-top: 0.2rem;
+}
+.t3sh-ops input[data-v-77048cd6] { accent-color: var(--teal-d);
+}
+.t3sh-ops b[data-v-77048cd6] { font: 0.66rem 'IBM Plex Mono', monospace;
+}
+.t3sh-out[data-v-77048cd6] { display: flex; flex-direction: column; gap: 0.5rem;
+}
+.t3sh-code[data-v-77048cd6] { background: #1e1e1e; color: #d4d4d4; border-radius: 8px; padding: 0.6rem 0.8rem; font: 0.86rem 'IBM Plex Mono', monospace;
+}
+.t3sh-code .p[data-v-77048cd6] { color: #6a9955;
+}
+.t3sh-code .sh[data-v-77048cd6] { color: #9cdcfe;
+}
+.t3sh-code .res[data-v-77048cd6] { color: #b5cea8; font-size: 1.15rem; margin-top: 0.25rem;
+}
+.t3sh-st[data-v-77048cd6] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.35rem;
+}
+.t3sh-st div[data-v-77048cd6] { background: var(--teal-t); border-radius: 8px; padding: 0.25rem 0.55rem; display: flex; flex-direction: column;
+}
+.t3sh-st span[data-v-77048cd6] { font: 600 0.55rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--teal-d);
+}
+.t3sh-st b[data-v-77048cd6] { font: 700 1.1rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.t3sh-note[data-v-77048cd6] { font-size: 0.86rem; color: var(--navy); line-height: 1.35; background: var(--card); border: 1px solid var(--line); border-left: 4px solid var(--gelb); border-radius: 8px; padding: 0.45rem 0.65rem;
+}
+.t3sh-img[data-v-77048cd6] { display: flex; flex-direction: column; gap: 0.3rem; align-items: center; justify-content: center; background: #000; border-radius: 10px; padding: 0.4rem;
+}
+.t3sh-img canvas[data-v-77048cd6] { width: 100%; height: auto; max-height: 16.5rem; object-fit: contain; image-rendering: pixelated;
+}
+.t3sh-img small[data-v-77048cd6] { font-size: 0.55rem; color: #b8c4d0; text-align: center;
+}
+.t3sh-no[data-v-77048cd6] { color: #cfe0f0; display: flex; flex-direction: column; align-items: center; gap: 0.4rem; font-size: 0.8rem; text-align: center;
+}
+.t3sh-no i[data-v-77048cd6] { font-size: 2.5rem; color: var(--teal);
+}

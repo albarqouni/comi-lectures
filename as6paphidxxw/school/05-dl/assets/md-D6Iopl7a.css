@@ -1,0 +1,13 @@
+
+.rc[data-v-2488652f] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.8rem;
+}
+.rc .cd[data-v-2488652f] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid var(--rubin); border-radius: 12px; padding: 0.75rem 0.9rem; font-size: 0.9rem; line-height: 1.5; display: flex; flex-direction: column; gap: 0.25rem; min-height: 15rem;
+}
+.rc .k[data-v-2488652f] { display: flex; gap: 0.3rem; align-items: center; font: 700 1.05rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.rc .k i[data-v-2488652f] { color: var(--rubin);
+}
+.rc b[data-v-2488652f] { color: var(--navy);
+}
+.rc small[data-v-2488652f] { font-size: 0.66rem; color: var(--muted); margin-top: auto;
+}

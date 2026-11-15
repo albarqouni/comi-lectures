@@ -1,0 +1,47 @@
+
+.rp[data-v-bee1c449] { display: flex; flex-direction: column; gap: 0.5rem;
+}
+.row[data-v-bee1c449] { display: flex; gap: 0.5rem; align-items: flex-start;
+}
+figure[data-v-bee1c449] { margin: 0; display: flex; flex-direction: column; gap: 0.2rem;
+}
+canvas[data-v-bee1c449] { width: 10rem; height: 10rem; border-radius: 8px; background: #000;
+}
+canvas.sg[data-v-bee1c449] { width: 8.2rem;
+}
+figcaption[data-v-bee1c449] { font-size: 0.62rem; display: flex; gap: 0.3rem; align-items: baseline; color: var(--muted);
+}
+figcaption b[data-v-bee1c449] { color: var(--navy); font-size: 0.76rem;
+}
+figcaption em[data-v-bee1c449] { font: 0.58rem 'IBM Plex Mono', monospace; font-style: normal; margin-left: auto; color: var(--rubin-d);
+}
+.side[data-v-bee1c449] { flex: 1; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.45rem 0.6rem; display: flex; flex-direction: column; gap: 0.22rem; align-self: stretch;
+}
+.k[data-v-bee1c449] { font: 600 0.54rem 'IBM Plex Mono', monospace; letter-spacing: 0.06em; text-transform: uppercase; color: var(--teal-d);
+}
+.b3[data-v-bee1c449] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.2rem;
+}
+button[data-v-bee1c449] { font: 600 0.62rem 'Source Sans 3', sans-serif; padding: 0.2rem 0.25rem; border-radius: 6px; border: 1px solid var(--line); background: #fff; cursor: pointer; color: var(--navy); display: flex; gap: 0.2rem; align-items: center; justify-content: center; line-height: 1.1;
+}
+button i[data-v-bee1c449] { color: var(--teal-d); flex: none;
+}
+button.on[data-v-bee1c449] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+button.on i[data-v-bee1c449] { color: var(--gelb);
+}
+input[type=range][data-v-bee1c449] { width: 100%; accent-color: var(--teal-d);
+}
+.low[data-v-bee1c449] { display: grid; grid-template-columns: 1.4fr 1fr; gap: 0.6rem; align-items: stretch;
+}
+.pf[data-v-bee1c449] { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 0.3rem 0.5rem; display: flex; flex-direction: column; gap: 0.15rem;
+}
+.pf svg[data-v-bee1c449] { width: 100%; height: 4.2rem;
+}
+.lg[data-v-bee1c449] { display: flex; gap: 0.8rem; font-size: 0.6rem; color: var(--muted);
+}
+.lg i[data-v-bee1c449] { display: inline-block; width: 0.8rem; height: 0.18rem; margin-right: 0.25rem; vertical-align: middle;
+}
+p[data-v-bee1c449] { margin: 0; font-size: 0.76rem; line-height: 1.4; background: var(--teal-t); border-radius: 10px; padding: 0.4rem 0.6rem;
+}
+p i[data-v-bee1c449] { color: var(--teal-d); margin-right: 0.3rem; vertical-align: -0.15em;
+}

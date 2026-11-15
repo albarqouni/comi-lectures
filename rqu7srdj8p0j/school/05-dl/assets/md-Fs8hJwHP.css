@@ -1,0 +1,54 @@
+
+.ed[data-v-55fa18b9] { display: grid; grid-template-columns: 13.5rem 1fr; gap: 0.9rem; align-items: start;
+}
+.ctl[data-v-55fa18b9] { display: flex; flex-direction: column; gap: 0.45rem; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.6rem 0.7rem;
+}
+.th[data-v-55fa18b9] { display: flex; gap: 0.25rem; flex-wrap: wrap;
+}
+.th button[data-v-55fa18b9] { padding: 0; border: 2px solid transparent; border-radius: 8px; background: none; cursor: pointer;
+}
+.th button.on[data-v-55fa18b9] { border-color: var(--rubin);
+}
+.md[data-v-55fa18b9] { display: flex; gap: 0.25rem; flex-wrap: wrap;
+}
+.md button[data-v-55fa18b9] { font: 600 0.68rem 'Source Sans 3', sans-serif; padding: 0.15rem 0.55rem; border-radius: 99px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.md button.on[data-v-55fa18b9] { background: var(--navy); color: #fff;
+}
+.kk[data-v-55fa18b9] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.4rem;
+}
+.kk div[data-v-55fa18b9] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.1rem;
+}
+.kk small[data-v-55fa18b9] { grid-column: 1 / 4; font: 600 0.52rem 'IBM Plex Mono', monospace; color: var(--muted); text-transform: uppercase;
+}
+.kk span[data-v-55fa18b9] { font: 700 0.7rem 'IBM Plex Mono', monospace; text-align: center; background: #eef2f7; border-radius: 3px; color: var(--navy);
+}
+label[data-v-55fa18b9] { display: grid; grid-template-columns: 3rem 1fr 2.2rem; gap: 0.3rem; align-items: center; font-size: 0.7rem; color: var(--navy);
+}
+label b[data-v-55fa18b9] { font: 0.66rem 'IBM Plex Mono', monospace; text-align: right;
+}
+input[data-v-55fa18b9] { accent-color: var(--rubin); width: 100%;
+}
+.vw[data-v-55fa18b9] { display: flex; flex-direction: column; gap: 0.4rem; background: #0f1e37; border-radius: 12px; padding: 0.55rem;
+}
+.big[data-v-55fa18b9] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.5rem;
+}
+figure[data-v-55fa18b9] { margin: 0; display: flex; flex-direction: column; align-items: center; gap: 0.2rem;
+}
+.big canvas[data-v-55fa18b9] { width: 10rem; height: 10rem; image-rendering: pixelated; border-radius: 6px;
+}
+.st[data-v-55fa18b9] { display: flex; align-items: center; gap: 0.3rem;
+}
+.st canvas[data-v-55fa18b9] { width: 2.8rem; height: 2.8rem; image-rendering: pixelated; border-radius: 4px;
+}
+.st span[data-v-55fa18b9] { color: var(--gelb); font-weight: 700;
+}
+.st .hl[data-v-55fa18b9] { flex: 1;
+}
+.st .hl figcaption[data-v-55fa18b9] { text-transform: none; letter-spacing: 0; font-size: 0.6rem; color: var(--gelb);
+}
+figcaption[data-v-55fa18b9] { font: 600 0.52rem 'IBM Plex Mono', monospace; color: #9fb3cc; text-transform: uppercase; letter-spacing: 0.05em; text-align: center;
+}
+
+.lesson[data-v-1f573ad7] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.45rem 0.9rem; font: 0.9rem 'Source Serif 4', serif; display: flex; gap: 0.5rem; align-items: center;
+}

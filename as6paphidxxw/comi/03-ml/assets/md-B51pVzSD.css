@@ -1,0 +1,29 @@
+
+.km[data-v-fa5a5a0f] { display: grid; grid-template-columns: 19rem 1fr; gap: 1.1rem; align-items: start;
+}
+.sv[data-v-fa5a5a0f] { width: 19rem; height: 19rem; display: block;
+}
+.ax[data-v-fa5a5a0f] { font: 9px 'IBM Plex Mono', monospace; fill: #6b7380;
+}
+.em[data-v-fa5a5a0f] { font-size: 11px; pointer-events: none;
+}
+.ctl[data-v-fa5a5a0f] { display: flex; flex-direction: column; gap: 0.6rem; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.75rem 0.9rem;
+}
+.pre[data-v-fa5a5a0f], .btns[data-v-fa5a5a0f] { display: flex; gap: 0.3rem;
+}
+.pre button[data-v-fa5a5a0f], .btns button[data-v-fa5a5a0f] { font: 600 0.7rem 'Source Sans 3', sans-serif; padding: 0.25rem 0.8rem; border-radius: 99px; border: 1px solid var(--navy); background: #fff; color: var(--navy); cursor: pointer;
+}
+.pre button.on[data-v-fa5a5a0f], .btns button[data-v-fa5a5a0f]:not(.ghost) { background: var(--navy); color: #fff;
+}
+label[data-v-fa5a5a0f] { display: flex; flex-direction: column; gap: 0.15rem; font-size: 0.76rem;
+}
+label b[data-v-fa5a5a0f] { color: var(--navy);
+}
+input[type=range][data-v-fa5a5a0f] { width: 100%; accent-color: var(--navy);
+}
+.st[data-v-fa5a5a0f] { display: flex; gap: 1.2rem; font-size: 0.72rem; color: var(--muted);
+}
+.st b[data-v-fa5a5a0f] { color: var(--navy); font-size: 0.95rem;
+}
+.how[data-v-fa5a5a0f] { font-size: 0.74rem; line-height: 1.45; background: var(--teal-t); border-radius: 8px; padding: 0.4rem 0.6rem; color: var(--navy);
+}

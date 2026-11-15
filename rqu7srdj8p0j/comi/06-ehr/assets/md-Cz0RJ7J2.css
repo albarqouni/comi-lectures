@@ -1,0 +1,15 @@
+
+.l6ra .fl > div[data-v-b67783ad] { display: flex; flex-direction: column; align-items: center; text-align: center; gap: 0.05rem; padding: 0.4rem 0.4rem; font-size: 0.66rem; line-height: 1.25;
+}
+.l6ra .fl > div i[data-v-b67783ad] { font-size: 1.3rem; color: var(--teal-d);
+}
+.l6ra .fl > div b[data-v-b67783ad] { font: 700 1.05rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.l6ra .tk-c[data-v-b67783ad] { font-size: 0.82rem; line-height: 1.4;
+}
+.l6ra .tk-c b[data-v-b67783ad] { color: var(--navy);
+}
+.l6ra small[data-v-b67783ad] { font-size: 0.6rem; color: var(--muted);
+}
+.l6rab > div[data-v-b67783ad] { grid-template-columns: 4.6rem 1fr 2.6rem; font-size: 0.8rem;
+}

@@ -1,0 +1,27 @@
+
+.hk[data-v-b5f4f485] { display: grid; grid-template-columns: 1.7fr 1fr; gap: 1.2rem; align-items: center;
+}
+.bars[data-v-b5f4f485] { display: flex; flex-direction: column; gap: 0.7rem; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.8rem 1rem;
+}
+.br span[data-v-b5f4f485] { font-size: 0.82rem; color: var(--navy); font-weight: 600;
+}
+.b[data-v-b5f4f485] { display: flex; height: 1.8rem; margin-top: 0.2rem;
+}
+.b i[data-v-b5f4f485] { font: 600 0.75rem 'Source Sans 3', sans-serif; font-style: normal; color: #fff; display: grid; place-items: center; white-space: nowrap;
+}
+.b .m[data-v-b5f4f485] { background: var(--navy); border-radius: 6px 0 0 6px;
+}
+.b .rv[data-v-b5f4f485] { background: #7b8ba3; border-radius: 0 6px 6px 0;
+}
+.b .dl[data-v-b5f4f485] { background: var(--teal); border-radius: 6px;
+}
+.ax[data-v-b5f4f485] { display: flex; justify-content: space-between; font: 0.6rem 'IBM Plex Mono', monospace; color: var(--muted); border-top: 1px solid var(--line); padding-top: 0.2rem;
+}
+.st[data-v-b5f4f485] { background: var(--teal-t); border-radius: 14px; padding: 0.9rem 1rem; display: flex; flex-direction: column; gap: 0.3rem;
+}
+.st b[data-v-b5f4f485] { font: 700 3rem/1 'Source Sans 3', sans-serif; color: var(--teal-d);
+}
+.st span[data-v-b5f4f485] { font-size: 0.88rem; line-height: 1.45;
+}
+.lesson[data-v-b5f4f485] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.55rem 0.9rem; font: 1rem 'Source Serif 4', serif; display: flex; gap: 0.6rem; align-items: center;
+}

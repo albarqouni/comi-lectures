@@ -1,0 +1,15 @@
+
+.rp[data-v-0bab6203] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.6rem;
+}
+.rp .cl[data-v-0bab6203] { display: flex; flex-direction: column; gap: 0.32rem;
+}
+.rp a[data-v-0bab6203] { display: block; background: var(--card); border: 1px solid var(--line); border-left: 4px solid var(--gelb); border-radius: 9px; padding: 0.3rem 0.6rem; font-size: 0.72rem; line-height: 1.32; color: var(--ink); text-decoration: none;
+}
+.rp .cl:last-child a[data-v-0bab6203] { border-left-color: var(--teal);
+}
+.rp a[data-v-0bab6203]:hover { background: #fff6d6;
+}
+.rp b[data-v-0bab6203] { color: var(--navy);
+}
+.rp em[data-v-0bab6203] { display: block; font-style: normal; font: 600 0.54rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted); margin-top: 0.1rem;
+}

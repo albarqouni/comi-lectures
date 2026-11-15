@@ -1,0 +1,15 @@
+
+.sf[data-v-f611de1d] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.7rem;
+}
+.sf .cd[data-v-f611de1d] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid var(--navy); border-radius: 12px; padding: 0.6rem 0.85rem; font-size: 0.88rem; line-height: 1.45;
+}
+.sf .k[data-v-f611de1d] { font: 700 1rem 'Source Sans 3', sans-serif; color: var(--navy); margin-bottom: 0.2rem;
+}
+.sf i[data-v-f611de1d] { display: block; font-size: 0.74rem; color: var(--teal-d); margin-top: 0.2rem;
+}
+.ex[data-v-f611de1d] { display: grid; grid-template-columns: 1.4fr 1fr; gap: 0.7rem;
+}
+.ex div[data-v-f611de1d] { background: var(--rubin-t); border-radius: 10px; padding: 0.5rem 0.8rem; font-size: 0.86rem; line-height: 1.45;
+}
+.ex b[data-v-f611de1d] { color: var(--rubin-d);
+}

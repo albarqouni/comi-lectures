@@ -1,0 +1,25 @@
+
+.l5me[data-v-bf208005] { display: grid; grid-template-columns: 1.2fr 1fr; gap: 0.8rem; align-items: start;
+}
+.l5me .tk-c[data-v-bf208005] { font-size: 0.84rem;
+}
+.l5me b[data-v-bf208005] { color: var(--rubin-d);
+}
+.l5me-rg[data-v-bf208005] { display: grid; grid-template-columns: 6.6rem 1fr; gap: 0.4rem; align-items: center; padding: 0.55rem 0 0.75rem;
+}
+.l5me-rg > span[data-v-bf208005] { font: 600 0.6rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.l5me-ax[data-v-bf208005] { position: relative; height: 0.9rem; background: #e8edf3; border-radius: 99px;
+}
+.l5me-band[data-v-bf208005] { position: absolute; top: 0; height: 100%; background: var(--rubin); border-radius: 99px;
+}
+.l5me-band.t[data-v-bf208005] { background: var(--teal);
+}
+.l5me-ax em[data-v-bf208005] { position: absolute; top: 1rem; transform: translateX(-50%); font: 700 0.66rem 'Source Sans 3', sans-serif; font-style: normal; color: var(--navy);
+}
+.l5me-why[data-v-bf208005] { display: flex; flex-direction: column; gap: 0.38rem;
+}
+.l5me-why .tk-c[data-v-bf208005] { flex-direction: row; gap: 0.5rem; align-items: center; padding: 0.38rem 0.65rem; font-size: 0.8rem;
+}
+.l5me-why b[data-v-bf208005] { color: var(--navy);
+}

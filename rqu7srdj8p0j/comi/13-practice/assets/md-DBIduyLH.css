@@ -1,0 +1,15 @@
+
+.af[data-v-75b800de] { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.55rem;
+}
+.af .tk-c[data-v-75b800de] { font-size: 0.76rem; line-height: 1.38; padding: 0.5rem 0.7rem; gap: 0.25rem;
+}
+.af .tk-c > .ic[data-v-75b800de] { font-size: 1.4rem;
+}
+.af .tk-c .k[data-v-75b800de] { font-size: 0.92rem;
+}
+.af .th[data-v-75b800de] { width: 100%; height: 4.2rem; object-fit: cover; border-radius: 7px; background: #000;
+}
+.af .tk-bars > div[data-v-75b800de] { grid-template-columns: 5.2rem 1fr 2.6rem; font-size: 0.68rem;
+}
+.af small[data-v-75b800de] { font-size: 0.6rem; line-height: 1.3;
+}

@@ -1,0 +1,23 @@
+
+.ff[data-v-50935c08] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.8rem;
+}
+.ff .c[data-v-50935c08] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid var(--navy); border-radius: 12px; padding: 0.55rem 0.8rem; font-size: 0.84rem; line-height: 1.42; display: flex; flex-direction: column; gap: 0.3rem;
+}
+.ff img[data-v-50935c08] { width: 100%; height: 7.6rem; object-fit: cover; border-radius: 8px; background: #000;
+}
+.ff .k[data-v-50935c08] { display: flex; gap: 0.35rem; align-items: center; font: 700 1.1rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.ff .k i[data-v-50935c08] { color: var(--teal-d);
+}
+.ff .sz[data-v-50935c08] { display: flex; gap: 0.3rem; align-items: center; font: 0.72rem 'IBM Plex Mono', monospace; background: #f3f5f9; border-radius: 6px; padding: 0.2rem 0.4rem;
+}
+.ff .sz i[data-v-50935c08] { color: var(--rubin); flex: none;
+}
+.ff .sz b[data-v-50935c08] { color: var(--rubin-d);
+}
+.ff i.w[data-v-50935c08] { font-size: 0.7rem; color: var(--muted); margin-top: auto;
+}
+.ff code[data-v-50935c08] { font-size: 0.68rem;
+}
+.lesson[data-v-50935c08] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.5rem 0.9rem; font: 1rem 'Source Serif 4', serif; display: flex; gap: 0.6rem; align-items: center;
+}

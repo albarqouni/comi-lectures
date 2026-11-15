@@ -1,0 +1,25 @@
+
+.l9g[data-v-a81299a8] { display: flex; flex-direction: column; gap: 0.55rem;
+}
+.l9g .tl[data-v-a81299a8] { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.4rem; position: relative;
+}
+.l9g .tl > div[data-v-a81299a8] { border-top: 4px solid #c9d2dd; padding: 0.3rem 0.4rem 0; display: flex; flex-direction: column; font-size: 0.74rem; line-height: 1.3;
+}
+.l9g .tl b[data-v-a81299a8] { font: 700 0.95rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.l9g .tl .hl[data-v-a81299a8] { border-top-color: #004e9f;
+}
+.l9g .tl .hl b[data-v-a81299a8] { color: #004e9f;
+}
+.l9g .pc .tk-c[data-v-a81299a8] { font-size: 0.82rem; line-height: 1.4; padding: 0.5rem 0.75rem;
+}
+.l9g .pc .tk-c > .ic[data-v-a81299a8] { font-size: 1.5rem;
+}
+.l9g .pc .k[data-v-a81299a8] { font-size: 0.98rem;
+}
+.l9g .eu[data-v-a81299a8] { display: flex; gap: 0.55rem; align-items: center; background: #e3ecf8; border-radius: 10px; padding: 0.5rem 0.8rem; font-size: 0.84rem; line-height: 1.4;
+}
+.l9g .eu i[data-v-a81299a8] { font-size: 1.5rem; color: #004e9f; flex: none;
+}
+.l9g .eu b[data-v-a81299a8] { color: var(--navy);
+}

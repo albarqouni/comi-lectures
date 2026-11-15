@@ -1,0 +1,41 @@
+
+.gl[data-v-9376f4c4] { display: grid; grid-template-columns: 1fr 1.25fr; gap: 0.9rem; align-items: start;
+}
+.im svg[data-v-9376f4c4] { width: 100%; height: 11.5rem; border-radius: 10px; border: 1px solid var(--line); background: #fff;
+}
+.im small[data-v-9376f4c4] { font-size: 0.64rem; color: var(--muted); display: block;
+}
+.sig[data-v-9376f4c4] { display: grid; grid-template-columns: repeat(6, 1fr); gap: 0.2rem; margin-top: 0.3rem;
+}
+.sig span[data-v-9376f4c4] { background: #f4f7fb; border-radius: 6px; text-align: center; font: 700 0.85rem 'Source Sans 3', sans-serif; color: var(--navy); padding: 0.1rem;
+}
+.sig em[data-v-9376f4c4] { display: block; font: 0.58rem 'IBM Plex Mono', monospace; color: var(--muted); font-style: normal;
+}
+.sig .on[data-v-9376f4c4] { background: var(--rubin-t);
+}
+.mt[data-v-9376f4c4] { display: flex; flex-direction: column; gap: 0.35rem; color: var(--navy);
+}
+.tabs[data-v-9376f4c4] { display: flex; gap: 0.25rem;
+}
+.tabs button[data-v-9376f4c4] { font: 600 0.72rem 'Source Sans 3', sans-serif; padding: 0.15rem 0.7rem; border-radius: 99px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.tabs button.on[data-v-9376f4c4] { background: var(--navy); color: #fff;
+}
+table[data-v-9376f4c4] { border-collapse: collapse; font: 0.8rem 'IBM Plex Mono', monospace; align-self: flex-start;
+}
+td[data-v-9376f4c4] { width: 2.9rem; text-align: center; padding: 0.12rem 0; border: 1px solid #eef1f5; background: #fff;
+}
+td.z[data-v-9376f4c4] { color: #c9d2dd;
+}
+td.neg[data-v-9376f4c4] { color: var(--rubin);
+}
+td.dg[data-v-9376f4c4] { background: var(--gelb); font-weight: 700;
+}
+tr.on td[data-v-9376f4c4] { border-top: 1.5px solid var(--rubin); border-bottom: 1.5px solid var(--rubin);
+}
+.lx[data-v-9376f4c4] { background: #f4f7fb; border-radius: 10px; padding: 0.4rem 0.6rem; display: flex; flex-direction: column; gap: 0.2rem; font-size: 0.78rem;
+}
+.lx span[data-v-9376f4c4] { font-size: 0.74rem; line-height: 1.35;
+}
+.lx b[data-v-9376f4c4] { color: var(--rubin);
+}

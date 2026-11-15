@@ -1,0 +1,44 @@
+
+.rr[data-v-fa5e93af] { display: grid; grid-template-columns: 17.5rem 1fr; gap: 0.9rem; align-items: start;
+}
+.lf canvas[data-v-fa5e93af] { width: 17.5rem; height: auto; border-radius: 10px; display: block; background: #000; image-rendering: pixelated;
+}
+.cap[data-v-fa5e93af] { display: flex; gap: 0.3rem; align-items: center; font: 0.62rem 'IBM Plex Mono', monospace; color: var(--muted); margin-top: 0.25rem;
+}
+.rt[data-v-fa5e93af] { display: flex; flex-direction: column; gap: 0.4rem;
+}
+.hd[data-v-fa5e93af] { font: 600 0.6rem 'IBM Plex Mono', monospace; letter-spacing: 0.06em; text-transform: uppercase; color: var(--teal-d); display: flex; gap: 0.3rem; align-items: center;
+}
+table[data-v-fa5e93af] { border-collapse: collapse; width: 100%; font-size: 0.8rem;
+}
+th[data-v-fa5e93af] { font: 600 0.66rem 'Source Sans 3', sans-serif; color: var(--muted); text-align: right; padding: 0.15rem 0.35rem; border-bottom: 2px solid var(--navy); vertical-align: bottom;
+}
+th[data-v-fa5e93af]:first-child, td[data-v-fa5e93af]:first-child { text-align: left;
+}
+th small[data-v-fa5e93af] { display: block; font: 0.55rem 'IBM Plex Mono', monospace; color: var(--muted);
+}
+td[data-v-fa5e93af] { font: 0.78rem 'IBM Plex Mono', monospace; text-align: right; padding: 0.22rem 0.35rem; border-bottom: 1px solid var(--line); color: var(--navy);
+}
+td[data-v-fa5e93af]:first-child { font: 600 0.82rem 'Source Sans 3', sans-serif; white-space: nowrap;
+}
+tr[data-v-fa5e93af] { cursor: pointer;
+}
+tr:hover td[data-v-fa5e93af] { background: #f3f5f9;
+}
+tr.on td[data-v-fa5e93af] { background: var(--gelb-t, #feeebf);
+}
+.dot[data-v-fa5e93af] { display: inline-block; width: 0.6rem; height: 0.6rem; border-radius: 50%; margin-right: 0.35rem; vertical-align: 0.05em;
+}
+.how[data-v-fa5e93af] { display: flex; gap: 0.35rem; align-items: flex-start; font-size: 0.7rem; line-height: 1.35; color: var(--muted);
+}
+.how i[data-v-fa5e93af] { color: var(--teal-d); flex: none; margin-top: 0.1rem;
+}
+.how b[data-v-fa5e93af] { color: var(--navy);
+}
+.nx[data-v-fa5e93af] { display: flex; gap: 0.4rem; align-items: center; background: var(--teal-t); border-radius: 8px; padding: 0.3rem 0.6rem; font-size: 0.8rem; color: var(--navy);
+}
+.nx i[data-v-fa5e93af] { color: var(--teal-d);
+}
+
+.lesson[data-v-fa0984f6] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.45rem 0.9rem; font: 0.98rem 'Source Serif 4', serif; display: flex; gap: 0.6rem; align-items: center;
+}

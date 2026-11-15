@@ -1,0 +1,37 @@
+
+.ne[data-v-ec99ab60] { display: grid; grid-template-columns: 1.35fr 1fr; gap: 0.9rem;
+}
+.dv[data-v-ec99ab60] { display: flex; flex-direction: column; gap: 0.28rem;
+}
+.ln[data-v-ec99ab60] { display: flex; gap: 0.5rem; align-items: center; padding: 0.25rem 0.6rem; border-radius: 9px; border: 1px solid var(--line); background: var(--card); cursor: pointer; font-size: 0.82rem; color: var(--navy); transition: opacity 0.2s;
+}
+.ln i[data-v-ec99ab60] { font: 700 0.72rem 'IBM Plex Mono', monospace; font-style: normal; width: 1.3rem; height: 1.3rem; border-radius: 50%; display: grid; place-items: center; background: #e3ecf8; color: #004e9f; flex: none;
+}
+.ln > div[data-v-ec99ab60] { display: flex; flex-direction: column;
+}
+.ln b[data-v-ec99ab60] { font-size: 0.64rem; color: var(--muted); font-weight: 600;
+}
+.ln.on[data-v-ec99ab60] { background: var(--gelb); border-color: #f0b400;
+}
+.ln.on i[data-v-ec99ab60] { background: var(--navy); color: #fff;
+}
+.ln.fut[data-v-ec99ab60] { opacity: 0.18;
+}
+.bt[data-v-ec99ab60] { display: flex; gap: 0.3rem;
+}
+.bt button[data-v-ec99ab60] { font: 600 0.72rem 'Source Sans 3', sans-serif; padding: 0.22rem 0.7rem; border-radius: 99px; border: none; background: var(--navy); color: #fff; cursor: pointer;
+}
+.bt button.g[data-v-ec99ab60] { background: #c9d2dd; color: var(--navy);
+}
+.bt button[data-v-ec99ab60]:disabled { opacity: 0.4; cursor: default;
+}
+.lv[data-v-ec99ab60] { background: #f4f7fb; border: 1px solid var(--line); border-radius: 12px; padding: 0.6rem 0.8rem; display: flex; flex-direction: column; gap: 0.45rem;
+}
+.lv .k[data-v-ec99ab60] { font: 600 0.6rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: #004e9f;
+}
+.lv p[data-v-ec99ab60] { margin: 0; font-size: 0.8rem; color: var(--navy); line-height: 1.35;
+}
+.big[data-v-ec99ab60] { display: flex; flex-direction: column; gap: 0.35rem; font-size: 1.05rem; color: var(--navy);
+}
+.big small[data-v-ec99ab60] { font-size: 0.68rem; color: var(--muted); line-height: 1.35;
+}

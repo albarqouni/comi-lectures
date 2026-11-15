@@ -1,0 +1,44 @@
+
+.lf[data-v-61478ae2] { display: grid; grid-template-columns: 1.3fr 1fr; gap: 0.9rem;
+}
+.pl[data-v-61478ae2] { background: #fbfbfd; border: 1px solid var(--line); border-radius: 10px; padding: 0.2rem;
+}
+.pl svg[data-v-61478ae2] { width: 100%; height: 18.2rem; display: block;
+}
+.sd[data-v-61478ae2] { display: flex; flex-direction: column; gap: 0.4rem;
+}
+.bt[data-v-61478ae2] { display: flex; gap: 0.25rem; flex-wrap: wrap;
+}
+.bt button[data-v-61478ae2] { font: 600 0.64rem 'Source Sans 3', sans-serif; padding: 0.12rem 0.5rem; border-radius: 99px; border: 1.5px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.bt button.on[data-v-61478ae2] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+.bt button.go[data-v-61478ae2] { background: #c2255c; color: #fff; border-color: #c2255c;
+}
+label[data-v-61478ae2] { display: grid; grid-template-columns: 5.6rem 1fr 3.6rem; align-items: center; gap: 0.3rem; font-size: 0.7rem; color: var(--navy);
+}
+label b[data-v-61478ae2] { font: 600 0.68rem 'IBM Plex Mono', monospace; text-align: right;
+}
+input[data-v-61478ae2] { width: 100%; accent-color: #f0b400;
+}
+.eq[data-v-61478ae2] { background: var(--gelb); border-radius: 8px; padding: 0.2rem 0.6rem; font-size: 0.85rem; color: var(--navy); align-self: flex-start;
+}
+.rd[data-v-61478ae2] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.25rem;
+}
+.rd > div[data-v-61478ae2] { background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 0.2rem 0.45rem; display: flex; flex-direction: column;
+}
+.rd span[data-v-61478ae2] { font: 600 0.52rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.rd b[data-v-61478ae2] { font: 600 0.85rem 'IBM Plex Mono', monospace; color: var(--navy);
+}
+.rd b.ok[data-v-61478ae2] { color: #2d9d9b;
+}
+.qc[data-v-61478ae2] { display: flex; gap: 0.4rem; align-items: center; font-size: 0.66rem; color: var(--navy);
+}
+.qc i[data-v-61478ae2] { width: 2.4rem; height: 2.4rem; border-radius: 5px; background-repeat: no-repeat; flex: none;
+}
+small[data-v-61478ae2] { font-size: 0.6rem; color: var(--muted);
+}
+
+.lnf[data-v-7eb5abad] { position: absolute; left: 50%; transform: translateX(-50%); bottom: 2.3rem; font-size: 0.85rem; color: var(--navy); background: var(--gelb); border-radius: 8px; padding: 0.2rem 0.8rem;
+}

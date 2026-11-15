@@ -1,0 +1,9 @@
+
+.ps[data-v-538009d5] { display: grid; grid-template-columns: 1.4fr 1fr; gap: 0.8rem; align-items: start;
+}
+.ps .tk-c[data-v-538009d5] { font-size: 0.86rem;
+}
+.ps2[data-v-538009d5] { display: flex; gap: 0.5rem; align-items: baseline; border-top: 1px solid #eef1f5; padding-top: 0.3rem;
+}
+.ps2 b[data-v-538009d5] { font: 700 1.5rem 'Source Sans 3', sans-serif; color: #004e9f;
+}

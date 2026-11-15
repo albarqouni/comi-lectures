@@ -1,0 +1,15 @@
+
+.sb[data-v-cebf9149] { display: grid; grid-template-columns: 1.1fr 1fr; gap: 0.8rem;
+}
+.sb .tk-c[data-v-cebf9149] { font-size: 0.84rem; min-height: 15.5rem;
+}
+.sb .tk-bars > div[data-v-cebf9149] { grid-template-columns: 11rem 1fr 3.4rem; font-size: 0.8rem;
+}
+.ths[data-v-cebf9149] { display: flex; gap: 0.3rem; align-items: center; margin-top: 0.3rem;
+}
+.ths span[data-v-cebf9149] { font-size: 0.7rem; color: var(--muted);
+}
+.lesson[data-v-cebf9149] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.5rem 0.9rem; font: 0.95rem 'Source Serif 4', serif; display: flex; gap: 0.6rem; align-items: center;
+}
+.lesson b[data-v-cebf9149] { color: var(--gelb);
+}

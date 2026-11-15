@@ -1,0 +1,53 @@
+
+.tl[data-v-30cde428] { display: flex; flex-direction: column; gap: 0.5rem;
+}
+.eras[data-v-30cde428] { display: flex; gap: 1rem; font-size: 0.66rem; color: var(--muted);
+}
+.eras i[data-v-30cde428] { display: inline-block; width: 0.7rem; height: 0.7rem; border-radius: 2px; margin-right: 0.3rem; vertical-align: -0.1rem;
+}
+.track[data-v-30cde428] { position: relative; height: 13.5rem; margin: 0 2.4rem;
+}
+.axis[data-v-30cde428] { position: absolute; left: 0; right: 0; top: 50%; height: 3px; background: linear-gradient(90deg, #9aa5b4 0 33%, #2d9d9b 33% 59%, #004e9f 59% 79%, #e30617 79% 100%); border-radius: 2px;
+}
+.dot[data-v-30cde428] { position: absolute; top: 50%; transform: translate(-50%, -50%); background: none; border: none; padding: 0; cursor: pointer; width: 0; height: 0;
+}
+.dot i[data-v-30cde428] { position: absolute; left: -0.45rem; top: -0.45rem; width: 0.9rem; height: 0.9rem; border-radius: 50%; background: #fff; border: 3px solid var(--c); transition: transform 0.2s;
+}
+.dot.on i[data-v-30cde428] { background: var(--c); transform: scale(1.35);
+}
+.dot .yr[data-v-30cde428], .dot .nm[data-v-30cde428] { position: absolute; left: 50%; transform: translateX(-50%); white-space: nowrap;
+}
+.dot .yr[data-v-30cde428] { font: 700 0.66rem 'IBM Plex Mono', monospace; color: var(--c);
+}
+.dot .nm[data-v-30cde428] { font: 0.6rem 'Source Sans 3', sans-serif; color: var(--navy); white-space: normal; text-align: center; line-height: 1.15; width: 5.6rem;
+}
+.dot.r0 .yr[data-v-30cde428] { bottom: 0.9rem;
+}
+.dot.r0 .nm[data-v-30cde428] { bottom: 1.75rem;
+}
+.dot.r1 .yr[data-v-30cde428] { top: 0.9rem;
+}
+.dot.r1 .nm[data-v-30cde428] { top: 1.75rem;
+}
+.dot.r2 .yr[data-v-30cde428] { bottom: 3.6rem;
+}
+.dot.r2 .nm[data-v-30cde428] { bottom: 4.45rem;
+}
+.dot.r3 .yr[data-v-30cde428] { top: 3.6rem;
+}
+.dot.r3 .nm[data-v-30cde428] { top: 4.45rem;
+}
+.dot.r2[data-v-30cde428]::before, .dot.r3[data-v-30cde428]::before { content: ''; position: absolute; left: -0.5px; width: 1px; height: 3.1rem; background: #c9d3de;
+}
+.dot.r2[data-v-30cde428]::before { bottom: 0.5rem;
+}
+.dot.r3[data-v-30cde428]::before { top: 0.5rem;
+}
+.dot.on .nm[data-v-30cde428] { font-weight: 700;
+}
+.dt[data-v-30cde428] { background: var(--card); border: 1px solid var(--line); border-left: 5px solid var(--c); border-radius: 10px; padding: 0.5rem 0.85rem; font-size: 0.86rem; line-height: 1.45; min-height: 4.2rem;
+}
+.dt b[data-v-30cde428] { color: var(--navy); margin-right: 0.3rem;
+}
+.src[data-v-30cde428] { font: italic 0.66rem 'Source Serif 4', serif; color: var(--muted); margin-top: 0.2rem;
+}

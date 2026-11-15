@@ -1,0 +1,70 @@
+
+.sc[data-v-f83ade9d] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.9rem;
+}
+.k[data-v-f83ade9d] { font: 600 0.55rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: #004e9f;
+}
+.lt[data-v-f83ade9d], .rt[data-v-f83ade9d] { display: flex; flex-direction: column; gap: 0.35rem;
+}
+.sp[data-v-f83ade9d] { position: relative; height: 10rem; display: grid; grid-template-columns: repeat(5, 1fr); gap: 0.4rem; background: #fbfbfd; border: 1px solid var(--line); border-radius: 10px; padding: 0.4rem 0.5rem 0.2rem;
+}
+.sp svg[data-v-f83ade9d] { position: absolute; inset: 0.4rem 0.5rem 1.2rem; width: calc(100% - 1rem); height: calc(100% - 1.6rem); pointer-events: none;
+}
+.col[data-v-f83ade9d] { display: flex; flex-direction: column; justify-content: flex-end; align-items: center; cursor: pointer; gap: 0.1rem;
+}
+.col i[data-v-f83ade9d] { width: 70%; background: #c9d2dd; border-radius: 4px 4px 0 0;
+}
+.col.kept i[data-v-f83ade9d] { background: #004e9f;
+}
+.col b[data-v-f83ade9d] { font: 600 0.58rem 'IBM Plex Mono', monospace; color: var(--navy);
+}
+.col span[data-v-f83ade9d] { font: 600 0.56rem 'IBM Plex Mono', monospace; color: var(--muted);
+}
+label[data-v-f83ade9d] { display: grid; grid-template-columns: 3.4rem 1fr 1.4rem; align-items: center; gap: 0.3rem; font-size: 0.74rem; color: var(--navy);
+}
+label b[data-v-f83ade9d] { font: 700 0.8rem 'IBM Plex Mono', monospace; text-align: right;
+}
+label input[data-v-f83ade9d] { width: 100%; accent-color: #f0b400;
+}
+.rd[data-v-f83ade9d] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.25rem;
+}
+.rd > div[data-v-f83ade9d] { background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 0.2rem 0.4rem; display: flex; flex-direction: column;
+}
+.rd span[data-v-f83ade9d] { font: 600 0.5rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.rd b[data-v-f83ade9d] { font: 600 0.8rem 'IBM Plex Mono', monospace; color: var(--navy);
+}
+.rd .h[data-v-f83ade9d] { background: var(--gelb); border-color: #f0b400;
+}
+.cl[data-v-f83ade9d] { display: flex; align-items: center; gap: 0.4rem; font-size: 0.72rem; color: var(--navy);
+}
+.cl i[data-v-f83ade9d] { width: 2.6rem; height: 2.6rem; border-radius: 6px; background-repeat: no-repeat; flex: none;
+}
+.cl button[data-v-f83ade9d] { font: 700 0.8rem 'Source Sans 3', sans-serif; border: 1.5px solid var(--line); background: #fff; border-radius: 99px; width: 1.6rem; height: 1.6rem; cursor: pointer; color: var(--navy);
+}
+.fr[data-v-f83ade9d] { display: grid; grid-template-columns: 5.4rem 1fr 2.6rem 2.6rem; gap: 0.3rem; align-items: center; font-size: 0.68rem; color: var(--navy);
+}
+.fr b[data-v-f83ade9d] { font: 600 0.64rem 'IBM Plex Mono', monospace; text-align: right;
+}
+.fr em[data-v-f83ade9d] { font: 600 0.64rem 'IBM Plex Mono', monospace; color: #c2255c; font-style: normal; text-align: right;
+}
+.ax[data-v-f83ade9d] { position: relative; height: 1rem; background: linear-gradient(90deg, transparent calc(50% - 0.5px), #c9d2dd calc(50% - 0.5px), #c9d2dd calc(50% + 0.5px), transparent calc(50% + 0.5px)), #f4f7fb; border-radius: 4px;
+}
+.ax i[data-v-f83ade9d] { position: absolute; top: 50%; width: 0.7rem; height: 0.7rem; border-radius: 50%; transform: translate(-50%, -50%); transition: left 0.3s;
+}
+.ax .o[data-v-f83ade9d] { background: #0b2a4a;
+}
+.ax .re[data-v-f83ade9d] { background: #c2255c; width: 0.5rem; height: 0.5rem;
+}
+.lg[data-v-f83ade9d] { display: flex; gap: 0.8rem; font-size: 0.6rem; color: var(--muted);
+}
+.lg i[data-v-f83ade9d] { display: inline-block; width: 0.5rem; height: 0.5rem; border-radius: 50%; margin-right: 0.2rem;
+}
+.lg .o[data-v-f83ade9d] { background: #0b2a4a;
+}
+.lg .re[data-v-f83ade9d] { background: #c2255c;
+}
+small[data-v-f83ade9d] { font-size: 0.6rem; color: var(--muted); line-height: 1.35;
+}
+
+.lnf[data-v-a7ea56ba] { position: absolute; left: 50%; transform: translateX(-50%); bottom: 2.3rem; font-size: 0.85rem; color: var(--navy); background: var(--gelb); border-radius: 8px; padding: 0.2rem 0.8rem;
+}

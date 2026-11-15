@@ -1,0 +1,43 @@
+
+.pxy[data-v-882e84c6] { display: grid; grid-template-columns: 17rem 1fr; gap: 1rem; align-items: start;
+}
+.ctl[data-v-882e84c6] { display: flex; flex-direction: column; gap: 0.6rem; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.7rem 0.85rem;
+}
+.tabs[data-v-882e84c6] { display: flex; flex-direction: column; gap: 0.25rem;
+}
+.tabs button[data-v-882e84c6] { font: 600 0.72rem 'Source Sans 3', sans-serif; padding: 0.25rem 0.7rem; border-radius: 99px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer; text-align: left;
+}
+.tabs button.on[data-v-882e84c6] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+label[data-v-882e84c6] { display: flex; flex-direction: column; gap: 0.1rem; font-size: 0.78rem;
+}
+label b[data-v-882e84c6] { color: var(--rubin);
+}
+label em[data-v-882e84c6] { font-size: 0.66rem; color: var(--muted);
+}
+input[type=range][data-v-882e84c6] { width: 100%; accent-color: var(--navy);
+}
+.nt[data-v-882e84c6] { font-size: 0.74rem; line-height: 1.45; background: var(--teal-t); border-radius: 8px; padding: 0.4rem 0.6rem; color: var(--navy);
+}
+.out[data-v-882e84c6] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.7rem;
+}
+.m[data-v-882e84c6] { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.7rem 0.9rem; display: flex; flex-direction: column; gap: 0.35rem;
+}
+.m span[data-v-882e84c6] { font: 600 0.58rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.m b[data-v-882e84c6] { font: 700 2.4rem/1 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.m b.bad[data-v-882e84c6] { color: var(--rubin);
+}
+.m em[data-v-882e84c6] { font-size: 0.76rem; color: var(--muted); font-style: normal;
+}
+.bar[data-v-882e84c6] { position: relative; height: 0.8rem; background: #e6eaf0; border-radius: 99px; overflow: visible;
+}
+.bar i[data-v-882e84c6] { display: block; height: 100%; background: var(--navy); border-radius: 99px; transition: width 0.3s;
+}
+.bar u[data-v-882e84c6] { position: absolute; top: -0.25rem; bottom: -0.25rem; border-left: 2px dashed var(--gelb-d, #b88a00);
+}
+.two[data-v-882e84c6] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.5rem;
+}
+.two small[data-v-882e84c6] { display: block; font-size: 0.68rem; color: var(--muted);
+}

@@ -1,0 +1,36 @@
+
+.afb[data-v-883e358f] { display: grid; grid-template-columns: 8.6rem 1fr; gap: 0.7rem; align-items: stretch;
+}
+.afb-cell[data-v-883e358f] { display: flex; flex-direction: column; align-items: center; gap: 0.2rem; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.4rem 0.5rem; text-align: center;
+}
+.afb-cell > b[data-v-883e358f] { font: 700 0.72rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.afb-cell > span[data-v-883e358f] { font-size: 0.6rem; line-height: 1.3; color: var(--muted);
+}
+.afb-cell em[data-v-883e358f] { font-style: normal; color: var(--navy); font-weight: 700;
+}
+.afb-bt[data-v-883e358f] { display: flex; gap: 0.2rem; margin-top: 0.15rem;
+}
+.afb-bt button[data-v-883e358f] { font: 600 0.62rem 'Source Sans 3', sans-serif; border: 1.5px solid var(--navy); background: #fff; color: var(--navy); border-radius: 7px; padding: 0.15rem 0.35rem; cursor: pointer; display: flex; align-items: center; gap: 0.15rem;
+}
+.afb-bt button.nx[data-v-883e358f] { background: var(--navy); color: #fff;
+}
+.afb-bt button[data-v-883e358f]:disabled { opacity: 0.4; cursor: default;
+}
+.afb-steps[data-v-883e358f] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.35rem;
+}
+.afb-s[data-v-883e358f] { border: 1px solid var(--line); border-top: 4px solid var(--teal); border-radius: 9px; padding: 0.25rem 0.45rem; background: var(--card); display: flex; flex-direction: column; gap: 0.1rem; opacity: 0.18; transition: opacity 0.25s; font-size: 0.78rem; color: var(--navy);
+}
+.afb-s.bw[data-v-883e358f] { border-top-color: var(--rubin);
+}
+.afb-s.on[data-v-883e358f] { opacity: 1;
+}
+.afb-s.now[data-v-883e358f] { box-shadow: 0 0 0 2px var(--gelb);
+}
+.afb-s > span[data-v-883e358f] { font: 600 0.5rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+
+.trk[data-v-328885a8] { position: absolute; top: 5.4rem; right: 2.5rem; font: 600 0.56rem 'IBM Plex Mono', monospace; letter-spacing: 0.1em; text-transform: uppercase; padding: 0.15rem 0.55rem; border-radius: 99px; background: #e3ecf8; color: #004e9f;
+}
+.bp[data-v-328885a8] { font: 0.98rem 'Source Serif 4', serif; color: var(--navy); background: var(--teal-t); border-radius: 10px; padding: 0.5rem 0.8rem; margin-bottom: 0.4rem;
+}

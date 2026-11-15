@@ -1,0 +1,19 @@
+
+.hc[data-v-536906cc] { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.5rem; counter-reset: s;
+}
+.hc > div[data-v-536906cc] { position: relative; background: var(--card); border: 1px solid var(--line); border-top: 4px solid var(--teal); border-radius: 10px; padding: 0.5rem 0.7rem; display: flex; flex-direction: column; gap: 0.2rem; min-height: 6.4rem;
+}
+.hc > div[data-v-536906cc]:nth-child(n+5) { border-top-color: var(--navy);
+}
+.hc > div[data-v-536906cc]:last-child { background: var(--navy);
+}
+.hc > div:last-child b[data-v-536906cc], .hc > div:last-child span[data-v-536906cc] { color: #fff;
+}
+.hc > div:last-child i[data-v-536906cc] { background: var(--gelb); color: var(--navy);
+}
+.hc i[data-v-536906cc] { align-self: flex-start; font-style: normal; font: 700 0.6rem 'IBM Plex Mono', monospace; background: var(--teal-t); color: var(--teal-d); border-radius: 99px; padding: 0.05rem 0.45rem;
+}
+.hc b[data-v-536906cc] { font: 700 1rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.hc span[data-v-536906cc] { font-size: 0.8rem; line-height: 1.38;
+}

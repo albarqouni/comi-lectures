@@ -1,0 +1,45 @@
+
+.ci[data-v-2b807176] { display: grid; grid-template-columns: 1.35fr 1fr; gap: 0.9rem;
+}
+.st[data-v-2b807176] { padding: 0.3rem 0.4rem; background: #fbfbfd; border: 1px solid var(--line); border-radius: 10px; height: 17rem;
+}
+.in[data-v-2b807176] { position: relative; height: 100%; display: flex; flex-direction: column; justify-content: space-between;
+}
+.rw[data-v-2b807176] { position: relative; height: 0.5rem;
+}
+.bar[data-v-2b807176] { position: absolute; top: 0.18rem; height: 0.16rem; background: #004e9f; border-radius: 2px;
+}
+.bar.miss[data-v-2b807176] { background: #c2255c;
+}
+.dot[data-v-2b807176] { position: absolute; top: 0.05rem; width: 0.42rem; height: 0.42rem; margin-left: -0.21rem; border-radius: 50%; background: #004e9f;
+}
+.dot.miss[data-v-2b807176] { background: #c2255c;
+}
+.mu[data-v-2b807176] { position: absolute; top: 0; bottom: 0; width: 2px; margin-left: -1px; background: #f0b400;
+}
+.ax[data-v-2b807176] { display: flex; justify-content: space-between; font: 0.6rem 'IBM Plex Mono', monospace; color: var(--muted); margin-top: 0.2rem;
+}
+.rt[data-v-2b807176] { background: #f4f7fb; border: 1px solid var(--line); border-radius: 12px; padding: 0.55rem 0.8rem; display: flex; flex-direction: column; gap: 0.35rem; color: var(--navy); font-size: 0.85rem;
+}
+.pk[data-v-2b807176], .nr[data-v-2b807176] { display: flex; flex-wrap: wrap; gap: 0.2rem; align-items: center;
+}
+.pk button[data-v-2b807176], .nr button[data-v-2b807176] { font: 600 0.62rem 'Source Sans 3', sans-serif; padding: 0.12rem 0.5rem; border-radius: 99px; border: 1px solid #c9d2dd; background: #fff; color: var(--navy); cursor: pointer;
+}
+.pk button.on[data-v-2b807176], .nr button.on[data-v-2b807176] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+.nr span[data-v-2b807176] { font-size: 0.62rem; color: var(--muted); width: 5.4rem;
+}
+.go[data-v-2b807176] { align-self: flex-start; font: 600 0.72rem 'Source Sans 3', sans-serif; padding: 0.2rem 0.8rem; border-radius: 99px; border: none; background: #c2255c; color: #fff; cursor: pointer;
+}
+.nm[data-v-2b807176] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.3rem;
+}
+.nm > div[data-v-2b807176] { background: #fff; border-radius: 8px; padding: 0.2rem 0.45rem; display: flex; flex-direction: column;
+}
+.nm span[data-v-2b807176] { font-size: 0.54rem; color: var(--muted); text-transform: uppercase; font-weight: 600;
+}
+.nm b[data-v-2b807176] { font: 700 1.15rem 'Source Sans 3', sans-serif; color: #004e9f;
+}
+.nm small[data-v-2b807176] { font-size: 0.56rem; color: var(--muted);
+}
+.rt p[data-v-2b807176] { margin: 0; font-size: 0.68rem; line-height: 1.35;
+}

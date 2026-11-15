@@ -1,0 +1,44 @@
+
+.ev[data-v-32894fc6] { display: grid; grid-template-columns: 1fr 13rem; gap: 1rem; align-items: start;
+}
+.ch[data-v-32894fc6] { display: flex; flex-direction: column; gap: 0.35rem;
+}
+.tg[data-v-32894fc6] { display: flex; gap: 0.25rem; align-items: center;
+}
+.tg button[data-v-32894fc6] { font: 600 0.64rem 'Source Sans 3', sans-serif; padding: 0.18rem 0.7rem; border-radius: 99px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.tg button.on[data-v-32894fc6] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+.src[data-v-32894fc6] { margin-left: auto; font: 0.52rem 'IBM Plex Mono', monospace; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em;
+}
+.sv[data-v-32894fc6] { width: 100%; height: auto; display: block;
+}
+.tk[data-v-32894fc6] { font: 9.5px 'IBM Plex Mono', monospace; fill: #6b7380;
+}
+.lg[data-v-32894fc6] { display: flex; flex-wrap: wrap; gap: 0.25rem;
+}
+.lg button[data-v-32894fc6] { display: flex; align-items: center; gap: 0.25rem; font: 0.62rem 'Source Sans 3', sans-serif; border: 1px solid var(--line); background: #fff; border-radius: 99px; padding: 0.08rem 0.5rem; cursor: pointer; color: var(--navy);
+}
+.lg button.off[data-v-32894fc6] { opacity: 0.35;
+}
+.lg i[data-v-32894fc6] { width: 0.6rem; height: 0.6rem; border-radius: 2px; display: inline-block;
+}
+.lg b[data-v-32894fc6] { color: var(--muted); font-weight: 600;
+}
+.side[data-v-32894fc6] { display: flex; flex-direction: column; gap: 0.5rem;
+}
+.big[data-v-32894fc6] { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.5rem 0.75rem; display: flex; flex-direction: column;
+}
+.big b[data-v-32894fc6] { font: 700 1.6rem/1.05 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.big span[data-v-32894fc6] { font-size: 0.68rem; line-height: 1.35;
+}
+.big.red[data-v-32894fc6] { background: var(--rubin-t); border-color: transparent;
+}
+.big.red b[data-v-32894fc6] { color: var(--rubin);
+}
+
+.lesson2[data-v-e7cbde58] { margin-top: 0.5rem; background: var(--navy); color: #fff; border-radius: 10px; padding: 0.45rem 0.9rem; font: 0.95rem 'Source Serif 4', serif; display: flex; gap: 0.6rem; align-items: center;
+}
+.lesson2 b[data-v-e7cbde58] { color: var(--gelb);
+}

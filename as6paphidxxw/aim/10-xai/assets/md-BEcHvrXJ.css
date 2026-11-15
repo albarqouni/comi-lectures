@@ -1,0 +1,45 @@
+
+.ba[data-v-1c736226] { display: grid; grid-template-columns: 1fr 15rem; gap: 1rem; align-items: start;
+}
+.gal[data-v-1c736226] { display: flex; flex-direction: column; gap: 0.45rem;
+}
+.rh[data-v-1c736226] { font: 600 0.56rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted); margin-bottom: 0.15rem;
+}
+.tiles[data-v-1c736226] { display: grid; grid-template-columns: repeat(6, 1fr); gap: 0.25rem;
+}
+.t[data-v-1c736226] { position: relative; width: fit-content;
+}
+.bd[data-v-1c736226] { position: absolute; top: 0; height: 11%; width: 31%; border: 1.5px solid var(--gelb); background: rgba(244, 196, 0, 0.18);
+}
+.bd.l[data-v-1c736226] { left: 0; border-radius: 6px 0 0 0;
+}
+.bd.r[data-v-1c736226] { right: 0; border-radius: 0 6px 0 0;
+}
+.lb[data-v-1c736226] { position: absolute; bottom: 0.2rem; right: 0.2rem; font: 700 0.6rem 'Source Sans 3', sans-serif; background: var(--teal); color: #fff; border-radius: 4px; padding: 0 0.25rem;
+}
+.lb.p[data-v-1c736226] { background: var(--rubin);
+}
+.side[data-v-1c736226] { display: flex; flex-direction: column; gap: 0.55rem;
+}
+.tg[data-v-1c736226] { display: flex; flex-direction: column; gap: 0.2rem; font-size: 0.76rem;
+}
+.tg label[data-v-1c736226] { display: flex; gap: 0.35rem; align-items: center; cursor: pointer;
+}
+.st[data-v-1c736226] { display: flex; flex-direction: column; gap: 0.45rem; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.6rem 0.75rem;
+}
+.st span[data-v-1c736226] { font-size: 0.66rem; color: var(--muted);
+}
+.bar[data-v-1c736226] { height: 0.6rem; background: #e6eaf0; border-radius: 99px; overflow: hidden; margin: 0.15rem 0;
+}
+.bar i[data-v-1c736226] { display: block; height: 100%; background: var(--rubin);
+}
+.st b[data-v-1c736226] { font: 700 1rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.auc[data-v-1c736226] { background: var(--rubin-t); border-radius: 12px; padding: 0.55rem 0.75rem; display: flex; flex-direction: column;
+}
+.auc b[data-v-1c736226] { font: 700 1.8rem/1 'Source Sans 3', sans-serif; color: var(--rubin);
+}
+.auc span[data-v-1c736226] { font-size: 0.74rem;
+}
+.nt[data-v-1c736226] { font-size: 0.68rem; line-height: 1.4; color: var(--muted);
+}

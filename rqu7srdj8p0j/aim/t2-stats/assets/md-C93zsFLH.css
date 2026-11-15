@@ -1,0 +1,24 @@
+
+.tile[data-v-8c50eed5] { margin: 0; display: flex; flex-direction: column; gap: 0.15rem; align-items: center;
+}
+.im[data-v-8c50eed5] { border-radius: 6px; background-repeat: no-repeat; background-color: #000; flex: none;
+}
+figcaption[data-v-8c50eed5] { font: 600 0.58rem 'Source Sans 3', sans-serif; color: var(--muted); text-align: center; line-height: 1.2;
+}
+
+.rv[data-v-ea04d10d] { display: grid; grid-template-columns: auto auto 1fr; gap: 0.9rem; align-items: center;
+}
+.rv .tl[data-v-ea04d10d] { display: grid; grid-template-columns: repeat(2, auto); gap: 0.35rem;
+}
+.rv .ar[data-v-ea04d10d] { display: flex; flex-direction: column; align-items: center; gap: 0.2rem; color: var(--navy); font-size: 1rem;
+}
+.rv .ar i[data-v-ea04d10d] { font-size: 1.8rem; color: var(--teal-d);
+}
+.rv .tb[data-v-ea04d10d] { display: flex; flex-direction: column; gap: 0.2rem; font-size: 0.8rem; color: var(--navy);
+}
+.rv .tb > div[data-v-ea04d10d] { display: grid; grid-template-columns: 1.3fr repeat(5, 1fr); gap: 0.3rem; background: #f4f7fb; border-radius: 6px; padding: 0.25rem 0.45rem; font-family: 'IBM Plex Mono', monospace;
+}
+.rv .tb .h[data-v-ea04d10d] { background: var(--navy); color: #fff; font: 600 0.62rem 'Source Sans 3', sans-serif; text-transform: uppercase;
+}
+.rv .tb .m[data-v-ea04d10d] { background: var(--gelb); grid-template-columns: 1.3fr 1fr 4fr; font-family: 'Source Sans 3', sans-serif;
+}

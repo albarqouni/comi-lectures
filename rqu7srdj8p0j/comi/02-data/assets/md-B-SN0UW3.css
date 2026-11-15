@@ -1,0 +1,17 @@
+
+.chl[data-v-a32e7cd8] { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.7rem;
+}
+.chl .c[data-v-a32e7cd8] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid var(--rubin); border-radius: 12px; padding: 0.55rem 0.75rem; display: flex; flex-direction: column; gap: 0.35rem; font-size: 0.82rem; line-height: 1.42;
+}
+.chl .k[data-v-a32e7cd8] { display: flex; gap: 0.35rem; align-items: center; font: 700 1rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.chl .k i[data-v-a32e7cd8] { color: var(--rubin); font-size: 1.3rem;
+}
+.chl b[data-v-a32e7cd8] { color: var(--rubin-d);
+}
+.chl small[data-v-a32e7cd8] { font-size: 0.66rem; color: var(--muted); margin-top: auto;
+}
+.chl .tk-bars[data-v-a32e7cd8] { font-size: 0.7rem;
+}
+.lesson[data-v-a32e7cd8] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.5rem 0.9rem; font: italic 1rem 'Source Serif 4', serif;
+}

@@ -1,0 +1,25 @@
+
+.l9d[data-v-7e54a451] { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.55rem;
+}
+.l9d .pn[data-v-7e54a451] { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.5rem 0.65rem; display: flex; flex-direction: column; gap: 0.35rem;
+}
+.l9d .pn.wide[data-v-7e54a451] { grid-column: 1 / -1; flex-direction: row; align-items: center; gap: 0.8rem;
+}
+.l9d .hd[data-v-7e54a451] { display: flex; gap: 0.3rem; align-items: center; font: 600 0.56rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--navy);
+}
+.l9d .hd i[data-v-7e54a451] { font-size: 1.05rem; color: var(--rubin);
+}
+.l9d .tk-bars > div[data-v-7e54a451] { grid-template-columns: 1fr; gap: 0.08rem; font-size: 0.74rem;
+}
+.l9d .tk-bars i[data-v-7e54a451] { height: 0.95rem;
+}
+.l9d .tk-bars b[data-v-7e54a451] { text-align: left; font-size: 0.92rem;
+}
+.l9d small[data-v-7e54a451] { font-size: 0.6rem; color: var(--muted); margin-top: auto;
+}
+.l9d .lg[data-v-7e54a451] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.5rem; flex: 1;
+}
+.l9d .lg div[data-v-7e54a451] { display: flex; flex-direction: column; border-left: 3px solid var(--rubin); padding-left: 0.5rem; font-size: 0.78rem;
+}
+.l9d .lg b[data-v-7e54a451] { color: var(--navy); font-size: 0.82rem;
+}

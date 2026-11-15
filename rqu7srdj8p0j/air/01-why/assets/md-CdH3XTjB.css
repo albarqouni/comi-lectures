@@ -1,0 +1,31 @@
+
+.m4fa[data-v-00314966] { display: grid; grid-template-columns: 1.15fr 1fr 1fr; gap: 0.7rem;
+}
+.m4fa .tk-c[data-v-00314966] { flex-direction: column; align-items: flex-start; gap: 0.3rem;
+}
+.m4fa small[data-v-00314966] { font-size: 0.74rem; line-height: 1.4;
+}
+.m4fa .sh[data-v-00314966] { width: 100%;
+}
+.m4fa .bar[data-v-00314966] { position: relative; height: 1rem; border-radius: 6px; background: linear-gradient(90deg, #e8eef6, #f7c6c9);
+}
+.m4fa .bar .pk[data-v-00314966] { position: absolute; top: 0; bottom: 0; background: var(--rubin); opacity: 0.55; border-radius: 0 6px 6px 0;
+}
+.m4fa .bar .mk[data-v-00314966] { position: absolute; top: -0.2rem; bottom: -0.2rem; width: 3px; background: var(--navy);
+}
+.m4fa .ax[data-v-00314966] { display: flex; justify-content: space-between; font: 0.55rem 'IBM Plex Mono', monospace; color: var(--muted);
+}
+.m4go[data-v-00314966] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.3rem; width: 100%;
+}
+.m4go figure[data-v-00314966] { margin: 0; display: flex; flex-direction: column; gap: 0.1rem;
+}
+.m4go img[data-v-00314966] { width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 6px; background: #000;
+}
+.m4go figcaption[data-v-00314966] { font: 0.5rem 'IBM Plex Mono', monospace; color: var(--muted);
+}
+.m4fa .tk-note[data-v-00314966] { font-size: 0.7rem;
+}
+.lesson[data-v-00314966] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.5rem 0.9rem; font: 0.95rem 'Source Serif 4', serif; display: flex; gap: 0.6rem; align-items: center;
+}
+.lesson b[data-v-00314966] { color: var(--gelb);
+}

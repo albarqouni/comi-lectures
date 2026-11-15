@@ -1,0 +1,41 @@
+
+.mt[data-v-4a72849a] { display: grid; grid-template-columns: 14rem 1fr; gap: 1rem; align-items: start;
+}
+.lf[data-v-4a72849a] { display: flex; flex-direction: column; gap: 0.3rem;
+}
+.ct[data-v-4a72849a] { width: 14rem; border-radius: 10px; background: #000;
+}
+.lg[data-v-4a72849a] { display: flex; gap: 0.6rem; font-size: 0.62rem; color: var(--muted);
+}
+.lg i[data-v-4a72849a] { display: inline-block; width: 0.65rem; height: 0.65rem; border-radius: 2px; margin-right: 0.2rem; vertical-align: -1px;
+}
+.tp[data-v-4a72849a] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.2rem;
+}
+.tp button[data-v-4a72849a], .tau button[data-v-4a72849a] { font: 600 0.68rem 'Source Sans 3', sans-serif; padding: 0.15rem 0.4rem; border-radius: 99px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.tp button.on[data-v-4a72849a], .tau button.on[data-v-4a72849a] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+.sl[data-v-4a72849a] { display: flex; flex-direction: column; font: 600 0.68rem 'IBM Plex Mono', monospace; color: var(--navy);
+}
+.sl input[data-v-4a72849a] { accent-color: var(--navy);
+}
+.ch[data-v-4a72849a] { width: 100%; height: auto; background: var(--card); border: 1px solid var(--line); border-radius: 10px;
+}
+.tau[data-v-4a72849a] { display: flex; gap: 0.3rem; align-items: center; font-size: 0.74rem; margin: 0.3rem 0;
+}
+.rd[data-v-4a72849a] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.35rem;
+}
+.rd div[data-v-4a72849a] { background: #e8edf5; border-radius: 8px; padding: 0.25rem 0.55rem; display: flex; flex-direction: column;
+}
+.rd span[data-v-4a72849a] { font-size: 0.64rem; color: var(--navy);
+}
+.rd b[data-v-4a72849a] { font: 700 1.3rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.rd .r[data-v-4a72849a] { background: var(--rubin-t);
+}
+.rd .r b[data-v-4a72849a] { color: var(--rubin-d);
+}
+.rd .t[data-v-4a72849a] { background: var(--teal-t);
+}
+.rd .t b[data-v-4a72849a] { color: var(--teal-d);
+}

@@ -1,0 +1,11 @@
+
+.gr[data-v-6acab7cb] { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.7rem;
+}
+.gr .st[data-v-6acab7cb] { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 0.8rem 0.9rem; display: flex; flex-direction: column; gap: 0.3rem;
+}
+.gr .st b[data-v-6acab7cb] { font: 700 1.9rem/1 'Source Sans 3', sans-serif; color: var(--rubin);
+}
+.gr .st.grey b[data-v-6acab7cb] { color: var(--muted);
+}
+.gr .st span[data-v-6acab7cb] { font-size: 0.86rem; line-height: 1.4;
+}

@@ -1,0 +1,7 @@
+
+.rg[data-v-f9441be3] { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;
+}
+.rg .cd[data-v-f9441be3] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid #004e9f; border-radius: 14px; padding: 0.8rem 1rem; font-size: 0.95rem; line-height: 1.5;
+}
+.rg .k[data-v-f9441be3] { font: 700 1.05rem 'Source Sans 3', sans-serif; color: var(--navy); margin-bottom: 0.3rem;
+}

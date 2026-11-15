@@ -1,0 +1,27 @@
+
+.rg[data-v-cda2a174] { display: grid; grid-template-columns: 26rem 16rem; justify-content: center; gap: 1rem; align-items: start;
+}
+canvas[data-v-cda2a174] { width: 100%; height: auto; border-radius: 10px; display: block; background: #000;
+}
+canvas.grow[data-v-cda2a174] { cursor: crosshair;
+}
+.ctl[data-v-cda2a174] { display: flex; flex-direction: column; gap: 0.55rem; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.7rem 0.85rem;
+}
+.tabs[data-v-cda2a174] { display: flex; gap: 0.25rem;
+}
+.tabs button[data-v-cda2a174] { font: 600 0.66rem 'Source Sans 3', sans-serif; padding: 0.2rem 0.6rem; border-radius: 99px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.tabs button.on[data-v-cda2a174] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+label[data-v-cda2a174] { display: flex; flex-direction: column; gap: 0.1rem; font-size: 0.74rem;
+}
+label b[data-v-cda2a174] { color: var(--navy);
+}
+input[type=range][data-v-cda2a174] { width: 100%; accent-color: var(--navy);
+}
+.tip[data-v-cda2a174] { font-size: 0.72rem; line-height: 1.4; background: var(--teal-t); border-radius: 8px; padding: 0.35rem 0.55rem; color: var(--navy);
+}
+.sd[data-v-cda2a174], .ar[data-v-cda2a174] { font-size: 0.72rem; color: var(--muted);
+}
+.sd b[data-v-cda2a174], .ar b[data-v-cda2a174] { font: 700 1.1rem 'Source Sans 3', sans-serif; color: var(--rubin);
+}

@@ -1,0 +1,17 @@
+
+.lk3[data-v-07dfcc8e] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.7rem;
+}
+.lk3 .tk-c[data-v-07dfcc8e] { font-size: 0.82rem; display: flex; flex-direction: column; gap: 0.35rem;
+}
+.lk3 b[data-v-07dfcc8e] { color: var(--navy);
+}
+.lk3 .mini[data-v-07dfcc8e] { width: 100%; height: 4.6rem; background: #fff; border-radius: 8px;
+}
+.big2[data-v-07dfcc8e] { display: flex; flex-direction: column; background: #fff; border-radius: 8px; padding: 0.3rem 0.5rem;
+}
+.big2 b[data-v-07dfcc8e] { font: 700 1.8rem/1 'Source Sans 3', sans-serif; color: var(--rubin) !important;
+}
+.big2 span[data-v-07dfcc8e] { font-size: 0.7rem; color: var(--muted);
+}
+.lesson b[data-v-07dfcc8e] { color: var(--gelb);
+}

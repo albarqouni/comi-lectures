@@ -1,0 +1,17 @@
+
+.l8ch[data-v-9ee160e7] { display: flex; flex-direction: column; gap: 0.25rem;
+}
+.l8ch > div[data-v-9ee160e7] { display: grid; grid-template-columns: 1.3fr 1.2fr 1.1fr 1.3fr; gap: 0.6rem; align-items: center; background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 0.24rem 0.7rem; font-size: 0.78rem;
+}
+.l8ch > .h[data-v-9ee160e7] { background: var(--navy); border-color: var(--navy);
+}
+.l8ch .h span[data-v-9ee160e7] { font: 600 0.58rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: #fff;
+}
+.l8ch b[data-v-9ee160e7] { color: var(--navy);
+}
+.l8ch em[data-v-9ee160e7] { font-style: normal; color: var(--teal-d); font-weight: 600;
+}
+.l8ch i[data-v-9ee160e7] { font-style: normal; color: var(--rubin-d);
+}
+.lesson[data-v-9ee160e7] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.5rem 0.9rem; font: italic 0.98rem 'Source Serif 4', serif;
+}

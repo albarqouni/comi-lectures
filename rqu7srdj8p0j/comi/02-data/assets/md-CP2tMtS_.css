@@ -1,0 +1,44 @@
+
+.nl[data-v-fd4ef958] { display: flex; flex-direction: column; gap: 0.55rem;
+}
+.row[data-v-fd4ef958] { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.5rem;
+}
+figure[data-v-fd4ef958] { margin: 0; display: flex; flex-direction: column; gap: 0.2rem;
+}
+.wrap[data-v-fd4ef958] { position: relative;
+}
+canvas[data-v-fd4ef958] { width: 100%; aspect-ratio: 1; border-radius: 8px; background: #000; display: block;
+}
+.ring[data-v-fd4ef958] { position: absolute; left: calc(46 / 128 * 100% - 0.55rem); top: calc(52 / 128 * 100% - 0.55rem); width: 1.1rem; height: 1.1rem; border: 1.5px dashed var(--gelb); border-radius: 50%;
+}
+figcaption[data-v-fd4ef958] { font-size: 0.62rem; display: flex; gap: 0.3rem; align-items: baseline; color: var(--muted);
+}
+figcaption b[data-v-fd4ef958] { color: var(--navy); font-size: 0.76rem;
+}
+figcaption em[data-v-fd4ef958] { font: 0.58rem 'IBM Plex Mono', monospace; font-style: normal; margin-left: auto; color: var(--rubin-d);
+}
+.low[data-v-fd4ef958] { display: grid; grid-template-columns: 1fr 1.15fr; gap: 0.6rem;
+}
+.cl[data-v-fd4ef958] { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 0.35rem 0.6rem; display: flex; flex-direction: column; gap: 0.25rem; font-size: 0.72rem;
+}
+.k[data-v-fd4ef958] { font: 600 0.54rem 'IBM Plex Mono', monospace; letter-spacing: 0.06em; text-transform: uppercase; color: var(--teal-d);
+}
+input[type=range][data-v-fd4ef958] { width: 100%; accent-color: var(--teal-d);
+}
+.dc[data-v-fd4ef958] { display: flex; gap: 0.35rem; align-items: flex-start; background: var(--teal-t); border-radius: 8px; padding: 0.25rem 0.45rem; font-size: 0.68rem; line-height: 1.3;
+}
+.dc i[data-v-fd4ef958] { color: var(--teal-d); flex: none; font-size: 1rem;
+}
+.dc b[data-v-fd4ef958] { color: var(--navy);
+}
+p[data-v-fd4ef958] { margin: 0; display: flex; gap: 0.4rem; font-size: 0.74rem; line-height: 1.38; background: var(--rubin-t); border-radius: 10px; padding: 0.4rem 0.6rem;
+}
+p i[data-v-fd4ef958] { color: var(--rubin); font-size: 1.1rem; flex: none;
+}
+p b[data-v-fd4ef958] { color: var(--rubin-d);
+}
+
+.nx6 span[data-v-57298ea6] { display: inline-flex; gap: 0.35rem; align-items: center; background: var(--teal-t); border-radius: 8px; padding: 0.25rem 0.6rem; font-size: 0.74rem; color: var(--navy);
+}
+.nx6 i[data-v-57298ea6] { color: var(--teal-d);
+}

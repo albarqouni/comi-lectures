@@ -1,0 +1,23 @@
+
+.l11ow[data-v-3b27bfa7] { display: grid; grid-template-columns: 1fr 1.5fr; gap: 0.9rem; align-items: start;
+}
+.l11ow .tk-c[data-v-3b27bfa7] { font-size: 0.86rem;
+}
+.l11ow .n[data-v-3b27bfa7] { font: 700 2.6rem/1 'Source Sans 3', sans-serif; color: var(--teal-d);
+}
+.l11ow .cmp[data-v-3b27bfa7] { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.4rem 0.8rem; display: flex; flex-direction: column;
+}
+.l11ow .cmp > div[data-v-3b27bfa7] { display: grid; grid-template-columns: 1fr 6rem 9rem; gap: 0.4rem; align-items: center; padding: 0.28rem 0; border-top: 1px solid #eef1f5; font-size: 0.86rem;
+}
+.l11ow .cmp > div.hd[data-v-3b27bfa7] { border-top: none;
+}
+.l11ow .cmp .hd b[data-v-3b27bfa7] { font: 600 0.6rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--navy); text-align: center;
+}
+.l11ow .cmp i[data-v-3b27bfa7] { font-size: 1.3rem; justify-self: center;
+}
+.l11ow .cmp i.r[data-v-3b27bfa7] { color: var(--rubin);
+}
+.l11ow .cmp i.g[data-v-3b27bfa7] { color: var(--teal-d);
+}
+.l11ow .cmp i.m[data-v-3b27bfa7] { color: var(--muted);
+}

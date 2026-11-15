@@ -1,0 +1,7 @@
+
+.osm[data-v-b3dda5da] { display: flex; flex-direction: column; gap: 0.4rem;
+}
+.osm .ln[data-v-b3dda5da] { background: var(--card); border: 1px solid var(--line); border-left: 4px solid #004e9f; border-radius: 9px; padding: 0.35rem 0.7rem; font-size: 0.86rem; color: var(--navy);
+}
+.osm .ln.hl[data-v-b3dda5da] { background: var(--gelb); border-left-color: #f0b400;
+}

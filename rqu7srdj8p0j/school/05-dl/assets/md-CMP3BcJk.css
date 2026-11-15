@@ -1,0 +1,36 @@
+
+.ml[data-v-6eebe865] { display: grid; grid-template-columns: 18rem 1fr; gap: 1rem; align-items: start;
+}
+.map[data-v-6eebe865] { position: relative; width: 18rem; height: 18rem; border-radius: 10px; overflow: hidden; border: 1px solid var(--line);
+}
+.map canvas[data-v-6eebe865], .map svg[data-v-6eebe865] { position: absolute; inset: 0; width: 100%; height: 100%;
+}
+.ctl[data-v-6eebe865] { display: flex; flex-direction: column; gap: 0.5rem; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.7rem 0.85rem;
+}
+.row[data-v-6eebe865] { display: flex; gap: 0.3rem; align-items: center;
+}
+.row span[data-v-6eebe865] { font: 600 0.58rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted); margin-right: 0.2rem;
+}
+.row button[data-v-6eebe865], .btns button[data-v-6eebe865] { font: 600 0.7rem 'Source Sans 3', sans-serif; padding: 0.22rem 0.75rem; border-radius: 99px; border: 1px solid var(--navy); background: #fff; color: var(--navy); cursor: pointer;
+}
+.row button.on[data-v-6eebe865], .btns button[data-v-6eebe865]:not(.ghost) { background: var(--navy); color: #fff;
+}
+.btns[data-v-6eebe865] { display: flex; gap: 0.3rem;
+}
+label[data-v-6eebe865] { display: flex; flex-direction: column; gap: 0.1rem; font-size: 0.74rem;
+}
+label b[data-v-6eebe865] { color: var(--navy);
+}
+input[type=range][data-v-6eebe865] { width: 100%; accent-color: var(--navy);
+}
+.st[data-v-6eebe865] { display: flex; gap: 1.3rem; font-size: 0.72rem; color: var(--muted);
+}
+.st b[data-v-6eebe865] { color: var(--navy); font-size: 1.05rem;
+}
+.ls[data-v-6eebe865] { width: 100%; height: 4.6rem; background: #fafbfc; border-radius: 6px;
+}
+.t[data-v-6eebe865] { font: 4px 'IBM Plex Mono', monospace; fill: #6b7380;
+}
+
+.lesson[data-v-ccf77502] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.5rem 0.9rem; font: 0.95rem 'Source Serif 4', serif; display: flex; gap: 0.5rem; align-items: center;
+}

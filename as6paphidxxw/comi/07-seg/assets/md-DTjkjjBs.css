@@ -1,0 +1,46 @@
+
+.rd[data-v-413b9a7d] { display: grid; grid-template-columns: 16rem 1fr; gap: 0.9rem; align-items: start;
+}
+.lf[data-v-413b9a7d] { display: flex; flex-direction: column; gap: 0.25rem;
+}
+.ct[data-v-413b9a7d] { width: 16rem; border-radius: 10px; background: #000;
+}
+.lg[data-v-413b9a7d] { display: flex; flex-wrap: wrap; gap: 0.2rem 0.55rem; font-size: 0.58rem; color: var(--muted);
+}
+.lg i[data-v-413b9a7d] { display: inline-block; width: 0.6rem; height: 0.6rem; border-radius: 2px; margin-right: 0.2rem; vertical-align: -1px;
+}
+.rt[data-v-413b9a7d] { display: flex; flex-direction: column; gap: 0.5rem;
+}
+.dy[data-v-413b9a7d] { display: flex; flex-wrap: wrap; gap: 0.3rem;
+}
+.dy button[data-v-413b9a7d] { font: 600 0.7rem 'Source Sans 3', sans-serif; padding: 0.22rem 0.65rem; border-radius: 99px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.dy button.on[data-v-413b9a7d] { background: var(--navy); color: #fff;
+}
+.rs[data-v-413b9a7d] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.35rem;
+}
+.rs div[data-v-413b9a7d] { background: #e8edf5; border-radius: 8px; padding: 0.3rem 0.55rem; display: flex; flex-direction: column;
+}
+.rs span[data-v-413b9a7d] { font-size: 0.62rem; color: var(--navy); line-height: 1.2;
+}
+.rs b[data-v-413b9a7d] { font: 700 1.4rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.rs small[data-v-413b9a7d] { font-size: 0.56rem; color: var(--muted);
+}
+.rs .r[data-v-413b9a7d] { background: var(--rubin-t);
+}
+.rs .r b[data-v-413b9a7d] { color: var(--rubin-d);
+}
+.nt[data-v-413b9a7d] { display: flex; gap: 0.5rem; align-items: center; font-size: 0.78rem; color: var(--navy); background: var(--teal-t); border-radius: 9px; padding: 0.4rem 0.6rem; line-height: 1.35;
+}
+.nt i[data-v-413b9a7d] { font-size: 1.5rem; color: var(--teal-d); flex: none;
+}
+.nt b[data-v-413b9a7d] { color: var(--navy);
+}
+
+.rgu .tk-c[data-v-904082fe] { padding: 0.3rem 0.6rem; font-size: 0.72rem; flex-direction: row; align-items: center; gap: 0.45rem;
+}
+.rgu .tk-c > .ic[data-v-904082fe] { font-size: 1.3rem; flex: none;
+}
+.rgu b[data-v-904082fe] { color: var(--navy);
+}

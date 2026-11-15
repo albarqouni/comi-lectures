@@ -1,0 +1,15 @@
+
+.wg2[data-v-674c82e0] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.75rem;
+}
+.wg2 .tk-c[data-v-674c82e0] { font-size: 0.84rem; display: flex; flex-direction: column; gap: 0.3rem;
+}
+.wg2 .sv[data-v-674c82e0] { width: 100%; height: 6.4rem; background: #fff; border-radius: 8px;
+}
+.wg2 b[data-v-674c82e0] { color: var(--rubin);
+}
+.gdef[data-v-674c82e0] { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.6rem;
+}
+.gdef div[data-v-674c82e0] { background: var(--gelb); border-radius: 10px; padding: 0.4rem 0.6rem; display: flex; flex-direction: column; gap: 0.15rem; color: var(--navy);
+}
+.gdef span[data-v-674c82e0] { font-size: 0.74rem;
+}

@@ -1,0 +1,42 @@
+
+.nh[data-v-f79ab137] { display: grid; grid-template-columns: 1fr 15.5rem; gap: 0.7rem; align-items: start;
+}
+.ims[data-v-f79ab137] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.45rem;
+}
+figure[data-v-f79ab137] { margin: 0; display: flex; flex-direction: column; gap: 0.2rem;
+}
+canvas[data-v-f79ab137] { width: 100%; aspect-ratio: 1; border-radius: 8px; background: #000; display: block;
+}
+figcaption[data-v-f79ab137] { font-size: 0.62rem; display: flex; gap: 0.3rem; align-items: baseline; color: var(--muted);
+}
+figcaption b[data-v-f79ab137] { color: var(--navy); font-size: 0.74rem;
+}
+figcaption em[data-v-f79ab137] { font: 0.56rem 'IBM Plex Mono', monospace; font-style: normal; margin-left: auto;
+}
+.side[data-v-f79ab137] { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.45rem 0.6rem; display: flex; flex-direction: column; gap: 0.25rem;
+}
+.k[data-v-f79ab137] { font: 600 0.54rem 'IBM Plex Mono', monospace; letter-spacing: 0.06em; text-transform: uppercase; color: var(--teal-d);
+}
+.bt[data-v-f79ab137] { display: grid; grid-template-columns: 1fr 1.6fr; gap: 0.2rem;
+}
+button[data-v-f79ab137] { font: 600 0.64rem 'Source Sans 3', sans-serif; padding: 0.2rem 0.3rem; border-radius: 6px; border: 1px solid var(--line); background: #fff; cursor: pointer; color: var(--navy);
+}
+button.on[data-v-f79ab137] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+svg[data-v-f79ab137] { width: 100%; height: 4.6rem; background: #fff; border-radius: 6px;
+}
+.ax[data-v-f79ab137] { display: flex; justify-content: space-between; font: 0.5rem 'IBM Plex Mono', monospace; color: var(--muted);
+}
+input[type=range][data-v-f79ab137] { width: 100%; accent-color: var(--teal-d);
+}
+.cb[data-v-f79ab137] { display: grid; grid-template-columns: 3.6rem 1fr 2.2rem; gap: 0.35rem; align-items: center; font-size: 0.7rem;
+}
+.cb i[data-v-f79ab137] { height: 0.6rem; background: #eef1f5; border-radius: 99px; overflow: hidden;
+}
+.cb s[data-v-f79ab137] { display: block; height: 100%; text-decoration: none;
+}
+.cb b[data-v-f79ab137] { font: 700 0.78rem 'IBM Plex Mono', monospace; color: var(--navy); text-align: right;
+}
+
+.lesson[data-v-dd75b169] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.45rem 0.9rem; font: italic 0.95rem 'Source Serif 4', serif; display: flex;
+}

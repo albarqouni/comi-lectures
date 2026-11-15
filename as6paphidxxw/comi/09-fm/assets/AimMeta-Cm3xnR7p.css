@@ -1,0 +1,25 @@
+
+.am[data-v-b9e18e14] { display: flex; flex-wrap: wrap; gap: 0.4rem 0.9rem; font: 600 0.62rem 'IBM Plex Mono', monospace; letter-spacing: 0.1em; text-transform: uppercase; color: #cfe0f0;
+}
+.am .c[data-v-b9e18e14] { color: var(--gelb);
+}
+.am span + span[data-v-b9e18e14]::before { content: '·'; margin-right: 0.9rem; color: #7f98b8;
+}
+.nx[data-v-b9e18e14] { display: flex; flex-direction: column; gap: 0.15rem;
+}
+.nx .k[data-v-b9e18e14] { font: 600 0.6rem 'IBM Plex Mono', monospace; letter-spacing: 0.1em; text-transform: uppercase; color: var(--gelb);
+}
+.nx b[data-v-b9e18e14] { font: 600 1.05rem 'Source Serif 4', serif; color: #fff;
+}
+.nx .pg[data-v-b9e18e14] { font-size: 0.72rem; color: #cfe0f0;
+}
+.nxw[data-v-b9e18e14] { display: flex; justify-content: space-between; align-items: flex-end; gap: 1.5rem; width: 100%;
+}
+.qr[data-v-b9e18e14] { display: flex; gap: 0.8rem; flex: none;
+}
+.qr a[data-v-b9e18e14] { display: flex; flex-direction: column; align-items: center; gap: 0.25rem; text-decoration: none; border: none !important;
+}
+.qr img[data-v-b9e18e14] { width: 5.2rem; height: 5.2rem; background: #fff; padding: 0.25rem; border-radius: 8px;
+}
+.qr span[data-v-b9e18e14] { font: 600 0.52rem 'IBM Plex Mono', monospace; letter-spacing: 0.08em; text-transform: uppercase; color: #cfe0f0;
+}

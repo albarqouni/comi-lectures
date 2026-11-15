@@ -1,0 +1,17 @@
+
+.by[data-v-77292372] { display: grid; grid-template-columns: 1.35fr 1fr; gap: 0.9rem;
+}
+.by .dv[data-v-77292372] { display: flex; flex-direction: column; gap: 0.4rem;
+}
+.by .dv > div[data-v-77292372] { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 0.35rem 0.6rem; display: grid; grid-template-columns: 1.4rem 1fr; gap: 0.1rem 0.4rem; align-items: center; color: var(--navy); font-size: 0.95rem;
+}
+.by .dv i[data-v-77292372] { grid-row: span 2; font: 700 0.75rem 'IBM Plex Mono', monospace; font-style: normal; width: 1.3rem; height: 1.3rem; border-radius: 50%; display: grid; place-items: center; background: #e3ecf8; color: #004e9f;
+}
+.by .dv > div > span[data-v-77292372]:not(.tex) { font-size: 0.66rem; color: var(--muted); font-weight: 600;
+}
+.by .dv .y[data-v-77292372] { background: var(--gelb); border-color: #f0b400; grid-template-columns: 1fr;
+}
+.by .vc[data-v-77292372] { display: flex; flex-direction: column; gap: 0.45rem;
+}
+.by .vc .tk-c span[data-v-77292372] { font-size: 0.86rem;
+}

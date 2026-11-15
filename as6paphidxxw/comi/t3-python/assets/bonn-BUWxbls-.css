@@ -1,0 +1,10 @@
+
+.bonn[data-v-11cf2a39] {
+  position: relative;
+  height: 100%;
+  padding: 1.35rem 2.5rem 1.6rem;
+  background: var(--paper);
+}
+
+.bonn.autofit > :not(h1):not(h2):not(.refs):not(.crline):not(.pgnum):not(.logos):not(.daad):not(.trk):not(style) { zoom: var(--fit, 1);
+}

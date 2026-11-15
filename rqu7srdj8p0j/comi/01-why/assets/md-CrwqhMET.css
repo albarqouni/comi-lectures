@@ -1,0 +1,45 @@
+
+.sh[data-v-36ad35da] { display: grid; grid-template-columns: 1fr 1.1fr; gap: 0.9rem; align-items: start;
+}
+.lt[data-v-36ad35da], .rt[data-v-36ad35da] { display: flex; flex-direction: column; gap: 0.4rem;
+}
+.pk[data-v-36ad35da] { display: flex; flex-wrap: wrap; gap: 0.22rem;
+}
+.pk button[data-v-36ad35da] { font: 600 0.66rem 'Source Sans 3', sans-serif; padding: 0.12rem 0.5rem; border-radius: 99px; border: 1.5px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.pk button.t[data-v-36ad35da] { border-style: dashed;
+}
+.pk button.on[data-v-36ad35da] { background: #004e9f; color: #fff; border-color: #004e9f;
+}
+.rs[data-v-36ad35da] { display: flex; gap: 0.22rem; align-items: center; font-size: 0.62rem; color: var(--muted);
+}
+.rs button[data-v-36ad35da] { font: 600 0.64rem 'IBM Plex Mono', monospace; padding: 0.1rem 0.45rem; border-radius: 6px; border: 1.5px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.rs button.on[data-v-36ad35da] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+.rs button[data-v-36ad35da]:disabled { opacity: 0.35; cursor: default;
+}
+.mx[data-v-36ad35da] { display: grid; grid-template-columns: 1.5fr 1fr; gap: 0.4rem; align-items: center;
+}
+.mx svg[data-v-36ad35da] { width: 100%;
+}
+.vd[data-v-36ad35da] { background: var(--teal-t); border-radius: 10px; padding: 0.4rem 0.6rem; display: flex; flex-direction: column;
+}
+.vd b[data-v-36ad35da] { font: 700 1.05rem 'Source Serif 4', serif; color: var(--teal-d);
+}
+.vd span[data-v-36ad35da] { font: 600 0.8rem 'IBM Plex Mono', monospace; color: var(--navy);
+}
+.vd small[data-v-36ad35da] { font-size: 0.6rem; color: var(--muted);
+}
+.vd.f[data-v-36ad35da] { background: var(--rubin-t);
+}
+.vd.f b[data-v-36ad35da] { color: var(--rubin);
+}
+.map[data-v-36ad35da] { width: 100%; border: 1px solid var(--line); border-radius: 8px; background: #fff;
+}
+.tk[data-v-36ad35da] { display: flex; gap: 0.4rem; align-items: center; background: #f4f7fb; border: 1px solid var(--line); border-radius: 9px; padding: 0.4rem 0.6rem; font-size: 0.74rem; color: var(--navy); line-height: 1.4;
+}
+.tk i[data-v-36ad35da] { font-size: 1.3rem; color: var(--rubin); flex: none;
+}
+.tk b[data-v-36ad35da] { color: var(--rubin-d);
+}

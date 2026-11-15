@@ -1,0 +1,23 @@
+
+.l11ad[data-v-f5558346] { display: flex; flex-direction: column; gap: 0.35rem;
+}
+.l11ad .rw[data-v-f5558346] { display: grid; grid-template-columns: 2.2rem 1fr 14rem; gap: 0.7rem; align-items: center; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 0.4rem 0.8rem;
+}
+.l11ad .ic[data-v-f5558346] { font-size: 1.6rem; color: var(--teal-d);
+}
+.l11ad .t[data-v-f5558346] { display: flex; flex-direction: column;
+}
+.l11ad .t b[data-v-f5558346] { font: 700 0.98rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.l11ad .t span[data-v-f5558346] { font-size: 0.8rem; line-height: 1.35;
+}
+.l11ad .t span b[data-v-f5558346] { font-size: inherit; color: var(--rubin-d);
+}
+.l11ad .mb[data-v-f5558346] { display: grid; grid-template-columns: 3.6rem 1fr; gap: 0.15rem 0.4rem; align-items: center;
+}
+.l11ad .mb span[data-v-f5558346] { font: 600 0.54rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.l11ad .mb i[data-v-f5558346] { display: block; height: 0.6rem; border-radius: 99px; background: var(--navy);
+}
+.l11ad .rw[data-v-f5558346]:nth-child(n+4) { border-left: 4px solid var(--rubin);
+}

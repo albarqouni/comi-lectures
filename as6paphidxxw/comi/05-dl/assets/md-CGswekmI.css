@@ -1,0 +1,9 @@
+
+.f5dt[data-v-b1982f8e] { display: grid; grid-template-columns: 1fr 2.3fr; gap: 0.8rem; align-items: start;
+}
+.f5dt-cards[data-v-b1982f8e] { display: flex; flex-direction: column; gap: 0.45rem;
+}
+.f5dt .cd[data-v-b1982f8e] { background: var(--card); border: 1px solid var(--line); border-left: 5px solid var(--gelb); border-radius: 12px; padding: 0.45rem 0.7rem; font-size: 0.78rem; line-height: 1.4;
+}
+.f5dt .k[data-v-b1982f8e] { font: 700 0.92rem 'Source Sans 3', sans-serif; color: var(--navy); margin-bottom: 0.15rem; display: flex; align-items: center; gap: 0.3rem;
+}

@@ -1,0 +1,9 @@
+
+.t1g[data-v-db350dcb] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.4rem;
+}
+.t1g > div[data-v-db350dcb] { background: var(--card); border: 1px solid var(--line); border-left: 4px solid var(--rubin); border-radius: 10px; padding: 0.35rem 0.6rem; display: flex; flex-direction: column; gap: 0.1rem;
+}
+.t1g b[data-v-db350dcb] { font-size: 0.86rem; color: var(--navy);
+}
+.t1g span[data-v-db350dcb] { font-size: 0.74rem; color: var(--muted); line-height: 1.3;
+}

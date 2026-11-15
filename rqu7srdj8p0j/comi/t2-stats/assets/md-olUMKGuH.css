@@ -1,0 +1,39 @@
+
+.hu[data-v-9eada80d] { display: grid; grid-template-columns: 1.05fr 1fr 0.8fr; gap: 0.7rem; align-items: start;
+}
+.ct[data-v-9eada80d] { width: 100%; border-radius: 10px; cursor: crosshair; background: #000; display: block;
+}
+.cap[data-v-9eada80d] { font-size: 0.6rem; color: var(--muted); margin-top: 0.2rem;
+}
+.md[data-v-9eada80d] { display: flex; flex-direction: column; gap: 0.35rem;
+}
+.pk[data-v-9eada80d] { display: flex; flex-wrap: wrap; gap: 0.2rem;
+}
+.pk button[data-v-9eada80d] { font: 600 0.64rem 'Source Sans 3', sans-serif; padding: 0.12rem 0.5rem; border-radius: 99px; border: 1.5px solid var(--c); background: #fff; color: var(--c); cursor: pointer;
+}
+.pk button.on[data-v-9eada80d] { background: var(--c); color: #fff;
+}
+.hs svg[data-v-9eada80d] { width: 100%; height: 9rem; background: #fbfbfd; border: 1px solid var(--line); border-radius: 8px; display: block;
+}
+.ax[data-v-9eada80d] { display: flex; justify-content: space-between; font: 0.58rem 'IBM Plex Mono', monospace; color: var(--muted);
+}
+.rd[data-v-9eada80d] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.1rem 0.5rem; font-size: 0.95rem; color: var(--navy); margin-top: 0.2rem;
+}
+.rd > span[data-v-9eada80d]:not(.tex) { font-size: 0.64rem; color: var(--muted); align-self: center;
+}
+.rd b[data-v-9eada80d] { font-size: 0.82rem;
+}
+.tb[data-v-9eada80d] { background: #f4f7fb; border: 1px solid var(--line); border-radius: 12px; padding: 0.5rem 0.6rem; display: flex; flex-direction: column; gap: 0.2rem;
+}
+.tb .h[data-v-9eada80d] { font: 600 0.58rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: #004e9f;
+}
+.rw[data-v-9eada80d] { display: grid; grid-template-columns: 0.6rem 1fr auto; gap: 0.35rem; align-items: center; font-size: 0.74rem; color: var(--navy); cursor: pointer; padding: 0.1rem 0.25rem; border-radius: 6px;
+}
+.rw.on[data-v-9eada80d] { background: var(--gelb);
+}
+.rw i[data-v-9eada80d] { width: 0.6rem; height: 0.6rem; border-radius: 2px;
+}
+.rw b[data-v-9eada80d] { font: 600 0.72rem 'IBM Plex Mono', monospace;
+}
+.tb p[data-v-9eada80d] { margin: 0.2rem 0 0; font-size: 0.66rem; color: var(--muted); line-height: 1.3;
+}

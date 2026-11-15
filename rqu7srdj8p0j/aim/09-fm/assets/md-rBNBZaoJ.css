@@ -1,0 +1,45 @@
+
+.go[data-v-2c65d592] { display: grid; grid-template-columns: 1.5fr 1fr; gap: 1rem; align-items: center;
+}
+.f9go[data-v-2c65d592] { display: grid; grid-template-columns: 1fr 1.45fr 0.95fr; gap: 0.8rem; align-items: start;
+}
+.f9go > div[data-v-2c65d592] { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.45rem 0.7rem; display: flex; flex-direction: column; gap: 0.25rem;
+}
+.f9go-h[data-v-2c65d592] { font: 600 0.52rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.f9go-d > div[data-v-2c65d592] { display: flex; gap: 0.4rem; align-items: center; font-size: 0.72rem; line-height: 1.3;
+}
+.f9go-d > div > i[data-v-2c65d592] { color: var(--teal-d); font-size: 1rem; flex: none;
+}
+.f9go-d b[data-v-2c65d592] { color: var(--navy);
+}
+.f9go-f svg[data-v-2c65d592] { width: 100%; height: 6.4rem;
+}
+.f9go-t .tk-bars[data-v-2c65d592] { gap: 0.25rem;
+}
+.f9go-t .tk-bars > div[data-v-2c65d592] { grid-template-columns: 4.2rem 1fr 2.6rem; font-size: 0.7rem; gap: 0.3rem;
+}
+.f9go-t .tk-bars i[data-v-2c65d592] { height: 0.9rem;
+}
+.f9go-t .tk-bars b[data-v-2c65d592] { font-size: 0.85rem;
+}
+.f9go-t small[data-v-2c65d592] { font-size: 0.62rem; line-height: 1.3; color: var(--muted);
+}
+.cmp[data-v-2c65d592] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.5rem;
+}
+.cmp .c[data-v-2c65d592] { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.7rem 0.8rem; display: flex; flex-direction: column; gap: 0.2rem;
+}
+.cmp .c.hl[data-v-2c65d592] { background: var(--teal-t); border-color: transparent;
+}
+.cmp span[data-v-2c65d592] { font: 600 0.56rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.cmp b[data-v-2c65d592] { font: 700 2.2rem/1 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.cmp i[data-v-2c65d592] { font-size: 0.72rem; color: var(--muted); font-style: normal;
+}
+.q[data-v-2c65d592] { background: var(--navy); color: #fff; border-radius: 12px; padding: 0.8rem 1rem; font: 1.02rem/1.4 'Source Serif 4', serif; display: flex; flex-direction: column; gap: 0.4rem;
+}
+.q span[data-v-2c65d592] { font: 0.82rem 'Source Sans 3', sans-serif; color: #cfe0f0;
+}
+.q b[data-v-2c65d592] { color: var(--gelb);
+}

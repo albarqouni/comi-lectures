@@ -1,0 +1,47 @@
+
+.ls[data-v-11862332] { display: grid; grid-template-columns: 11.6rem 1fr; gap: 0.9rem; align-items: start;
+}
+.lf[data-v-11862332] { display: flex; flex-direction: column; gap: 0.3rem;
+}
+.ct[data-v-11862332] { width: 11.6rem; border-radius: 10px; background: #000;
+}
+.lg[data-v-11862332] { display: flex; gap: 0.6rem; font-size: 0.6rem; color: var(--muted);
+}
+.lg i[data-v-11862332] { display: inline-block; width: 0.6rem; height: 0.6rem; border-radius: 2px; margin-right: 0.2rem; vertical-align: -1px;
+}
+.sl[data-v-11862332] { display: flex; flex-direction: column; font-size: 0.68rem; color: var(--navy);
+}
+.sl input[data-v-11862332] { accent-color: var(--navy);
+}
+.bg[data-v-11862332] { display: flex; gap: 0.2rem; align-items: center; font-size: 0.66rem; color: var(--muted);
+}
+.bg button[data-v-11862332] { font: 600 0.64rem 'IBM Plex Mono', monospace; padding: 0.08rem 0.4rem; border-radius: 99px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.bg button.on[data-v-11862332] { background: var(--navy); color: #fff;
+}
+.gd[data-v-11862332] { display: grid; grid-template-columns: 9.6rem repeat(5, 1fr); gap: 0.18rem;
+}
+.hc[data-v-11862332] { font: 600 0.66rem 'Source Sans 3', sans-serif; padding: 0.2rem 0.2rem; border-radius: 7px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.hc.on[data-v-11862332] { background: var(--navy); color: #fff;
+}
+.rl[data-v-11862332] { font-size: 0.74rem; color: var(--navy); font-weight: 600; display: flex; align-items: center; padding-left: 0.45rem; border-left: 4px solid #7b8ba3;
+}
+.rl.ratio[data-v-11862332] { border-left-color: var(--teal);
+}
+.rl.mix[data-v-11862332] { border-left-color: #f0b400;
+}
+.cl[data-v-11862332] { font: 600 0.72rem 'IBM Plex Mono', monospace; color: #3b0a0f; border-radius: 6px; padding: 0.3rem 0.2rem; text-align: center; border: 2px solid transparent;
+}
+.cl.on[data-v-11862332] { border-color: var(--navy);
+}
+.ky[data-v-11862332] { display: flex; flex-wrap: wrap; gap: 0.2rem 0.9rem; font-size: 0.62rem; color: var(--muted); margin-top: 0.35rem;
+}
+.ky i[data-v-11862332] { display: inline-block; width: 0.25rem; height: 0.7rem; margin-right: 0.25rem; vertical-align: -1px;
+}
+.ky .a[data-v-11862332] { background: #7b8ba3;
+}
+.ky .b[data-v-11862332] { background: var(--teal);
+}
+.ky .c[data-v-11862332] { background: #f0b400;
+}

@@ -1,0 +1,25 @@
+
+.flow[data-v-36134398] { display: flex; align-items: stretch; gap: 0.4rem;
+}
+.flow .s[data-v-36134398] { flex: 1; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.55rem 0.75rem; display: flex; flex-direction: column; gap: 0.15rem;
+}
+.flow .s i[data-v-36134398] { font-style: normal; width: 1.5rem; height: 1.5rem; border-radius: 50%; background: var(--navy); color: var(--gelb); display: grid; place-items: center; font: 700 0.8rem 'Source Sans 3', sans-serif;
+}
+.flow .s b[data-v-36134398] { color: var(--navy); font-size: 1rem;
+}
+.flow .s span[data-v-36134398] { font-size: 0.78rem; color: var(--muted);
+}
+.flow .a[data-v-36134398] { display: grid; place-items: center; color: var(--teal-d); font-size: 1.4rem;
+}
+.cats[data-v-36134398] { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.5rem; margin-top: 0.7rem;
+}
+.cats div[data-v-36134398] { border-top: 5px solid var(--c); background: var(--card); border-radius: 10px; padding: 0.45rem 0.65rem; display: flex; flex-direction: column;
+}
+.cats b[data-v-36134398] { color: var(--c); font-size: 0.9rem;
+}
+.cats span[data-v-36134398] { font-size: 0.74rem; color: var(--muted);
+}
+.who[data-v-36134398] { margin-top: 0.7rem; font-size: 0.85rem; background: #e3ecf8; border-radius: 10px; padding: 0.45rem 0.8rem; color: var(--navy);
+}
+.who b[data-v-36134398] { font-size: 1.05rem;
+}

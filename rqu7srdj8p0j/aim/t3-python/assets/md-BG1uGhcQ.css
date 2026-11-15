@@ -1,0 +1,17 @@
+
+.t3gr[data-v-6ba7b745] { display: grid; grid-template-columns: 1.55fr 1fr; gap: 0.7rem; align-items: start;
+}
+.t3gr pre[data-v-6ba7b745] { font-size: 0.56rem !important;
+}
+.t3gr pre + pre[data-v-6ba7b745], .t3gr .slidev-code-wrapper + .slidev-code-wrapper[data-v-6ba7b745] { margin-top: 0.4rem;
+}
+.t3gr .cl[data-v-6ba7b745] { display: flex; flex-direction: column; gap: 0.4rem;
+}
+.t3gr .tk-c[data-v-6ba7b745] { padding: 0.42rem 0.68rem; font-size: 0.76rem; line-height: 1.36;
+}
+.t3gr .tk-c > .ic[data-v-6ba7b745] { font-size: 1.25rem;
+}
+.t3gr .k[data-v-6ba7b745] { font-size: 0.88rem;
+}
+.t3gr code[data-v-6ba7b745] { font: 0.66rem 'IBM Plex Mono', monospace; background: #eef1f5; padding: 0 0.2rem; border-radius: 3px;
+}

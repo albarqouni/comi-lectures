@@ -1,0 +1,46 @@
+
+.gr[data-v-e61e331a] { display: grid; grid-template-columns: 1.25fr 1fr; gap: 0.9rem;
+}
+.pl[data-v-e61e331a] { background: #fbfbfd; border: 1px solid var(--line); border-radius: 10px; padding: 0.2rem;
+}
+.pl svg[data-v-e61e331a] { width: 100%; height: 18.2rem; display: block;
+}
+.sd[data-v-e61e331a] { display: flex; flex-direction: column; gap: 0.35rem;
+}
+.k[data-v-e61e331a] { font: 600 0.55rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: #004e9f;
+}
+.bt[data-v-e61e331a] { display: flex; gap: 0.25rem; flex-wrap: wrap;
+}
+.bt button[data-v-e61e331a] { font: 600 0.64rem 'Source Sans 3', sans-serif; padding: 0.12rem 0.5rem; border-radius: 99px; border: 1.5px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.bt button.on[data-v-e61e331a] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+.rd[data-v-e61e331a] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.25rem;
+}
+.rd > div[data-v-e61e331a] { background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 0.2rem 0.45rem; display: flex; flex-direction: column;
+}
+.rd span[data-v-e61e331a] { font: 600 0.5rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.rd b[data-v-e61e331a] { font: 600 0.85rem 'IBM Plex Mono', monospace; color: var(--navy);
+}
+.rd .h[data-v-e61e331a] { background: var(--gelb); border-color: #f0b400;
+}
+.ts .bar[data-v-e61e331a] { display: flex; height: 0.7rem; border-radius: 4px; overflow: hidden; background: #eee;
+}
+.ts .bar i[data-v-e61e331a] { background: #2d9d9b;
+}
+.ts .bar em[data-v-e61e331a] { background: #e8b4c8;
+}
+.tr[data-v-e61e331a] { display: grid; grid-template-columns: 5.6rem 1fr 2.4rem; gap: 0.3rem; align-items: center; font-size: 0.62rem;
+}
+.tr span[data-v-e61e331a] { font-weight: 600;
+}
+.tr b[data-v-e61e331a] { font: 600 0.6rem 'IBM Plex Mono', monospace; text-align: right; color: var(--navy);
+}
+.ax[data-v-e61e331a] { position: relative; height: 0.5rem; background: linear-gradient(90deg, transparent calc(50% - 0.5px), #0b2a4a calc(50% - 0.5px), #0b2a4a calc(50% + 0.5px), transparent calc(50% + 0.5px));
+}
+.ax i[data-v-e61e331a] { position: absolute; top: 0; height: 100%; border-radius: 2px;
+}
+
+.lnf[data-v-bcacbe29] { position: absolute; left: 50%; transform: translateX(-50%); bottom: 2.3rem; font-size: 0.78rem; color: var(--navy); background: var(--gelb); border-radius: 8px; padding: 0.15rem 0.8rem;
+}

@@ -1,0 +1,9 @@
+
+.osq[data-v-63b6120d] { display: grid; grid-template-columns: 1.2fr 1fr; gap: 0.8rem;
+}
+.osq .tk-c[data-v-63b6120d] { font-size: 0.82rem; display: flex; flex-direction: column; gap: 0.25rem;
+}
+.osq small[data-v-63b6120d] { font-size: 0.66rem; color: var(--muted);
+}
+.fx[data-v-63b6120d] { display: flex; flex-direction: column; gap: 0.4rem;
+}

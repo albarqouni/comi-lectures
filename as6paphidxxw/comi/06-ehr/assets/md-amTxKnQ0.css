@@ -1,0 +1,53 @@
+
+.l6vd[data-v-6461b0a1] { display: grid; grid-template-columns: 1fr 1.1fr; gap: 0.8rem; align-items: start;
+}
+.lf[data-v-6461b0a1] { display: flex; flex-direction: column; gap: 0.3rem;
+}
+.lf label[data-v-6461b0a1] { display: grid; grid-template-columns: 9.5rem 1fr 3.8rem; gap: 0.4rem; align-items: center; font-size: 0.76rem; color: var(--navy);
+}
+.lf input[data-v-6461b0a1] { accent-color: var(--teal-d);
+}
+.lf label b[data-v-6461b0a1] { font: 700 0.86rem 'Source Sans 3', sans-serif; text-align: right;
+}
+.cb[data-v-6461b0a1] { display: grid; grid-template-columns: 1.6fr 1fr 1fr; gap: 0.3rem;
+}
+.cb > div[data-v-6461b0a1] { background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 0.2rem 0.45rem; display: flex; flex-direction: column;
+}
+.cb span[data-v-6461b0a1] { font: 600 0.52rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.cb b[data-v-6461b0a1] { font: 700 0.95rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.cb .hl[data-v-6461b0a1] { background: var(--gelb); border-color: #f0b400;
+}
+.fx[data-v-6461b0a1] { background: #fdf2c4; border-radius: 8px; padding: 0.2rem 0.5rem; text-align: center; color: var(--navy); font-size: 0.9rem;
+}
+.rt[data-v-6461b0a1] { display: flex; flex-direction: column; gap: 0.35rem;
+}
+.big[data-v-6461b0a1] { border-radius: 10px; padding: 0.35rem 0.7rem; display: flex; flex-direction: column;
+}
+.big span[data-v-6461b0a1] { font: 600 0.56rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.big b[data-v-6461b0a1] { font: 700 1.9rem/1.05 'Source Sans 3', sans-serif;
+}
+.big small[data-v-6461b0a1] { font-size: 0.72rem; color: var(--navy);
+}
+.big.r[data-v-6461b0a1] { background: var(--rubin-t);
+}
+.big.r b[data-v-6461b0a1] { color: var(--rubin);
+}
+.big.y[data-v-6461b0a1] { background: #fdf2c4;
+}
+.big.y b[data-v-6461b0a1] { color: #7a5c00;
+}
+.big.t[data-v-6461b0a1], .big.g[data-v-6461b0a1] { background: var(--teal-t);
+}
+.big.t b[data-v-6461b0a1], .big.g b[data-v-6461b0a1] { color: var(--teal-d);
+}
+.ax[data-v-6461b0a1] { width: 100%; height: 3.6rem;
+}
+.vb[data-v-6461b0a1] { display: flex; justify-content: space-between; align-items: center; background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 0.15rem 0.55rem; font-size: 0.74rem; color: var(--navy);
+}
+.vb .p[data-v-6461b0a1] { font: 700 1rem 'Source Sans 3', sans-serif;
+}
+.cube[data-v-6461b0a1] { font-size: 0.74rem; padding: 0.3rem 0.6rem;
+}

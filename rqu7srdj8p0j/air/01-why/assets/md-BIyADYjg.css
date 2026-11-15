@@ -1,0 +1,49 @@
+
+.gr[data-v-71b74000] { display: grid; grid-template-columns: 1.6fr 1fr; gap: 1rem; align-items: start;
+}
+.fs[data-v-71b74000] { display: flex; flex-direction: column; gap: 0.6rem;
+}
+.f[data-v-71b74000] { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.5rem 0.7rem;
+}
+.h[data-v-71b74000] { display: flex; gap: 0.4rem; align-items: center; margin-bottom: 0.3rem;
+}
+.h i[data-v-71b74000] { font-size: 1.2rem; color: var(--rubin);
+}
+.h b[data-v-71b74000] { color: var(--navy);
+}
+.opts[data-v-71b74000] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.3rem;
+}
+.opts button[data-v-71b74000] { display: flex; flex-direction: column; align-items: flex-start; gap: 0.05rem; padding: 0.3rem 0.5rem; border-radius: 8px; border: 1px solid var(--line); background: #fff; cursor: pointer; text-align: left;
+}
+.opts button b[data-v-71b74000] { font: 700 1.1rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.opts button span[data-v-71b74000] { font-size: 0.68rem; color: var(--muted);
+}
+.opts button.on[data-v-71b74000] { background: var(--navy); border-color: var(--navy);
+}
+.opts button.on b[data-v-71b74000], .opts button.on span[data-v-71b74000] { color: #fff;
+}
+.res[data-v-71b74000] { display: flex; flex-direction: column; gap: 0.6rem;
+}
+.sum[data-v-71b74000] { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.5rem 0.8rem; display: flex; flex-direction: column;
+}
+.sum span[data-v-71b74000] { font-size: 0.66rem; color: var(--muted);
+}
+.sum b[data-v-71b74000] { font: 700 1.5rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.g[data-v-71b74000] { border-radius: 14px; padding: 0.6rem 0.9rem; display: flex; flex-direction: column; color: #fff; transition: background 0.3s;
+}
+.g span[data-v-71b74000] { font-size: 0.7rem; opacity: 0.85;
+}
+.g b[data-v-71b74000] { font: 700 3rem/1 'Source Sans 3', sans-serif;
+}
+.g em[data-v-71b74000] { font-size: 0.85rem; font-style: normal;
+}
+.g1[data-v-71b74000] { background: var(--teal-d);
+}
+.g2[data-v-71b74000] { background: #b88a00;
+}
+.g3[data-v-71b74000] { background: var(--rubin);
+}
+.nt[data-v-71b74000] { font-size: 0.82rem; line-height: 1.45; background: var(--teal-t); border-radius: 10px; padding: 0.45rem 0.7rem; color: var(--navy);
+}

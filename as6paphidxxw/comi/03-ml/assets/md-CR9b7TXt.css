@@ -1,0 +1,27 @@
+
+.dt2[data-v-4ca2157f] { display: grid; grid-template-columns: 1.6fr 1fr; gap: 0.8rem; align-items: start;
+}
+.tree[data-v-4ca2157f] { display: flex; flex-direction: column; align-items: center; gap: 0.4rem;
+}
+.nd[data-v-4ca2157f] { background: #004e9f; color: #fff; border-radius: 10px; padding: 0.35rem 0.7rem; text-align: center; display: flex; flex-direction: column;
+}
+.nd b[data-v-4ca2157f] { font-size: 0.86rem;
+}
+.nd span[data-v-4ca2157f] { font-size: 0.64rem; opacity: 0.85;
+}
+.lv2[data-v-4ca2157f] { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; width: 100%;
+}
+.br[data-v-4ca2157f] { display: flex; flex-direction: column; align-items: center; gap: 0.3rem;
+}
+.br > em[data-v-4ca2157f], .lf em[data-v-4ca2157f] { font: 600 0.6rem 'IBM Plex Mono', monospace; color: var(--muted); font-style: normal;
+}
+.lv3[data-v-4ca2157f] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.4rem; width: 100%;
+}
+.lf[data-v-4ca2157f] { display: flex; flex-direction: column; align-items: center; gap: 0.1rem; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 0.3rem;
+}
+.lf b[data-v-4ca2157f] { font-size: 0.8rem; color: var(--navy);
+}
+.lf span[data-v-4ca2157f] { font-size: 0.64rem; color: var(--muted);
+}
+.dt2 .tk-c[data-v-4ca2157f] { font-size: 0.84rem;
+}

@@ -1,0 +1,19 @@
+
+.ga[data-v-8ccf7642] { display: grid; grid-template-columns: 1fr 1.2fr; gap: 0.9rem;
+}
+.ga .cd[data-v-8ccf7642] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid #6b4fa0; border-radius: 14px; padding: 0.7rem 0.9rem; display: flex; flex-direction: column; gap: 0.4rem; font-size: 0.92rem;
+}
+.ga .k[data-v-8ccf7642] { display: flex; gap: 0.3rem; align-items: center; font: 600 0.6rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--navy);
+}
+.ga .k i[data-v-8ccf7642] { color: #6b4fa0; font-size: 1.05rem;
+}
+.ga .rw[data-v-8ccf7642] { display: grid; grid-template-columns: 8rem 1fr; gap: 0.5rem; border-top: 1px solid #eef1f5; padding-top: 0.35rem; font-size: 0.88rem;
+}
+.ga .rw b[data-v-8ccf7642] { color: var(--navy);
+}
+.ga .rw.r b[data-v-8ccf7642] { color: var(--rubin);
+}
+.ga small[data-v-8ccf7642] { font-size: 0.66rem; color: var(--muted);
+}
+.lesson[data-v-8ccf7642] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.5rem 0.9rem; font: italic 0.98rem 'Source Serif 4', serif;
+}

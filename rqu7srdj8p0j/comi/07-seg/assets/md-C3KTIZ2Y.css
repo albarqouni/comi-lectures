@@ -1,0 +1,35 @@
+
+.nu[data-v-60a4f826] { display: flex; flex-direction: column; gap: 0.45rem;
+}
+.pk[data-v-60a4f826] { display: flex; gap: 0.3rem;
+}
+.pk button[data-v-60a4f826], figcaption button[data-v-60a4f826] { font: 600 0.7rem 'Source Sans 3', sans-serif; padding: 0.15rem 0.6rem; border-radius: 99px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.pk button.on[data-v-60a4f826], figcaption button.on[data-v-60a4f826] { background: #7c5cc4; color: #fff; border-color: #7c5cc4;
+}
+.row[data-v-60a4f826] { display: grid; grid-template-columns: 22rem 12rem 1fr; gap: 0.8rem; align-items: start;
+}
+figure[data-v-60a4f826] { margin: 0; display: flex; flex-direction: column; gap: 0.25rem;
+}
+.cv[data-v-60a4f826] { width: 100%; height: auto; border-radius: 10px;
+}
+figcaption[data-v-60a4f826] { display: flex; gap: 0.25rem; flex-wrap: wrap; font-size: 0.66rem; color: var(--muted);
+}
+.ct[data-v-60a4f826] { display: flex; flex-direction: column; gap: 0.4rem; font-size: 0.74rem;
+}
+.ct label[data-v-60a4f826] { display: flex; flex-direction: column; color: var(--navy);
+}
+.ct input[data-v-60a4f826] { accent-color: #7c5cc4;
+}
+.st[data-v-60a4f826] { display: grid; grid-template-columns: 1fr; gap: 0.25rem;
+}
+.st div[data-v-60a4f826] { background: #efeaf8; border-radius: 8px; padding: 0.15rem 0.55rem; display: flex; justify-content: space-between; align-items: baseline;
+}
+.st span[data-v-60a4f826] { font-size: 0.68rem; color: var(--navy);
+}
+.st b[data-v-60a4f826] { font: 700 1.15rem 'Source Sans 3', sans-serif; color: #7c5cc4;
+}
+.nt[data-v-60a4f826] { display: flex; gap: 0.35rem; font-size: 0.68rem; line-height: 1.35; color: var(--navy);
+}
+.nt i[data-v-60a4f826] { color: var(--rubin); flex: none; font-size: 1rem;
+}

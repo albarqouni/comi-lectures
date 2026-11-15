@@ -1,0 +1,9 @@
+
+.fmp[data-v-33762fbb] { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.6rem;
+}
+.fmp .tk-c[data-v-33762fbb] { font-size: 0.78rem; min-height: 11.6rem;
+}
+.fmp .n[data-v-33762fbb] { font: 700 1.9rem/1 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.fmb > div[data-v-33762fbb] { grid-template-columns: 12rem 1fr 4rem; font-size: 0.8rem;
+}

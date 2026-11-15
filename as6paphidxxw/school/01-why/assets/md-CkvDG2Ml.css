@@ -1,0 +1,45 @@
+
+.vs[data-v-4bb1167e] { display: grid; grid-template-columns: 1.15fr 1fr; gap: 0.7rem;
+}
+.gr[data-v-4bb1167e] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.5rem;
+}
+.cd[data-v-4bb1167e] { display: flex; gap: 0.45rem; align-items: center; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 0.3rem 0.4rem; cursor: pointer; text-align: left;
+}
+.cd.on[data-v-4bb1167e] { border-color: var(--teal); box-shadow: 0 0 0 2px var(--teal-t);
+}
+.cd img[data-v-4bb1167e] { width: 5.4rem; height: 5.4rem; object-fit: cover; border-radius: 6px; flex: none; background: #000;
+}
+.cd span[data-v-4bb1167e] { display: flex; flex-direction: column; font-size: 0.8rem; line-height: 1.25; color: #1d2a3a;
+}
+.cd b[data-v-4bb1167e] { font: 600 0.54rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--teal-d);
+}
+.dt[data-v-4bb1167e] { background: var(--teal-t); border-radius: 12px; padding: 0.55rem 0.8rem; display: flex; flex-direction: column; gap: 0.35rem; transition: background 0.2s;
+}
+.dt.fp[data-v-4bb1167e] { background: var(--rubin-t);
+}
+.tg[data-v-4bb1167e] { display: flex; gap: 0.25rem;
+}
+.tg button[data-v-4bb1167e] { font: 600 0.62rem 'Source Sans 3', sans-serif; padding: 0.1rem 0.6rem; border-radius: 99px; border: 1px solid var(--navy); background: #fff; color: var(--navy); cursor: pointer;
+}
+.tg button.on[data-v-4bb1167e] { background: var(--navy); color: #fff;
+}
+.hd[data-v-4bb1167e] { font: 700 1.2rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+p[data-v-4bb1167e] { margin: 0; font-size: 0.95rem; line-height: 1.45;
+}
+p i[data-v-4bb1167e] { color: var(--rubin);
+}
+.cmp[data-v-4bb1167e] { display: flex; flex-direction: column; gap: 0.2rem;
+}
+.cmp div[data-v-4bb1167e] { display: grid; grid-template-columns: 5.2rem 1fr 2.6rem; gap: 0.35rem; align-items: center; font-size: 0.7rem;
+}
+.cmp i[data-v-4bb1167e] { display: block; height: 0.8rem; border-radius: 4px; background: var(--teal);
+}
+.cmp i.h[data-v-4bb1167e] { background: var(--navy);
+}
+.cmp b[data-v-4bb1167e] { font: 700 0.8rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.cmp small[data-v-4bb1167e] { font: 0.56rem 'IBM Plex Mono', monospace; color: var(--muted);
+}
+.src[data-v-4bb1167e] { margin-top: auto; font: italic 0.62rem 'Source Serif 4', serif; color: var(--muted);
+}

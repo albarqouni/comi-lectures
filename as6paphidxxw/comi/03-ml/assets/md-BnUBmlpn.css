@@ -1,0 +1,71 @@
+
+.tl[data-v-929feb09] { display: flex; flex-direction: column; gap: 0.5rem;
+}
+.axis[data-v-929feb09] { position: relative; height: 4.2rem;
+}
+.line[data-v-929feb09] { position: absolute; left: 2%; right: 2%; top: 1.3rem; height: 3px; background: var(--line); border-radius: 2px;
+}
+.dot[data-v-929feb09] { position: absolute; top: 0; transform: translateX(-50%); display: flex; flex-direction: column; align-items: center; gap: 0.15rem; background: none; border: none; cursor: pointer; padding: 0;
+}
+.dot .ci[data-v-929feb09] { width: 2.6rem; height: 2.6rem; border-radius: 50%; background: #fff; border: 2.5px solid var(--c); color: var(--c); display: grid; place-items: center; font-size: 1.25rem; box-sizing: border-box; transition: transform 0.2s;
+}
+.dot b[data-v-929feb09] { font: 700 0.72rem 'IBM Plex Mono', monospace; color: var(--navy);
+}
+.dot.on .ci[data-v-929feb09] { background: var(--c); color: #fff; transform: scale(1.12);
+}
+.real[data-v-929feb09] { display: grid; grid-template-columns: 4rem 1fr; align-items: center; gap: 0.4rem; position: relative; padding-bottom: 0.6rem;
+}
+.real span[data-v-929feb09] { font: 600 0.56rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.real .bar[data-v-929feb09] { position: relative; height: 0.5rem; background: #f1f3f6; border-radius: 99px;
+}
+.real .bar i[data-v-929feb09] { position: absolute; top: -0.15rem; width: 0.4rem; height: 0.8rem; border-radius: 2px; transform: translateX(-50%); opacity: 0.55;
+}
+.real .bar i.on[data-v-929feb09] { opacity: 1; height: 1.1rem; top: -0.3rem;
+}
+.real em[data-v-929feb09] { position: absolute; bottom: -0.2rem; left: 4.4rem; font: 0.56rem 'IBM Plex Mono', monospace; color: var(--muted); font-style: normal;
+}
+.real em.r[data-v-929feb09] { left: auto; right: 0;
+}
+.card[data-v-929feb09] { display: grid; grid-template-columns: 1.35fr 1fr; gap: 0.8rem; background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 0.7rem 0.9rem; min-height: 11rem;
+}
+.l[data-v-929feb09] { display: flex; flex-direction: column; gap: 0.15rem;
+}
+.yr[data-v-929feb09] { font: 700 2.2rem/1 'Source Sans 3', sans-serif;
+}
+.nm[data-v-929feb09] { font: 600 1.25rem 'Source Serif 4', serif; color: var(--navy);
+}
+.who[data-v-929feb09] { font-size: 0.82rem; font-weight: 600;
+}
+.rf[data-v-929feb09] { font: 0.66rem 'IBM Plex Mono', monospace; color: var(--muted);
+}
+.l p[data-v-929feb09] { margin: 0.3rem 0 0; font: 0.95rem/1.4 'Source Serif 4', serif;
+}
+.r[data-v-929feb09] { display: flex; flex-direction: column; gap: 0.4rem;
+}
+.k[data-v-929feb09] { font: 600 0.58rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--teal-d);
+}
+.sr[data-v-929feb09] { display: flex; gap: 0.6rem; align-items: center; background: var(--teal-t); border-radius: 10px; padding: 0.4rem 0.55rem;
+}
+.sr > i[data-v-929feb09] { width: 3.6rem; height: 3.6rem; border-radius: 8px; background-repeat: no-repeat; flex: none;
+}
+.sr div[data-v-929feb09] { display: flex; flex-direction: column;
+}
+.sr b[data-v-929feb09] { font: 700 1.5rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.sr span[data-v-929feb09] { font-size: 0.72rem;
+}
+.go[data-v-929feb09] { align-self: flex-start; font: 600 0.74rem 'Source Sans 3', sans-serif; padding: 0.25rem 0.75rem; border-radius: 99px; border: none; background: var(--navy); color: #fff; cursor: pointer; display: flex; gap: 0.3rem; align-items: center;
+}
+small[data-v-929feb09] { font-size: 0.66rem; color: var(--muted);
+}
+.ph img[data-v-929feb09] { height: 3.6rem; max-width: 5rem; object-fit: cover; border-radius: 5px; flex: none;
+}
+.ph[data-v-929feb09] { display: flex; gap: 0.4rem; align-items: center; border: 1px solid var(--line); border-radius: 8px; padding: 0.3rem 0.5rem; font-size: 0.62rem; color: var(--muted);
+}
+.ph i[data-v-929feb09] { font-size: 1.3rem; flex: none;
+}
+.lg[data-v-929feb09] { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: auto; font-size: 0.6rem; color: var(--muted);
+}
+.lg i[data-v-929feb09] { display: inline-block; width: 0.6rem; height: 0.6rem; border-radius: 2px; margin-right: 0.2rem; vertical-align: -0.05rem;
+}

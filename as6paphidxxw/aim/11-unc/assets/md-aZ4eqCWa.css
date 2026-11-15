@@ -1,0 +1,15 @@
+
+.fs[data-v-7f404b4b] { display: grid; grid-template-columns: repeat(5, 1fr); gap: 0.55rem;
+}
+.fs .c[data-v-7f404b4b] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid #004e9f; border-radius: 12px; padding: 0.55rem 0.65rem; display: flex; flex-direction: column; gap: 0.25rem; min-height: 15rem;
+}
+.fs .c > i[data-v-7f404b4b] { font-size: 1.6rem; color: #004e9f;
+}
+.fs b[data-v-7f404b4b] { font: 700 1rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.fs code[data-v-7f404b4b] { font-size: 0.7rem;
+}
+.fs span[data-v-7f404b4b] { font-size: 0.8rem; line-height: 1.35;
+}
+.fs em[data-v-7f404b4b] { font-size: 0.72rem; font-style: normal; color: var(--rubin-d); margin-top: auto;
+}

@@ -1,0 +1,9 @@
+
+.fr[data-v-fa207e11] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.8rem;
+}
+.fr .tk-c[data-v-fa207e11] { font-size: 0.9rem; min-height: 12rem;
+}
+.les[data-v-fa207e11] { display: flex; flex-wrap: wrap; gap: 0.3rem;
+}
+.les span[data-v-fa207e11] { font-size: 0.76rem; background: var(--rubin-t); color: var(--rubin-d); border-radius: 99px; padding: 0.1rem 0.55rem;
+}

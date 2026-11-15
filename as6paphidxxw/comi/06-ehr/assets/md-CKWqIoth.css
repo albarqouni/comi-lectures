@@ -1,0 +1,15 @@
+
+.l6rq[data-v-bd6d0b98] { display: grid; grid-template-columns: 1fr 1fr 1.15fr; gap: 0.7rem;
+}
+.l6rq .tk-c[data-v-bd6d0b98] { font-size: 0.8rem; line-height: 1.38;
+}
+.l6rq .tk-c b[data-v-bd6d0b98] { color: var(--navy);
+}
+.l6rq small[data-v-bd6d0b98] { font-size: 0.6rem; color: var(--muted);
+}
+.l6rqb > div[data-v-bd6d0b98] { grid-template-columns: 7.2rem 1fr 2.8rem; font-size: 0.72rem;
+}
+.l6rqb b[data-v-bd6d0b98] { font-size: 0.82rem;
+}
+.l6rq + .tk-note[data-v-bd6d0b98] { font-size: 0.84rem;
+}

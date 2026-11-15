@@ -1,0 +1,11 @@
+
+.au[data-v-c448f990] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.7rem;
+}
+.au .tk-c[data-v-c448f990] { font-size: 0.84rem;
+}
+.tiles[data-v-c448f990] { display: flex; gap: 0.3rem;
+}
+.tiles i[data-v-c448f990] { width: 3.6rem; height: 3.6rem; border-radius: 50%; background: url(/comi-lectures/_s/img/aim/medmnist/fundus.png) no-repeat; background-size: 1200% 500%; background-position: 27% 50%; background-color: #000;
+}
+.tiles img[data-v-c448f990] { width: 3.6rem; height: 3.6rem; object-fit: cover; border-radius: 6px;
+}

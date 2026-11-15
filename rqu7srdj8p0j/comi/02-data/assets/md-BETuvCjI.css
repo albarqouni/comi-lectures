@@ -1,0 +1,11 @@
+
+.wsi[data-v-8180f1da] { display: grid; grid-template-columns: 1.5fr 1fr; gap: 0.9rem; align-items: start;
+}
+.wsi .ar[data-v-8180f1da] { display: flex; gap: 0.6rem; align-items: center;
+}
+.wsi .ar b[data-v-8180f1da] { font: 700 1.4rem 'Source Sans 3', sans-serif; color: #004e9f;
+}
+.wsi .tk-c[data-v-8180f1da] { font-size: 0.84rem;
+}
+.wsi .th[data-v-8180f1da] { height: 6rem; object-fit: contain; background: #fff;
+}

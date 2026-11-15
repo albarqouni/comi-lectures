@@ -1,0 +1,27 @@
+
+.ln[data-v-6b152f41] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.8rem;
+}
+.ln .c[data-v-6b152f41] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid var(--rubin); border-radius: 12px; padding: 0.6rem 0.85rem; font-size: 0.84rem; line-height: 1.42; display: flex; flex-direction: column; gap: 0.35rem;
+}
+.ln .k[data-v-6b152f41] { display: flex; gap: 0.35rem; align-items: center; font: 700 1.05rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.ln .k i[data-v-6b152f41] { color: var(--rubin); font-size: 1.3rem;
+}
+.ln img[data-v-6b152f41] { width: 100%; height: 6.2rem; object-fit: cover; border-radius: 8px;
+}
+.nz[data-v-6b152f41] { align-self: center;
+}
+.dc i[data-v-6b152f41] { display: block; height: 0.9rem; background: var(--navy); border-radius: 99px;
+}
+.dc i.r[data-v-6b152f41] { background: var(--rubin);
+}
+.dc[data-v-6b152f41] { display: grid; grid-template-columns: 7.5rem 1fr; gap: 0.4rem; align-items: center; font-size: 0.72rem;
+}
+.dc i[data-v-6b152f41] { height: 1.3rem; display: flex; align-items: center; justify-content: flex-end; padding-right: 0.35rem;
+}
+.dc i b[data-v-6b152f41] { color: #fff; font: 700 0.8rem 'Source Sans 3', sans-serif;
+}
+.ln small[data-v-6b152f41], .ln .sm[data-v-6b152f41] { font-size: 0.66rem; color: var(--muted);
+}
+.lesson[data-v-6b152f41] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.5rem 0.9rem; font: 1rem 'Source Serif 4', serif; display: flex; gap: 0.6rem; align-items: center;
+}

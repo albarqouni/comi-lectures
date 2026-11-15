@@ -1,0 +1,46 @@
+
+.afs[data-v-a1abe9c6] { display: flex; flex-direction: column; gap: 0.25rem; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.45rem 0.7rem;
+}
+.afs-ctl[data-v-a1abe9c6] { display: grid; grid-template-columns: 1fr auto; gap: 0.5rem; align-items: end;
+}
+.afs-ctl label[data-v-a1abe9c6] { display: flex; flex-direction: column; font-size: 0.66rem; color: var(--muted);
+}
+.afs-ctl label b[data-v-a1abe9c6] { color: var(--navy);
+}
+.afs-ctl input[data-v-a1abe9c6] { accent-color: #004e9f;
+}
+.afs-ctl button[data-v-a1abe9c6] { font: 600 0.64rem 'Source Sans 3', sans-serif; border: 1.5px solid #004e9f; color: #004e9f; background: #fff; border-radius: 7px; padding: 0.2rem 0.45rem; cursor: pointer; display: flex; gap: 0.2rem; align-items: center;
+}
+.afs-h[data-v-a1abe9c6] { font: 600 0.5rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.afs svg[data-v-a1abe9c6] { width: 100%; height: 5.4rem;
+}
+.afs-out[data-v-a1abe9c6] { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.25rem;
+}
+.afs-out > div[data-v-a1abe9c6] { background: #e3ecf8; border-radius: 7px; padding: 0.15rem 0.35rem; display: flex; flex-direction: column;
+}
+.afs-out span[data-v-a1abe9c6] { font-size: 0.5rem; color: var(--muted); line-height: 1.2; white-space: nowrap;
+}
+.afs-out b[data-v-a1abe9c6] { font: 700 0.85rem 'Source Sans 3', sans-serif; color: #004e9f; white-space: nowrap;
+}
+.afs-out b.lo[data-v-a1abe9c6] { color: var(--rubin);
+}
+.afs-avg[data-v-a1abe9c6] { font-size: 0.62rem; line-height: 1.35; color: var(--muted);
+}
+.afs-avg b[data-v-a1abe9c6] { color: var(--navy);
+}
+
+.trk[data-v-f91ed347] { position: absolute; top: 5.4rem; right: 2.5rem; font: 600 0.56rem 'IBM Plex Mono', monospace; letter-spacing: 0.1em; text-transform: uppercase; padding: 0.15rem 0.55rem; border-radius: 99px; background: #e3ecf8; color: #004e9f;
+}
+.f11sc[data-v-f91ed347] { display: grid; grid-template-columns: 1.15fr 1fr; gap: 0.8rem; align-items: start;
+}
+.f11sc-l[data-v-f91ed347] { display: flex; flex-direction: column; gap: 0.35rem;
+}
+.f11sc-l pre[data-v-f91ed347] { font-size: 0.56rem !important; margin: 0 !important;
+}
+.f11sc-dv[data-v-f91ed347] { display: flex; flex-direction: column; gap: 0.3rem; font: 0.88rem 'Source Serif 4', serif; color: var(--navy);
+}
+.f11sc-dv span[data-v-f91ed347]:not(.tex) { font: 0.74rem 'Source Sans 3', sans-serif; color: var(--muted);
+}
+.f11sc-ts[data-v-f91ed347] { font: 0.72rem/1.35 'Source Sans 3', sans-serif; color: var(--muted);
+}

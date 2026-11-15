@@ -1,0 +1,41 @@
+
+.t3m[data-v-3ff74f8d] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.9rem;
+}
+.t3m-l[data-v-3ff74f8d], .t3m-r[data-v-3ff74f8d] { display: flex; flex-direction: column; gap: 0.45rem;
+}
+.g[data-v-3ff74f8d] { display: flex; gap: 0.2rem; flex-wrap: wrap; align-items: center;
+}
+.g > span[data-v-3ff74f8d] { font: 600 0.56rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted); width: 2.8rem;
+}
+.g button[data-v-3ff74f8d] { font: 600 0.62rem 'Source Sans 3', sans-serif; padding: 0.08rem 0.45rem; border-radius: 99px; border: 1.5px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.g button.on[data-v-3ff74f8d] { background: #004e9f; color: #fff; border-color: #004e9f;
+}
+label[data-v-3ff74f8d] { display: grid; grid-template-columns: 4.5rem 1fr 2rem; gap: 0.4rem; align-items: center; font-size: 0.72rem; color: var(--navy);
+}
+input[data-v-3ff74f8d] { accent-color: #004e9f;
+}
+label b[data-v-3ff74f8d] { font: 0.7rem 'IBM Plex Mono', monospace;
+}
+.t3m-code[data-v-3ff74f8d] { background: #1e1e1e; color: #d4d4d4; border-radius: 8px; padding: 0.4rem 0.6rem; font: 0.58rem/1.55 'IBM Plex Mono', monospace;
+}
+.t3m-code .c[data-v-3ff74f8d] { color: #6a9955;
+}
+.t3m-bar[data-v-3ff74f8d] { display: flex; height: 1.4rem; background: #eef1f5; border-radius: 6px; overflow: hidden;
+}
+.t3m-bar i[data-v-3ff74f8d] { height: 100%;
+}
+.t3m-rows > div[data-v-3ff74f8d] { display: grid; grid-template-columns: 0.8rem 1fr 5rem; gap: 0.4rem; align-items: center; font-size: 0.78rem; color: var(--navy); padding: 0.1rem 0;
+}
+.t3m-rows i[data-v-3ff74f8d] { width: 0.7rem; height: 0.7rem; border-radius: 2px;
+}
+.t3m-rows b[data-v-3ff74f8d] { font: 0.72rem 'IBM Plex Mono', monospace; text-align: right;
+}
+.t3m-rows .tt[data-v-3ff74f8d] { border-top: 1px solid var(--line); font-weight: 700;
+}
+.t3m-n[data-v-3ff74f8d] { font-size: 0.66rem; color: var(--muted);
+}
+.t3m-warn[data-v-3ff74f8d] { display: flex; gap: 0.45rem; background: #fff4d6; border-radius: 10px; padding: 0.45rem 0.65rem; font-size: 0.74rem; color: var(--navy); line-height: 1.35;
+}
+.t3m-warn i[data-v-3ff74f8d] { font-size: 1.2rem; color: #8a6400; flex: none;
+}

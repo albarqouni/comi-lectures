@@ -1,0 +1,17 @@
+
+.gnf[data-v-f15f1b34] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.55rem;
+}
+.gnf .cd[data-v-f15f1b34] { display: flex; gap: 0.5rem; align-items: flex-start; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 0.55rem 0.65rem; text-decoration: none; color: var(--navy); min-height: 7.6rem;
+}
+.gnf .cd.pg[data-v-f15f1b34] { background: var(--teal-t); border-color: transparent;
+}
+.gnf .cd > i[data-v-f15f1b34] { font-size: 1.4rem; color: var(--teal-d); flex: none; margin-top: 0.1rem;
+}
+.gnf .cd b[data-v-f15f1b34] { display: block; font: 700 0.86rem/1.2 'Source Sans 3', sans-serif;
+}
+.gnf .cd span[data-v-f15f1b34] { display: block; font-size: 0.62rem; color: var(--muted); margin-top: 0.1rem;
+}
+.gnf .cd p[data-v-f15f1b34] { margin: 0.25rem 0 0; font-size: 0.74rem; line-height: 1.35;
+}
+.gnf .cd[data-v-f15f1b34]:hover { border-color: var(--teal);
+}

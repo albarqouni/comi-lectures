@@ -1,0 +1,21 @@
+
+.m4ex[data-v-1cacdd47] { display: grid; grid-template-columns: 1.35fr 1fr; gap: 0.8rem;
+}
+.m4ex .bx[data-v-1cacdd47] { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.6rem 0.8rem; display: flex; flex-direction: column; gap: 0.5rem;
+}
+.m4ex .k[data-v-1cacdd47] { font: 600 0.58rem 'IBM Plex Mono', monospace; text-transform: uppercase; letter-spacing: 0.05em; color: var(--navy);
+}
+.m4ex .tk-bars span[data-v-1cacdd47] { display: flex; gap: 0.3rem; align-items: center;
+}
+.m4ex .pp[data-v-1cacdd47] { display: flex; gap: 0.5rem; align-items: center; background: var(--rubin-t); border-radius: 8px; padding: 0.35rem 0.6rem; font-size: 0.84rem;
+}
+.m4ex .pp > i[data-v-1cacdd47] { font-size: 1.5rem; color: var(--rubin); flex: none;
+}
+.m4ex .cl[data-v-1cacdd47] { display: flex; flex-direction: column; gap: 0.45rem;
+}
+.m4ex .tk-c[data-v-1cacdd47] { padding: 0.4rem 0.65rem;
+}
+.m4ex .tk-c .n[data-v-1cacdd47] { font-size: 1.3rem;
+}
+.m4ex small[data-v-1cacdd47] { font-size: 0.72rem; line-height: 1.35;
+}

@@ -1,0 +1,23 @@
+
+.ow[data-v-eb0bc623] { display: grid; grid-template-columns: 1.1fr 1fr; gap: 1rem;
+}
+.fn[data-v-eb0bc623] { display: flex; flex-direction: column; gap: 0.45rem;
+}
+.fn .b[data-v-eb0bc623] { background: var(--navy); color: #fff; border-radius: 8px; padding: 0.75rem 0.8rem; display: flex; gap: 0.5rem; align-items: baseline; min-width: 13rem;
+}
+.fn .b b[data-v-eb0bc623] { font: 700 1.5rem 'Source Sans 3', sans-serif;
+}
+.fn .b span[data-v-eb0bc623] { font-size: 0.78rem;
+}
+.fn .b.r[data-v-eb0bc623] { background: var(--rubin);
+}
+.why[data-v-eb0bc623] { display: flex; flex-direction: column; gap: 0.45rem;
+}
+.why div[data-v-eb0bc623] { display: flex; gap: 0.5rem; align-items: flex-start; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 0.75rem 0.8rem; font-size: 0.95rem;
+}
+.why i[data-v-eb0bc623] { font-size: 1.3rem; color: var(--rubin); flex: none;
+}
+.why b[data-v-eb0bc623] { color: var(--navy);
+}
+.lesson[data-v-eb0bc623] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.5rem 0.9rem; font: italic 1rem 'Source Serif 4', serif;
+}

@@ -1,0 +1,17 @@
+
+.fw[data-v-1026663d] { display: grid; grid-template-columns: 0.8fr 1fr 1fr; gap: 0.7rem; align-items: stretch;
+}
+.fw .im[data-v-1026663d] { margin: 0; display: flex; flex-direction: column; gap: 0.2rem;
+}
+.fw .im img[data-v-1026663d] { width: 100%; height: 9.4rem; object-fit: cover; border-radius: 10px;
+}
+.fw figcaption[data-v-1026663d] { font-size: 0.56rem; color: var(--muted); line-height: 1.3;
+}
+.fw .tk-c .k[data-v-1026663d] { display: flex; gap: 0.3rem; align-items: center;
+}
+.fw .tk-c .k i[data-v-1026663d] { color: #b88a00;
+}
+.fw .tk-bars > div[data-v-1026663d] { grid-template-columns: 5.4rem 1fr 2.6rem; font-size: 0.76rem;
+}
+.fw small[data-v-1026663d] { font-size: 0.62rem; color: var(--muted);
+}

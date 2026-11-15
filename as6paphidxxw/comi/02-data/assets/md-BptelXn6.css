@@ -1,0 +1,41 @@
+
+.pet[data-v-65287c82] { display: grid; grid-template-columns: 1fr 15rem; gap: 1rem; align-items: start;
+}
+.vis[data-v-65287c82] { display: flex; gap: 0.8rem; align-items: center;
+}
+.ring[data-v-65287c82] { width: 14rem; height: 14rem;
+}
+figure[data-v-65287c82] { margin: 0; display: flex; flex-direction: column; align-items: center; gap: 0.15rem;
+}
+canvas[data-v-65287c82] { width: 11rem; height: 11rem; image-rendering: auto; border-radius: 8px; background: #000;
+}
+figcaption[data-v-65287c82] { font: 600 0.56rem 'IBM Plex Mono', monospace; color: var(--muted);
+}
+.side[data-v-65287c82] { display: flex; flex-direction: column; gap: 0.45rem;
+}
+.eq[data-v-65287c82] { font-size: 0.62rem; text-align: center; color: var(--navy); background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 0.2rem 0.3rem;
+}
+label[data-v-65287c82] { display: flex; flex-direction: column; gap: 0.05rem; font-size: 0.74rem;
+}
+label b[data-v-65287c82] { color: var(--rubin);
+}
+label.ck[data-v-65287c82] { flex-direction: row; gap: 0.35rem; align-items: center; font-size: 0.68rem;
+}
+input[type=range][data-v-65287c82] { width: 100%; accent-color: var(--navy);
+}
+.bt[data-v-65287c82] { display: flex; gap: 0.3rem;
+}
+.bt button[data-v-65287c82] { font: 600 0.7rem 'Source Sans 3', sans-serif; padding: 0.2rem 0.7rem; border-radius: 99px; border: 1px solid var(--teal); background: var(--teal); color: #fff; cursor: pointer;
+}
+.bt button.g[data-v-65287c82] { background: #fff; color: var(--teal-d);
+}
+.ms[data-v-65287c82] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.3rem;
+}
+.ms div[data-v-65287c82] { background: #fff; border: 1px solid var(--line); border-radius: 8px; padding: 0.1rem 0.45rem; display: flex; flex-direction: column;
+}
+.ms span[data-v-65287c82] { font-size: 0.56rem; color: var(--muted);
+}
+.ms b[data-v-65287c82] { font: 700 1rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.nt[data-v-65287c82] { font-size: 0.68rem; line-height: 1.4; background: var(--teal-t); border-radius: 8px; padding: 0.3rem 0.5rem; color: var(--navy);
+}

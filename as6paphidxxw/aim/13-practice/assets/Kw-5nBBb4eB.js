@@ -1,0 +1,1 @@
+import{R as e,V as t,w as n,y as r}from"./modules/shiki-CSGGBenP.js";import{gt as i,tt as a}from"./index-DVHMtlhA.js";var o={class:`kw`},s=i(n({__name:`Kw`,setup(n){let{$slidev:i,$nav:s,$clicksContext:c,$clicks:l,$page:u,$renderContext:d,$frontmatter:f}=a();return(n,i)=>(e(),r(`span`,o,[t(n.$slots,`default`,{},void 0,!0)]))}}),[[`__scopeId`,`data-v-858eba27`]]);export{s as t};

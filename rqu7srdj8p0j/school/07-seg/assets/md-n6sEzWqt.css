@@ -1,0 +1,46 @@
+
+.rw2[data-v-098c41b8] { display: grid; grid-template-columns: 8.8rem 16rem 1fr; gap: 0.8rem; align-items: start;
+}
+.dt[data-v-098c41b8] { display: flex; flex-direction: column; gap: 0.35rem;
+}
+.dt span[data-v-098c41b8], .df span[data-v-098c41b8] { font: 600 0.58rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted); display: block; margin-bottom: 0.1rem;
+}
+.cs[data-v-098c41b8] { width: 8.8rem; border-radius: 8px; background: #000; display: block;
+}
+.cb[data-v-098c41b8] { width: 16rem; border-radius: 10px; background: #000; display: block;
+}
+.rt[data-v-098c41b8] { display: flex; flex-direction: column; gap: 0.45rem;
+}
+.tg[data-v-098c41b8] { display: flex; flex-direction: column; gap: 0.3rem;
+}
+.tg button[data-v-098c41b8] { font: 600 0.72rem 'Source Sans 3', sans-serif; padding: 0.25rem 0.7rem; border-radius: 99px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer; text-align: left;
+}
+.tg button.on[data-v-098c41b8] { background: var(--navy); color: #fff;
+}
+.ck[data-v-098c41b8] { display: flex; gap: 0.4rem; align-items: center; font-size: 0.74rem; color: var(--navy);
+}
+.ck input[data-v-098c41b8] { accent-color: var(--rubin);
+}
+.rs[data-v-098c41b8] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.35rem;
+}
+.rs div[data-v-098c41b8] { background: #e8edf5; border-radius: 8px; padding: 0.3rem 0.55rem; display: flex; flex-direction: column;
+}
+.rs span[data-v-098c41b8] { font-size: 0.62rem; color: var(--navy);
+}
+.rs b[data-v-098c41b8] { font: 700 1.25rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.rs small[data-v-098c41b8] { font-size: 0.56rem; color: var(--muted);
+}
+.rs .r[data-v-098c41b8] { background: var(--rubin-t);
+}
+.rs .r b[data-v-098c41b8] { color: var(--rubin-d);
+}
+.nt[data-v-098c41b8] { font-size: 0.74rem; color: var(--navy); background: #f4f7fb; border: 1px solid var(--line); border-radius: 9px; padding: 0.35rem 0.55rem; line-height: 1.35;
+}
+
+.rgf .tk-c[data-v-d6027fdc] { padding: 0.3rem 0.6rem; font-size: 0.74rem; flex-direction: row; align-items: center; gap: 0.45rem;
+}
+.rgf .tk-c > .ic[data-v-d6027fdc] { font-size: 1.3rem; flex: none;
+}
+.rgf b[data-v-d6027fdc] { color: var(--navy);
+}

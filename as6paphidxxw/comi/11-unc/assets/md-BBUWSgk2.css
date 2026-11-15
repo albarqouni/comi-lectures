@@ -1,0 +1,11 @@
+
+.od[data-v-0232d40a] { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;
+}
+.od .cd[data-v-0232d40a] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid var(--rubin); border-radius: 14px; padding: 0.8rem 1rem; font-size: 0.95rem; line-height: 1.5;
+}
+.od .k[data-v-0232d40a] { font: 700 1.05rem 'Source Sans 3', sans-serif; color: var(--navy); margin-bottom: 0.3rem;
+}
+.lesson[data-v-0232d40a] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.55rem 0.9rem; font: 1rem 'Source Serif 4', serif;
+}
+.lesson b[data-v-0232d40a] { color: var(--gelb);
+}

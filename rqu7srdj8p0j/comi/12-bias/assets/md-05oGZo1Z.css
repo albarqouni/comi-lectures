@@ -1,0 +1,49 @@
+
+.zs[data-v-9bd679e6] { display: grid; grid-template-columns: 0.9fr 1.3fr; gap: 0.8rem;
+}
+.lf[data-v-9bd679e6] { display: flex; flex-direction: column; gap: 0.3rem; font-size: 0.72rem; color: var(--navy);
+}
+.k[data-v-9bd679e6] { font: 600 0.54rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: #004e9f;
+}
+.cl[data-v-9bd679e6] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.2rem;
+}
+.cl button[data-v-9bd679e6], .ho[data-v-9bd679e6] { font: 600 0.64rem 'Source Sans 3', sans-serif; padding: 0.18rem 0.4rem; border-radius: 6px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer; text-align: left;
+}
+.cl button.on[data-v-9bd679e6], .ho.on[data-v-9bd679e6] { background: var(--navy); color: #fff;
+}
+.pr[data-v-9bd679e6] { display: flex; flex-wrap: wrap; gap: 0.15rem;
+}
+.pr span[data-v-9bd679e6] { font: 0.62rem 'IBM Plex Mono', monospace; padding: 0.05rem 0.3rem; border-radius: 99px; background: var(--teal); color: #fff; cursor: pointer;
+}
+.pr span.off[data-v-9bd679e6] { background: #eef1f5; color: #9aa5b5; text-decoration: line-through;
+}
+label[data-v-9bd679e6] { display: flex; flex-direction: column;
+}
+label input[data-v-9bd679e6] { accent-color: var(--teal-d);
+}
+.rt[data-v-9bd679e6] { display: flex; flex-direction: column; gap: 0.4rem;
+}
+table[data-v-9bd679e6] { border-collapse: collapse; font-size: 0.72rem; color: var(--navy);
+}
+th[data-v-9bd679e6] { font: 600 0.52rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted); text-align: left; padding: 0.1rem 0.25rem;
+}
+td[data-v-9bd679e6] { padding: 0.25rem; border-top: 1px solid #eef1f5;
+}
+td b[data-v-9bd679e6] { font: 700 0.92rem 'Source Sans 3', sans-serif;
+}
+td small[data-v-9bd679e6] { font-size: 0.58rem; color: var(--muted);
+}
+tr.mi td[data-v-9bd679e6] { background: #fdf1f4;
+}
+.gp[data-v-9bd679e6] { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.35rem;
+}
+.gp > div[data-v-9bd679e6] { background: #f4f7fb; border: 1px solid var(--line); border-radius: 8px; padding: 0.3rem 0.4rem; display: flex; flex-direction: column; gap: 0.1rem; font-size: 0.66rem;
+}
+.gp span[data-v-9bd679e6] { font-size: 0.58rem; color: var(--muted);
+}
+.gp b[data-v-9bd679e6] { font: 700 1.25rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.gp b.r[data-v-9bd679e6] { color: var(--rubin);
+}
+small[data-v-9bd679e6] { font-size: 0.6rem; color: var(--muted); line-height: 1.3;
+}

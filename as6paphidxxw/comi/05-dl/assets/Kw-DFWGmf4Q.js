@@ -1,0 +1,1 @@
+import{H as e,T as t,b as n,z as r}from"./modules/shiki-SRenMtlB.js";import{rt as i,yt as a}from"./index-BugxxQpJ.js";var o={class:`kw`},s=a(t({__name:`Kw`,setup(t){let{$slidev:a,$nav:s,$clicksContext:c,$clicks:l,$page:u,$renderContext:d,$frontmatter:f}=i();return(t,i)=>(r(),n(`span`,o,[e(t.$slots,`default`,{},void 0,!0)]))}}),[[`__scopeId`,`data-v-858eba27`]]);export{s as t};

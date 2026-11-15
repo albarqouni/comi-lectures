@@ -1,0 +1,23 @@
+
+.l6k[data-v-e4c6b7e1] { display: grid; grid-template-columns: 1fr 1.1fr; gap: 0.8rem; align-items: start;
+}
+.l6k .cl[data-v-e4c6b7e1] { display: flex; flex-direction: column; gap: 0.5rem;
+}
+.l6k .tk-c[data-v-e4c6b7e1] { font-size: 0.82rem; line-height: 1.35; gap: 0.25rem; padding: 0.55rem 0.8rem;
+}
+.l6k .tk-c .k[data-v-e4c6b7e1] { display: flex; gap: 0.35rem; align-items: center; font-size: 0.95rem;
+}
+.l6k .tk-c .k i[data-v-e4c6b7e1] { color: var(--teal-d);
+}
+.l6k .cd[data-v-e4c6b7e1] { display: grid; grid-template-columns: 4.6rem 1fr; gap: 0.4rem; align-items: center; font-size: 0.78rem;
+}
+.l6k code[data-v-e4c6b7e1] { background: var(--navy); color: #fff; border-radius: 5px; padding: 0.05rem 0.35rem; font-size: 0.72rem; text-align: center;
+}
+.l6k .sm[data-v-e4c6b7e1] { font-size: 0.78rem;
+}
+.l6k b[data-v-e4c6b7e1] { color: var(--navy);
+}
+.l6kb > div[data-v-e4c6b7e1] { grid-template-columns: 11rem 1fr 4.6rem; font-size: 0.8rem;
+}
+.l6kb b[data-v-e4c6b7e1] { font-size: 0.9rem;
+}

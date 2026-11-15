@@ -1,0 +1,83 @@
+
+.gp[data-v-9621b304] { display: grid; grid-template-columns: 22rem 1fr; gap: 1rem; font-family: 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.fig[data-v-9621b304] { position: relative; width: 22rem; height: 19rem; background: #fbfbfd; border: 1px solid var(--line); border-radius: 10px; overflow: hidden;
+}
+.fig svg[data-v-9621b304] { position: absolute; inset: 0; width: 100%; height: 100%; cursor: crosshair;
+}
+.dots[data-v-9621b304] { position: absolute; inset: 0; pointer-events: none;
+}
+.dots i[data-v-9621b304] { position: absolute; width: 0.42rem; height: 0.42rem; border-radius: 50%; background: var(--navy); transform: translate(-50%, -50%); opacity: 0.8;
+}
+.dots i.off[data-v-9621b304] { background: transparent; border: 1px solid #9fb3c8;
+}
+.ax[data-v-9621b304] { position: absolute; font: 600 0.52rem 'IBM Plex Mono', monospace; background: rgba(255, 255, 255, 0.75); padding: 0 0.2rem;
+}
+.ax.x[data-v-9621b304] { right: 0.3rem; bottom: 0.15rem;
+}
+.ax.y[data-v-9621b304] { left: 0.3rem; top: 0.15rem;
+}
+.tk[data-v-9621b304] { position: absolute; bottom: 0.15rem; font: 0.5rem 'IBM Plex Mono', monospace; color: var(--muted);
+}
+.tk.t0[data-v-9621b304] { left: 0.2rem;
+}
+.tk.t1[data-v-9621b304] { left: 50%;
+}
+.tk.t2[data-v-9621b304] { display: none;
+}
+.sd[data-v-9621b304] { display: flex; flex-direction: column; gap: 0.4rem; min-width: 0;
+}
+.row[data-v-9621b304] { display: flex; align-items: center; gap: 0.5rem;
+}
+.lb[data-v-9621b304] { font-size: 0.7rem; width: 7.6rem; flex: none;
+}
+.row input[type='range'][data-v-9621b304] { flex: 1;
+}
+.tg[data-v-9621b304] { display: flex; gap: 0.25rem; flex-wrap: wrap;
+}
+.tg button[data-v-9621b304] { font: 600 0.64rem 'Source Sans 3', sans-serif; padding: 0.12rem 0.5rem; border-radius: 99px; border: 1.5px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.tg button.on[data-v-9621b304] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+.bt[data-v-9621b304] { display: flex; gap: 0.3rem; flex-wrap: wrap;
+}
+.bt button[data-v-9621b304] { font: 600 0.68rem 'Source Sans 3', sans-serif; padding: 0.2rem 0.65rem; border-radius: 99px; border: none; background: var(--rubin); color: #fff; cursor: pointer;
+}
+.bt button.g[data-v-9621b304] { background: #c9d2dd; color: var(--navy);
+}
+.bt button[data-v-9621b304]:disabled { opacity: 0.5;
+}
+.st[data-v-9621b304] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.3rem;
+}
+.st > div[data-v-9621b304] { background: var(--card); border: 1px solid var(--line); border-radius: 9px; padding: 0.2rem 0.5rem; display: flex; flex-direction: column;
+}
+.st .e[data-v-9621b304] { background: var(--rubin-t); border-color: transparent;
+}
+.st .a[data-v-9621b304] { background: var(--teal-t); border-color: transparent;
+}
+.st span[data-v-9621b304] { font-size: 0.55rem; text-transform: uppercase; font-family: 'IBM Plex Mono', monospace; color: var(--muted);
+}
+.st b[data-v-9621b304] { font: 700 1.1rem 'Source Sans 3', sans-serif;
+}
+.st small[data-v-9621b304] { font-size: 0.58rem; color: var(--muted); line-height: 1.3;
+}
+.lg[data-v-9621b304] { display: flex; gap: 0.3rem; align-items: center; flex-wrap: wrap; font-size: 0.6rem; color: var(--muted);
+}
+.lg i[data-v-9621b304] { display: inline-block; width: 0.8rem; height: 0.55rem; border-radius: 2px;
+}
+.lg i.e[data-v-9621b304] { background: rgba(194, 37, 92, 0.35);
+}
+.lg i.a[data-v-9621b304] { background: rgba(31, 140, 130, 0.25); margin-left: 0.3rem;
+}
+.lg i.s[data-v-9621b304] { height: 0.12rem; background: #6b4fa0; margin-left: 0.3rem;
+}
+.cov[data-v-9621b304] { display: grid; grid-template-columns: 8rem 1fr; gap: 0.6rem; align-items: center; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 0.4rem 0.5rem;
+}
+.cov svg[data-v-9621b304] { width: 8rem; height: 8rem; border-radius: 6px;
+}
+.cov > div[data-v-9621b304] { display: flex; flex-direction: column; gap: 0.25rem; font-size: 0.7rem;
+}
+.cov > div > span[data-v-9621b304] { color: var(--muted); font-size: 0.66rem; line-height: 1.35;
+}
+.cov em[data-v-9621b304] { font-style: normal; font-weight: 700; color: var(--navy);
+}

@@ -1,0 +1,39 @@
+{
+ "tile": [
+  64,
+  64
+ ],
+ "channels": 3,
+ "perClass": 12,
+ "classes": 7,
+ "picked": {
+  "0": 12,
+  "1": 12,
+  "2": 12,
+  "3": 12,
+  "4": 12,
+  "5": 12,
+  "6": 12
+ },
+ "testCounts": {
+  "0": 66,
+  "1": 103,
+  "2": 220,
+  "3": 23,
+  "4": 223,
+  "5": 1341,
+  "6": 29
+ },
+ "modality": "Dermoscopy",
+ "source": "MedMNIST+ v3.0 (dermamnist_64.npz, test split), Zenodo doi:10.5281/zenodo.10519652",
+ "licence": "CC BY-NC 4.0",
+ "classNames": [
+  "actinic keratosis",
+  "basal cell carcinoma",
+  "benign keratosis",
+  "dermatofibroma",
+  "melanoma",
+  "melanocytic nevus",
+  "vascular lesion"
+ ]
+}

@@ -1,0 +1,29 @@
+
+.t1p[data-v-ba26d86d] { display: grid; grid-template-columns: 1.15fr 1fr; gap: 0.8rem;
+}
+.t1p .tb[data-v-ba26d86d] { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.6rem 0.7rem; display: flex; flex-direction: column; gap: 0.3rem;
+}
+.t1p .hd[data-v-ba26d86d], .t1p .t1rw[data-v-ba26d86d] { display: grid; grid-template-columns: 4rem repeat(6, 1fr); gap: 0.3rem; align-items: center; text-align: center;
+}
+.t1p .hd[data-v-ba26d86d] { font: 600 0.52rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.t1p .t1rw[data-v-ba26d86d] { font: 600 0.95rem 'IBM Plex Mono', monospace; color: var(--navy); background: #f4f7fb; border-radius: 8px; padding: 0.35rem 0;
+}
+.t1p .t1rw b[data-v-ba26d86d] { font: 600 0.72rem 'Source Sans 3', sans-serif;
+}
+.t1p .t1rw.hl[data-v-ba26d86d] { background: #fbe9ef;
+}
+.t1p small[data-v-ba26d86d] { font-size: 0.68rem; color: var(--muted); margin-top: 0.3rem;
+}
+.t1p .tk-c[data-v-ba26d86d] { font-size: 0.82rem;
+}
+.t1p .sc[data-v-ba26d86d] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.3rem;
+}
+.t1p .sc > div[data-v-ba26d86d] { background: #fff; border-radius: 8px; padding: 0.2rem 0.4rem; display: flex; flex-direction: column; align-items: center;
+}
+.t1p .sc span[data-v-ba26d86d] { font-size: 0.6rem; color: var(--muted);
+}
+.t1p .sc b[data-v-ba26d86d] { font: 700 1.4rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.t1p .sc .hi b[data-v-ba26d86d] { color: #c2255c;
+}

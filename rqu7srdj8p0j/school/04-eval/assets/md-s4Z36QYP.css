@@ -1,0 +1,27 @@
+
+.f4th[data-v-0c4f1508] { display: flex; flex-direction: column; gap: 0.45rem;
+}
+.f4th .m[data-v-0c4f1508] { display: grid; grid-template-columns: 2rem 1fr 22rem; gap: 0.8rem; align-items: center; font: 1.12rem/1.35 'Source Serif 4', serif; color: var(--ink);
+}
+.f4th .m > i[data-v-0c4f1508] { font-style: normal; width: 2rem; height: 2rem; border-radius: 50%; background: var(--navy); color: var(--gelb); display: grid; place-items: center; font: 700 1rem 'Source Sans 3', sans-serif;
+}
+.f4th .m > span b[data-v-0c4f1508] { color: var(--navy);
+}
+.f4th-v[data-v-0c4f1508] { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 0.3rem 0.6rem; display: flex; flex-direction: column; gap: 0.15rem;
+}
+.f4th-h[data-v-0c4f1508] { font: 600 0.48rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.f4th-v .tk-bars[data-v-0c4f1508] { gap: 0.15rem;
+}
+.f4th-v .tk-bars > div[data-v-0c4f1508] { grid-template-columns: 8.4rem 1fr 4.2rem; font-size: 0.66rem; gap: 0.3rem;
+}
+.f4th-v .tk-bars i[data-v-0c4f1508] { height: 0.7rem;
+}
+.f4th-v .tk-bars b[data-v-0c4f1508] { font-size: 0.74rem;
+}
+.f4th-v svg[data-v-0c4f1508] { width: 100%; height: 2.6rem;
+}
+.f4th-v small[data-v-0c4f1508] { font-size: 0.56rem; color: var(--muted);
+}
+.kws[data-v-0c4f1508] { display: flex; gap: 0.5rem; flex-wrap: wrap; font-size: 1.1rem;
+}

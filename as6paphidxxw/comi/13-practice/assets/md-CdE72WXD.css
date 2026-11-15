@@ -1,0 +1,13 @@
+
+.op[data-v-df1ff176] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.55rem 0.7rem;
+}
+.op .tk-c[data-v-df1ff176] { display: grid; grid-template-columns: auto 1fr; grid-template-rows: auto auto 1fr auto; column-gap: 0.55rem; row-gap: 0.1rem; padding: 0.5rem 0.75rem; font-size: 0.76rem; line-height: 1.35;
+}
+.op .tk-c > .ic[data-v-df1ff176] { grid-row: 1 / 3; font-size: 1.6rem; align-self: center;
+}
+.op .tk-c .n[data-v-df1ff176] { font-size: 1.6rem;
+}
+.op .tk-c .k[data-v-df1ff176] { font-size: 0.86rem;
+}
+.op .tk-c > span[data-v-df1ff176], .op .tk-c > small[data-v-df1ff176] { grid-column: 1 / -1;
+}

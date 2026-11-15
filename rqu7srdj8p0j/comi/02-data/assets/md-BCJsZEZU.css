@@ -1,0 +1,49 @@
+
+.le[data-v-977c2359] { display: grid; grid-template-columns: 1.3fr 1fr 1fr; gap: 0.8rem;
+}
+.le .k[data-v-977c2359] { display: flex; gap: 0.35rem; align-items: center; font: 600 0.6rem 'IBM Plex Mono', monospace; letter-spacing: 0.06em; text-transform: uppercase; color: var(--teal-d); margin-bottom: 0.3rem;
+}
+.le .k i[data-v-977c2359] { font-size: 1.05rem;
+}
+.split[data-v-977c2359], .rnd[data-v-977c2359] { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 0.6rem 0.85rem;
+}
+.pt[data-v-977c2359] { display: flex; gap: 0.18rem; align-items: center; margin: 0.28rem 0;
+}
+.pt span[data-v-977c2359] { width: 4.3rem; font-size: 0.74rem; color: var(--navy); font-weight: 600;
+}
+.pt i[data-v-977c2359], .lg i[data-v-977c2359] { display: inline-block; width: 1.05rem; height: 1.6rem; border-radius: 3px;
+}
+.tr[data-v-977c2359] { background: var(--navy);
+}
+.te[data-v-977c2359] { background: var(--rubin);
+}
+.lg[data-v-977c2359] { font-size: 0.72rem; color: var(--muted); display: flex; gap: 0.3rem; align-items: center; margin-top: 0.3rem;
+}
+.lg i[data-v-977c2359] { width: 0.7rem; height: 0.7rem;
+}
+.bars[data-v-977c2359] { display: flex; gap: 1rem; height: 9rem; align-items: flex-end; justify-content: center;
+}
+.b[data-v-977c2359] { display: flex; flex-direction: column; align-items: center; height: 100%; justify-content: flex-end; width: 4.5rem;
+}
+.v[data-v-977c2359] { width: 100%; background: var(--navy); border-radius: 6px 6px 0 0; display: flex; justify-content: center;
+}
+.v.red[data-v-977c2359] { background: var(--rubin);
+}
+.v b[data-v-977c2359] { color: #fff; font: 700 1rem 'Source Sans 3', sans-serif; margin-top: 0.2rem;
+}
+.b em[data-v-977c2359] { font-size: 0.68rem; font-style: normal; color: var(--muted); text-align: center; margin-top: 0.2rem;
+}
+.ch[data-v-977c2359] { font: 0.62rem 'IBM Plex Mono', monospace; color: var(--muted); text-align: center; margin-top: 0.2rem;
+}
+.sts[data-v-977c2359] { display: flex; flex-direction: column; gap: 0.6rem;
+}
+.st[data-v-977c2359] { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 0.6rem 0.85rem; display: flex; flex-direction: column; gap: 0.2rem;
+}
+.st b[data-v-977c2359] { font: 700 1.7rem/1.05 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.st span[data-v-977c2359] { font-size: 0.8rem; line-height: 1.4;
+}
+.lesson[data-v-977c2359] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.5rem 0.9rem; font: italic 1rem 'Source Serif 4', serif;
+}
+.lesson b[data-v-977c2359] { color: var(--gelb);
+}

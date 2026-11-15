@@ -1,0 +1,29 @@
+
+.pj[data-v-81f1f6df] { display: grid; grid-template-columns: 1.4fr 1fr; gap: 0.8rem;
+}
+.st[data-v-81f1f6df] { display: flex; flex-direction: column; gap: 0.25rem;
+}
+svg[data-v-81f1f6df] { width: 100%; height: 15.4rem; background: #fbfbfd; border: 1px solid var(--line); border-radius: 12px;
+}
+.ct[data-v-81f1f6df] { display: flex; gap: 0.8rem;
+}
+.ct label[data-v-81f1f6df] { flex: 1; display: flex; gap: 0.4rem; align-items: center; font-size: 0.64rem; color: var(--muted);
+}
+.ct input[data-v-81f1f6df] { flex: 1; accent-color: #004e9f;
+}
+.nf[data-v-81f1f6df] { background: #f4f7fb; border: 1px solid var(--line); border-radius: 12px; padding: 0.5rem 0.7rem; display: flex; flex-direction: column; gap: 0.35rem; color: var(--navy); font-size: 0.82rem;
+}
+.cs[data-v-81f1f6df] { display: flex; flex-wrap: wrap; gap: 0.2rem; align-items: center;
+}
+.cs span[data-v-81f1f6df] { font: 600 0.55rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.cs button[data-v-81f1f6df] { font: 700 0.6rem 'Source Sans 3', sans-serif; background: #fff; border: 1px solid var(--line); border-radius: 99px; padding: 0.05rem 0.4rem; cursor: pointer;
+}
+.vv[data-v-81f1f6df] { display: flex; gap: 0.5rem; font-size: 0.8rem;
+}
+.ok[data-v-81f1f6df] { background: #e6f4f3; border-radius: 8px; padding: 0.25rem 0.5rem; display: flex; flex-direction: column;
+}
+.ok small[data-v-81f1f6df] { font-size: 0.62rem; color: var(--teal-d);
+}
+.nf small[data-v-81f1f6df] { font-size: 0.66rem; line-height: 1.3; color: var(--muted);
+}

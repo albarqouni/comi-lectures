@@ -1,0 +1,27 @@
+
+.wk[data-v-03285b55] { display: grid; grid-template-columns: 1.6fr 1fr; gap: 1rem; align-items: center; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.7rem 0.9rem;
+}
+.wk .gap[data-v-03285b55] { display: flex; gap: 0.5rem; align-items: center; font-size: 0.9rem;
+}
+.wk .gap > i[data-v-03285b55] { font-size: 2rem; color: var(--rubin); flex: none;
+}
+.wk .tk-bars span[data-v-03285b55] { display: flex; gap: 0.3rem; align-items: center;
+}
+.pr[data-v-03285b55] { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.7rem;
+}
+.st[data-v-03285b55] { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.7rem 0.8rem; display: flex; flex-direction: column; gap: 0.25rem;
+}
+.st b[data-v-03285b55] { font: 700 2rem/1.05 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.st span[data-v-03285b55] { font-size: 0.78rem; line-height: 1.4;
+}
+.st span b[data-v-03285b55] { font-size: inherit; color: var(--navy);
+}
+.st.red[data-v-03285b55] { background: var(--rubin-t); border-color: transparent;
+}
+.st.red > b[data-v-03285b55] { color: var(--rubin);
+}
+.lesson[data-v-03285b55] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.55rem 0.9rem; font: 1rem 'Source Serif 4', serif; display: flex; gap: 0.6rem; align-items: center;
+}
+.lesson b[data-v-03285b55] { color: var(--gelb);
+}

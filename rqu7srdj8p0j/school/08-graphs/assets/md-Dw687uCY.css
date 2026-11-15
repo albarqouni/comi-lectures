@@ -1,0 +1,15 @@
+
+.g5[data-v-ad016718] { display: grid; grid-template-columns: repeat(5, 1fr); gap: 0.55rem;
+}
+.g5 .tk-c[data-v-ad016718] { font-size: 0.78rem; display: flex; flex-direction: column; gap: 0.2rem; min-height: 8rem;
+}
+.g5 b.g[data-v-ad016718] { font: 700 1.5rem 'Source Serif 4', serif; color: var(--navy);
+}
+.bp[data-v-ad016718] { display: flex; align-items: center; gap: 0.4rem;
+}
+.bp div[data-v-ad016718] { flex: 1; background: var(--navy); color: #fff; border-radius: 10px; padding: 0.4rem 0.6rem; font-size: 0.8rem; display: flex; gap: 0.4rem; align-items: center;
+}
+.bp span[data-v-ad016718] { width: 1.3rem; height: 1.3rem; border-radius: 50%; background: var(--gelb); color: var(--navy); display: grid; place-items: center; font-weight: 700; font-size: 0.75rem; flex: none;
+}
+.bp i[data-v-ad016718] { color: var(--muted);
+}

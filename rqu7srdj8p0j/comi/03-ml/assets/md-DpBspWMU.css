@@ -1,0 +1,35 @@
+
+.sf[data-v-75071835] { display: grid; grid-template-columns: 20rem 1fr; gap: 1rem;
+}
+.pl[data-v-75071835] { width: 20rem; height: 18.5rem; background: #fbfbfd; border: 1px solid var(--line); border-radius: 10px; overflow: hidden;
+}
+.pl svg[data-v-75071835] { width: 100%; height: 100%;
+}
+.side[data-v-75071835] { display: flex; flex-direction: column; gap: 0.4rem;
+}
+.tg[data-v-75071835] { display: flex; gap: 0.25rem;
+}
+.tg button[data-v-75071835] { font: 600 0.68rem 'Source Sans 3', sans-serif; padding: 0.15rem 0.7rem; border-radius: 99px; border: 1.5px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.tg button.on[data-v-75071835] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+label[data-v-75071835] { display: grid; grid-template-columns: 5rem 1fr 2.6rem; gap: 0.4rem; align-items: center; font-size: 0.74rem; color: var(--navy);
+}
+input[data-v-75071835] { accent-color: var(--rubin);
+}
+label b[data-v-75071835] { font: 0.7rem 'IBM Plex Mono', monospace; text-align: right;
+}
+.fx[data-v-75071835] { font-size: 0.85rem; color: var(--navy); background: var(--gelb); border-radius: 8px; padding: 0.2rem 0.5rem; align-self: flex-start;
+}
+.st[data-v-75071835] { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 0.3rem;
+}
+.st div[data-v-75071835] { background: #e3ecf8; border-radius: 8px; padding: 0.2rem 0.5rem; display: flex; flex-direction: column;
+}
+.st span[data-v-75071835] { font-size: 0.58rem; color: var(--navy);
+}
+.st b[data-v-75071835] { font: 700 1.05rem 'Source Sans 3', sans-serif; color: #004e9f;
+}
+.st b.z[data-v-75071835] { color: var(--rubin);
+}
+small[data-v-75071835] { font-size: 0.68rem; color: var(--muted); line-height: 1.35;
+}

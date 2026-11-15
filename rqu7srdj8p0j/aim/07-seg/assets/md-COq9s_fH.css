@@ -1,0 +1,39 @@
+
+.pn[data-v-2b9a5191] { display: grid; grid-template-columns: 17.5rem 1fr; gap: 0.9rem; align-items: start;
+}
+.lf[data-v-2b9a5191] { display: flex; flex-direction: column; gap: 0.3rem;
+}
+.ct[data-v-2b9a5191] { width: 17.5rem; image-rendering: pixelated; border-radius: 10px; background: #000; cursor: crosshair;
+}
+.md[data-v-2b9a5191] { display: flex; gap: 0.25rem;
+}
+.md button[data-v-2b9a5191] { flex: 1; font: 600 0.72rem 'Source Sans 3', sans-serif; padding: 0.18rem 0.4rem; border-radius: 99px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.md button.on[data-v-2b9a5191] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+.rt[data-v-2b9a5191] { display: flex; flex-direction: column; gap: 0.4rem;
+}
+.fm[data-v-2b9a5191] { display: flex; flex-direction: column; gap: 0.25rem;
+}
+.fm > div[data-v-2b9a5191] { display: grid; grid-template-columns: 4.6rem 1fr; column-gap: 0.5rem; align-items: center; background: var(--card); border: 1px solid var(--line); border-radius: 9px; padding: 0.25rem 0.6rem; font-size: 0.82rem; color: var(--navy); opacity: 0.55;
+}
+.fm > div.on[data-v-2b9a5191] { opacity: 1; border-color: var(--teal); background: var(--teal-t);
+}
+.fm b[data-v-2b9a5191] { grid-row: span 2; font-size: 0.8rem;
+}
+.fm > div > span[data-v-2b9a5191]:not(.tex) { font-size: 0.68rem; color: var(--muted);
+}
+.pk[data-v-2b9a5191] { display: flex; gap: 0.4rem; align-items: center; font-size: 0.74rem; background: #fff8e1; border-radius: 8px; padding: 0.25rem 0.55rem; color: var(--navy);
+}
+.pk i[data-v-2b9a5191] { color: #b88a00;
+}
+.ls[data-v-2b9a5191] { display: flex; flex-wrap: wrap; gap: 0.25rem 0.7rem; font-size: 0.66rem; color: var(--muted);
+}
+.ls i[data-v-2b9a5191] { display: inline-block; width: 0.65rem; height: 0.65rem; border-radius: 2px; margin-right: 0.2rem; vertical-align: -1px; border: 1px solid #ccd;
+}
+.ct2[data-v-2b9a5191] { display: flex; flex-direction: column; gap: 0.2rem;
+}
+.ct2 label[data-v-2b9a5191] { display: flex; flex-direction: column; font-size: 0.7rem; color: var(--navy);
+}
+.ct2 input[data-v-2b9a5191] { accent-color: var(--navy);
+}

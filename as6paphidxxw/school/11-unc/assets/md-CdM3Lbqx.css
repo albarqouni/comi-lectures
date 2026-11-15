@@ -1,0 +1,11 @@
+
+.l11se .hd[data-v-89643e68] { font: 600 0.55rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.l11se .tk-bars[data-v-89643e68] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.1rem 1rem;
+}
+.l11se .tk-bars > div[data-v-89643e68] { grid-template-columns: 10.5rem 1fr 2.8rem; font-size: 0.68rem;
+}
+.l11se .tk-bars i[data-v-89643e68] { height: 0.7rem;
+}
+.l11se .tk-bars b[data-v-89643e68] { font-size: 0.78rem;
+}

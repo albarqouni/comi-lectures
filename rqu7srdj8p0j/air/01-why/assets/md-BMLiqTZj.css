@@ -1,0 +1,9 @@
+
+.hw[data-v-df612462] { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.7rem;
+}
+.hw .c[data-v-df612462] { background: var(--card); border: 1px solid var(--line); border-top: 4px solid var(--teal); border-radius: 12px; padding: 0.7rem 0.85rem; font-size: 0.84rem; line-height: 1.45;
+}
+.hw .c.wide[data-v-df612462] { grid-column: 1 / -1; border-top-color: var(--gelb);
+}
+.hw .k[data-v-df612462] { font: 600 0.6rem 'IBM Plex Mono', monospace; letter-spacing: 0.1em; text-transform: uppercase; color: var(--teal-d); margin-bottom: 0.3rem;
+}

@@ -1,0 +1,42 @@
+
+.vo[data-v-ca3bf69c] { display: grid; grid-template-columns: 1.6fr 1fr; gap: 0.6rem; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.5rem 0.7rem;
+}
+.pl svg[data-v-ca3bf69c] { width: 100%; height: 11.2rem; display: block;
+}
+.tg[data-v-ca3bf69c], .cs[data-v-ca3bf69c] { display: flex; gap: 0.25rem; flex-wrap: wrap;
+}
+.tg button[data-v-ca3bf69c], .cs button[data-v-ca3bf69c] { font: 600 0.6rem 'Source Sans 3', sans-serif; padding: 0.1rem 0.5rem; border-radius: 99px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.tg button.on[data-v-ca3bf69c] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+.cs button.on[data-v-ca3bf69c] { background: var(--teal); color: #fff; border-color: var(--teal);
+}
+.ro[data-v-ca3bf69c] { display: flex; flex-direction: column; gap: 0.4rem; justify-content: center;
+}
+.r[data-v-ca3bf69c] { border-radius: 10px; padding: 0.4rem 0.6rem; display: flex; flex-direction: column; gap: 0.1rem;
+}
+.r.de[data-v-ca3bf69c] { background: var(--rubin-t);
+}
+.r.ot[data-v-ca3bf69c] { background: var(--teal-t);
+}
+.r b[data-v-ca3bf69c] { font: 700 0.85rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.r span[data-v-ca3bf69c] { font-size: 0.78rem;
+}
+.r em[data-v-ca3bf69c] { font-style: normal; font-weight: 700; font-size: 1.15rem; color: var(--navy);
+}
+.r small[data-v-ca3bf69c] { font: 0.6rem 'IBM Plex Mono', monospace; color: var(--muted);
+}
+.nt[data-v-ca3bf69c] { font: italic 0.6rem 'Source Serif 4', serif; color: var(--muted);
+}
+
+.m4vo[data-v-8e9fd724] { display: grid; grid-template-columns: 1.85fr 1fr; gap: 0.7rem;
+}
+.m4vo .cl[data-v-8e9fd724] { display: flex; flex-direction: column; gap: 0.4rem;
+}
+.m4vo .tk-c[data-v-8e9fd724] { padding: 0.35rem 0.6rem;
+}
+.m4vo .tk-c .n[data-v-8e9fd724] { font-size: 1.35rem;
+}
+.m4vo small[data-v-8e9fd724] { font-size: 0.68rem; line-height: 1.35;
+}

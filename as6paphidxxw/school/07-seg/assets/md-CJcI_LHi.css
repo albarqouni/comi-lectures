@@ -1,0 +1,48 @@
+
+.pr[data-v-3713a17d] { display: grid; grid-template-columns: 12.8rem 1fr; gap: 0.9rem; align-items: start;
+}
+.lf[data-v-3713a17d] { display: flex; flex-direction: column; gap: 0.3rem;
+}
+.ct[data-v-3713a17d] { width: 12.8rem; border-radius: 10px; background: #000; cursor: crosshair; touch-action: none;
+}
+.lg[data-v-3713a17d] { display: flex; flex-wrap: wrap; gap: 0.2rem 0.55rem; font-size: 0.6rem; color: var(--muted);
+}
+.lg i[data-v-3713a17d] { display: inline-block; width: 0.6rem; height: 0.6rem; border-radius: 2px; margin-right: 0.2rem; vertical-align: -1px;
+}
+.rt[data-v-3713a17d] { display: flex; flex-direction: column; gap: 0.4rem;
+}
+.ps[data-v-3713a17d] { display: flex; flex-wrap: wrap; gap: 0.2rem;
+}
+.ps button[data-v-3713a17d] { font: 600 0.66rem 'Source Sans 3', sans-serif; padding: 0.12rem 0.5rem; border-radius: 99px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.ps button.on[data-v-3713a17d] { background: var(--navy); color: #fff;
+}
+.rd[data-v-3713a17d] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.3rem;
+}
+.rd div[data-v-3713a17d] { background: #e8edf5; border-radius: 8px; padding: 0.2rem 0.55rem; display: flex; flex-direction: column;
+}
+.rd span[data-v-3713a17d] { font-size: 0.6rem; color: var(--navy);
+}
+.rd b[data-v-3713a17d] { font: 700 1.15rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.rd em[data-v-3713a17d] { font: 0.6rem 'Source Sans 3', sans-serif; font-style: normal; margin-left: 0.15rem;
+}
+.rd .t[data-v-3713a17d] { background: var(--teal-t);
+}
+.rd .t b[data-v-3713a17d] { color: var(--teal-d);
+}
+.sl[data-v-3713a17d] { display: flex; flex-direction: column; font-size: 0.68rem; color: var(--navy);
+}
+.sl input[data-v-3713a17d] { accent-color: var(--navy);
+}
+.nt[data-v-3713a17d] { display: flex; gap: 0.4rem; font-size: 0.66rem; line-height: 1.35; color: var(--muted); background: #fff8e1; border-radius: 8px; padding: 0.3rem 0.5rem;
+}
+.nt i[data-v-3713a17d] { color: #b88a00; flex: none; font-size: 0.9rem;
+}
+
+.pz .tk-c[data-v-f6b63d0f] { padding: 0.35rem 0.65rem; font-size: 0.76rem; flex-direction: row; align-items: center; gap: 0.5rem;
+}
+.pz .tk-c > .ic[data-v-f6b63d0f] { font-size: 1.4rem; flex: none;
+}
+.pz b[data-v-f6b63d0f] { color: var(--navy);
+}

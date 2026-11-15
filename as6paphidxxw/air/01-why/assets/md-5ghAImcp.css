@@ -1,0 +1,15 @@
+
+.m4sp[data-v-bbd140f8] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.7rem;
+}
+.m4sp .tk-c[data-v-bbd140f8] { flex-direction: column; align-items: flex-start; gap: 0.35rem;
+}
+.m4sp small[data-v-bbd140f8] { font-size: 0.76rem; line-height: 1.4;
+}
+.m4sp .vs[data-v-bbd140f8] { display: flex; gap: 0.8rem;
+}
+.m4sp .vs div[data-v-bbd140f8] { display: flex; flex-direction: column; font-size: 0.66rem; color: var(--muted);
+}
+.m4sp .vs b[data-v-bbd140f8] { font: 700 1.5rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.m4sp .tk-bars[data-v-bbd140f8] { width: 100%;
+}

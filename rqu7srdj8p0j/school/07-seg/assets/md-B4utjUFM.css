@@ -1,0 +1,41 @@
+
+.ag[data-v-0112870f] { display: grid; grid-template-columns: 10.4rem 10.4rem 1fr; gap: 0.7rem; align-items: start;
+}
+figure[data-v-0112870f] { margin: 0; display: flex; flex-direction: column; gap: 0.2rem;
+}
+.cv[data-v-0112870f] { width: 10.4rem; border-radius: 10px; background: #000;
+}
+figcaption[data-v-0112870f] { font-size: 0.58rem; color: var(--muted); display: flex; flex-wrap: wrap; gap: 0.1rem 0.4rem;
+}
+figcaption i[data-v-0112870f] { display: inline-block; width: 0.55rem; height: 0.55rem; border-radius: 2px; margin-right: 0.15rem; vertical-align: -1px;
+}
+.ct[data-v-0112870f] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.15rem 0.6rem; font-size: 0.68rem; color: var(--navy); background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.4rem 0.65rem;
+}
+.ct .k[data-v-0112870f], .ct .hd[data-v-0112870f], .ct .dc[data-v-0112870f], .ct .ck[data-v-0112870f] { grid-column: 1 / -1;
+}
+.ct .k[data-v-0112870f] { font: 600 0.54rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: #004e9f; margin-top: 0.1rem;
+}
+.ct label[data-v-0112870f] { display: flex; flex-direction: column;
+}
+.ct label.ck[data-v-0112870f] { flex-direction: row; gap: 0.3rem; align-items: center;
+}
+.ct input[type=range][data-v-0112870f] { accent-color: #004e9f;
+}
+.sm[data-v-0112870f] { font: 600 0.58rem 'Source Sans 3', sans-serif; padding: 0 0.35rem; border-radius: 99px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer; margin-left: 0.3rem;
+}
+.hd[data-v-0112870f] { display: flex; gap: 0.2rem; margin-top: 0.15rem;
+}
+.hd button[data-v-0112870f] { flex: 1; font: 600 0.62rem 'Source Sans 3', sans-serif; padding: 0.12rem 0.2rem; border-radius: 99px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.hd button.on[data-v-0112870f] { background: #004e9f; color: #fff;
+}
+.dc[data-v-0112870f] { display: flex; justify-content: space-between; align-items: baseline; background: var(--teal-t); border-radius: 8px; padding: 0.2rem 0.5rem;
+}
+.dc span[data-v-0112870f] { font-size: 0.6rem;
+}
+.dc b[data-v-0112870f] { font: 700 1.15rem 'Source Sans 3', sans-serif; color: var(--teal-d);
+}
+.dc.bad[data-v-0112870f] { background: var(--rubin-t);
+}
+.dc.bad b[data-v-0112870f] { color: var(--rubin-d);
+}

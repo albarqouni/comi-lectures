@@ -1,0 +1,29 @@
+
+.l6rx[data-v-508fe71b] { display: grid; grid-template-columns: 1.15fr 1fr; gap: 0.8rem; align-items: start;
+}
+.l6rx .tk-c[data-v-508fe71b] { font-size: 0.8rem; line-height: 1.38; gap: 0.3rem;
+}
+.l6rx b[data-v-508fe71b] { color: var(--navy);
+}
+.l6rx small[data-v-508fe71b] { font-size: 0.6rem; color: var(--muted);
+}
+.fam[data-v-508fe71b] { display: grid; grid-template-columns: 1.4rem 1fr; gap: 0.35rem; align-items: start;
+}
+.fam > i[data-v-508fe71b] { font-size: 1.15rem; color: var(--teal-d);
+}
+.sc[data-v-508fe71b] { display: grid; grid-template-columns: 1.4rem 1fr; gap: 0.35rem; background: var(--teal-t); border-radius: 8px; padding: 0.3rem 0.45rem;
+}
+.sc > i[data-v-508fe71b] { font-size: 1.2rem; color: var(--teal-d);
+}
+.hf > div[data-v-508fe71b] { font-size: 0.72rem; padding: 0.3rem 0.4rem; text-align: center; line-height: 1.2;
+}
+.hf small[data-v-508fe71b] { font-size: 0.56rem;
+}
+.big[data-v-508fe71b] { display: flex; gap: 0.5rem; align-items: center; background: #e3ecf8; border-radius: 8px; padding: 0.3rem 0.55rem;
+}
+.big > b[data-v-508fe71b] { font: 700 1.9rem 'Source Sans 3', sans-serif; color: #004e9f; white-space: nowrap;
+}
+.big span[data-v-508fe71b] { font-size: 0.76rem;
+}
+.l6rx .sm[data-v-508fe71b] { font-size: 0.78rem;
+}

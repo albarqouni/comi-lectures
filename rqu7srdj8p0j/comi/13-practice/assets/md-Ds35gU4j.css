@@ -1,0 +1,35 @@
+
+.ml[data-v-aa13b849] { display: grid; grid-template-columns: 1fr 1.05fr; gap: 0.9rem; align-items: center;
+}
+.ring[data-v-aa13b849] { position: relative; width: 100%; max-width: 19rem; aspect-ratio: 1; justify-self: center;
+}
+.ring svg[data-v-aa13b849] { position: absolute; inset: 0; width: 100%; height: 100%;
+}
+.nd[data-v-aa13b849] { position: absolute; transform: translate(-50%, -50%); display: flex; flex-direction: column; align-items: center; gap: 0.05rem; width: 5.4rem; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 0.2rem 0.25rem; cursor: pointer; color: var(--navy);
+}
+.nd i[data-v-aa13b849] { font-size: 1.05rem; color: #004e9f;
+}
+.nd span[data-v-aa13b849] { font: 600 0.6rem/1.15 'Source Sans 3', sans-serif; text-align: center;
+}
+.nd.on[data-v-aa13b849] { background: var(--navy); border-color: var(--navy); color: #fff;
+}
+.nd.on i[data-v-aa13b849] { color: var(--gelb);
+}
+.pn[data-v-aa13b849] { background: #f4f7fb; border: 1px solid var(--line); border-radius: 12px; padding: 0.6rem 0.8rem; display: flex; flex-direction: column; gap: 0.45rem; min-height: 15rem;
+}
+.k[data-v-aa13b849] { font: 600 0.6rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: #004e9f;
+}
+.w[data-v-aa13b849] { margin: 0; font: 0.95rem/1.4 'Source Serif 4', serif; color: var(--navy);
+}
+.ms[data-v-aa13b849] { display: flex; gap: 0.45rem; background: #fff; border-left: 4px solid var(--teal); border-radius: 8px; padding: 0.4rem 0.6rem; font-size: 0.8rem; line-height: 1.38;
+}
+.ms i[data-v-aa13b849] { color: var(--teal-d); font-size: 1.2rem; flex: none;
+}
+.ft[data-v-aa13b849] { display: flex; flex-direction: column; gap: 0.15rem; font-size: 0.72rem; color: var(--ink);
+}
+.ft b[data-v-aa13b849] { font: 600 0.54rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted); margin-right: 0.3rem;
+}
+.bt[data-v-aa13b849] { display: flex; gap: 0.3rem; margin-top: auto;
+}
+.bt button[data-v-aa13b849] { font: 600 0.7rem 'Source Sans 3', sans-serif; padding: 0.2rem 0.7rem; border-radius: 99px; border: none; background: var(--navy); color: #fff; cursor: pointer;
+}

@@ -1,0 +1,42 @@
+{
+ "tile": [
+  64,
+  64
+ ],
+ "channels": 3,
+ "perClass": 12,
+ "classes": 8,
+ "picked": {
+  "0": 12,
+  "1": 12,
+  "2": 12,
+  "3": 12,
+  "4": 12,
+  "5": 12,
+  "6": 12,
+  "7": 12
+ },
+ "testCounts": {
+  "0": 244,
+  "1": 624,
+  "2": 311,
+  "3": 579,
+  "4": 243,
+  "5": 284,
+  "6": 666,
+  "7": 470
+ },
+ "modality": "Blood-cell microscopy",
+ "source": "MedMNIST+ v3.0 (bloodmnist_64.npz, test split), Zenodo doi:10.5281/zenodo.10519652",
+ "licence": "CC BY 4.0",
+ "classNames": [
+  "basophil",
+  "eosinophil",
+  "erythroblast",
+  "immature granulocyte",
+  "lymphocyte",
+  "monocyte",
+  "neutrophil",
+  "platelet"
+ ]
+}

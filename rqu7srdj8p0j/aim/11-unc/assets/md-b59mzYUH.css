@@ -1,0 +1,21 @@
+
+.l11rc[data-v-7d592402] { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.55rem;
+}
+.l11rc .c[data-v-7d592402] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid var(--rubin); border-radius: 12px; padding: 0.5rem 0.6rem; display: flex; flex-direction: column; gap: 0.25rem; min-height: 13.5rem;
+}
+.l11rc .c > i[data-v-7d592402] { font-size: 1.5rem; color: var(--rubin);
+}
+.l11rc em[data-v-7d592402] { font: 600 0.58rem 'IBM Plex Mono', monospace; font-style: normal; text-transform: uppercase; color: var(--muted);
+}
+.l11rc q[data-v-7d592402] { font: italic 0.86rem/1.35 'Source Serif 4', serif; color: var(--navy);
+}
+.l11rc .a[data-v-7d592402] { margin-top: auto; border-radius: 8px; padding: 0.3rem 0.45rem; display: flex; flex-direction: column; gap: 0.1rem; font-size: 0.7rem; line-height: 1.32;
+}
+.l11rc .a.bad[data-v-7d592402] { background: var(--rubin-t);
+}
+.l11rc .a.mid[data-v-7d592402] { background: #fdf2c4;
+}
+.l11rc .a b[data-v-7d592402] { font-size: 0.84rem; color: var(--navy);
+}
+.l11rc .a small[data-v-7d592402] { font-size: 0.56rem; color: var(--muted);
+}

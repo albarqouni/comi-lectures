@@ -1,0 +1,59 @@
+
+.ph[data-v-c9cfe752] { display: grid; grid-template-columns: 18.5rem 1fr; gap: 1rem;
+}
+.pl[data-v-c9cfe752] { position: relative; width: 18.5rem; height: 18.5rem; background: #fbfbfd; border: 1px solid var(--line); border-radius: 10px; overflow: hidden;
+}
+.pl svg[data-v-c9cfe752] { position: absolute; inset: 0; width: 100%; height: 100%;
+}
+.pt[data-v-c9cfe752] { position: absolute; width: 1.2rem; height: 1.2rem; transform: translate(-50%, 50%); border-radius: 3px; border: 2px solid; background-repeat: no-repeat;
+}
+.pt.e[data-v-c9cfe752] { border-color: #1f8c82;
+}
+.pt.n[data-v-c9cfe752] { border-color: #c2255c;
+}
+.xl[data-v-c9cfe752], .yl[data-v-c9cfe752] { position: absolute; font: 600 0.55rem 'IBM Plex Mono', monospace; color: var(--navy); background: rgba(255,255,255,0.7); padding: 0 0.2rem;
+}
+.xl[data-v-c9cfe752] { right: 0.3rem; bottom: 0.15rem;
+}
+.yl[data-v-c9cfe752] { left: 0.3rem; top: 0.15rem;
+}
+.side[data-v-c9cfe752] { display: flex; flex-direction: column; gap: 0.45rem;
+}
+.tg[data-v-c9cfe752] { display: flex; gap: 0.3rem; flex-wrap: wrap;
+}
+.tg button[data-v-c9cfe752] { font: 600 0.66rem 'Source Sans 3', sans-serif; padding: 0.15rem 0.6rem; border-radius: 99px; border: 1.5px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.tg button.on[data-v-c9cfe752] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+.fx[data-v-c9cfe752], .eq[data-v-c9cfe752] { font-size: 0.82rem; color: var(--navy);
+}
+.eq[data-v-c9cfe752] { background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 0.25rem 0.5rem; font-size: 0.74rem; overflow: hidden;
+}
+label[data-v-c9cfe752] { display: grid; grid-template-columns: 5rem 1fr 2.6rem; gap: 0.4rem; align-items: center; font-size: 0.74rem; color: var(--navy);
+}
+input[data-v-c9cfe752] { accent-color: var(--rubin);
+}
+label b[data-v-c9cfe752] { font: 0.7rem 'IBM Plex Mono', monospace; text-align: right;
+}
+.st[data-v-c9cfe752] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.35rem;
+}
+.st div[data-v-c9cfe752] { background: #e3ecf8; border-radius: 8px; padding: 0.2rem 0.5rem; display: flex; flex-direction: column;
+}
+.st .h[data-v-c9cfe752] { background: var(--gelb);
+}
+.st span[data-v-c9cfe752] { font-size: 0.6rem; color: var(--navy);
+}
+.st b[data-v-c9cfe752] { font: 700 1.2rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.lg[data-v-c9cfe752] { font-size: 0.64rem; color: var(--muted); display: flex; gap: 0.3rem; align-items: center;
+}
+.lg i[data-v-c9cfe752] { width: 0.7rem; height: 0.7rem; border-radius: 2px; display: inline-block;
+}
+.lg .n[data-v-c9cfe752] { border: 2px solid #c2255c;
+}
+.lg .e[data-v-c9cfe752] { border: 2px solid #1f8c82; margin-left: 0.3rem;
+}
+.lg .b[data-v-c9cfe752] { background: rgba(240,180,0,0.75); margin-left: 0.3rem;
+}
+small[data-v-c9cfe752] { font-size: 0.66rem; color: var(--muted); line-height: 1.35;
+}

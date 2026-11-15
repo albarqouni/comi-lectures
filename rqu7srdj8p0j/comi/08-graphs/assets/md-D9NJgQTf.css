@@ -1,0 +1,15 @@
+
+.be[data-v-259e546f] { display: grid; grid-template-columns: 1.55fr 1fr; gap: 0.8rem; align-items: start;
+}
+.be .tk-list > div[data-v-259e546f] { font-size: 0.84rem; padding: 0.3rem 0.6rem;
+}
+.be b[data-v-259e546f] { color: var(--navy);
+}
+.be .tk-c[data-v-259e546f] { font-size: 0.9rem; display: flex; flex-direction: column; gap: 0.4rem;
+}
+.be .q[data-v-259e546f] { display: flex; flex-direction: column; background: var(--navy); color: #fff; border-radius: 10px; padding: 0.45rem 0.7rem;
+}
+.be .q b[data-v-259e546f] { color: var(--gelb); font: 700 1.05rem 'Source Serif 4', serif;
+}
+.be .q span[data-v-259e546f] { font-size: 0.82rem;
+}

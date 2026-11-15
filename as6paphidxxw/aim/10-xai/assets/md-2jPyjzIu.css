@@ -1,0 +1,25 @@
+
+.l8au[data-v-bafe3286] { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.6rem;
+}
+.l8au .c[data-v-bafe3286] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid var(--navy); border-radius: 12px; padding: 0.55rem 0.7rem; display: flex; flex-direction: column; gap: 0.25rem; font-size: 0.8rem; line-height: 1.4;
+}
+.l8au .dv[data-v-bafe3286] { border-top-color: #004e9f;
+}
+.l8au .cl[data-v-bafe3286] { border-top-color: var(--teal);
+}
+.l8au .pt[data-v-bafe3286] { border-top-color: var(--gelb);
+}
+.l8au .rg[data-v-bafe3286] { border-top-color: #6b4fa0;
+}
+.l8au .hd[data-v-bafe3286] { display: flex; gap: 0.4rem; align-items: center;
+}
+.l8au .hd i[data-v-bafe3286] { font-size: 1.4rem; color: var(--navy);
+}
+.l8au .hd b[data-v-bafe3286] { font: 700 1rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.l8au q[data-v-bafe3286] { font: italic 0.9rem/1.35 'Source Serif 4', serif; color: var(--ink); min-height: 2.5rem;
+}
+.l8au .k[data-v-bafe3286] { font: 600 0.54rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted); margin-top: 0.2rem;
+}
+.lesson[data-v-bafe3286] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.5rem 0.9rem; font: italic 0.98rem 'Source Serif 4', serif;
+}

@@ -1,0 +1,50 @@
+
+.gb[data-v-86be533f] { display: grid; grid-template-columns: 14rem 1fr; gap: 0.9rem; align-items: start;
+}
+.ctl[data-v-86be533f] { display: flex; flex-direction: column; gap: 0.45rem; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.6rem 0.7rem;
+}
+.th[data-v-86be533f] { display: flex; gap: 0.2rem;
+}
+.th button[data-v-86be533f] { padding: 0; border: 2px solid transparent; border-radius: 8px; background: none; cursor: pointer;
+}
+.th button.on[data-v-86be533f] { border-color: var(--rubin);
+}
+.kv[data-v-86be533f] { display: grid; grid-template-columns: 3.6rem 1fr; gap: 0.5rem; align-items: center;
+}
+.kv canvas[data-v-86be533f] { width: 3.6rem; height: 3.6rem; image-rendering: pixelated; border-radius: 4px; border: 1px solid var(--line);
+}
+.kv b[data-v-86be533f] { font: 700 0.78rem 'Source Sans 3', sans-serif; color: var(--navy); display: block;
+}
+.kv small[data-v-86be533f] { font-size: 0.6rem; line-height: 1.3; color: var(--muted);
+}
+label[data-v-86be533f] { display: grid; grid-template-columns: 5rem 1fr 2.6rem; gap: 0.3rem; align-items: center; font-size: 0.7rem; color: var(--navy);
+}
+label b[data-v-86be533f] { font: 0.66rem 'IBM Plex Mono', monospace; text-align: right;
+}
+input[data-v-86be533f] { accent-color: var(--rubin); width: 100%;
+}
+.tg[data-v-86be533f] { display: flex; gap: 0.25rem;
+}
+.tg button[data-v-86be533f] { font: 600 0.66rem 'Source Sans 3', sans-serif; padding: 0.15rem 0.5rem; border-radius: 99px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.tg button.on[data-v-86be533f] { background: var(--navy); color: #fff;
+}
+.bk[data-v-86be533f] { display: flex; gap: 0.15rem; justify-content: space-between;
+}
+.bk i[data-v-86be533f] { width: 0.9rem; height: 0.9rem; border-radius: 50%; background: linear-gradient(90deg, #eee 0 35%, #0f7b6c 35% 65%, #eee 65%); opacity: 0.25;
+}
+.bk i.on[data-v-86be533f] { opacity: 1;
+}
+.vw[data-v-86be533f] { display: flex; align-items: center; gap: 0.5rem; background: #0f1e37; border-radius: 12px; padding: 0.6rem;
+}
+figure[data-v-86be533f] { margin: 0; flex: 1; display: flex; flex-direction: column; align-items: center; gap: 0.25rem;
+}
+.vw canvas[data-v-86be533f] { width: 100%; max-width: 12.5rem; aspect-ratio: 1; image-rendering: pixelated; border-radius: 6px;
+}
+figcaption[data-v-86be533f] { font: 600 0.54rem 'IBM Plex Mono', monospace; color: #9fb3cc; text-transform: uppercase; letter-spacing: 0.05em;
+}
+.op[data-v-86be533f] { font: 600 0.7rem 'IBM Plex Mono', monospace; color: var(--gelb); white-space: nowrap;
+}
+
+.lesson[data-v-0b94a8c4] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.4rem 0.9rem; font: 0.95rem 'Source Serif 4', serif; display: flex; justify-content: center;
+}

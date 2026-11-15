@@ -1,0 +1,43 @@
+
+.wl[data-v-7c2095a8] { display: flex; flex-direction: column; gap: 0.4rem;
+}
+.pr[data-v-7c2095a8] { display: flex; gap: 0.3rem;
+}
+.pr button[data-v-7c2095a8] { flex: 1; font: 600 0.72rem 'Source Sans 3', sans-serif; padding: 0.2rem 0.4rem; border-radius: 99px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.pr button.on[data-v-7c2095a8] { background: var(--navy); color: #fff;
+}
+.gs[data-v-7c2095a8] { display: grid; grid-template-columns: 1fr 1fr 0.95fr; gap: 0.6rem;
+}
+.g[data-v-7c2095a8] { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.3rem 0.5rem; display: flex; flex-direction: column; gap: 0.2rem;
+}
+.g svg[data-v-7c2095a8] { width: 100%; height: 10.5rem;
+}
+.nm[data-v-7c2095a8] { font-size: 0.78rem; color: var(--muted);
+}
+.nm b[data-v-7c2095a8] { color: var(--navy);
+}
+.hs[data-v-7c2095a8] { display: flex; gap: 0.2rem; flex-wrap: wrap;
+}
+.hs span[data-v-7c2095a8] { min-width: 1.4rem; text-align: center; border-radius: 5px; font: 700 0.72rem 'IBM Plex Mono', monospace; color: #002f5d; padding: 0.05rem 0.2rem; border: 1px solid #c9d2dd;
+}
+.ctl[data-v-7c2095a8] { display: flex; flex-direction: column; gap: 0.35rem; color: var(--navy);
+}
+.ctl .r[data-v-7c2095a8] { font-size: 0.8rem;
+}
+.ctl .r b[data-v-7c2095a8] { font: 700 1.6rem 'Source Sans 3', sans-serif;
+}
+.ctl button[data-v-7c2095a8] { font: 600 0.74rem 'Source Sans 3', sans-serif; padding: 0.22rem 0.7rem; border-radius: 99px; border: none; background: var(--navy); color: #fff; cursor: pointer;
+}
+.ctl button.g[data-v-7c2095a8] { background: #c9d2dd; color: var(--navy);
+}
+.ctl button[data-v-7c2095a8]:disabled { opacity: 0.4;
+}
+.vd[data-v-7c2095a8] { border-radius: 8px; padding: 0.3rem 0.5rem; font-size: 0.76rem; font-weight: 600;
+}
+.vd.eq[data-v-7c2095a8] { background: var(--gelb);
+}
+.vd.ne[data-v-7c2095a8] { background: var(--teal-t);
+}
+.ctl p[data-v-7c2095a8] { margin: 0; font-size: 0.72rem; line-height: 1.35; color: var(--navy);
+}

@@ -1,0 +1,11 @@
+
+.nn[data-v-f54da406] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.8rem;
+}
+.nn .cd[data-v-f54da406] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid var(--navy); border-radius: 12px; padding: 0.75rem 0.9rem; font-size: 0.9rem; line-height: 1.5;
+}
+.nn .k[data-v-f54da406] { font: 700 1.05rem 'Source Sans 3', sans-serif; color: var(--navy); margin-bottom: 0.3rem;
+}
+.nn .eq[data-v-f54da406] { font: 1.05rem 'Source Serif 4', serif; color: var(--rubin); margin: 0.2rem 0 0.4rem;
+}
+.nn b[data-v-f54da406] { color: var(--navy);
+}

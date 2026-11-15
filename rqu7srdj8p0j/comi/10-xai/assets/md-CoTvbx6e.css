@@ -1,0 +1,17 @@
+
+.frx[data-v-681989dc] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.55rem;
+}
+.frx .fc[data-v-681989dc] { background: var(--card); border: 1px solid var(--line); border-top: 4px solid #6b4fa0; border-radius: 12px; padding: 0.45rem 0.65rem; display: flex; flex-direction: column; gap: 0.15rem;
+}
+.frx .tp[data-v-681989dc] { display: flex; align-items: center; gap: 0.35rem; font: 600 0.55rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: #6b4fa0;
+}
+.frx .tp i[data-v-681989dc] { font-size: 1.15rem;
+}
+.frx a[data-v-681989dc] { font: 700 0.86rem/1.2 'Source Sans 3', sans-serif; color: var(--navy); text-decoration: underline; text-decoration-color: #6b4fa0; text-underline-offset: 2px;
+}
+.frx small[data-v-681989dc] { font-size: 0.62rem; color: var(--muted); line-height: 1.3;
+}
+.frx .wy[data-v-681989dc] { font-size: 0.72rem; color: var(--navy); line-height: 1.32;
+}
+.frx .our[data-v-681989dc] { margin-top: auto; font-size: 0.6rem; color: #004e9f; display: flex; gap: 0.25rem; align-items: center;
+}

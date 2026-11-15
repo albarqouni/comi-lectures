@@ -1,0 +1,45 @@
+
+.lc[data-v-5445339d] { display: flex; flex-direction: column; gap: 0.7rem;
+}
+.rail[data-v-5445339d] { display: flex; align-items: center; gap: 0.2rem;
+}
+.rail em[data-v-5445339d] { font-style: normal; color: var(--muted); font-size: 0.8rem;
+}
+.rail button[data-v-5445339d] { flex: 1; display: flex; flex-direction: column; align-items: center; gap: 0.15rem; padding: 0.4rem 0.2rem; border-radius: 10px; border: 1px solid var(--line); background: var(--card); cursor: pointer; color: var(--navy);
+}
+.rail button i[data-v-5445339d] { font-size: 1.4rem; color: var(--rubin);
+}
+.rail button span[data-v-5445339d] { font: 600 0.66rem 'IBM Plex Mono', monospace; text-transform: uppercase;
+}
+.rail button.done[data-v-5445339d] { background: #eef1f5;
+}
+.rail button.on[data-v-5445339d] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+.rail button.on i[data-v-5445339d] { color: var(--gelb);
+}
+.body[data-v-5445339d] { display: grid; grid-template-columns: 1fr 1.5fr; gap: 0.8rem; min-height: 12.5rem;
+}
+.big[data-v-5445339d] { background: var(--rubin-t); border-radius: 14px; padding: 0.8rem 1rem; display: flex; flex-direction: column; gap: 0.3rem; justify-content: center;
+}
+.big .hd[data-v-5445339d] { font: 600 0.58rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--rubin-d);
+}
+.big b[data-v-5445339d] { font: 700 2.5rem/1 'Source Sans 3', sans-serif; color: var(--rubin);
+}
+.big span[data-v-5445339d] { font-size: 0.86rem; color: var(--navy);
+}
+.big small[data-v-5445339d] { font-size: 0.66rem; color: var(--muted);
+}
+.col[data-v-5445339d] { display: flex; flex-direction: column; gap: 0.45rem;
+}
+.col > div[data-v-5445339d] { display: flex; gap: 0.55rem; align-items: flex-start; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 0.5rem 0.7rem; font-size: 0.88rem; line-height: 1.4;
+}
+.col i[data-v-5445339d] { font-size: 1.2rem; flex: none; color: var(--navy);
+}
+.col .gr[data-v-5445339d] { background: var(--teal-t); border-color: transparent;
+}
+.col .gr i[data-v-5445339d] { color: var(--teal-d);
+}
+.col .q[data-v-5445339d] { border-left: 4px solid var(--gelb);
+}
+.col b[data-v-5445339d] { color: var(--navy);
+}

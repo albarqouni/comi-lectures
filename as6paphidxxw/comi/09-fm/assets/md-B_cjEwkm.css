@@ -1,0 +1,39 @@
+
+.ln[data-v-0736268c] { display: flex; flex-direction: column; gap: 0.4rem;
+}
+.tb[data-v-0736268c] { display: flex; gap: 0.3rem;
+}
+.tb button[data-v-0736268c] { font: 600 0.72rem 'Source Sans 3', sans-serif; padding: 0.2rem 0.7rem; border-radius: 99px; border: 1px solid var(--line); background: var(--card); color: var(--navy); cursor: pointer;
+}
+.tb button.on[data-v-0736268c] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+.st[data-v-0736268c] { position: relative; background: var(--card); border: 1px solid var(--line); border-radius: 10px; height: 12.6rem; overflow: hidden;
+}
+.sv[data-v-0736268c] { position: absolute; inset: 0; width: 100%; height: 100%;
+}
+.lb[data-v-0736268c] { position: absolute; left: 0; top: 0; bottom: 0; width: 16%; display: flex; flex-direction: column; pointer-events: none;
+}
+.lb .r[data-v-0736268c] { height: 12.03%; display: flex; align-items: center; gap: 0.25rem; padding-left: 0.4rem; font: 600 0.66rem 'Source Sans 3', sans-serif; color: var(--navy); white-space: nowrap;
+}
+.lb .r i[data-v-0736268c] { font-size: 0.85rem;
+}
+.lb .r b[data-v-0736268c] { font: 600 0.6rem 'IBM Plex Mono', monospace; color: var(--muted); margin-left: auto; padding-right: 0.3rem;
+}
+.sz[data-v-0736268c] { position: absolute; right: 0.3rem; top: 0; bottom: 0; display: flex; flex-direction: column; pointer-events: none;
+}
+.sz div[data-v-0736268c] { height: 12.03%; display: flex; align-items: center; justify-content: flex-end;
+}
+.sz em[data-v-0736268c] { font: 600 0.58rem 'Source Sans 3', sans-serif; font-style: normal; color: var(--navy); background: rgba(255,255,255,0.9); padding: 0 0.3rem; border-radius: 3px; border: 1px solid var(--line);
+}
+.lb .r.miss span[data-v-0736268c] { color: var(--rubin-d); text-decoration: line-through;
+}
+.ct[data-v-0736268c] { display: grid; grid-template-columns: 15rem 1fr; gap: 0.7rem; align-items: center;
+}
+.ct label[data-v-0736268c] { display: flex; flex-direction: column; font: 600 0.6rem 'IBM Plex Mono', monospace; color: var(--muted); text-transform: uppercase;
+}
+.ct input[data-v-0736268c] { width: 100%; accent-color: var(--navy);
+}
+.ms[data-v-0736268c] { display: flex; gap: 0.4rem; align-items: flex-start; background: var(--teal-t); border-radius: 8px; padding: 0.35rem 0.6rem; font-size: 0.78rem; line-height: 1.35; color: var(--navy); min-height: 3.2rem;
+}
+.ms i[data-v-0736268c] { color: var(--teal-d); font-size: 1rem; flex: none; margin-top: 0.1rem;
+}

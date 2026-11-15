@@ -1,0 +1,39 @@
+
+.hd3[data-v-9304bcf6] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.8rem;
+}
+.hd3 .c[data-v-9304bcf6] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid var(--c); border-radius: 12px; padding: 0.55rem 0.8rem; display: flex; flex-direction: column; gap: 0.35rem; font-size: 0.8rem; line-height: 1.4;
+}
+.hd3 .hc[data-v-9304bcf6] { --c: #7048e8;
+}
+.hd3 .dp[data-v-9304bcf6] { --c: #004e9f;
+}
+.hd3 .fm[data-v-9304bcf6] { --c: var(--teal-d);
+}
+.hd3 .k[data-v-9304bcf6] { display: flex; gap: 0.35rem; align-items: center; font: 700 1rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.hd3 .k i[data-v-9304bcf6] { color: var(--c); font-size: 1.3rem;
+}
+.hd3 .fl[data-v-9304bcf6] { display: flex; flex-wrap: wrap; gap: 0.2rem; align-items: center;
+}
+.hd3 .fl span[data-v-9304bcf6] { font: 0.62rem 'IBM Plex Mono', monospace; background: #f3f5f9; border-radius: 4px; padding: 0.05rem 0.3rem;
+}
+.hd3 .fl i[data-v-9304bcf6] { font-size: 0.7rem; color: var(--c);
+}
+.hd3 .nm[data-v-9304bcf6] { display: flex; flex-direction: column; background: #f3f5f9; border-radius: 8px; padding: 0.2rem 0.5rem;
+}
+.hd3 .nm b[data-v-9304bcf6] { font: 700 1.25rem 'Source Sans 3', sans-serif; color: var(--c);
+}
+.hd3 .nm em[data-v-9304bcf6] { font-size: 0.62rem; font-style: normal; color: var(--muted);
+}
+.hd3 small[data-v-9304bcf6] { font-size: 0.66rem; color: var(--muted); margin-top: auto;
+}
+.spec[data-v-9304bcf6] { display: grid; grid-template-columns: auto 1fr auto; gap: 0.6rem; align-items: center; font: 600 0.7rem 'IBM Plex Mono', monospace; color: var(--navy);
+}
+.spec i[data-v-9304bcf6] { height: 0.5rem; border-radius: 99px; background: linear-gradient(90deg, #7048e8, #004e9f, var(--teal-d));
+}
+.nx[data-v-9304bcf6] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.6rem;
+}
+.nx span[data-v-9304bcf6] { display: flex; gap: 0.35rem; align-items: center; background: var(--teal-t); border-radius: 8px; padding: 0.3rem 0.6rem; font-size: 0.78rem; color: var(--navy);
+}
+.nx i[data-v-9304bcf6] { color: var(--teal-d); flex: none;
+}

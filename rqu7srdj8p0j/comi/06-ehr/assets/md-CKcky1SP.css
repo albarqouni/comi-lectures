@@ -1,0 +1,52 @@
+
+.l6f[data-v-d97480d7] { display: grid; grid-template-columns: 1.25fr 1fr; gap: 0.9rem; align-items: start;
+}
+.lt[data-v-d97480d7] { display: flex; flex-direction: column; gap: 0.3rem;
+}
+.vs[data-v-d97480d7], .sm[data-v-d97480d7] { display: flex; gap: 0.25rem;
+}
+.vs button[data-v-d97480d7], .sm button[data-v-d97480d7] { flex: 1; font: 600 0.66rem 'Source Sans 3', sans-serif; padding: 0.2rem 0.3rem; border-radius: 99px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.vs button.on[data-v-d97480d7] { color: #fff;
+}
+.sm button.on[data-v-d97480d7] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+.ch[data-v-d97480d7] { width: 100%; height: 8.6rem; background: #fbfbfd; border: 1px solid var(--line); border-radius: 8px;
+}
+.ax[data-v-d97480d7] { display: flex; justify-content: space-between; font: 0.52rem 'IBM Plex Mono', monospace; color: var(--muted);
+}
+.lt label[data-v-d97480d7] { display: grid; grid-template-columns: 6.5rem 1fr; gap: 0.4rem; align-items: center; font: 600 0.7rem 'IBM Plex Mono', monospace; color: var(--navy);
+}
+.lt input[data-v-d97480d7] { accent-color: var(--rubin);
+}
+.rt[data-v-d97480d7] { display: flex; flex-direction: column; gap: 0.35rem;
+}
+.hh[data-v-d97480d7] { font: 600 0.58rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.fg[data-v-d97480d7] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.3rem;
+}
+.fg div[data-v-d97480d7] { background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 0.25rem 0.5rem; display: flex; flex-direction: column;
+}
+.fg span[data-v-d97480d7] { font-size: 0.62rem; color: var(--muted);
+}
+.fg b[data-v-d97480d7] { font: 700 1.25rem/1.1 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.fg em[data-v-d97480d7] { font-size: 0.58rem; font-style: normal; color: var(--muted);
+}
+.fg .hl[data-v-d97480d7] { background: var(--teal-t); border-color: transparent;
+}
+.fg .hl b[data-v-d97480d7] { color: var(--teal-d);
+}
+.em[data-v-d97480d7] { background: var(--rubin-t); color: var(--rubin-d); border-radius: 8px; padding: 0.6rem; font-size: 0.82rem;
+}
+.rt[data-v-d97480d7] .katex-display { margin: 0.1rem 0; font-size: 0.85rem;
+}
+.nt[data-v-d97480d7] { font-size: 0.58rem; color: var(--muted);
+}
+
+.l6r .rwc[data-v-534f650a] { display: flex; gap: 0.6rem; align-items: center; background: var(--teal-t); border-radius: 10px; padding: 0.4rem 0.8rem; font-size: 0.82rem; line-height: 1.4;
+}
+.l6r .rwc > i[data-v-534f650a] { font-size: 1.8rem; color: var(--teal-d); flex: none;
+}
+.l6r b[data-v-534f650a] { color: var(--navy);
+}

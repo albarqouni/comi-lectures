@@ -1,0 +1,15 @@
+
+.cl[data-v-ce2f1fec] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.8rem;
+}
+.cl .cd[data-v-ce2f1fec] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid var(--navy); border-radius: 12px; padding: 0.75rem 0.9rem; font-size: 0.92rem; line-height: 1.5;
+}
+.cl .cd.red[data-v-ce2f1fec] { border-top-color: var(--rubin); background: var(--rubin-t);
+}
+.cl .k[data-v-ce2f1fec] { font: 700 1.05rem 'Source Sans 3', sans-serif; color: var(--navy); margin-bottom: 0.3rem;
+}
+.cl b[data-v-ce2f1fec] { color: var(--navy);
+}
+.lesson[data-v-ce2f1fec] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.55rem 0.9rem; font: 1rem 'Source Serif 4', serif;
+}
+.lesson b[data-v-ce2f1fec] { color: var(--gelb);
+}

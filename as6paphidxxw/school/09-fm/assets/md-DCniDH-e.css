@@ -1,0 +1,25 @@
+
+.flow[data-v-83e695ee] { display: flex; align-items: stretch; gap: 0.4rem;
+}
+.flow .b[data-v-83e695ee] { flex: 1; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.6rem 0.8rem; font: 700 0.98rem 'Source Sans 3', sans-serif; color: var(--navy); display: flex; flex-direction: column; gap: 0.2rem;
+}
+.flow .b i[data-v-83e695ee] { font: 400 0.78rem 'Source Sans 3', sans-serif; color: var(--muted); font-style: normal;
+}
+.flow .nv[data-v-83e695ee] { background: var(--navy); color: #fff;
+}
+.flow .nv i[data-v-83e695ee] { color: #cfe0f0;
+}
+.flow .tl[data-v-83e695ee] { background: var(--teal-t);
+}
+.flow .a[data-v-83e695ee] { display: grid; place-items: center; color: var(--teal-d); font-size: 1.4rem;
+}
+.ex[data-v-83e695ee] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.8rem; margin-top: 0.9rem;
+}
+.ex .st[data-v-83e695ee] { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.7rem 0.9rem; display: flex; flex-direction: column; gap: 0.2rem;
+}
+.ex .st > b[data-v-83e695ee] { font: 700 2rem/1 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.ex .st span[data-v-83e695ee] { font-size: 0.86rem; line-height: 1.4;
+}
+.ex .st span b[data-v-83e695ee] { color: var(--navy);
+}

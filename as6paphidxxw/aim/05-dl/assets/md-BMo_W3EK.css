@@ -1,0 +1,43 @@
+
+.hg[data-v-a87a7882] { display: grid; grid-template-columns: 16rem 1fr; gap: 0.9rem; align-items: start;
+}
+.stage[data-v-a87a7882] { position: relative; width: 16rem; height: 16rem; border-radius: 12px; overflow: hidden; background: #000;
+}
+.stage canvas[data-v-a87a7882], .stage svg[data-v-a87a7882] { position: absolute; inset: 0; width: 100%; height: 100%;
+}
+.stage canvas[data-v-a87a7882] { image-rendering: pixelated;
+}
+.stage svg[data-v-a87a7882] { cursor: crosshair;
+}
+.side[data-v-a87a7882] { display: flex; flex-direction: column; gap: 0.45rem;
+}
+.th[data-v-a87a7882] { display: flex; gap: 0.25rem;
+}
+.th button[data-v-a87a7882] { padding: 0; border: 2px solid transparent; border-radius: 8px; background: none; cursor: pointer;
+}
+.th button.on[data-v-a87a7882] { border-color: var(--rubin);
+}
+.tg[data-v-a87a7882] { display: flex; gap: 0.25rem; align-items: center;
+}
+.tg span[data-v-a87a7882] { font: 600 0.56rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--muted);
+}
+.tg button[data-v-a87a7882] { font: 600 0.68rem 'Source Sans 3', sans-serif; padding: 0.15rem 0.55rem; border-radius: 99px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.tg button.on[data-v-a87a7882] { background: var(--navy); color: #fff;
+}
+.ck[data-v-a87a7882] { font-size: 0.7rem; display: flex; gap: 0.3rem; align-items: center; color: var(--navy);
+}
+.hb[data-v-a87a7882] { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.4rem 0.6rem;
+}
+.hb svg[data-v-a87a7882] { width: 100%; height: 5.4rem;
+}
+.hb .k[data-v-a87a7882] { font: 600 0.56rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: var(--rubin-d);
+}
+.hb small[data-v-a87a7882] { font-size: 0.62rem; color: var(--muted);
+}
+.fv[data-v-a87a7882] { display: flex; gap: 0.5rem; align-items: center; background: var(--teal-t); border-radius: 10px; padding: 0.35rem 0.7rem;
+}
+.fv b[data-v-a87a7882] { font: 700 1.5rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.fv span[data-v-a87a7882] { font-size: 0.7rem; line-height: 1.3;
+}

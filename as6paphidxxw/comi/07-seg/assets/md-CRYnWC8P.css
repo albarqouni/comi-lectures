@@ -1,0 +1,21 @@
+
+.rgv[data-v-d9dc6349] { display: flex; flex-direction: column; gap: 0.6rem;
+}
+.vm small[data-v-d9dc6349] { font-size: 0.66rem;
+}
+.rgv .tk-c[data-v-d9dc6349] { font-size: 0.82rem;
+}
+.rgv .k[data-v-d9dc6349] { font: 700 0.86rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.rgv .tk-bars > div[data-v-d9dc6349] { grid-template-columns: 9.5rem 1fr 3.4rem; font-size: 0.78rem;
+}
+.rgn[data-v-d9dc6349] { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.4rem; margin-top: 0.4rem;
+}
+.rgn div[data-v-d9dc6349] { background: #e8edf5; border-radius: 8px; padding: 0.2rem 0.55rem; display: flex; flex-direction: column;
+}
+.rgn b[data-v-d9dc6349] { font: 700 1.25rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.rgn span[data-v-d9dc6349] { font-size: 0.66rem; color: var(--muted);
+}
+.rgn .hl[data-v-d9dc6349] { background: var(--teal-t);
+}

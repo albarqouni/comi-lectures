@@ -1,0 +1,46 @@
+
+.kp[data-v-1216ef9d] { display: grid; grid-template-columns: 1fr 13rem; gap: 1.1rem; align-items: start;
+}
+.pre[data-v-1216ef9d] { display: flex; gap: 0.3rem; margin-bottom: 0.5rem;
+}
+.pre button[data-v-1216ef9d] { font: 600 0.66rem 'Source Sans 3', sans-serif; padding: 0.2rem 0.7rem; border-radius: 99px; border: 1px solid var(--navy); background: #fff; color: var(--navy); cursor: pointer;
+}
+.grid[data-v-1216ef9d] { display: grid; grid-template-columns: 4.5rem repeat(20, 1fr); gap: 0.2rem; align-items: center;
+}
+.h[data-v-1216ef9d] { font: 600 0.7rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.c[data-v-1216ef9d] { height: 1.7rem; border-radius: 4px; border: 2px solid transparent; background: #eef1f5; color: var(--muted); font: 700 0.66rem 'Source Sans 3', sans-serif; cursor: pointer; padding: 0;
+}
+.c.p[data-v-1216ef9d] { background: var(--navy); color: #fff;
+}
+.c.dis[data-v-1216ef9d] { border-color: var(--rubin);
+}
+.hint[data-v-1216ef9d] { font: 0.55rem 'IBM Plex Mono', monospace; letter-spacing: 0.05em; text-transform: uppercase; color: var(--muted); margin-top: 0.4rem;
+}
+.right[data-v-1216ef9d] { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.6rem 0.8rem; display: flex; flex-direction: column; gap: 0.35rem;
+}
+table[data-v-1216ef9d] { border-collapse: collapse; font-size: 0.74rem; margin-bottom: 0.2rem;
+}
+th[data-v-1216ef9d], td[data-v-1216ef9d] { padding: 0.15rem 0.45rem; text-align: center;
+}
+th[data-v-1216ef9d] { color: var(--muted); font-weight: 600;
+}
+td[data-v-1216ef9d] { font: 700 0.95rem 'Source Sans 3', sans-serif; color: var(--navy); background: #eef1f5; border: 2px solid #fff;
+}
+td.x[data-v-1216ef9d] { background: var(--rubin-t); color: var(--rubin-d);
+}
+.m[data-v-1216ef9d] { display: flex; justify-content: space-between; align-items: baseline; font-size: 0.74rem;
+}
+.m b[data-v-1216ef9d] { font: 700 1.05rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.m.k[data-v-1216ef9d] { border-top: 1px solid var(--line); padding-top: 0.3rem; flex-wrap: wrap;
+}
+.m.k b[data-v-1216ef9d] { font-size: 1.6rem; color: var(--rubin);
+}
+.m.k i[data-v-1216ef9d] { width: 100%; text-align: right; font-size: 0.66rem; color: var(--muted);
+}
+.f[data-v-1216ef9d] { font: italic 0.62rem 'Source Serif 4', serif; color: var(--muted);
+}
+
+.lesson[data-v-a29454d2] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.55rem 0.9rem; font: 1rem 'Source Serif 4', serif; display: flex; gap: 0.6rem; align-items: center;
+}

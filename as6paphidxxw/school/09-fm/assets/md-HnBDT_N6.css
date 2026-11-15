@@ -1,0 +1,13 @@
+
+.l11tl[data-v-32f7d818] { display: grid; grid-template-columns: 1fr 1fr 1.3fr; gap: 0.6rem;
+}
+.l11tl div[data-v-32f7d818] { background: var(--card); border: 1px solid var(--line); border-left: 5px solid #004e9f; border-radius: 10px; padding: 0.4rem 0.7rem; display: flex; flex-direction: column;
+}
+.l11tl b[data-v-32f7d818] { font: 700 1.3rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.l11tl span[data-v-32f7d818] { font-size: 0.78rem;
+}
+.l11tl .hl[data-v-32f7d818] { background: var(--teal-t); border-left-color: var(--teal);
+}
+.lesson[data-v-32f7d818] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.5rem 0.9rem; font: italic 0.96rem 'Source Serif 4', serif;
+}

@@ -1,0 +1,41 @@
+
+.sz[data-v-f8e138a0] { display: grid; grid-template-columns: 1.15fr 1fr; gap: 0.8rem;
+}
+.lf[data-v-f8e138a0] { display: flex; flex-direction: column; gap: 0.35rem; font-size: 0.78rem; color: var(--navy);
+}
+.lf label[data-v-f8e138a0] { display: flex; flex-direction: column;
+}
+.lf input[data-v-f8e138a0] { accent-color: #0f8b8d;
+}
+.pre[data-v-f8e138a0], .md[data-v-f8e138a0] { display: flex; gap: 0.3rem; flex-wrap: wrap;
+}
+.pre button[data-v-f8e138a0], .md button[data-v-f8e138a0] { font: 600 0.68rem 'Source Sans 3', sans-serif; padding: 0.18rem 0.6rem; border-radius: 99px; border: 1px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.pre button[data-v-f8e138a0] { background: var(--teal-t); border-color: transparent; color: var(--teal-d);
+}
+.md button.on[data-v-f8e138a0] { background: var(--navy); color: #fff;
+}
+.fx[data-v-f8e138a0] { background: #fff8dc; border-radius: 9px; padding: 0.3rem 0.6rem; font-size: 0.9rem;
+}
+.rt[data-v-f8e138a0] { background: #f4f7fb; border: 1px solid var(--line); border-radius: 12px; padding: 0.55rem 0.75rem; display: flex; flex-direction: column; gap: 0.35rem;
+}
+.nn[data-v-f8e138a0] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.3rem;
+}
+.nn div[data-v-f8e138a0] { background: #fff; border-radius: 8px; padding: 0.3rem 0.45rem; display: flex; flex-direction: column;
+}
+.nn b[data-v-f8e138a0] { font: 700 1.45rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.nn span[data-v-f8e138a0] { font-size: 0.6rem; color: var(--muted); line-height: 1.2;
+}
+.k[data-v-f8e138a0] { font: 600 0.58rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: #004e9f;
+}
+.rt svg[data-v-f8e138a0] { width: 100%; height: 2.4rem;
+}
+.ax[data-v-f8e138a0] { display: flex; justify-content: space-between; font: 0.56rem 'IBM Plex Mono', monospace; color: var(--muted); margin-top: -0.25rem;
+}
+.rt small[data-v-f8e138a0] { font-size: 0.68rem; color: var(--muted); line-height: 1.35;
+}
+.rt small b[data-v-f8e138a0] { color: var(--navy);
+}
+.rt small.r[data-v-f8e138a0] { color: var(--rubin);
+}

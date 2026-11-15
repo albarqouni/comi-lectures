@@ -1,0 +1,55 @@
+
+.bl[data-v-23944c97] { display: grid; grid-template-columns: 18.5rem 1fr; gap: 1rem;
+}
+.pl[data-v-23944c97] { position: relative; width: 18.5rem; height: 18.5rem; background: #fbfbfd; border: 1px solid var(--line); border-radius: 10px; overflow: hidden;
+}
+.pl svg[data-v-23944c97] { position: absolute; inset: 0; width: 100%; height: 100%;
+}
+.xl[data-v-23944c97], .yl[data-v-23944c97] { position: absolute; font: 600 0.55rem 'IBM Plex Mono', monospace; color: var(--navy); background: rgba(255,255,255,0.75); padding: 0 0.2rem;
+}
+.xl[data-v-23944c97] { right: 0.3rem; bottom: 0.15rem;
+}
+.yl[data-v-23944c97] { left: 0.3rem; top: 0.15rem;
+}
+.ol[data-v-23944c97] { position: absolute; transform: translate(0.35rem, -1.1rem); font: 700 0.55rem 'IBM Plex Mono', monospace; color: #c2255c;
+}
+.side[data-v-23944c97] { display: flex; flex-direction: column; gap: 0.4rem; min-width: 0;
+}
+.tg[data-v-23944c97] { display: flex; gap: 0.25rem; flex-wrap: wrap;
+}
+.tg button[data-v-23944c97] { font: 600 0.66rem 'Source Sans 3', sans-serif; padding: 0.15rem 0.6rem; border-radius: 99px; border: 1.5px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.tg button.on[data-v-23944c97] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+label[data-v-23944c97] { display: grid; grid-template-columns: 5.5rem 1fr 2.6rem; gap: 0.4rem; align-items: center; font-size: 0.74rem; color: var(--navy);
+}
+input[data-v-23944c97] { accent-color: var(--rubin);
+}
+label b[data-v-23944c97] { font: 0.7rem 'IBM Plex Mono', monospace; text-align: right;
+}
+.fx[data-v-23944c97] { font-size: 0.82rem; color: var(--navy); background: var(--gelb); border-radius: 8px; padding: 0.2rem 0.5rem; align-self: flex-start;
+}
+.st[data-v-23944c97] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.3rem;
+}
+.st div[data-v-23944c97] { background: #e3ecf8; border-radius: 8px; padding: 0.2rem 0.5rem; display: flex; flex-direction: column;
+}
+.st span[data-v-23944c97] { font-size: 0.58rem; color: var(--navy);
+}
+.st b[data-v-23944c97] { font: 700 1.05rem 'Source Sans 3', sans-serif; color: #004e9f;
+}
+.st b.z[data-v-23944c97] { color: var(--rubin);
+}
+.lg[data-v-23944c97] { display: flex; flex-wrap: wrap; gap: 0.2rem 0.7rem; font-size: 0.6rem; color: var(--muted);
+}
+.lg i[data-v-23944c97] { display: inline-block; width: 0.9rem; height: 0.55rem; margin-right: 0.25rem; vertical-align: middle; border-radius: 2px;
+}
+.lg .c[data-v-23944c97] { border-top: 1px solid #c2255c; height: 0;
+}
+.lg .t[data-v-23944c97] { border-top: 2px solid #c2255c; height: 0;
+}
+.lg .r[data-v-23944c97] { background: rgba(0,78,159,0.25); border: 1px solid #004e9f;
+}
+.lg .pa[data-v-23944c97] { border-top: 1.5px dashed #1f8c82; height: 0;
+}
+small[data-v-23944c97] { font-size: 0.64rem; color: var(--muted); line-height: 1.35;
+}

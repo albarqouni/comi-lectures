@@ -1,0 +1,17 @@
+
+.ac[data-v-5b93116e] { display: grid; grid-template-columns: 1.3fr 1fr; gap: 0.8rem;
+}
+.ac .tk-c[data-v-5b93116e] { font-size: 0.9rem;
+}
+.cmp[data-v-5b93116e] { display: flex; flex-direction: column; gap: 0.6rem;
+}
+.cmp div[data-v-5b93116e] { display: grid; grid-template-columns: 5rem 1fr; gap: 0.1rem 0.6rem; align-items: center;
+}
+.cmp b[data-v-5b93116e] { font: 700 1.8rem 'Source Sans 3', sans-serif; color: var(--navy); grid-row: span 2;
+}
+.cmp span[data-v-5b93116e] { font-size: 0.82rem;
+}
+.cmp i[data-v-5b93116e] { display: block; height: 1.1rem; border-radius: 99px; background: var(--rubin);
+}
+.cmp i.t[data-v-5b93116e] { background: var(--teal);
+}

@@ -1,0 +1,37 @@
+
+.dr[data-v-d9a3ae92] { display: grid; grid-template-columns: 1.45fr 1fr; gap: 0.9rem;
+}
+.dv[data-v-d9a3ae92] { display: flex; flex-direction: column; gap: 0.28rem;
+}
+.ln[data-v-d9a3ae92] { display: flex; gap: 0.5rem; align-items: center; padding: 0.25rem 0.6rem; border-radius: 9px; border: 1px solid var(--line); background: var(--card); cursor: pointer; transition: opacity 0.2s; font-size: 0.84rem; color: var(--navy);
+}
+.ln i[data-v-d9a3ae92] { font: 700 0.72rem 'IBM Plex Mono', monospace; font-style: normal; width: 1.3rem; height: 1.3rem; border-radius: 50%; display: grid; place-items: center; background: #e3ecf8; color: #004e9f; flex: none;
+}
+.ln > div[data-v-d9a3ae92] { display: flex; flex-direction: column;
+}
+.ln b[data-v-d9a3ae92] { font-size: 0.64rem; color: var(--muted); font-weight: 600;
+}
+.ln.on[data-v-d9a3ae92] { background: var(--gelb); border-color: #f0b400;
+}
+.ln.on i[data-v-d9a3ae92] { background: var(--navy); color: #fff;
+}
+.ln.fut[data-v-d9a3ae92] { opacity: 0.18;
+}
+.bt[data-v-d9a3ae92] { display: flex; gap: 0.3rem; margin-top: 0.1rem;
+}
+.bt button[data-v-d9a3ae92] { font: 600 0.72rem 'Source Sans 3', sans-serif; padding: 0.22rem 0.7rem; border-radius: 99px; border: none; background: var(--navy); color: #fff; cursor: pointer;
+}
+.bt button.g[data-v-d9a3ae92] { background: #c9d2dd; color: var(--navy);
+}
+.bt button[data-v-d9a3ae92]:disabled { opacity: 0.4; cursor: default;
+}
+.lv[data-v-d9a3ae92] { background: #f4f7fb; border: 1px solid var(--line); border-radius: 12px; padding: 0.6rem 0.8rem; display: flex; flex-direction: column; gap: 0.5rem; align-self: start;
+}
+.lv .kk[data-v-d9a3ae92] { font: 600 0.6rem 'IBM Plex Mono', monospace; text-transform: uppercase; color: #004e9f;
+}
+.lv p[data-v-d9a3ae92] { margin: 0; font-size: 0.82rem; color: var(--navy); line-height: 1.35;
+}
+.big[data-v-d9a3ae92] { font-size: 1.05rem; color: var(--navy); background: #fff; border-radius: 8px; padding: 0.4rem 0.5rem;
+}
+.lv small[data-v-d9a3ae92] { font-size: 0.66rem; color: var(--muted); line-height: 1.35;
+}

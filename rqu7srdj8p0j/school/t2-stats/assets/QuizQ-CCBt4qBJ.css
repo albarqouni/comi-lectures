@@ -1,0 +1,35 @@
+
+.qz[data-v-8caefbe8] { display: flex; flex-direction: column; gap: 0.9rem; position: relative;
+}
+.top[data-v-8caefbe8] { display: flex; justify-content: flex-start; gap: 0.8rem; align-items: center; min-height: 2rem; max-width: 36rem;
+}
+.tag[data-v-8caefbe8] { font: 600 0.66rem 'IBM Plex Mono', monospace; letter-spacing: 0.12em; text-transform: uppercase; color: var(--navy); background: var(--gelb); padding: 0.25rem 0.75rem; border-radius: 99px;
+}
+.join[data-v-8caefbe8] { display: flex; align-items: center; gap: 0.5rem; background: var(--card); border: 1px solid var(--line); border-radius: 99px; padding: 0.2rem 0.8rem; font-size: 0.8rem;
+}
+.join b[data-v-8caefbe8] { display: inline !important; margin-right: 0.4rem;
+}
+.join img[data-v-8caefbe8] { width: 3.6rem; height: 3.6rem;
+}
+.join b[data-v-8caefbe8] { display: block; font: 600 0.58rem 'IBM Plex Mono', monospace; letter-spacing: 0.1em; text-transform: uppercase; color: var(--teal-d);
+}
+.join i[data-v-8caefbe8] { font-style: normal; font-weight: 700; color: var(--navy);
+}
+.q[data-v-8caefbe8] { font: 600 1.7rem/1.28 'Source Serif 4', serif; color: var(--navy); max-width: 48rem; margin-top: 0.4rem;
+}
+.opts[data-v-8caefbe8] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.65rem;
+}
+.o[data-v-8caefbe8] { display: flex; align-items: center; gap: 0.75rem; background: var(--c); color: #fff; border-radius: 12px; padding: 0.75rem 1rem; font: 600 1.2rem 'Source Sans 3', sans-serif; min-height: 4.6rem; transition: opacity 0.4s, transform 0.4s;
+}
+.o b[data-v-8caefbe8] { width: 1.8rem; height: 1.8rem; border-radius: 50%; background: rgba(255,255,255,0.25); display: grid; place-items: center; flex: none; font-size: 0.95rem;
+}
+.o.no[data-v-8caefbe8] { opacity: 0.22;
+}
+.o.ok[data-v-8caefbe8] { transform: scale(1.03); box-shadow: 0 8px 20px rgba(23,56,105,0.25);
+}
+.tick[data-v-8caefbe8] { margin-left: auto; width: 1.6rem; height: 1.6rem;
+}
+.why.empty[data-v-8caefbe8] { visibility: hidden;
+}
+.why[data-v-8caefbe8] { background: var(--teal-t); border-radius: 10px; padding: 0.55rem 0.9rem; font-size: 0.9rem; line-height: 1.4; color: var(--ink);
+}

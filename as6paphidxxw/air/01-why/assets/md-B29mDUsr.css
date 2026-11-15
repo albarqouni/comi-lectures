@@ -1,0 +1,47 @@
+
+.tm[data-v-c08b6433] { display: grid; grid-template-columns: 17rem 1fr; gap: 1.1rem; align-items: start;
+}
+.ctl[data-v-c08b6433] { display: flex; flex-direction: column; gap: 0.55rem; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 0.7rem 0.85rem;
+}
+label[data-v-c08b6433] { display: flex; flex-direction: column; gap: 0.15rem; font-size: 0.72rem; color: var(--ink);
+}
+label b[data-v-c08b6433] { color: var(--navy);
+}
+label.trust[data-v-c08b6433] { border-top: 1px solid var(--line); padding-top: 0.45rem;
+}
+input[type=range][data-v-c08b6433] { width: 100%; accent-color: var(--navy);
+}
+.note[data-v-c08b6433] { font-size: 0.6rem; line-height: 1.35; color: var(--muted); font-style: italic;
+}
+.out[data-v-c08b6433] { display: flex; flex-direction: column; gap: 0.6rem;
+}
+.row[data-v-c08b6433] { display: grid; grid-template-columns: 7rem 1fr; gap: 0.6rem; align-items: center;
+}
+.nm[data-v-c08b6433] { font: 600 0.82rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.row.team .nm[data-v-c08b6433] { color: var(--rubin-d);
+}
+.bars[data-v-c08b6433] { display: flex; flex-direction: column; gap: 0.2rem;
+}
+.b[data-v-c08b6433] { position: relative; height: 1.15rem; background: #eef1f5; border-radius: 4px; overflow: hidden;
+}
+.b i[data-v-c08b6433] { position: absolute; left: 0; top: 0; bottom: 0; transition: width 0.35s;
+}
+.b i.s[data-v-c08b6433] { background: #2d9d9b;
+}
+.b i.p[data-v-c08b6433] { background: #173869;
+}
+.row.team .b i.s[data-v-c08b6433] { background: #e57b81;
+}
+.row.team .b i.p[data-v-c08b6433] { background: #c2141f;
+}
+.b em[data-v-c08b6433] { position: absolute; left: 0.4rem; top: 0; font: 600 0.62rem/1.15rem 'Source Sans 3', sans-serif; color: #fff; font-style: normal;
+}
+.vd[data-v-c08b6433] { border-radius: 10px; padding: 0.5rem 0.8rem; font-size: 0.86rem; line-height: 1.4;
+}
+.vd.good[data-v-c08b6433] { background: var(--teal-t); color: var(--teal-d);
+}
+.vd.bad[data-v-c08b6433] { background: var(--rubin-t); color: var(--rubin-d);
+}
+.vd.mid[data-v-c08b6433] { background: #eef1f5; color: var(--navy);
+}

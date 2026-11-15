@@ -1,0 +1,9 @@
+
+.pf[data-v-581f3083] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.6rem;
+}
+.pf div[data-v-581f3083] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid var(--rubin); border-radius: 12px; padding: 0.55rem 0.75rem; display: flex; flex-direction: column; gap: 0.2rem;
+}
+.pf b[data-v-581f3083] { color: var(--navy); font-size: 1rem;
+}
+.pf span[data-v-581f3083] { font-size: 0.8rem; line-height: 1.4;
+}

@@ -1,0 +1,19 @@
+
+.lm[data-v-3b80065f] { display: grid; grid-template-columns: 1.3fr 1fr; gap: 1rem;
+}
+.lm .cd[data-v-3b80065f] { border-radius: 14px; padding: 0.8rem 1rem; display: flex; flex-direction: column; gap: 0.5rem;
+}
+.lm .good[data-v-3b80065f] { background: var(--teal-t);
+}
+.lm .bad[data-v-3b80065f] { background: var(--rubin-t);
+}
+.lm .k[data-v-3b80065f] { font: 600 0.6rem 'IBM Plex Mono', monospace; letter-spacing: 0.08em; text-transform: uppercase; color: var(--navy);
+}
+.lm .row[data-v-3b80065f] { display: grid; grid-template-columns: 5rem 1fr; gap: 0.6rem; align-items: baseline; font-size: 0.84rem; line-height: 1.45;
+}
+.lm .row b[data-v-3b80065f] { font: 700 1.3rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.lm .bad .row b[data-v-3b80065f] { color: var(--rubin); font-size: 2rem;
+}
+.lesson[data-v-3b80065f] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.55rem 0.9rem; font: italic 1.05rem 'Source Serif 4', serif;
+}

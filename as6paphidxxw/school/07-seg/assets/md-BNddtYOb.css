@@ -1,0 +1,53 @@
+
+.rp[data-v-f063e2bf] { display: flex; flex-direction: column; gap: 0.45rem;
+}
+.tabs[data-v-f063e2bf] { display: flex; flex-wrap: wrap; gap: 0.25rem;
+}
+.tabs button[data-v-f063e2bf] { font: 600 0.7rem 'Source Sans 3', sans-serif; padding: 0.2rem 0.7rem; border-radius: 99px; border: 1px solid var(--rubin); background: #fff; color: var(--rubin-d); cursor: pointer;
+}
+.tabs button.on[data-v-f063e2bf] { background: var(--rubin); color: #fff;
+}
+.grid[data-v-f063e2bf] { display: grid; grid-template-columns: 18rem 1fr; gap: 1rem; align-items: start;
+}
+.left[data-v-f063e2bf] { display: flex; flex-direction: column; gap: 0.25rem;
+}
+canvas[data-v-f063e2bf] { width: 18rem; height: auto; border-radius: 8px; display: block; background: #000;
+}
+.xr[data-v-f063e2bf] { display: flex; gap: 0.5rem;
+}
+.lg[data-v-f063e2bf] { display: flex; gap: 0.3rem; align-items: center; font-size: 0.58rem; color: var(--muted); flex-wrap: wrap;
+}
+.lg i[data-v-f063e2bf] { width: 0.65rem; height: 0.65rem; border-radius: 2px; display: inline-block;
+}
+.out[data-v-f063e2bf] { display: flex; flex-direction: column; gap: 0.45rem;
+}
+.q[data-v-f063e2bf] { font-size: 0.85rem; color: var(--ink);
+}
+.q b[data-v-f063e2bf] { color: var(--navy);
+}
+.ms[data-v-f063e2bf] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.4rem;
+}
+.ms.four[data-v-f063e2bf] { grid-template-columns: 1fr 1fr;
+}
+.ms div[data-v-f063e2bf] { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 0.35rem 0.6rem; display: flex; flex-direction: column;
+}
+.ms .r[data-v-f063e2bf] { background: var(--rubin-t); border-color: transparent;
+}
+.ms span[data-v-f063e2bf] { font-size: 0.62rem; color: var(--muted);
+}
+.ms b[data-v-f063e2bf] { font: 700 1.3rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.ms .r b[data-v-f063e2bf] { color: var(--rubin);
+}
+.ms em[data-v-f063e2bf] { font-size: 0.66rem; color: var(--muted); font-style: normal;
+}
+label[data-v-f063e2bf] { display: flex; flex-direction: column; gap: 0.05rem; font-size: 0.74rem;
+}
+label b[data-v-f063e2bf] { color: var(--rubin);
+}
+label.ck[data-v-f063e2bf] { flex-direction: row; gap: 0.35rem; align-items: center;
+}
+input[type=range][data-v-f063e2bf] { width: 100%; accent-color: var(--navy);
+}
+.nt[data-v-f063e2bf] { font-size: 0.78rem; line-height: 1.45; background: var(--teal-t); border-radius: 8px; padding: 0.4rem 0.6rem; color: var(--navy);
+}

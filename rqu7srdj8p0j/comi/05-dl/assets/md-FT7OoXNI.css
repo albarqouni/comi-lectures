@@ -1,0 +1,39 @@
+
+.lr[data-v-2f1d1618] { display: grid; grid-template-columns: 1.3fr 1fr; gap: 0.9rem;
+}
+.lf[data-v-2f1d1618] { display: flex; flex-direction: column; gap: 0.25rem;
+}
+.lf svg[data-v-2f1d1618] { width: 100%; height: 14.5rem; border: 1px solid var(--line); border-radius: 10px;
+}
+.ax[data-v-2f1d1618] { display: flex; justify-content: space-between; font-size: 0.58rem; color: var(--muted);
+}
+.tg[data-v-2f1d1618] { display: flex; gap: 0.25rem; flex-wrap: wrap;
+}
+.tg button[data-v-2f1d1618] { font: 600 0.66rem 'Source Sans 3', sans-serif; padding: 0.12rem 0.55rem; border-radius: 99px; border: 1.5px solid var(--line); background: #fff; color: var(--navy); cursor: pointer;
+}
+.tg button.on[data-v-2f1d1618] { background: var(--navy); color: #fff; border-color: var(--navy);
+}
+.sd[data-v-2f1d1618] { display: flex; flex-direction: column; gap: 0.45rem; min-width: 0;
+}
+.ch[data-v-2f1d1618] { display: flex; flex-wrap: wrap; gap: 0.25rem;
+}
+.ch button[data-v-2f1d1618] { font: 600 0.64rem 'Source Sans 3', sans-serif; padding: 0.12rem 0.5rem; border-radius: 99px; border: 1.5px solid; background: #fff; color: var(--navy); cursor: pointer; display: flex; align-items: center; gap: 0.25rem;
+}
+.ch button.on[data-v-2f1d1618] { background: #f4f7fb; box-shadow: 0 0 0 1.5px var(--navy);
+}
+.ch i[data-v-2f1d1618] { width: 0.55rem; height: 0.55rem; border-radius: 50%; display: inline-block;
+}
+.fx[data-v-2f1d1618] { background: var(--gelb); border-radius: 8px; padding: 0.15rem 0.6rem; font-size: 0.84rem; color: var(--navy); align-self: flex-start;
+}
+small[data-v-2f1d1618] { font-size: 0.68rem; color: var(--muted); line-height: 1.35;
+}
+.nb[data-v-2f1d1618] { display: grid; grid-template-columns: 1fr 1fr; gap: 0.3rem;
+}
+.nb div[data-v-2f1d1618] { background: #e3ecf8; border-radius: 8px; padding: 0.15rem 0.5rem; display: flex; flex-direction: column;
+}
+.nb .h[data-v-2f1d1618] { background: var(--gelb);
+}
+.nb span[data-v-2f1d1618] { font-size: 0.56rem; color: var(--navy);
+}
+.nb b[data-v-2f1d1618] { font: 700 1rem 'Source Sans 3', sans-serif; color: var(--navy);
+}

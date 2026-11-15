@@ -1,0 +1,23 @@
+
+.sd[data-v-165624f2] { display: grid; grid-template-columns: 1.6fr 1fr; gap: 1rem; align-items: stretch;
+}
+.sd .cd[data-v-165624f2] { background: var(--card); border: 1px solid var(--line); border-top: 5px solid var(--rubin); border-radius: 14px; padding: 0.8rem 1rem; display: flex; flex-direction: column; gap: 0.5rem;
+}
+.sd .k[data-v-165624f2] { font: 700 1.05rem 'Source Sans 3', sans-serif; color: var(--navy);
+}
+.ch[data-v-165624f2] { display: flex; flex-wrap: wrap; gap: 0.35rem;
+}
+.ch span[data-v-165624f2] { background: var(--rubin-t); color: var(--rubin-d); border-radius: 99px; padding: 0.15rem 0.65rem; font-size: 0.84rem; font-weight: 600;
+}
+.ft[data-v-165624f2] { font: italic 0.95rem 'Source Serif 4', serif; color: var(--ink);
+}
+.st[data-v-165624f2] { background: var(--rubin-t); border-radius: 14px; padding: 0.9rem 1rem; display: flex; flex-direction: column; gap: 0.3rem; justify-content: center;
+}
+.st b[data-v-165624f2] { font: 700 3.4rem/1 'Source Sans 3', sans-serif; color: var(--rubin);
+}
+.st span[data-v-165624f2] { font-size: 0.9rem; line-height: 1.45;
+}
+.lesson[data-v-165624f2] { background: var(--navy); color: #fff; border-radius: 10px; padding: 0.55rem 0.9rem; font: 1rem 'Source Serif 4', serif;
+}
+.lesson b[data-v-165624f2] { color: var(--gelb);
+}
