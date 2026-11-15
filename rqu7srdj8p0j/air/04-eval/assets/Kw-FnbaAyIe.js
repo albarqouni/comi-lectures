@@ -1,0 +1,1 @@
+import{R as e,V as t,w as n,y as r}from"./modules/shiki-yrBt3RR3.js";import{Y as i,st as a}from"./index-BR2zIP5f.js";var o={class:`kw`},s=a(n({__name:`Kw`,setup(n){let{$slidev:a,$nav:s,$clicksContext:c,$clicks:l,$page:u,$renderContext:d,$frontmatter:f}=i();return(n,i)=>(e(),r(`span`,o,[t(n.$slots,`default`,{},void 0,!0)]))}}),[[`__scopeId`,`data-v-858eba27`]]);export{s as t};
