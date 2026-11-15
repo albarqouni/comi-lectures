@@ -1,1 +1,193 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="robots" content="noindex, nofollow, noarchive"><meta name="googlebot" content="noindex, nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><title>CoMI · lectures</title><style>body{font:16px/1.5 system-ui,sans-serif;max-width:46rem;margin:2rem auto;padding:0 1rem;color:#1d2b44}a{color:#004e9f}small{color:#6b7a90;margin-left:.4rem}</style></head><body><h1>CoMI · Computational Medical Imaging</h1><p>M.Sc. Computer Science, Bonn (MA-INF 2115)<br>6 SWS · 9 ECTS · 270 h · 4 SWS lecture + 2 SWS exercises · 14 weeks</p><ul><li><a href="t1-maths/">T1 · maths</a> <small>Toolbox · self-study · week 0</small></li><li><a href="t2-stats/">T2 · stats</a> <small>Toolbox · self-study · week 0</small></li><li><a href="t3-python/">T3 · python</a> <small>Toolbox · self-study · week 0</small></li><li><a href="01-why/">L1 · why</a> <small>Week 1</small></li><li><a href="02-data/">L2 · data</a> <small>Week 2</small></li><li><a href="03-ml/">L3 · ml</a> <small>Week 3</small></li><li><a href="04-eval/">L4 · eval</a> <small>Week 4</small></li><li><a href="05-dl/">L5 · dl</a> <small>Week 5</small></li><li><a href="06-ehr/">L6 · ehr</a> <small>Week 6</small></li><li><a href="07-seg/">L7 · seg</a> <small>Week 7</small></li><li><a href="08-graphs/">L8 · graphs</a> <small>Week 8</small></li><li><a href="09-fm/">L9 · fm</a> <small>Week 9</small></li><li><a href="10-xai/">L10 · xai</a> <small>Week 10</small></li><li><a href="11-unc/">L11 · unc</a> <small>Week 11</small></li><li><a href="12-bias/">L12 · bias</a> <small>Week 12</small></li><li><a href="13-practice/">L13 · practice</a> <small>Week 13</small></li></ul><p><small>Unlisted course page · please do not share outside the course. © 2026 Shadi Albarqouni, CoMI, University Hospital Bonn · images as credited on the slides</small></p></body></html>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="robots" content="noindex, nofollow, noarchive"><meta name="googlebot" content="noindex, nofollow">
+<meta name="viewport" content="width=device-width,initial-scale=1"><title>CoMI · lectures | Albarqouni Lab</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&family=Roboto:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+<link rel="icon" href="/comi-lectures/_s/brand/lab-logo.png">
+<style>
+:root{--ink:#1e2a3a;--navy:#173869;--muted:#64748b;--line:#e2e8f0;--soft:#f1f5f9;--bg:#fff;--card:#fff;--teal:#2d9d9b;--warn:#fef3c7;--warnink:#7a5a00}
+@media (prefers-color-scheme:dark){:root{--ink:#e2e8f0;--navy:#9cc3f5;--muted:#94a3b8;--line:#2b3a50;--soft:#162235;--bg:#0f1826;--card:#132033;--warn:#3a2f10;--warnink:#f5d77a}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 Roboto,ui-sans-serif,system-ui,sans-serif}
+a{color:inherit}header{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line)}
+.bar{max-width:72rem;margin:0 auto;padding:.6rem 1rem;display:flex;align-items:center;justify-content:space-between;gap:1rem}
+.brand{display:flex;align-items:center;gap:.55rem;text-decoration:none;font:700 1.1rem Montserrat,sans-serif;color:var(--navy)}.brand img{height:2.2rem;width:auto}
+.pill{font:600 .72rem Roboto,sans-serif;letter-spacing:.06em;text-transform:uppercase;color:var(--warnink);background:var(--warn);border-radius:99px;padding:.2rem .7rem;white-space:nowrap}
+main{max-width:72rem;margin:0 auto;padding:2rem 1rem 3rem}
+.kicker{font:600 .78rem Roboto,sans-serif;letter-spacing:.12em;text-transform:uppercase;color:var(--teal)}
+h1{font:800 clamp(1.6rem,3.5vw,2.3rem)/1.2 Montserrat,sans-serif;margin:.3rem 0 .6rem;color:var(--ink)}
+.lead{font-size:1.08rem;color:var(--muted);max-width:52rem;margin:0}
+.facts{margin:1.5rem 0 2.2rem;background:var(--soft);border-radius:14px;padding:1.1rem 1.3rem;display:grid;gap:.25rem;font-size:.95rem}
+.facts .btns{margin-top:.7rem}
+h2{font:700 1.3rem Montserrat,sans-serif;margin:2.2rem 0 .3rem}h2+.sub{color:var(--muted);margin:0 0 1rem;font-size:.95rem}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(20rem,1fr));gap:1rem}
+.card{background:var(--card);border:1px solid var(--line);border-top:4px solid var(--c);border-radius:14px;padding:1rem 1.1rem;display:flex;flex-direction:column;gap:.35rem}
+.card{--cc:var(--c)}@media (prefers-color-scheme:dark){.card{--cc:color-mix(in srgb,var(--c) 50%,#fff)}}
+.eyebrow{display:flex;gap:.5rem;align-items:center;font:600 .74rem Roboto,sans-serif;letter-spacing:.1em;text-transform:uppercase;color:var(--cc)}
+.mode{letter-spacing:.04em;color:var(--muted);border:1px solid var(--line);border-radius:99px;padding:0 .5rem;font-size:.68rem}
+h3{font:700 1.08rem/1.3 Montserrat,sans-serif;margin:.1rem 0 0}.code{display:inline-block;min-width:2.3rem;color:var(--cc)}
+.blk{font-size:.8rem;color:var(--muted)}.card p{margin:.2rem 0;font-size:.92rem}
+.chips{display:flex;flex-wrap:wrap;gap:.3rem}.chip{font-size:.74rem;background:var(--soft);border-radius:99px;padding:.08rem .55rem;color:var(--ink)}
+.lab{font-size:.84rem;color:var(--muted);border-left:3px solid var(--line);padding-left:.55rem;margin-top:.2rem}.lab b{color:var(--ink)}
+.btns{display:flex;flex-wrap:wrap;gap:.45rem;margin-top:auto;padding-top:.6rem}
+.btn{display:inline-block;background:var(--navy);color:#fff;text-decoration:none;font:600 .86rem Roboto,sans-serif;border-radius:8px;padding:.42rem .85rem}
+@media (prefers-color-scheme:dark){.btn{color:#0f1826}}
+.btn.ghost{background:transparent;color:var(--navy);border:1px solid var(--line)}.btn:hover{filter:brightness(1.1)}
+footer{border-top:1px solid var(--line);color:var(--muted);font-size:.84rem}footer .bar{display:block;padding:1.2rem 1rem}
+</style></head><body>
+<header><div class="bar"><a class="brand" href="https://albarqouni.github.io/"><img src="/comi-lectures/_s/brand/lab-logo.png" alt="">Albarqouni Lab</a><span class="pill">Unlisted · course participants only</span></div></header>
+<main>
+<div class="kicker">Teaching · CoMI · lecture slides</div>
+<h1>Computational Medical Imaging</h1>
+<p class="lead">Interactive slides for every session: click through, open the playgrounds, and run the lab notebook after each lecture.</p>
+<div class="facts">
+<div><b>Participants:</b> M.Sc. Computer Science, Bonn (MA-INF 2115)</div><div><b>Workload:</b> 6 SWS · 9 ECTS · 270 h · 4 SWS lecture + 2 SWS exercises · 14 weeks</div><div><b>Sessions:</b> 13 sessions · toolbox T1–T3 (self-study · week 0)</div>
+<div><b>Use:</b> slides open in the browser; arrow keys or click to advance, <b>o</b> for an overview of all slides, <b>f</b> for full screen</div>
+<div class="btns"><a class="btn" href="https://albarqouni.github.io/teaching/comi-lecture/" target="_blank" rel="noopener">Course page ↗</a><a class="btn ghost" href="https://github.com/albarqouni/comi-notebooks" target="_blank" rel="noopener">Lab notebooks ↗</a></div>
+</div>
+<h2>Toolbox</h2><p class="sub">self-study · week 0: maths, statistics and Python you will need, with interactive playgrounds.</p><div class="grid"><article class="card" style="--c:#5b6b80">
+  <div class="eyebrow"><span>Toolbox</span></div>
+  <h3><span class="code">T1</span>Vectors, matrices and gradients</h3>
+  
+  <p>Scalars to tensors · Dot products and linear maps · Distances: Euclidean to geodesic · Convexity · Gradient, Jacobian, Hessian</p>
+  <div class="chips"><span class="chip">Distances on 96 cells</span><span class="chip">Gradient and tangent plane</span><span class="chip">Jacobian of a CT warp</span></div>
+  
+  <div class="btns"><a class="btn" href="t1-maths/">Open slides →</a></div>
+</article>
+<article class="card" style="--c:#5b6b80">
+  <div class="eyebrow"><span>Toolbox</span></div>
+  <h3><span class="code">T2</span>Probability and statistics</h3>
+  
+  <p>z-scores and outliers · Distributions, Bernoulli to Rician · CLT and confidence intervals · Bayes and Bayesian updating · MLE, MAP, entropy, KL (CS)</p>
+  <div class="chips"><span class="chip">Outlier hunt</span><span class="chip">CLT live</span><span class="chip">Natural-frequency tree</span><span class="chip">Beta–Bernoulli update</span></div>
+  
+  <div class="btns"><a class="btn" href="t2-stats/">Open slides →</a></div>
+</article>
+<article class="card" style="--c:#5b6b80">
+  <div class="eyebrow"><span>Toolbox</span></div>
+  <h3><span class="code">T3</span>Python toolbox</h3>
+  
+  <p>Notebooks and Colab · NumPy on the course CT · pandas tables · scikit-learn cheat sheet · PyTorch cheat sheet</p>
+  <div class="chips"><span class="chip">Shape explorer</span><span class="chip">Six estimators, five folds</span><span class="chip">Spot the bug</span></div>
+  <div class="lab"><b>Lab</b> The Python toolbox: arrays, tables, models · ≈ 10 s on a laptop CPU</div>
+  <div class="btns"><a class="btn" href="t3-python/">Open slides →</a><a class="btn ghost" href="https://github.com/albarqouni/comi-notebooks/blob/main/notebooks/T3_python.ipynb" target="_blank" rel="noopener">Lab notebook ↗</a></div>
+</article></div>
+<h2>Sessions</h2><p class="sub">In the order we teach them in CoMI.</p>
+<div class="grid"><article class="card" style="--c:#173869">
+  <div class="eyebrow"><span>Week 1</span></div>
+  <h3><span class="code">L1</span>Why AI in medicine</h3>
+  <div class="blk">Foundations</div>
+  <p>Clinical pressure points · Promise and evidence · What goes wrong · Humans and AI together</p>
+  <div class="chips"><span class="chip">Count the mitoses</span><span class="chip">The evidence gap</span><span class="chip">Human–AI teaming</span></div>
+  <div class="lab"><b>Lab</b> Why AI in medicine: you, a model, and the two of you together · ≈ 6 s on a laptop CPU</div>
+  <div class="btns"><a class="btn" href="01-why/">Open slides →</a><a class="btn ghost" href="https://github.com/albarqouni/comi-notebooks/blob/main/notebooks/01_why.ipynb" target="_blank" rel="noopener">Lab notebook ↗</a></div>
+</article>
+<article class="card" style="--c:#173869">
+  <div class="eyebrow"><span>Week 2</span></div>
+  <h3><span class="code">L2</span>Medical data: modalities, preparation and annotation</h3>
+  <div class="blk">Foundations</div>
+  <p>Modalities, planes, DICOM · Cleaning and splitting · Annotation and agreement · Reconstruction: sinogram and FBP, k-space, compressed sensing, hallucinations</p>
+  <div class="chips"><span class="chip">Scan explorer</span><span class="chip">DICOM header</span><span class="chip">Leakage trap</span><span class="chip">Two annotators</span><span class="chip">From signal to image</span></div>
+  <div class="lab"><b>Lab</b> Medical data: voxels, tables, leaks, labels, and how an image is made · ≈ 8 s on a laptop CPU</div>
+  <div class="btns"><a class="btn" href="02-data/">Open slides →</a><a class="btn ghost" href="https://github.com/albarqouni/comi-notebooks/blob/main/notebooks/02_data.ipynb" target="_blank" rel="noopener">Lab notebook ↗</a></div>
+</article>
+<article class="card" style="--c:#2d9d9b">
+  <div class="eyebrow"><span>Week 3</span></div>
+  <h3><span class="code">L3</span>Machine learning foundations</h3>
+  <div class="blk">Learning and evaluation</div>
+  <p>Optimisation · Unsupervised and supervised learning · Classic models · Bias–variance</p>
+  <div class="chips"><span class="chip">Learning is optimisation</span><span class="chip">Clusters without labels</span><span class="chip">Decision-boundary zoo</span><span class="chip">Fit, overfit, underfit</span></div>
+  <div class="lab"><b>Lab</b> Machine-learning foundations on Sara's blood cells · ≈ 6 s on a laptop CPU</div>
+  <div class="btns"><a class="btn" href="03-ml/">Open slides →</a><a class="btn ghost" href="https://github.com/albarqouni/comi-notebooks/blob/main/notebooks/03_ml.ipynb" target="_blank" rel="noopener">Lab notebook ↗</a></div>
+</article>
+<article class="card" style="--c:#2d9d9b">
+  <div class="eyebrow"><span>Week 4</span></div>
+  <h3><span class="code">L4</span>Evaluation with clinical metrics</h3>
+  <div class="blk">Learning and evaluation</div>
+  <p>Confusion matrix · ROC and PR · Prevalence and operating points · Confidence intervals</p>
+  <div class="chips"><span class="chip">Threshold and clinical metrics</span><span class="chip">Choose the operating point</span><span class="chip">How sure is the AUC?</span><span class="chip">Folds</span></div>
+  <div class="lab"><b>Lab</b> Evaluation with clinical metrics · ≈ 5 s on a laptop CPU</div>
+  <div class="btns"><a class="btn" href="04-eval/">Open slides →</a><a class="btn ghost" href="https://github.com/albarqouni/comi-notebooks/blob/main/notebooks/04_eval.ipynb" target="_blank" rel="noopener">Lab notebook ↗</a></div>
+</article>
+<article class="card" style="--c:#004e9f">
+  <div class="eyebrow"><span>Week 5</span></div>
+  <h3><span class="code">L5</span>Deep learning for classification and detection</h3>
+  <div class="blk">Deep learning</div>
+  <p>From perceptron to CNN · Architectures and transfer · Detection, IoU, mAP · Imbalance</p>
+  <div class="chips"><span class="chip">Convolution lab</span><span class="chip">Watch a network learn</span><span class="chip">Boxes, IoU and mAP</span><span class="chip">Focal loss</span><span class="chip">Freeze or fine-tune</span></div>
+  <div class="lab"><b>Lab</b> Deep learning: filters, small CNNs, rare findings and boxes · ≈ 65 s on a laptop CPU</div>
+  <div class="btns"><a class="btn" href="05-dl/">Open slides →</a><a class="btn ghost" href="https://github.com/albarqouni/comi-notebooks/blob/main/notebooks/05_dl.ipynb" target="_blank" rel="noopener">Lab notebook ↗</a></div>
+</article>
+<article class="card" style="--c:#004e9f">
+  <div class="eyebrow"><span>Week 6</span></div>
+  <h3><span class="code">L6</span>Beyond images: EHR, time series and survival</h3>
+  <div class="blk">Deep learning</div>
+  <p>EHR and risk scores · Time series and early warning · Survival analysis · Temporal leakage · Reinforcement learning for treatment · Disease progression: RECIST, volume-doubling time, mixed-effects and event-based models</p>
+  <div class="chips"><span class="chip">Early warning</span><span class="chip">Censoring and Kaplan–Meier</span><span class="chip">C-index</span><span class="chip">Temporal leakage</span><span class="chip">A sepsis MDP</span></div>
+  <div class="lab"><b>Lab</b> Beyond images: time to event and progression · ≈ 4 s on a laptop CPU</div>
+  <div class="btns"><a class="btn" href="06-ehr/">Open slides →</a><a class="btn ghost" href="https://github.com/albarqouni/comi-notebooks/blob/main/notebooks/06_ehr.ipynb" target="_blank" rel="noopener">Lab notebook ↗</a></div>
+</article>
+<article class="card" style="--c:#004e9f">
+  <div class="eyebrow"><span>Week 7</span></div>
+  <h3><span class="code">L7</span>Segmentation</h3>
+  <div class="blk">Deep learning</div>
+  <p>Classic methods · U-Net and nnU-Net · Dice, HD95, losses · Few labels and SAM · Registration and tracking: rigid to deformable, mutual information, det J, lesion and cell tracking</p>
+  <div class="chips"><span class="chip">Threshold and click-to-grow</span><span class="chip">Inside a U-Net</span><span class="chip">Metric lab</span><span class="chip">Losses under imbalance</span><span class="chip">Align it yourself</span></div>
+  <div class="lab"><b>Lab</b> Segmentation and registration: outline every organ, then find where it moved · ≈ 78 s on a laptop CPU</div>
+  <div class="btns"><a class="btn" href="07-seg/">Open slides →</a><a class="btn ghost" href="https://github.com/albarqouni/comi-notebooks/blob/main/notebooks/07_seg.ipynb" target="_blank" rel="noopener">Lab notebook ↗</a></div>
+</article>
+<article class="card" style="--c:#004e9f">
+  <div class="eyebrow"><span>Week 8</span></div>
+  <h3><span class="code">L8</span>Graphs and geometric deep learning</h3>
+  <div class="blk">Deep learning</div>
+  <p>Graphs in medicine · Laplacian and spectral methods · Message passing and GNNs · Geometric deep learning and graph foundation models</p>
+  <div class="chips"><span class="chip">Build a graph</span><span class="chip">Laplacian eigenmaps</span><span class="chip">Message passing</span><span class="chip">Over-smoothing</span></div>
+  <div class="lab"><b>Lab</b> Graphs: relations, not rows · ≈ 15 s on a laptop CPU</div>
+  <div class="btns"><a class="btn" href="08-graphs/">Open slides →</a><a class="btn ghost" href="https://github.com/albarqouni/comi-notebooks/blob/main/notebooks/08_graphs.ipynb" target="_blank" rel="noopener">Lab notebook ↗</a></div>
+</article>
+<article class="card" style="--c:#004e9f">
+  <div class="eyebrow"><span>Week 9</span></div>
+  <h3><span class="code">L9</span>Foundation models and multimodal data: CLIP, vision–language models, LLMs and agents</h3>
+  <div class="blk">Deep learning</div>
+  <p>Foundation models and self-supervision · Multimodal fusion and contrastive learning · Vision–language models · Clinical LLMs and agents</p>
+  <div class="chips"><span class="chip">Next-word prediction</span><span class="chip">Image + record fusion</span><span class="chip">Contrastive pairs</span><span class="chip">Inside an agent loop</span></div>
+  <div class="lab"><b>Lab</b> Foundation models and multimodal data · ≈ 65 s on a laptop CPU</div>
+  <div class="btns"><a class="btn" href="09-fm/">Open slides →</a><a class="btn ghost" href="https://github.com/albarqouni/comi-notebooks/blob/main/notebooks/09_fm.ipynb" target="_blank" rel="noopener">Lab notebook ↗</a></div>
+</article>
+<article class="card" style="--c:#e30617">
+  <div class="eyebrow"><span>Week 10</span></div>
+  <h3><span class="code">L10</span>Interpretability and explainability</h3>
+  <div class="blk">Quality control</div>
+  <p>Why XAI · Taxonomy · Attribution methods · Evaluating explanations · Explaining GNNs and VLMs</p>
+  <div class="chips"><span class="chip">The purple pen</span><span class="chip">Map of methods</span><span class="chip">Five explanations</span><span class="chip">Sanity check</span><span class="chip">Deletion curve</span></div>
+  <div class="lab"><b>Lab</b> Why did the model say that? Explanations you can test · ≈ 59 s on a laptop CPU</div>
+  <div class="btns"><a class="btn" href="10-xai/">Open slides →</a><a class="btn ghost" href="https://github.com/albarqouni/comi-notebooks/blob/main/notebooks/10_xai.ipynb" target="_blank" rel="noopener">Lab notebook ↗</a></div>
+</article>
+<article class="card" style="--c:#e30617">
+  <div class="eyebrow"><span>Week 11</span></div>
+  <h3><span class="code">L11</span>Uncertainty quantification</h3>
+  <div class="blk">Quality control</div>
+  <p>Aleatoric and epistemic · MC dropout and ensembles · Calibration · Refer or decide · Uncertainty for graphs and LLMs</p>
+  <div class="chips"><span class="chip">A new scanner</span><span class="chip">Reliability diagram</span><span class="chip">Ensemble uncertainty</span><span class="chip">Conformal sets</span><span class="chip">Knowing when to ask</span></div>
+  <div class="lab"><b>Lab</b> How sure are you? Calibration, answer sets and shift · ≈ 76 s on a laptop CPU</div>
+  <div class="btns"><a class="btn" href="11-unc/">Open slides →</a><a class="btn ghost" href="https://github.com/albarqouni/comi-notebooks/blob/main/notebooks/11_unc.ipynb" target="_blank" rel="noopener">Lab notebook ↗</a></div>
+</article>
+<article class="card" style="--c:#e30617">
+  <div class="eyebrow"><span>Week 12</span></div>
+  <h3><span class="code">L12</span>Bias, fairness and causality</h3>
+  <div class="blk">Quality control</div>
+  <p>Causal diagrams · Dataset shift · Fairness metrics · Mitigation · Bias in graphs and foundation models</p>
+  <div class="chips"><span class="chip">The wrong label</span><span class="chip">Fairness trade-offs</span><span class="chip">Simpson’s paradox</span><span class="chip">Causal graph lab</span><span class="chip">Who is connected?</span></div>
+  <div class="lab"><b>Lab</b> Fair for whom? Subgroups, shift and causes · ≈ 27 s on a laptop CPU</div>
+  <div class="btns"><a class="btn" href="12-bias/">Open slides →</a><a class="btn ghost" href="https://github.com/albarqouni/comi-notebooks/blob/main/notebooks/12_bias.ipynb" target="_blank" rel="noopener">Lab notebook ↗</a></div>
+</article>
+<article class="card" style="--c:#b88a00">
+  <div class="eyebrow"><span>Week 13</span></div>
+  <h3><span class="code">L13</span>Trustworthy AI in practice: ethics, regulation, validation, deployment</h3>
+  <div class="blk">Frontiers and practice</div>
+  <p>Ethics and the AI Act · Evidence and reporting · Monitoring and drift · Federated learning and privacy</p>
+  <div class="chips"><span class="chip">Is it a medical device?</span><span class="chip">Federated learning simulator</span><span class="chip">Training carbon and early stopping</span></div>
+  <div class="lab"><b>Lab</b> From model to patient: rules, federation, monitoring, footprint · ≈ 39 s on a laptop CPU</div>
+  <div class="btns"><a class="btn" href="13-practice/">Open slides →</a><a class="btn ghost" href="https://github.com/albarqouni/comi-notebooks/blob/main/notebooks/13_practice.ipynb" target="_blank" rel="noopener">Lab notebook ↗</a></div>
+</article></div>
+</main>
+<footer><div class="bar">This page is unlisted: please do not share it outside the course. © 2026 Shadi Albarqouni · Computational Medical Imaging Research (CoMI), University Hospital Bonn · images as credited on the slides.</div></footer>
+</body></html>
